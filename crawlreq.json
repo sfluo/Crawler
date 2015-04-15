@@ -1,0 +1,47 @@
+{
+    "Humor and Entertainment": {
+        "keywords": {
+            "fiction novels paperback": 1000
+        },
+        "url": ""
+    },
+    "Science fiction & fantasy": {
+        "keywords": {
+            "fiction novels paperback": 1000
+        },
+        "url": ""
+    },
+    "general chemistry": {
+        "keywords": {
+            "chemistry books paperback": 1000
+        },
+        "url": "/s/ref=nb_sb_ss_i_1_15?url=node%3D13579"
+    },
+    "kindle ebook": {
+        "keywords": {
+            "Free Physics books": 200,
+            "Free chemistry books": 200,
+            "Free fiction novels": 3000,
+            "Free mathematics books": 200
+        },
+        "url": "/s/ref=nb_sb_noss_2?url=node%3D154606011"
+    },
+    "mathematics": {
+        "keywords": {
+            "mathematics books paperback": 1000
+        },
+        "url": ""
+    },
+    "physics": {
+        "keywords": {
+            "physics books paperback": 1000
+        },
+        "url": ""
+    },
+    "romance": {
+        "keywords": {
+            "fiction novels paperback": 1000
+        },
+        "url": ""
+    }
+}

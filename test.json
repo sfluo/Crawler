@@ -1,0 +1,36 @@
+{
+	"Video Games" : {
+		"keywords" : {
+			"FIFA" : 10
+		},
+		"url" : "/s/ref=nb_sb_noss?url=search-alias%3Dvideogames"
+	},
+
+    "Humor and Entertainment": {
+        "keywords": {
+            "fiction novels paperback": 1000
+        },
+        "url": ""
+    },
+    "Science fiction & fantasy": {
+        "keywords": {
+            "fiction novels paperback": 1000
+        },
+        "url": ""
+    },
+    "general chemistry": {
+        "keywords": {
+            "chemistry books paperback": 30
+        },
+        "url": ""
+    },
+    "kindle ebook": {
+        "keywords": {
+            "Free Physics books": 200,
+            "Free chemistry books": 200,
+            "Free fiction novels": 3000,
+            "Free mathematics books": 200
+        },
+        "url": ""
+    }
+}
