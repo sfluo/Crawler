@@ -1,1 +1,57 @@
-{"Category": "in Books (", "Name": ["The Time Machine (Classic Fiction)"], "Timestamp": "2015-05-21 22:24:40.798184", "itemurl": "http://www.amazon.com/Time-Machine-Classic-Fiction/dp/1598898892/ref=sr_1_12?s=books&ie=UTF8&qid=1432261234&sr=1-12&keywords=fiction+novels+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on October 20, 2012", "Text": "The cover says, \"graphic novel\". The title says, \"Graphic Revolve\" (whatever that is). A look inside appears to reveal...a book! ...without a single picture!", "Helpfulness": 1.0, "StarRating": "1", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OEVHVB55ZC0L/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #2,637,210", "Helpfulness": "74%", "Name": "Peter Enns", "Location": "Nanaimo, BC Canada"}}, {"Date": "on January 1, 2013", "Text": "My nine year old really enjoys these. Good early reader for my 9 year old son. Very fun read with great illustrations several books in the series.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GP1G22HJUSRE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #3,692,843", "Helpfulness": "71%", "Name": "Jamie E. Peterson", "Location": ""}}, {"Date": "on December 28, 2014", "Text": "As described", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D7EVVO2Q4L0K/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #284,250", "Helpfulness": "80%", "Name": "nicola khatib", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Time-Machine-Classic-Fiction/product-reviews/1598898892/ref=sr_1_12?s=books&ie=UTF8&qid=1432261234&sr=1-12&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "$6.26", "Salesrank": "#717,952", "ListPrice": "$6.95"}
+{
+    "Category": "in Books (",
+    "ListPrice": "$6.95",
+    "Name": [
+        "The Time Machine (Classic Fiction)"
+    ],
+    "OfferPrice": "$6.26",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Nanaimo, BC Canada",
+                    "Name": "Peter Enns",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OEVHVB55ZC0L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,637,210"
+                },
+                "Date": "on October 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "The cover says, \"graphic novel\". The title says, \"Graphic Revolve\" (whatever that is). A look inside appears to reveal...a book! ...without a single picture!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "",
+                    "Name": "Jamie E. Peterson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GP1G22HJUSRE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,692,843"
+                },
+                "Date": "on January 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My nine year old really enjoys these. Good early reader for my 9 year old son. Very fun read with great illustrations several books in the series."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "nicola khatib",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D7EVVO2Q4L0K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #284,250"
+                },
+                "Date": "on December 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As described"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Time-Machine-Classic-Fiction/product-reviews/1598898892/ref=sr_1_12?s=books&ie=UTF8&qid=1432261234&sr=1-12&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#717,952",
+    "Timestamp": "2015-05-21 22:24:40.798184",
+    "itemurl": "http://www.amazon.com/Time-Machine-Classic-Fiction/dp/1598898892/ref=sr_1_12?s=books&ie=UTF8&qid=1432261234&sr=1-12&keywords=fiction+novels+paperback"
+}

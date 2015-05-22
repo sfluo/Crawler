@@ -1,1 +1,31 @@
-{"Category": "in Books (", "Name": ["Cracking the SAT Chemistry Subject Test, 15th Edition (College Test Preparation)"], "Timestamp": "2015-05-21 23:03:29.013704", "itemurl": "http://www.amazon.com/Cracking-Chemistry-Subject-College-Preparation/dp/0804125686/ref=sr_1_11?s=books&ie=UTF8&qid=1432263491&sr=1-11&keywords=chemistry+books+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on April 15, 2015", "Text": "A lot of what is in this book my son has not covered in his Chemistry class, so he might not take the SAT.", "Helpfulness": 0.0, "StarRating": "3", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZXPTHI9TSQL/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,244,382", "Helpfulness": "0%", "Name": "Diane Granger", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Cracking-Chemistry-Subject-College-Preparation/product-reviews/0804125686/ref=sr_1_11?s=books&ie=UTF8&qid=1432263491&sr=1-11&keywords=chemistry+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#2,334", "ListPrice": ""}
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Cracking the SAT Chemistry Subject Test, 15th Edition (College Test Preparation)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Diane Granger",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZXPTHI9TSQL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,244,382"
+                },
+                "Date": "on April 15, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "A lot of what is in this book my son has not covered in his Chemistry class, so he might not take the SAT."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Cracking-Chemistry-Subject-College-Preparation/product-reviews/0804125686/ref=sr_1_11?s=books&ie=UTF8&qid=1432263491&sr=1-11&keywords=chemistry+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#2,334",
+    "Timestamp": "2015-05-21 23:03:29.013704",
+    "itemurl": "http://www.amazon.com/Cracking-Chemistry-Subject-College-Preparation/dp/0804125686/ref=sr_1_11?s=books&ie=UTF8&qid=1432263491&sr=1-11&keywords=chemistry+books+paperback"
+}

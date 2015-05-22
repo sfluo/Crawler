@@ -1,1 +1,42 @@
-{"Category": "Free in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:18:49.871136", "itemurl": "http://www.amazon.com/Number-Concept-Its-Origin-Development-ebook/dp/B004TQNUYE/ref=sr_1_9?s=digital-text&ie=UTF8&qid=1432264560&sr=1-9&keywords=Free+mathematics+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on December 5, 2013", "Text": "I frequently download books to my Kindle Fire and I found the Number Concept Its Origin and Development is an interesting and good read!", "Helpfulness": 0.6666666666666666, "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MYAP1EC4MZIY/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #30,639,539", "Helpfulness": "29%", "Name": "Amazon Customer KPL (sasNerd)", "Location": "California  USA"}}, {"Date": "on May 2, 2015", "Text": "Excellent Foundation Literature on this subject. Well written and stands as seminal treatise.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O78B84WDU702/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #3,631,254", "Helpfulness": "27%", "Name": "Reader", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Number-Concept-Its-Origin-Development-ebook/product-reviews/B004TQNUYE/ref=sr_1_9?s=digital-text&ie=UTF8&qid=1432264560&sr=1-9&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#15,231", "ListPrice": ""}
+{
+    "Category": "Free in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "29%",
+                    "Location": "California  USA",
+                    "Name": "Amazon Customer KPL (sasNerd)",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MYAP1EC4MZIY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,639,539"
+                },
+                "Date": "on December 5, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I frequently download books to my Kindle Fire and I found the Number Concept Its Origin and Development is an interesting and good read!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "27%",
+                    "Location": "",
+                    "Name": "Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O78B84WDU702/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,631,254"
+                },
+                "Date": "on May 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent Foundation Literature on this subject. Well written and stands as seminal treatise."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Number-Concept-Its-Origin-Development-ebook/product-reviews/B004TQNUYE/ref=sr_1_9?s=digital-text&ie=UTF8&qid=1432264560&sr=1-9&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#15,231",
+    "Timestamp": "2015-05-21 23:18:49.871136",
+    "itemurl": "http://www.amazon.com/Number-Concept-Its-Origin-Development-ebook/dp/B004TQNUYE/ref=sr_1_9?s=digital-text&ie=UTF8&qid=1432264560&sr=1-9&keywords=Free+mathematics+books"
+}

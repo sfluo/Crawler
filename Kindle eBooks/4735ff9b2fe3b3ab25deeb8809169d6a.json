@@ -1,1 +1,120 @@
-{"Category": "Paid in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:26:52.515751", "itemurl": "http://www.amazon.com/Fiction-Confront-Darkness-Literary-Contemporary-ebook/dp/B00WZRN5GC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1432265209&sr=1-1&keywords=Free+fiction+novels", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on May 27, 2011", "Text": "This book has changed the way I look at my life and I haven't even finished reading. Ivan King has a realistic style to his writing that pulls you in from the beginning. I wish that I could get all my friends to read this. Thank you for the great book.", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X74X3D0TU2NP/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #6,978,279", "Helpfulness": "53%", "Name": "Chris H.", "Location": "Spokane, WA USA"}}, {"Date": "on May 26, 2011", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W1OXIIAXKMRC/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #2,012,126", "Helpfulness": "69%", "Name": "tillie313", "Location": "WA USA"}}, {"Date": "on May 31, 2011", "Text": "I felt very blessed to have read something so beautiful and breathtaking! I cried through three chapters because I wanted to reach through the chapter and hug you Ivan! Not just because but because I understand what it was like so go through some of those situations that your dear friends did. I don't want to give any parts away but I cried, I laughed, and I cried and if this book doesn't fly off the shelves you are crazy if you don't get this book! It's truly amazing, wonderful breath taking, and you see yourself through the characters and the issues they faced. I'm going to zip my lips now because I'm not going to give any more parts away! Took me only two days to read it I couldn't put it down! Blessings Ivan! I wish you the best!!! Huggles! Ms.Samanatha", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JMF16EVPHN20/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,015,214", "Helpfulness": "33%", "Name": "Amazon Customer", "Location": ""}}, {"Date": "on June 19, 2011", "Text": null, "Helpfulness": 1.0, "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANKP91XNKZES5/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #2,231,112", "Helpfulness": "65%", "Name": "Elizabethcmorgan", "Location": "Lubbock, Texas"}}, {"Date": "on July 5, 2011", "Text": null, "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13DHT9IJA4J13/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#2,322", "Helpfulness": "82%", "Name": "A Book Vacation", "Location": ""}}, {"Date": "on October 3, 2013", "Text": null, "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TAF7M58DN46F/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#2,494", "Helpfulness": "86%", "Name": "Wendy L. Hines", "Location": "Warsaw, IN"}}, {"Date": "on June 5, 2012", "Text": null, "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A449GCLO6EN50/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #12,487,481", "Helpfulness": "100%", "Name": "P", "Location": ""}}, {"Date": "on May 28, 2011", "Text": "though i have not read the whole thing Valley of Steel is an incredible story, and a great read!!  ...Carlynn", "Helpfulness": 0.5, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AA61JG7RKX0W/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #6,133,257", "Helpfulness": "54%", "Name": "Carlynn", "Location": "mountains USA"}}], "ReviewUrl": "http://www.amazon.com/Fiction-Confront-Darkness-Literary-Contemporary-ebook/product-reviews/B00WZRN5GC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1432265209&sr=1-1&keywords=Free+fiction+novels/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#584,813", "ListPrice": ""}
+{
+    "Category": "Paid in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "Spokane, WA USA",
+                    "Name": "Chris H.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X74X3D0TU2NP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,978,279"
+                },
+                "Date": "on May 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book has changed the way I look at my life and I haven't even finished reading. Ivan King has a realistic style to his writing that pulls you in from the beginning. I wish that I could get all my friends to read this. Thank you for the great book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "WA USA",
+                    "Name": "tillie313",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W1OXIIAXKMRC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,012,126"
+                },
+                "Date": "on May 26, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JMF16EVPHN20/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,015,214"
+                },
+                "Date": "on May 31, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I felt very blessed to have read something so beautiful and breathtaking! I cried through three chapters because I wanted to reach through the chapter and hug you Ivan! Not just because but because I understand what it was like so go through some of those situations that your dear friends did. I don't want to give any parts away but I cried, I laughed, and I cried and if this book doesn't fly off the shelves you are crazy if you don't get this book! It's truly amazing, wonderful breath taking, and you see yourself through the characters and the issues they faced. I'm going to zip my lips now because I'm not going to give any more parts away! Took me only two days to read it I couldn't put it down! Blessings Ivan! I wish you the best!!! Huggles! Ms.Samanatha"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "Lubbock, Texas",
+                    "Name": "Elizabethcmorgan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANKP91XNKZES5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,231,112"
+                },
+                "Date": "on June 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "",
+                    "Name": "A Book Vacation",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13DHT9IJA4J13/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,322"
+                },
+                "Date": "on July 5, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Warsaw, IN",
+                    "Name": "Wendy L. Hines",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TAF7M58DN46F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,494"
+                },
+                "Date": "on October 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "P",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A449GCLO6EN50/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,487,481"
+                },
+                "Date": "on June 5, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "mountains USA",
+                    "Name": "Carlynn",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AA61JG7RKX0W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,133,257"
+                },
+                "Date": "on May 28, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "though i have not read the whole thing Valley of Steel is an incredible story, and a great read!!  ...Carlynn"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fiction-Confront-Darkness-Literary-Contemporary-ebook/product-reviews/B00WZRN5GC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1432265209&sr=1-1&keywords=Free+fiction+novels/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#584,813",
+    "Timestamp": "2015-05-21 23:26:52.515751",
+    "itemurl": "http://www.amazon.com/Fiction-Confront-Darkness-Literary-Contemporary-ebook/dp/B00WZRN5GC/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1432265209&sr=1-1&keywords=Free+fiction+novels"
+}

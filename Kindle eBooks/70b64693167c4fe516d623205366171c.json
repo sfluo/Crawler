@@ -1,1 +1,29 @@
-{"Category": "Paid in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:18:56.346961", "itemurl": "http://www.amazon.com/Over-Secret-Multiplication-Arithmetic-Tips-ebook/dp/B00TUGYQAK/ref=sr_1_10?s=digital-text&ie=UTF8&qid=1432264560&sr=1-10&keywords=Free+mathematics+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on February 28, 2015", "Text": "I am so glad that I came across this book because it's helped me so much when it comes to simple math. I'm usually horrible at multiplication off the top of my head so when I saw this I figured I would give it a try. The book is very well written and shows you some very good tips and methods for solving simple math problems faster. The book has a lot of information but is written in a way that makes it very easy to understand which is what I liked the most. I can really say that I've seen a big improvement in myself since getting this book. Grateful that I found this.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6YBQZF79HZ3P/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#1,046", "Helpfulness": "91%", "Name": "Monica G", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Over-Secret-Multiplication-Arithmetic-Tips-ebook/product-reviews/B00TUGYQAK/ref=sr_1_10?s=digital-text&ie=UTF8&qid=1432264560&sr=1-10&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#215,696", "ListPrice": ""}
+{
+    "Category": "Paid in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "",
+                    "Name": "Monica G",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6YBQZF79HZ3P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#1,046"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am so glad that I came across this book because it's helped me so much when it comes to simple math. I'm usually horrible at multiplication off the top of my head so when I saw this I figured I would give it a try. The book is very well written and shows you some very good tips and methods for solving simple math problems faster. The book has a lot of information but is written in a way that makes it very easy to understand which is what I liked the most. I can really say that I've seen a big improvement in myself since getting this book. Grateful that I found this."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Over-Secret-Multiplication-Arithmetic-Tips-ebook/product-reviews/B00TUGYQAK/ref=sr_1_10?s=digital-text&ie=UTF8&qid=1432264560&sr=1-10&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#215,696",
+    "Timestamp": "2015-05-21 23:18:56.346961",
+    "itemurl": "http://www.amazon.com/Over-Secret-Multiplication-Arithmetic-Tips-ebook/dp/B00TUGYQAK/ref=sr_1_10?s=digital-text&ie=UTF8&qid=1432264560&sr=1-10&keywords=Free+mathematics+books"
+}

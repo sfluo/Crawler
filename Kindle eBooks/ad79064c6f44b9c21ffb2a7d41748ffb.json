@@ -1,1 +1,42 @@
-{"Category": "Free in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:20:17.117957", "itemurl": "http://www.amazon.com/Hindu-Arabic-Numerals-David-Eugene-Smith-ebook/dp/B004SQTG3O/ref=sr_1_15?s=digital-text&ie=UTF8&qid=1432264560&sr=1-15&keywords=Free+mathematics+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on November 17, 2012", "Text": null, "Helpfulness": 1.0, "StarRating": "3", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GYONLFL47Y9M/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#23,984", "Helpfulness": "76%", "Name": "Rick Cook", "Location": ""}}, {"Date": "on November 14, 2013", "Text": "A great starting book for someone interested in becoming acquainted with Arabic.  It is free as a Kindle book.  I recommend it for someone that speaks English and is curious about Arabic.", "Helpfulness": 0.5, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AALR6CRH97JG1/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #112,568", "Helpfulness": "70%", "Name": "ErSing", "Location": "United States"}}], "ReviewUrl": "http://www.amazon.com/Hindu-Arabic-Numerals-David-Eugene-Smith-ebook/product-reviews/B004SQTG3O/ref=sr_1_15?s=digital-text&ie=UTF8&qid=1432264560&sr=1-15&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#27,206", "ListPrice": ""}
+{
+    "Category": "Free in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "Rick Cook",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GYONLFL47Y9M/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#23,984"
+                },
+                "Date": "on November 17, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "United States",
+                    "Name": "ErSing",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AALR6CRH97JG1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #112,568"
+                },
+                "Date": "on November 14, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A great starting book for someone interested in becoming acquainted with Arabic.  It is free as a Kindle book.  I recommend it for someone that speaks English and is curious about Arabic."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hindu-Arabic-Numerals-David-Eugene-Smith-ebook/product-reviews/B004SQTG3O/ref=sr_1_15?s=digital-text&ie=UTF8&qid=1432264560&sr=1-15&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#27,206",
+    "Timestamp": "2015-05-21 23:20:17.117957",
+    "itemurl": "http://www.amazon.com/Hindu-Arabic-Numerals-David-Eugene-Smith-ebook/dp/B004SQTG3O/ref=sr_1_15?s=digital-text&ie=UTF8&qid=1432264560&sr=1-15&keywords=Free+mathematics+books"
+}

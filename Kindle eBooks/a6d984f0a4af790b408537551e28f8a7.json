@@ -1,1 +1,29 @@
-{"Category": "Paid in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:17:41.057538", "itemurl": "http://www.amazon.com/Investors-Trading-Bitcoin-Making-Online-ebook/dp/B00MAXC3SC/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1432264560&sr=1-5&keywords=Free+mathematics+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on May 17, 2015", "Text": "For those looking for really great tips on investing through an online source, this boxed set is a great tool and read to have. Highly valuable information that is easy to understand, i would recommend this to anyone in a flash!", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ONSEQIFTM8G8/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #1,019,231", "Helpfulness": "100%", "Name": "Suzette", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Investors-Trading-Bitcoin-Making-Online-ebook/product-reviews/B00MAXC3SC/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1432264560&sr=1-5&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#228,314", "ListPrice": ""}
+{
+    "Category": "Paid in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Suzette",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ONSEQIFTM8G8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,019,231"
+                },
+                "Date": "on May 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For those looking for really great tips on investing through an online source, this boxed set is a great tool and read to have. Highly valuable information that is easy to understand, i would recommend this to anyone in a flash!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Investors-Trading-Bitcoin-Making-Online-ebook/product-reviews/B00MAXC3SC/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1432264560&sr=1-5&keywords=Free+mathematics+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#228,314",
+    "Timestamp": "2015-05-21 23:17:41.057538",
+    "itemurl": "http://www.amazon.com/Investors-Trading-Bitcoin-Making-Online-ebook/dp/B00MAXC3SC/ref=sr_1_5?s=digital-text&ie=UTF8&qid=1432264560&sr=1-5&keywords=Free+mathematics+books"
+}

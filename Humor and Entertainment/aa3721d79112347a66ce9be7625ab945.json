@@ -1,1 +1,122 @@
-{"Category": "in Books (", "Name": ["The Demon of River Heights (Nancy Drew Graphic Novels: Girl Detective #1)"], "Timestamp": "2015-05-21 22:22:37.043547", "itemurl": "http://www.amazon.com/Demon-River-Heights-Graphic-Novels/dp/1597070009/ref=sr_1_6?s=books&ie=UTF8&qid=1432261234&sr=1-6&keywords=fiction+novels+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on September 2, 2010", "Text": null, "Helpfulness": 1.0, "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0T0PY5IMEFX/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#5,341", "Helpfulness": "65%", "Name": "Alan Dale Daniel", "Location": ""}}, {"Date": "on May 13, 2005", "Text": "Nancy Drew Girl Detective #1: The Demon of River Heights is an all-new, full-color, graphic novel story featuring the brave and ingenious teenage sleuthing heroine whose books have been classics of children's literature for more than 75 years. The bright, colorful artwork flows very much like a cartoon in comic book form, and the story is packed from cover to cover with storytelling excitement. Together Nancy Drew, along with Bess and George, search for missing student filmmakers and the deadly secret behind the urban myth of \"The Demon of River Heights\" in this excellent graphic novel format addition to an established legacy of beloved adventure stories. First in a \"Nancy Drew Girl Detective\" series of graphic novels featuring Nancy Drew, The Demon Of River Heights is highly recommended for personal and library collections, as well as a gift books for young people.", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "83%", "Helpfulness": "83%", "Name": "Midwest Book Review", "Location": "Oregon, WI USA"}}, {"Date": "on April 29, 2005", "Text": "My 11-year old daughter absolutely loves this book.  She describes it as \"a comic book, but good!!!\"  She can't wait for more to be published.  I think the photos are a bit strange (the characters don't look like how I expected them to), but she has read it over and over again happily.", "Helpfulness": 0.8, "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I44FNTL9NPW/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #28,830,336", "Helpfulness": "80%", "Name": "Solarstar", "Location": "Florida"}}, {"Date": "on February 13, 2011", "Text": null, "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TXR85WQLE32N/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#95", "Helpfulness": "94%", "Name": "D.S.Thurlow", "Location": "California"}}, {"Date": "on March 15, 2012", "Text": null, "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17RY9SWILP0VL/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#71,136", "Helpfulness": "79%", "Name": "Norway Mom", "Location": "Oslo area"}}, {"Date": "on December 10, 2013", "Text": "Sometimes a picture is not worth a thousand words. First, the graphics are not good, in my estimation. Imagine the artists of the Mary Worth comic strip doing a teen novel. Muddy colors, uninteresting drawings. Best Friend Bess drawn as a 50's pinup. The monsters would have been much scarier imagined. Unlike a good graphic novel (such as Bad Island), in which the sparse dialog allows the reader to fill in the spaces, in this one the story is just cut to the bone and there is no space to envision.", "Helpfulness": "", "StarRating": "1", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K141GK66WBS7/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #261,265", "Helpfulness": "61%", "Name": "J. Myers", "Location": "near Houston, Texas"}}, {"Date": "on May 18, 2013", "Text": "I loved Nancy Drew books when I was young and now my daughter does too. It gives us common ground. Plus, she loves that it's in comic style. More pictures, more fun.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZX1LVBQWJW9O/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #603,799", "Helpfulness": "85%", "Name": "Becky", "Location": ""}}, {"Date": "on December 14, 2012", "Text": "I purchased this book for my daughter so she can have fun with the story while reading. This book is really easy for my daughter to read and understand.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RJCB9WIUO6QX/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,163,491", "Helpfulness": "43%", "Name": "A. Lindsay", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Demon-River-Heights-Graphic-Novels/product-reviews/1597070009/ref=sr_1_6?s=books&ie=UTF8&qid=1432261234&sr=1-6&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#690,575", "ListPrice": ""}
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Demon of River Heights (Nancy Drew Graphic Novels: Girl Detective #1)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Alan Dale Daniel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0T0PY5IMEFX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#5,341"
+                },
+                "Date": "on September 2, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Oregon, WI USA",
+                    "Name": "Midwest Book Review",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "83%"
+                },
+                "Date": "on May 13, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Nancy Drew Girl Detective #1: The Demon of River Heights is an all-new, full-color, graphic novel story featuring the brave and ingenious teenage sleuthing heroine whose books have been classics of children's literature for more than 75 years. The bright, colorful artwork flows very much like a cartoon in comic book form, and the story is packed from cover to cover with storytelling excitement. Together Nancy Drew, along with Bess and George, search for missing student filmmakers and the deadly secret behind the urban myth of \"The Demon of River Heights\" in this excellent graphic novel format addition to an established legacy of beloved adventure stories. First in a \"Nancy Drew Girl Detective\" series of graphic novels featuring Nancy Drew, The Demon Of River Heights is highly recommended for personal and library collections, as well as a gift books for young people."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Florida",
+                    "Name": "Solarstar",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I44FNTL9NPW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,830,336"
+                },
+                "Date": "on April 29, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "My 11-year old daughter absolutely loves this book.  She describes it as \"a comic book, but good!!!\"  She can't wait for more to be published.  I think the photos are a bit strange (the characters don't look like how I expected them to), but she has read it over and over again happily."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "California",
+                    "Name": "D.S.Thurlow",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TXR85WQLE32N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#95"
+                },
+                "Date": "on February 13, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Oslo area",
+                    "Name": "Norway Mom",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17RY9SWILP0VL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#71,136"
+                },
+                "Date": "on March 15, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "near Houston, Texas",
+                    "Name": "J. Myers",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K141GK66WBS7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #261,265"
+                },
+                "Date": "on December 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Sometimes a picture is not worth a thousand words. First, the graphics are not good, in my estimation. Imagine the artists of the Mary Worth comic strip doing a teen novel. Muddy colors, uninteresting drawings. Best Friend Bess drawn as a 50's pinup. The monsters would have been much scarier imagined. Unlike a good graphic novel (such as Bad Island), in which the sparse dialog allows the reader to fill in the spaces, in this one the story is just cut to the bone and there is no space to envision."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "",
+                    "Name": "Becky",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZX1LVBQWJW9O/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #603,799"
+                },
+                "Date": "on May 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I loved Nancy Drew books when I was young and now my daughter does too. It gives us common ground. Plus, she loves that it's in comic style. More pictures, more fun."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "",
+                    "Name": "A. Lindsay",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RJCB9WIUO6QX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,163,491"
+                },
+                "Date": "on December 14, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I purchased this book for my daughter so she can have fun with the story while reading. This book is really easy for my daughter to read and understand."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Demon-River-Heights-Graphic-Novels/product-reviews/1597070009/ref=sr_1_6?s=books&ie=UTF8&qid=1432261234&sr=1-6&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#690,575",
+    "Timestamp": "2015-05-21 22:22:37.043547",
+    "itemurl": "http://www.amazon.com/Demon-River-Heights-Graphic-Novels/dp/1597070009/ref=sr_1_6?s=books&ie=UTF8&qid=1432261234&sr=1-6&keywords=fiction+novels+paperback"
+}

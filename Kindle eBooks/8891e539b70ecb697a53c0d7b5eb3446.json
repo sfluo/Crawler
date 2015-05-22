@@ -1,1 +1,159 @@
-{"Category": "Free in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:21:11.027016", "itemurl": "http://www.amazon.com/Elementary-Chemistry-William-Edwards-Henderson-ebook/dp/B004TRFSG6/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1432264827&sr=1-2&keywords=Free+chemistry+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on May 1, 2012", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12IFYCF27TO5G/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #702,711", "Helpfulness": "56%", "Name": "Prof D", "Location": "Chicago, IL"}}, {"Date": "on August 18, 2014", "Text": null, "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B1YCFP2RZ5MF/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,275,271", "Helpfulness": "57%", "Name": "Adrian Vance", "Location": "California"}}, {"Date": "on December 31, 2013", "Text": "it may be an antique but it is still informative, would like to see more books on science in the archives.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FNIC523DZWAE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #20,071,810", "Helpfulness": "", "Name": "David W. Sherrod", "Location": "2032 HWY 589 Sidney TX 76474"}}, {"Date": "on April 15, 2015", "Text": "You have to understand the basics.", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ECS7CKQTW9RT/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#10,678", "Helpfulness": "83%", "Name": "TeshaB", "Location": "Regulatory Advisor"}}, {"Date": "on May 8, 2015", "Text": "Great product thanks", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GPKGENOXUIWE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,211,128", "Helpfulness": "22%", "Name": "Keith Warren", "Location": ""}}, {"Date": "on September 4, 2014", "Text": "good simple book", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7ARRZAMOCX9G/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #2,305,206", "Helpfulness": "100%", "Name": "robert gardner", "Location": ""}}, {"Date": "on November 10, 2014", "Text": "Great reference", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R9G2HB1CQBZS/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #29,706,498", "Helpfulness": "36%", "Name": "Mike J", "Location": ""}}, {"Date": "on December 18, 2014", "Text": "as described", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A247TFAB1L5IIF/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,282,582", "Helpfulness": "11%", "Name": "James Spangler", "Location": "Maryland"}}, {"Date": "on April 12, 2015", "Text": "Love it!!", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHT3L7AENIRGO/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #10,466,027", "Helpfulness": "100%", "Name": "MAmomm", "Location": ""}}, {"Date": "on June 15, 2014", "Text": "This app was no help at all. I don't recommend it. I take a chem class nd it didn't help.", "Helpfulness": 0.0, "StarRating": "1", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R45AFJMPALBC/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #4,255,128", "Helpfulness": "60%", "Name": "A.Mitchell", "Location": ""}}, {"Date": "on March 3, 2012", "Text": "I was looking for a source that would contain actual factual information on chemistry. This book is nothing but a long, absurd joke.", "Helpfulness": 0.11764705882352941, "StarRating": "1", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VBNSTZTKPJIK/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #30,357,299", "Helpfulness": "12%", "Name": "edon2011", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Elementary-Chemistry-William-Edwards-Henderson-ebook/product-reviews/B004TRFSG6/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1432264827&sr=1-2&keywords=Free+chemistry+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#4,871", "ListPrice": ""}
+{
+    "Category": "Free in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "56%",
+                    "Location": "Chicago, IL",
+                    "Name": "Prof D",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12IFYCF27TO5G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #702,711"
+                },
+                "Date": "on May 1, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "California",
+                    "Name": "Adrian Vance",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B1YCFP2RZ5MF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,275,271"
+                },
+                "Date": "on August 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "2032 HWY 589 Sidney TX 76474",
+                    "Name": "David W. Sherrod",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FNIC523DZWAE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,071,810"
+                },
+                "Date": "on December 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "it may be an antique but it is still informative, would like to see more books on science in the archives."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Regulatory Advisor",
+                    "Name": "TeshaB",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ECS7CKQTW9RT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#10,678"
+                },
+                "Date": "on April 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "You have to understand the basics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "",
+                    "Name": "Keith Warren",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GPKGENOXUIWE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,211,128"
+                },
+                "Date": "on May 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great product thanks"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "robert gardner",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7ARRZAMOCX9G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,305,206"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good simple book"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "",
+                    "Name": "Mike J",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R9G2HB1CQBZS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,706,498"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great reference"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "11%",
+                    "Location": "Maryland",
+                    "Name": "James Spangler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A247TFAB1L5IIF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,282,582"
+                },
+                "Date": "on December 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as described"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "MAmomm",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHT3L7AENIRGO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,466,027"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Love it!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "A.Mitchell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R45AFJMPALBC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,255,128"
+                },
+                "Date": "on June 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "This app was no help at all. I don't recommend it. I take a chem class nd it didn't help."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "12%",
+                    "Location": "",
+                    "Name": "edon2011",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VBNSTZTKPJIK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,357,299"
+                },
+                "Date": "on March 3, 2012",
+                "Helpfulness": 0.11764705882352941,
+                "StarRating": "1",
+                "Text": "I was looking for a source that would contain actual factual information on chemistry. This book is nothing but a long, absurd joke."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Chemistry-William-Edwards-Henderson-ebook/product-reviews/B004TRFSG6/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1432264827&sr=1-2&keywords=Free+chemistry+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#4,871",
+    "Timestamp": "2015-05-21 23:21:11.027016",
+    "itemurl": "http://www.amazon.com/Elementary-Chemistry-William-Edwards-Henderson-ebook/dp/B004TRFSG6/ref=sr_1_2?s=digital-text&ie=UTF8&qid=1432264827&sr=1-2&keywords=Free+chemistry+books"
+}

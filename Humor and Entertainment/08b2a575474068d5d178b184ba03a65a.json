@@ -1,1 +1,44 @@
-{"Category": "in Books (", "Name": ["Novels into Film"], "Timestamp": "2015-05-21 22:22:54.779561", "itemurl": "http://www.amazon.com/Novels-into-Film-George-Bluestone/dp/080187386X/ref=sr_1_7?s=books&ie=UTF8&qid=1432261234&sr=1-7&keywords=fiction+novels+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on March 13, 2014", "Text": "Novels Into Film is an excellent academic study of how great literature becomes great cinema. I would highly recommend it anyone interested in screenwriting and/or the history of filmmaking.", "Helpfulness": 0.5, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RLHTXW0OP6IH/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #30,930,959", "Helpfulness": "50%", "Name": "Lara", "Location": "Chapel Hill, NC"}}, {"Date": "on December 1, 2014", "Text": "very good", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD6D1N59L9497/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,250,502", "Helpfulness": "10%", "Name": "Sonia", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Novels-into-Film-George-Bluestone/product-reviews/080187386X/ref=sr_1_7?s=books&ie=UTF8&qid=1432261234&sr=1-7&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "$25.20", "Salesrank": "#615,143", "ListPrice": "$28.00"}
+{
+    "Category": "in Books (",
+    "ListPrice": "$28.00",
+    "Name": [
+        "Novels into Film"
+    ],
+    "OfferPrice": "$25.20",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Chapel Hill, NC",
+                    "Name": "Lara",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RLHTXW0OP6IH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,930,959"
+                },
+                "Date": "on March 13, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Novels Into Film is an excellent academic study of how great literature becomes great cinema. I would highly recommend it anyone interested in screenwriting and/or the history of filmmaking."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "10%",
+                    "Location": "",
+                    "Name": "Sonia",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD6D1N59L9497/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,250,502"
+                },
+                "Date": "on December 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Novels-into-Film-George-Bluestone/product-reviews/080187386X/ref=sr_1_7?s=books&ie=UTF8&qid=1432261234&sr=1-7&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#615,143",
+    "Timestamp": "2015-05-21 22:22:54.779561",
+    "itemurl": "http://www.amazon.com/Novels-into-Film-George-Bluestone/dp/080187386X/ref=sr_1_7?s=books&ie=UTF8&qid=1432261234&sr=1-7&keywords=fiction+novels+paperback"
+}

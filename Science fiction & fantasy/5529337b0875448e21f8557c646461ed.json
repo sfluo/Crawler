@@ -1,1 +1,31 @@
-{"Category": "in Books (", "Name": ["The Mammoth Book of Vintage Science Fiction: Short Novels of the 1950s (The Mammoth Book Series)"], "Timestamp": "2015-05-21 23:06:36.562597", "itemurl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/dp/088184621X/ref=sr_1_5?s=books&ie=UTF8&qid=1432263852&sr=1-5&keywords=fiction+novels+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on December 28, 2002", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MC5IOX5OPF4X/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #112,014", "Helpfulness": "74%", "Name": ".", "Location": "Seattle, WA USA"}}], "ReviewUrl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/product-reviews/088184621X/ref=sr_1_5?s=books&ie=UTF8&qid=1432263852&sr=1-5&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#979,218", "ListPrice": ""}
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Mammoth Book of Vintage Science Fiction: Short Novels of the 1950s (The Mammoth Book Series)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Seattle, WA USA",
+                    "Name": ".",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MC5IOX5OPF4X/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #112,014"
+                },
+                "Date": "on December 28, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/product-reviews/088184621X/ref=sr_1_5?s=books&ie=UTF8&qid=1432263852&sr=1-5&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#979,218",
+    "Timestamp": "2015-05-21 23:06:36.562597",
+    "itemurl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/dp/088184621X/ref=sr_1_5?s=books&ie=UTF8&qid=1432263852&sr=1-5&keywords=fiction+novels+paperback"
+}

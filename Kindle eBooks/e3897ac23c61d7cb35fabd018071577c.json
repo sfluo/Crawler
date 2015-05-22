@@ -1,1 +1,107 @@
-{"Category": "Free in Kindle Store (", "Name": "", "Timestamp": "2015-05-21 23:24:40.149799", "itemurl": "http://www.amazon.com/Chemistry-Properties-Tests-Precious-Stones-ebook/dp/B0082W7556/ref=sr_1_12?s=digital-text&ie=UTF8&qid=1432264827&sr=1-12&keywords=Free+chemistry+books", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on June 19, 2013", "Text": "One does not need to be a scientist or student to understand this text. The author has a way of breaking down the complex vocabulary of an even more complex subject into language any layman can grasp. If you have an interest in geology in general or precious stones in particular you would do well to read this text.", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RE7NCHUYZ06K/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,272,156", "Helpfulness": "27%", "Name": "Ken Mcwilliams", "Location": "South Carolina, USA"}}, {"Date": "on January 15, 2014", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A290BKUQ0ER0PF/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #844,188", "Helpfulness": "46%", "Name": "Unclepeacock", "Location": ""}}, {"Date": "on March 8, 2013", "Text": "The book helps you learn about the properties of various minerals. This may help you learn more or much about chemistry easily.", "Helpfulness": 0.6666666666666666, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12JLOK1X3QGQE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #18,709,068", "Helpfulness": "67%", "Name": "Amazon Customer", "Location": ""}}, {"Date": "on October 6, 2014", "Text": "Product was as described and delivered on time", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYNIKLLY1ZD4M/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #943,489", "Helpfulness": "57%", "Name": "Tyler J Guy", "Location": ""}}, {"Date": "on May 8, 2015", "Text": "Great product thanks", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GPKGENOXUIWE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,211,128", "Helpfulness": "22%", "Name": "Keith Warren", "Location": ""}}, {"Date": "on December 18, 2014", "Text": "as described", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A247TFAB1L5IIF/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #29,791,860", "Helpfulness": "11%", "Name": "James Spangler", "Location": "Maryland"}}, {"Date": "on May 14, 2015", "Text": "Good book", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN2P4V9JLWVN4/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #8,343,280", "Helpfulness": "", "Name": "russell nelson", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Chemistry-Properties-Tests-Precious-Stones-ebook/product-reviews/B0082W7556/ref=sr_1_12?s=digital-text&ie=UTF8&qid=1432264827&sr=1-12&keywords=Free+chemistry+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#20,662", "ListPrice": ""}
+{
+    "Category": "Free in Kindle Store (",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "27%",
+                    "Location": "South Carolina, USA",
+                    "Name": "Ken Mcwilliams",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RE7NCHUYZ06K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,272,156"
+                },
+                "Date": "on June 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "One does not need to be a scientist or student to understand this text. The author has a way of breaking down the complex vocabulary of an even more complex subject into language any layman can grasp. If you have an interest in geology in general or precious stones in particular you would do well to read this text."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "",
+                    "Name": "Unclepeacock",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A290BKUQ0ER0PF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #844,188"
+                },
+                "Date": "on January 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12JLOK1X3QGQE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,709,068"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "The book helps you learn about the properties of various minerals. This may help you learn more or much about chemistry easily."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "",
+                    "Name": "Tyler J Guy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYNIKLLY1ZD4M/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #943,489"
+                },
+                "Date": "on October 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Product was as described and delivered on time"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "",
+                    "Name": "Keith Warren",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GPKGENOXUIWE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,211,128"
+                },
+                "Date": "on May 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great product thanks"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "11%",
+                    "Location": "Maryland",
+                    "Name": "James Spangler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A247TFAB1L5IIF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,791,860"
+                },
+                "Date": "on December 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as described"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "russell nelson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN2P4V9JLWVN4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,343,280"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemistry-Properties-Tests-Precious-Stones-ebook/product-reviews/B0082W7556/ref=sr_1_12?s=digital-text&ie=UTF8&qid=1432264827&sr=1-12&keywords=Free+chemistry+books/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#20,662",
+    "Timestamp": "2015-05-21 23:24:40.149799",
+    "itemurl": "http://www.amazon.com/Chemistry-Properties-Tests-Precious-Stones-ebook/dp/B0082W7556/ref=sr_1_12?s=digital-text&ie=UTF8&qid=1432264827&sr=1-12&keywords=Free+chemistry+books"
+}

@@ -1,1 +1,122 @@
-{"Category": "in Books (", "Name": ["Let's Review Chemistry: The Physical Setting"], "Timestamp": "2015-05-21 23:01:00.208560", "itemurl": "http://www.amazon.com/Lets-Review-Chemistry-Physical-Setting/dp/0764147196/ref=sr_1_6?s=books&ie=UTF8&qid=1432263491&sr=1-6&keywords=chemistry+books+paperback", "Reviews": {"MaxNumReviews": 15, "ReviewList": [{"Date": "on January 3, 2013", "Text": "This edition contains very current material (including 2012 exam samples.)  The format is concise, yet contains thorough explanations to guide students away from making errors when it comes to taking the state exam.  This is a handy tool for the diligent student who may like to prepare on their own, as well as a useful tool for the student who needs to boost their over-all understanding of the course work.", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29KQY0C53R6I3/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #741,274", "Helpfulness": "90%", "Name": "LeonCarapetyan", "Location": ""}}, {"Date": "on July 26, 2014", "Text": "Got here 3 days early, really helpful and not too big", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XFUWAV0X40DY/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #1,389,428", "Helpfulness": "73%", "Name": "Catherine Lesinski", "Location": ""}}, {"Date": "on October 8, 2014", "Text": "This help me pass chemistry. It got the job done.", "Helpfulness": "", "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VEEPROV3WJR8/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,283,796", "Helpfulness": "19%", "Name": "Philip", "Location": ""}}, {"Date": "on April 26, 2015", "Text": "Came as described! Great for the price! Thanks!!", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADACDGQB6DR4R/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #6,555,033", "Helpfulness": "", "Name": "Caroline H.", "Location": ""}}, {"Date": "on April 12, 2015", "Text": "Excellent condition", "Helpfulness": "", "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SEW0OFAE2UIN/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #7,776,451", "Helpfulness": "", "Name": "Eileen Doherty", "Location": ""}}, {"Date": "on October 15, 2014", "Text": "I like the book, but the digital copy is just a pdf. I expected better! You can't even click on the table of contents!", "Helpfulness": 0.0, "StarRating": "2", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15QETSQLCO9YH/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #6,564,810", "Helpfulness": "54%", "Name": "Zaichek", "Location": "NY"}}, {"Date": "on July 5, 2014", "Text": "The book was missing the first 40 pages.", "Helpfulness": 0.0, "StarRating": "3", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5XLWGOFBC4O6/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #23,687,170", "Helpfulness": "0%", "Name": "Laura", "Location": ""}}, {"Date": "on May 19, 2014", "Text": "because teacher need us to buy that, so i bought . that is so good! i love it . lll", "Helpfulness": 0.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13J2L5J0Y8TFT/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #30,616,205", "Helpfulness": "0%", "Name": "Yannie", "Location": ""}}], "ReviewUrl": "http://www.amazon.com/Lets-Review-Chemistry-Physical-Setting/product-reviews/0764147196/ref=sr_1_6?s=books&ie=UTF8&qid=1432263491&sr=1-6&keywords=chemistry+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": ""}, "OfferPrice": "", "Salesrank": "#15,795", "ListPrice": ""}
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Let's Review Chemistry: The Physical Setting"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "LeonCarapetyan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29KQY0C53R6I3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #741,274"
+                },
+                "Date": "on January 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This edition contains very current material (including 2012 exam samples.)  The format is concise, yet contains thorough explanations to guide students away from making errors when it comes to taking the state exam.  This is a handy tool for the diligent student who may like to prepare on their own, as well as a useful tool for the student who needs to boost their over-all understanding of the course work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "Catherine Lesinski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XFUWAV0X40DY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,389,428"
+                },
+                "Date": "on July 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Got here 3 days early, really helpful and not too big"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "19%",
+                    "Location": "",
+                    "Name": "Philip",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VEEPROV3WJR8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,283,796"
+                },
+                "Date": "on October 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This help me pass chemistry. It got the job done."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Caroline H.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADACDGQB6DR4R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,555,033"
+                },
+                "Date": "on April 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Came as described! Great for the price! Thanks!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Eileen Doherty",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SEW0OFAE2UIN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,776,451"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent condition"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "NY",
+                    "Name": "Zaichek",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15QETSQLCO9YH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,564,810"
+                },
+                "Date": "on October 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I like the book, but the digital copy is just a pdf. I expected better! You can't even click on the table of contents!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Laura",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5XLWGOFBC4O6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,687,170"
+                },
+                "Date": "on July 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "The book was missing the first 40 pages."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Yannie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13J2L5J0Y8TFT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,616,205"
+                },
+                "Date": "on May 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "because teacher need us to buy that, so i bought . that is so good! i love it . lll"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lets-Review-Chemistry-Physical-Setting/product-reviews/0764147196/ref=sr_1_6?s=books&ie=UTF8&qid=1432263491&sr=1-6&keywords=chemistry+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#15,795",
+    "Timestamp": "2015-05-21 23:01:00.208560",
+    "itemurl": "http://www.amazon.com/Lets-Review-Chemistry-Physical-Setting/dp/0764147196/ref=sr_1_6?s=books&ie=UTF8&qid=1432263491&sr=1-6&keywords=chemistry+books+paperback"
+}
