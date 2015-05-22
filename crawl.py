@@ -382,9 +382,6 @@ def main(config):
 			print "Error: invalid JSON file"
 			return
 			
-		print "Yes, Works"
-		print categories
-		return 
 		for type in categories:
 
 			print "Crawling [", type, "] ..."
