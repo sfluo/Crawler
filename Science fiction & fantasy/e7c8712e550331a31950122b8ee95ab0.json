@@ -1,0 +1,278 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Shipstar: A Science Fiction Novel"
+    ],
+    "OfferPrice": "$9.99",
+    "Reviews": {
+        "AverageStarRating": "",
+        "MaxNumReviews": 15,
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Nottinghamshire England",
+                    "Name": "RobR",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACGYUI9DWL856/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #208,046"
+                },
+                "Date": "on May 9, 2014",
+                "Helpfulness": 0.9142857142857143,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Los Angeles",
+                    "Name": "robert johnston",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JXRXYVSUAW6I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#1,086"
+                },
+                "Date": "on April 14, 2014",
+                "Helpfulness": 0.8709677419354839,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "",
+                    "Name": "Clay Kallam",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14AQ7J4WB5SXC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#35,436"
+                },
+                "Date": "on June 1, 2014",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Miami, Florida USA",
+                    "Name": "Gregory T. Conterio",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YMEKKO6WDQ3T/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,227,173"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "72%",
+                    "Location": "Temecula, CA",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACKRTP2N44GHW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #726,839"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": 0.8125,
+                "StarRating": "4",
+                "Text": "When I bought \"Shipstar\" and began reading it on my Kindle, I almost stopped and put it down. The beginning was very, very confusing. But I discovered that was because I hadn't read \"Bowl of Heaven\" and didn't realize \"Shipstar\" was part two of the story. I'm glad I kept reading it and in the end I enjoyed it very much. I enjoyed it so much that now I've purchased \"The Bowl of Heaven\" to read and the Whispersynch connected audio. There seem to be people who really haven't liked either book. I'm not one of them. Read \"Shipstar\", but only after you've read \"Bowl of Heaven\"."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Delta, British Columbia Canada",
+                    "Name": "Richard Swann",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33LW68HNRC0F5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,531,883"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": "Very interesting concept. Well written. Interesting characters both human and alien with thoughtful character development. Fast paced and exciting. A great weekend read!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Chamberlain, ME USA",
+                    "Name": "George Wilmot",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BCCWMHGZMVVO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #415,878"
+                },
+                "Date": "on April 28, 2014",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": "Benford & Niven deliver on the promise of of book one, Bowl of Heaven, with the fantastical imagination, story line and hard sci fi explanations of the 'physics' one expects from these two, if not the anticipated outcome (book three?). But both the high action unfolding drama conducted at such huge scale during  short time duration, and the deep historical revelations toward the end strain credulity just a bit."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "49%",
+                    "Location": "Utah, USA",
+                    "Name": "some hoser, eh?",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q0JVGY4TQ9YY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,961,649"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "",
+                    "Name": "zack",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XGJ4JQ7YX87U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,016,566"
+                },
+                "Date": "on March 23, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "There's an over abundance of really awkward techno-babble throughout the book - and that detracts from the flow - the actual story is a good one and it moves along at a reasonable pace until the last third of the book when all of a sudden things start to move very quickly and worse, as the end of the book approaches, they  go even faster and faster... so much so that the events at the ending almost don't really make sense, It's also clear that while this is supposedly the second of a two novel saga,that at least a third has to follow or there will be so many questions left unanswered that it would be ridiculous. As said, the story is interesting (albeit despite attempts to separate the 'bowl' from the Ringworld, there are many similarities in structure) and the ideas involved are original and interesting, but the way it's written - especially the flow at the end - makes things begin not to make sense (and  the techno-babble which in my opinion also increases greatly towards the end, compounds that).That's a 3 1/2 Star above.Good enough to read, but could have been a whole lot better."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "",
+                    "Name": "Joseph Baneth Allen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQC6ULHGZFWZK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#78,690"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Richland, WA USA",
+                    "Name": "Vern",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N6RXZX0M1X8E/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,313,582"
+                },
+                "Date": "on June 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "Florida",
+                    "Name": "Michael Lukacs",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LEPEGX84Y17V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,055,346"
+                },
+                "Date": "on July 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "Washington, USA",
+                    "Name": "Gilzerp",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HKQ4JVFT7DWM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,532,425"
+                },
+                "Date": "on May 10, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Bowl of Heaven and Shipstar are just what I would expect of Niven.  He, and Benford think of a truly BIG idea, populate it with humans and explore.  The character development isn't really the primary motive here.  Though I thought the characters were developed just fine. Beware of some hinted at spoilers:  The idea that these \"Folk\", ancient Bird beings from a familiar planet, have the ability to stay in their \"Overmind\",  accessing their \"Undermind\" only when necessary gives them a superiority over ordinary mish-mash Human consciousness (consciousness / unconsciousness working in tandem) is an interesting contest.  And the reader will see who wins out.  I totally loved exploring , well the characters running for their lives, the underground superstructures and rail way tunnels at supersonic speed,  almost reminiscent of Clarke's \"Rendezvous with Rama\".  Super great fun!  period."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "",
+                    "Name": "Bruce M. Purcell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39K1U5IHCUXXM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,677,160"
+                },
+                "Date": "on April 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Nicholas Hoffman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O8BVZ03VQFU4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #13,293,973"
+                },
+                "Date": "on June 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "Bowie, MD United States",
+                    "Name": "Todd D. Vance",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GSWFEUMYF616/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,655,586"
+                },
+                "Date": "on April 23, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Bigger than Ringworld, but in dynamic equilibrium, the ShipStar (sequel to Bowl of Heaven) is a bowl about one AU wide with a star at its \"focus\".  The star is manipulated by mirrors and magnets to produce a jet, thus making the bowl and star a ship, just one far bigger than worlds.  Learn of the birdfolk's \"great shame\" and find out who really runs the shipstar.  Larry Niven has been a favorite of mine since junior high---I know he's \"getting up there\" in years, but I hope he keeps writing stories.  Just maybe \"boosterspice\" will be invented in time.  Gregory Benford has written lots of good stuff as well, though I didn't \"discover\" him till much later in life."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Drellic",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A6K54HRZUQ44/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,314,561"
+                },
+                "Date": "on September 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The first book was slow, but you might need to re-read the last bit to figure out where it stopped. This is a few months after, but with all the same things in motion. This book is a frightening look at very alien concepts. When thinking about how big the universe is and how small the Earth is, it helps to make you feel even smaller. A lot of the concepts sound like an echo of the Uplift series and other Sci-Fi series, but adds a sense of desperation that is so much more prevalent. You don't just sense the immensity and desperation, you feel it in your bones."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Sandra L Knudson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KYLBNRI72Z7R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #15,397,139"
+                },
+                "Date": "on April 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Enjoyed reading the story. The two books together along with the characters made the books interesting.  If you like a good sf book read it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Joan Rozelle",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JIAY8K3NKNX8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,046,460"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Jarring continuity errors and recycled ideas from both Niven and Benford make this and the prior book, a muddled read.  Okay to get through a plane trip.  It felt like there was a real issue with conflicting goals between the writers in terms of levels of technology, and character development and personality."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Michael Gavron",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DR27YBKPWZUG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,846,648"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an instant classic. I first read Ringworld back in 1973, and this easily bested it. The ideas presented, and the character development is first rate, especially the aliens depicted. I would recommend this novel to anyone who loves great hard SF!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Shipstar-Science-Fiction-Gregory-Benford/product-reviews/0765367122/ref=sr_1_8?s=books&ie=UTF8&qid=1432263852&sr=1-8&keywords=fiction+novels+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful"
+    },
+    "Salesrank": "#51,602",
+    "Timestamp": "2015-05-21 23:07:36.636248",
+    "itemurl": "http://www.amazon.com/Shipstar-Science-Fiction-Gregory-Benford/dp/0765367122/ref=sr_1_8?s=books&ie=UTF8&qid=1432263852&sr=1-8&keywords=fiction+novels+paperback"
+}
