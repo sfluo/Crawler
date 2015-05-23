@@ -451,6 +451,34 @@ def main(config):
 			#	if os.path.exists(type + '/' + h.hexdigest() + '.json'):
 			#		continue;
 			amazoncrawl(info['url'], info['keywords'], type)
+
+def main_fetch(urlfile):
+	"""
+	"""
+	if not urlfile.endswith('.txt'):
+		print 'Error: require TXT file'
+		return;
+		
+	try:
+		path = urlfile[:-4]
+		if not os.path.exists(path):
+			os.makedirs(path)
+
+		with open(urlfile, 'r') as urlfp:
+			lines = urlfp.readlines()
+			for itemurl in lines:
+				#print "item:", itemurl
+				itemurl = itemurl.strip()
+				record = { 'itemurl' : itemurl}
+				valid = fetchItem(itemurl, record) # pull the item
+				if valid:
+					h = hashlib.md5()
+					h.update(itemurl)
+					print h.hexdigest()
+					with open(path + '/' + h.hexdigest() + '.json', 'w') as f:
+						json.dump(record, f)
+	except:
+		print "Error: fail to read ", urlfile
 	
 def testReviewer():
 	Author = {}
@@ -490,6 +518,7 @@ if __name__ == "__main__":
 		print "Error: file [" + sys.argv[1] + "] does not exist"
 		exit(0)
 
-	main(sys.argv[1])
+	#main(sys.argv[1])
+	main_fetch(sys.argv[1])
 	#test()
 	

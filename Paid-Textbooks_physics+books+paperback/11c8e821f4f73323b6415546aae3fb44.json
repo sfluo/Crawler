@@ -1,0 +1,1375 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Basic Physics: A Self-Teaching Guide"
+    ],
+    "OfferPrice": "$13.27",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Sydney, NSW Australia",
+                    "Name": "Patrick Thompson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GS4P0VOJYU96/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #186,563"
+                },
+                "Date": "on January 22, 2004",
+                "Helpfulness": 0.9825072886297376,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "",
+                    "Name": "D. Yee",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16KC4AAYJJFL2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,052,624"
+                },
+                "Date": "on March 11, 2002",
+                "Helpfulness": 0.9795918367346939,
+                "StarRating": "5",
+                "Text": "This book is a great place to start for anyone wanting to learn the basics of Newtonian physics. I decided to read this book in preparation for my high school's Physics AP class that I'll be taking next year. Comparing this book to an outline of the course, I found that the book covers more topics than the class, but in less detail. Like I said, it's great for the basics, but that's about it. The approach is rather non-mathematical, but very clear and easy to understand. Kuhn has done a great job of making basic physics understandable. This book, in conjunction with a study text, such as Schaum's Beginning Physics I or a textbook, would be an ideal way to learn physics on your own."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Tokyo, Japan Japan",
+                    "Name": "Rodney J. Szasz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BZOAM350RM6T/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#17,993"
+                },
+                "Date": "on September 19, 2002",
+                "Helpfulness": 0.9534883720930233,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "Canada",
+                    "Name": "Filip",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NHBGHYGE82P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,789,646"
+                },
+                "Date": "on July 21, 2005",
+                "Helpfulness": 0.9791666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Park Ridge, IL 60068",
+                    "Name": "C. L. Hauri",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PUOY27UBTRY6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#5,153"
+                },
+                "Date": "on January 20, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought several physics books for my husband, as he really wanted to learn physics. He never had it in school so he needed a basic physics book. Out of all the books I bought, this one is by far his favorite. It explains everything very well and truly works well as a self-teaching guide. Highly recommended if you are looking for a good book as a basic physics refresher or to learn about physics for the first time. It goes over all the areas of general physics, which provides a great overview of the subject."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "Texas",
+                    "Name": "J. Bell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MQIN3AYNNZ8L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,530,389"
+                },
+                "Date": "on February 25, 2006",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "I found this book very helpful in preparing for my teacher certification test to teach high school science.  It helped me recall many physical concepts that I had studied in college years ago.  The book is written in language that is easy to understand.  The fill-in-the-blank format helps to reinforce ideas.  This is an excellent book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Cincinnati, OH",
+                    "Name": "Elle Berk",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ0PCEZUTF5QO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#8,108"
+                },
+                "Date": "on March 20, 2004",
+                "Helpfulness": 0.82,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "T.O.",
+                    "Name": "K. Selva",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CDECZRHTPLFR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,850,726"
+                },
+                "Date": "on December 11, 2002",
+                "Helpfulness": 0.8490566037735849,
+                "StarRating": "5",
+                "Text": "I do not recommend this as a textbook in any sort of way.  You won't learn much detail from this book. BUTTTTT I strongly suggest u take a week or two to read through it (a chapter at a time).... before u start ur more intense study using your normal textbook.  This book will give u the basic THEORY behind physics.  This will come in handy once u start using weird formulas and whatnot during your course.  So read it first.  It's an easy read, so don't fear that it might take too long."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "Butler, NJ United States",
+                    "Name": "George J. Kloss",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NC5HPLWGR18Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,261,766"
+                },
+                "Date": "on February 21, 2005",
+                "Helpfulness": 0.7941176470588235,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "West Hartford, CT USA",
+                    "Name": "Kuoting Chiu",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XE306Q5X3V6U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #820,769"
+                },
+                "Date": "on November 28, 2006",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "4",
+                "Text": "Physics is well explained in this book and easily grasped with problems and tests. The only negative is the fact that some formulas are not proven."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "",
+                    "Name": "Samuel Stokes",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DUHJC29G01YT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,613,636"
+                },
+                "Date": "on May 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a first rate book for those people who are daunted by the very thought of physics, especially students who find math a challenge. I found the diagrams excellent and they would be easily understood. My only (small) criticism is that it would be a far better self-teaching tool if the answers were at the back of the book. This book is a fantastic start for the new student of physics. Highly recommended. It would make a good gift."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Cindy Haverfield",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH7EYHPA80T69/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,767,087"
+                },
+                "Date": "on May 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I ordered this textbook for my son, who is home schooled.  Both he and I had been struggling with physics using the online text and workbook.  I found this one on Amazon, the price was right, so I tried it.  BEST thing I've ever done!!  It's very easy to understand and learn from.  He enjoys it and finds it to be on his level.  I highly recommend for fellow home schooling parents or for any one wanting to learn physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "",
+                    "Name": "E. B. Menzel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EO2HR7BP5DPJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #553,229"
+                },
+                "Date": "on September 11, 2008",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": "Depicts and explains physics in a nice broken down simple way.  So far I'm getting it as I go.  No real retention; but that is my issue, not the books!  I'm reading it nibble by nibble for my own enjoyment - but I think it would be a really helpful companion for students as it makes physics less intimidating."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Charles R. Davis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IF712PETTI01/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,351,472"
+                },
+                "Date": "on January 31, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "cageyourelephant",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HV5T9SG6AZM8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #570,994"
+                },
+                "Date": "on November 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a highschool student not even taking physics (im in Bio and Geometry) and this is still incredibly easy to learn! This is a very well written book and is fun and entertaining for anyone who just wants to learn it, and would, im sure, help someone struggling in a physics class! Definitely recommended!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "JenR",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JT1Y3XFHWBBO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,000,402"
+                },
+                "Date": "on October 31, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Bought the book to prepare me to return to grad school and pursue a degree in the sciences. Haven't taken a science or math class in years. I feel better prepared for physics now."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "",
+                    "Name": "nct",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K3AT3WP9WKMN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,348,599"
+                },
+                "Date": "on November 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I highly recommend this book to those that never had Physics OR took it so long ago that it seems like you never had it!! Thank you Karl Kuhn!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "Ontario, Canada",
+                    "Name": "Victor L. Nazaire",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W3MOYKQ3FXLH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#34,982"
+                },
+                "Date": "on July 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Honolulu, HI",
+                    "Name": "Keegan L. Gotto",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZV4OPE38NBSV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #552,647"
+                },
+                "Date": "on November 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This gets a decent review for me (I bought this to study for the TExES science exam) but there were some parts I wish it had.  It didn't talk much about pendulums and the example problems are pretty limited.  For example I did pretty well in college physics with three simple kinematic equations.  After finishing the book I still needed to find those equations (such as v^2-v0^2 + 2ax) so someone who did have the experience I did wouldn't get as much out of this book. Overall if you're looking for a more theoretical understanding this book will be great.  If you're looking to do some practice problems and learn how to calculate specific variables this is not the book for you."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "",
+                    "Name": "pete steinberg",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K1WWN8VC9FIS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #331,107"
+                },
+                "Date": "on January 16, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "If you're taking a first year college non calculus physics class, this would be a great book to have along with your text.  You do need some math though.  It moves pretty fast and requires application and study.  It's worth reading Thinking Physics along with this one.  To be fair, basic Physics is a pretty deep subject to encapsulate.  I've already taken these classes, so I'm kind of guessing it to be a real help as a study guide.  It seems much better then the old paper back study guides I had in the seventies.  Certainly worth the price of purchase if you will sit down and do it.  Be sure you have your algebra down."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Lucas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L3D7PLK5BQ7H/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,890,884"
+                },
+                "Date": "on May 15, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Extremely satisfied with this book. As a Sophomore in High School, I wanted to study physics outside of school for fun. I know little to nothing about the fundamentals and basics of physics. This book mainly teaches you the equations and scenarios that help you learn them. I am half way through and I am liking what I am learning and am looking forward to progressing."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "Marcia H Cupery",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OE7QRFGPWYCY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #632,720"
+                },
+                "Date": "on May 9, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I wish I had had this book when I was enrolled in Physics I for a grade; this author explains the concepts so much better than what you get from a traditional academic textbook.  And it is so much easier to understand the math when you have a solid grasp of the underlying concepts.  Glad to have it now that I will be taking Physics II in the fall."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "SHELBY TWP., MI United States",
+                    "Name": "DAVE S...",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12RU61A7MKPT1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,772,808"
+                },
+                "Date": "on December 2, 2009",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": "Never touched the subject in school. Now 20 years later I'm a little interested. It's an easy read. No higher math skills needed. The only change I'd make, the answers should be on the next page. You have to read with a piece of paper, line by line, to cover the answers, or you will accidently read them. Very interesting reading."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Ash Garcia",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXYE15F7LYMK4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #444,904"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book is just okay. I was hoping for more from it. I wanted to keep this in my Physics classroom for my students who need the concepts broken down further, but this book is missing many important concepts. There needs to be a new version to address all of the missing topics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "39%",
+                    "Location": "",
+                    "Name": "Charlotte El",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XKDUK4WW4C9J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,517,551"
+                },
+                "Date": "on January 10, 2007",
+                "Helpfulness": 0.6842105263157895,
+                "StarRating": "5",
+                "Text": "This book will help anyone who feels they do not comprehend as quickly as others it is a introduction to physics and provides a understanding what physics is. If your not sure what physics is and never took it in school this book will be helpful prior to you taking the course in college or highschool."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Mike Kesterson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABH8IMXS0C4ZR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "100%"
+                },
+                "Date": "on April 30, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Everett, WA",
+                    "Name": "Johanna Wiese",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17PHATJA5NOGH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,753,819"
+                },
+                "Date": "on December 28, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This booked helped me to understand my Physics 1 & 2 classes that I recently took from my college. This book along with my tutor, helped me to pass with flying colors. Easy to understand book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Emi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KLH0UF1F5QCZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,618,669"
+                },
+                "Date": "on May 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm kind of new to physics and I found this book really good. It's good written and set up, and cover a lot of difficult topics in an easy way! Highly recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "REDONDO BEACH, CA USA",
+                    "Name": "Chris J. Albertson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FOYFP25YJLDH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#36,852"
+                },
+                "Date": "on October 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is worth it but I deduct one star for misleading title.  It is a list of quiz-like questions with answers.  Useful but not a stand alone product"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "",
+                    "Name": "Mary DI",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4ONGC6F5HLOG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #734,893"
+                },
+                "Date": "on August 12, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "DuRaae Davis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36YAVZHECLGWE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,728,028"
+                },
+                "Date": "on May 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a fantastic way to educate my home school student. I have recommended this set of books to all my home school friends."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "West Chester, PA",
+                    "Name": "R. Haeckler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XGEDXCHN4KOW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#28,209"
+                },
+                "Date": "on September 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I bought this because the other reviews said it downplayed the math.  There is a lot of math in this, and the explanations are terse.  What it leaves out, that you get in most physics texts, are all the conversions you need to do from miles to meters, hours to seconds, etc.  It's probably good for a review or supplement to a college text but not so great as a first Physics book for a high school kid, tho it does cover a lot of topics they don't really cover in high school physics, like atoms and molecules, solids, liquids and gases, static electricity and electrical currents, electrical induction, electromagnetic waves, etc.  I would have given it fewer stars but my high school student actually likes the book, and that counts for a lot."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "simone outten",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACH4FA2CU2ISO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,645,634"
+                },
+                "Date": "on December 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I ordered the book for my grandson and he reported to me that it really helped him to get the baseline skills that he needed to work at the level of his current class.  He had no previous learning in Physics, and his school only offered an honors class.  I can't understand why a school would only offer honors classes, because baseline skills must be mastered before any student can get to honors.  Nevertheless, we are grateful that this book was available, and I would recommend it for any students who find themselves in the situation my grandson was in.  Thank you!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 4, 2006",
+                "Helpfulness": 0.6551724137931034,
+                "StarRating": "2",
+                "Text": "My main problem with this book is that the answers are stated directly below the exercises, forcing you to either try to cover up the answers with a bookmark or sheet of paper, or consciously try to not look at the answers, which is distracting. This format makes the book feel more like a trivia quiz than a book about a serious academic subject. Though the book throws some rudimentary equations at the reader, it doesn't explain them clearly enough. Overall, I felt the whole idea of the book was to rush the reader through the subject matter rather than giving the reader a meaningful knowledge of the fundamentals of physics. This book initially appealed to me because it was cheap, but trust me, you're better off paying the premium for a real textbook."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "Las Vegas, NV USA",
+                    "Name": "William F. Nappi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27MY21JLR2UG8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#45,933"
+                },
+                "Date": "on June 28, 2012",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "MicroChem",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2POF28YDEKNQG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,851,886"
+                },
+                "Date": "on June 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Tucson, AZ.",
+                    "Name": "Bill Wittman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DRBXMNA6PKP7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,855,724"
+                },
+                "Date": "on April 18, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book is easy to understand and teaches the fundamentals. I have a daughter preparing for her senior year in high school and she is reading this book to give her a head start for her classes. I would recommend this book for any person at the beginning level and it will be a fun learning experience."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "Oconomowoc, WI United States",
+                    "Name": "Pam Reinke",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HWXWOX3IE6GI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,170,545"
+                },
+                "Date": "on March 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a wonderful book for someone who isn't great with math and knows nothing about physics (like me). I have found this book very easy to understand. I think this is a great book for someone just starting out with physics or for someone who just wants to learn the basics of physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Brownsburg, IN USA",
+                    "Name": "Elizabeth",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HFQG0AUE2JY7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,225,762"
+                },
+                "Date": "on May 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I used this book to review the concepts of physics before taking my Pearson Core exam for teacher licensing.  I still need to work through the practice test, but this guide gave me a good framework to go from.  I plan to refer to it often when I begin teaching high school physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "",
+                    "Name": "H",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SBYTZ2PXMHWZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#79,710"
+                },
+                "Date": "on July 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I needed to take the TEXES Math/Physics teacher certification test and had not taken a physics course in twenty years.  This book was recommended on one of the forums so I gave it a try.  Covers all the concepts and presents them in an understandable way.  Made reviewing easy."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "",
+                    "Name": "Foxtrot582",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7OOAZ0372LBE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,305,420"
+                },
+                "Date": "on August 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is good to get a grasp on physics however, physics is really a calculus driven course, so algebra in my opinion makes it harder. In retrospect its a good book for someone looking for a basic understanding in physics but not a deep one."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "",
+                    "Name": "acs",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAF95LA7AD5BW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #476,102"
+                },
+                "Date": "on January 8, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I bought this as a refresher and thats what it is.  Very basic, well organized but its worthless to ask questions when the answers are provided directly below.  Overall good buy"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "science geek",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11INJFPLR8J51/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #736,215"
+                },
+                "Date": "on February 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is one of the best books on Physics for someone who is new to physics. It's explanations are very thorough with questions and answers at the end of the chapters. This kindle edition seemed to be formatted very well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Etherealgurl",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MFI3HVOACBDA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,158,103"
+                },
+                "Date": "on November 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Bought this for my 15 year old son who has Aspergers and is home schooled. He really likes it and is blazing through it! On days that I let him choose subjects to work on he always wants to do physics first!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "M. Denise Mertz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARBLN4EOATKBY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #393,395"
+                },
+                "Date": "on January 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "But this is the kind of basic physics with word problems, stuff you learn in college or high school. Hard to teach myself. I suppose you really have to have the desire. If so, this book's for you."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Zoe Cartwright",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QUZVEOGAJXRU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,763,638"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "helpful, the book he was using at school did not explain the various concepts very well. This book had many helpful diagrams."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "",
+                    "Name": "Moira P. Donnelly",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LK1LPXXAYZZA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,749,347"
+                },
+                "Date": "on March 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "NYC",
+                    "Name": "Damo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HWBMTQXVHONE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,215,393"
+                },
+                "Date": "on December 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Extremely clear, systematic, swift. I honestly can't imagine it being better organized. It isn't belittling or too advanced, just excellent."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "LaRoy M.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JON8UVO3BKWK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,300,409"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was an amazing price for the content. A great purchase for my pursuit of engineering. I will definitely continue using this site."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "",
+                    "Name": "lana smith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14FK46E8WIXD1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #321,691"
+                },
+                "Date": "on April 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "a great book for someone physics impaired such as I. very elementary and easily understood. glad I purchased it.my recommendations."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Angela Glasgoe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10DGVAE0YHG94/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,737,999"
+                },
+                "Date": "on August 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It is good for eighth grade science.  The examples are simple.  Some of the explanations are so simplified they tend to mislead."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "Webb City, Missouri",
+                    "Name": "Ryan J O'Toole",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2771A41BGQ6YZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #849,239"
+                },
+                "Date": "on July 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Was very relevent and informative especially to my girlfriend who loves space and how the space dynamic in gravity works"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Christina K. Madura",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RSIC1KUL6GCN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,621,335"
+                },
+                "Date": "on May 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great price, book was in excellent shape! I wish I had this book when I was in college! Very happy with my purchase."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "JEL",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MFL0GTX9FJP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,969,218"
+                },
+                "Date": "on March 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just the book needed for this course and I would thoroughly recommend it.  Easy to understand as well. Try it!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Brenda S. Geist",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2G66MWPD3QVR7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #225,164"
+                },
+                "Date": "on January 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I purchased this book for grandchildren and it really helped them a lot.  I would recommend this book to all."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "Greensboro, NC USA",
+                    "Name": "Heather Motsinger",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KWTEHQHYTWQH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,479,384"
+                },
+                "Date": "on October 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very basic, but very clear. The self-test and answers at the end of each chapter are very a nice addition."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Chicago",
+                    "Name": "EDog",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15C2UVHOASSWY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #129,511"
+                },
+                "Date": "on August 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For the price you just cant beat it, does fine at the price point. Just good refresher book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Danny Freeman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EPSYMOHPQ6YU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,940,897"
+                },
+                "Date": "on March 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. Physics explained in a very simple manner. Exactly what I was looking for"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Palmdale, CA, US",
+                    "Name": "R. Litt",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T39IAFUL5MAB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,873,803"
+                },
+                "Date": "on May 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Sorry Kuhn, it is not all that self-learning. You need to use the KISS system."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "KS",
+                    "Name": "Ksmom",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIDVG3BKAVQ1T/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #857,404"
+                },
+                "Date": "on December 21, 2013",
+                "Helpfulness": 0.625,
+                "StarRating": "1",
+                "Text": "You are better off watching Khan Academy videos than buying this book.  It is too basic and lacking in practice problems even for a middle school student."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "Dan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R9N2H924LXW4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,455,618"
+                },
+                "Date": "on September 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book if you have a little background in Algera."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "38%",
+                    "Location": "usa",
+                    "Name": "Shiaolin L. Graham",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JEGEG0XJEBSL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,170,239"
+                },
+                "Date": "on December 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is great! We like the product and the service!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "David R. Haight",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GWTP0VVJ405A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,138,674"
+                },
+                "Date": "on November 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "not quite up to much of the textbooks I have read"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "",
+                    "Name": "Elfy Ever After",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YBSMWL1FD8HT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #312,597"
+                },
+                "Date": "on December 25, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I really love physics, so now, having a workbook such as this to entertain my mind with, not being in school anymore, is perfect. I would just go to college again and take a class there but, social interaction ugh"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "New Jersey, USA",
+                    "Name": "Bonnie J Saunders",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XCLHRVQ362V2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,217,974"
+                },
+                "Date": "on September 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Here is to my nephew being the next Sheldon"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "",
+                    "Name": "reviewer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZYH2G76HEXMS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,016,193"
+                },
+                "Date": "on January 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book for learning basic physics!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "gmom",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FY5B56YKHCUO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #16,371,381"
+                },
+                "Date": "on October 22, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book is for someone just starting to learn the basics of Physics.  I bought it for my son to have at home to study for tests, in the event his notes weren't thorough enough."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Lindia Stubbs",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKFSNVZ3P6VHJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,845,779"
+                },
+                "Date": "on January 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Great homeschooling book...thank u"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "anka milin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVRTBXAR3SHJZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,760,805"
+                },
+                "Date": "on November 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Awesome book good for physics"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Black Hawk, Colorado United States",
+                    "Name": "Steve Singer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H860WAJ4MUB5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,070,119"
+                },
+                "Date": "on May 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's math. What  can I say."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "",
+                    "Name": "Steven E. Bentley",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EVEZZOME4TWH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,531,580"
+                },
+                "Date": "on October 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good review of the basics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "",
+                    "Name": "CESAR MAYORAL FIGUEROA",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXE7DGN6K6724/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,258,881"
+                },
+                "Date": "on September 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just a must."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "Silver Spring, MD, US",
+                    "Name": "Alpha Tau M. Solutions",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ68SBGWO8Q89/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,257,775"
+                },
+                "Date": "on January 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Fair Read."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "",
+                    "Name": "alan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGJ03XDNYUBW2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,714,956"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "all o'key"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Aaron Gregas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HLOCB2NJ892G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,235,634"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Wonderful"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "cathy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z1ZOWY3FHQJP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #11,910,479"
+                },
+                "Date": "on April 23, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Recevied"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "39%",
+                    "Location": "",
+                    "Name": "DJR",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SHSKRUHCWUCD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,237,602"
+                },
+                "Date": "on November 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "5 Stars"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Kalyani Sulkar",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HFHBBJZOEWKZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,818,522"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I wanted a Physics book that will help me refresh my memory....this is not it.  It is little way too basic!!! Probably good for a student to brush up his knowledge but not for a teacher."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Buffalo, NY",
+                    "Name": "Jill Fulton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A366ZB7BOCKRCJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,553,011"
+                },
+                "Date": "on February 7, 2015",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "My husband wanted a physics book (\"Not for Dummies\"), so this seemed decent (Merry Christmas), but the reason I give it five stars is because my 12-year-old son has been carrying it around since Christmas with a notebook and a pencil.  Anything that keeps him off electronics, is a five-star in my book.  I haven't read it, nor do I have much interest in physics, but I do have interest in my child reading and not constantly fighting about him being on electronics.  Has it replaced the electronics? No, but it is a win anytime I see him jotting in his notebook.  I am not sure if my husband has even opened the cover, since my son has had possessive of it since it was opened on Christmas morning."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATHAFTQS6XC5J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #291,281"
+                },
+                "Date": "on July 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Quick great delivery. Quality and very happy with product. I enjoy saving gas and ordering online. I work full time and time is limited."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "",
+                    "Name": "candy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1LQJELAKKKM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,935,838"
+                },
+                "Date": "on December 13, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great book for simple \"to the point\" refresher for those of us that \"haven't kept up\" and now need it for a new job."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Pen Name",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LE5SHFW121WK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,249,447"
+                },
+                "Date": "on June 15, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Awesome book for self teaching of physics. Answers are listed right in the book to for quick checking of work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Bryan Chavez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J3YPADK4QFRB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,029,661"
+                },
+                "Date": "on September 8, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Yes , Basic Physics: A Self - Teaching Guide meet my requirments . It's a little harder than I imagined."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "56%",
+                    "Location": "",
+                    "Name": "Elly Molina",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E3H4NR5MLTAJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,106,296"
+                },
+                "Date": "on March 31, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "44%",
+                    "Location": "",
+                    "Name": "joyousjackie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AVZ5TTL3YDJD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,700,889"
+                },
+                "Date": "on February 8, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Easy to read. I am actually learning using this book :-)"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Karla M.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C6MW48TKQ74W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,263,132"
+                },
+                "Date": "on April 23, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "My son loved the workbook style of the guide"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "GPW, MI USA",
+                    "Name": "Good_Man",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MPUY1XBX45Y9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,748,575"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "served as good reference for my kid"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "40%",
+                    "Location": "",
+                    "Name": "peter marsocci",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACMO0HP3UAKZC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #15,419,359"
+                },
+                "Date": "on October 19, 2014",
+                "Helpfulness": 0.4,
+                "StarRating": "1",
+                "Text": "You are more likely to Lear not more husks from Asimov's history of physics and the writing would be superior! Though it's good for a refresher course touching on  nothing but the basics"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "pam wilson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BAXFMSWS5Y2N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,339,410"
+                },
+                "Date": "on March 2, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "thanks"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "30%",
+                    "Location": "",
+                    "Name": "Michael E Jones",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L59HPIPE49SC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,305,752"
+                },
+                "Date": "on March 16, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Sung A.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28EQ5ZAFTOJSV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,226,854"
+                },
+                "Date": "on July 8, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "Lindon, UT, United States",
+                    "Name": "Kindle Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3043QA8UQWURF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #480,627"
+                },
+                "Date": "on February 17, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Fast Shipping. Item arrived as described and expected. No complaints."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 2, 2000",
+                "Helpfulness": 0.5490196078431373,
+                "StarRating": "5",
+                "Text": "I bought this book to review some basic concepts and I believe that it has a wealth of helpful information. Buy it and you'll see what I am talking about. I highly recommned it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Lisa",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FL47M5DY6KVB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #408,461"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "LIke it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Kim728",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36VLV8C58QYKN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,871,418"
+                },
+                "Date": "on October 16, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book helped me in my class. After being out of high school for 26 years. This book came in handy."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "Everett, WA USA",
+                    "Name": "GracieUnLtD",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NQSV8SXW8619/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #530,661"
+                },
+                "Date": "on July 16, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "bought for some one else"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Little Italy",
+                    "Name": "The Godfather",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANI9D1L9SZ69N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#66,207"
+                },
+                "Date": "on April 1, 2014",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "1",
+                "Text": "Sorry, maybe I'm too obtuse but this is not a self-teaching guide.  I struggled and finally gave up the ghost."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "38%",
+                    "Location": "Cleveland",
+                    "Name": "John",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NY7HOITU4C7V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,015,286"
+                },
+                "Date": "on October 9, 2000",
+                "Helpfulness": 0.43243243243243246,
+                "StarRating": "5",
+                "Text": "I,m big into Physics and my school didn't have a course on Physics and so i got this book and learned alot from it i,m not gonna say it didn't have alot of information but it  got me started i learn so much on my own about physics from this book.You can take a Math or Non Math course it's clear and educational if you need more information on this book or website links about physics be welcome to email me at Stantheman704@hotmail.com"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "",
+                    "Name": "Al",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RAUGXHTV44E6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,536,933"
+                },
+                "Date": "on November 7, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "44%",
+                    "Location": "Los Angeles County",
+                    "Name": "M.T.S",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A185KFSQEB0R2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,946,697"
+                },
+                "Date": "on March 27, 2007",
+                "Helpfulness": 0.36585365853658536,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "OH, USA",
+                    "Name": "Donna Rae",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ADB2V74VIAF1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,591,516"
+                },
+                "Date": "on December 30, 2012",
+                "Helpfulness": 0.06666666666666667,
+                "StarRating": "5",
+                "Text": "It starts you at the very beginning and slowly moves one through the physics of numbers.  It was bought to help me understand the way the ancients believed in the numbers and how man tries so hard to be like a god.  The man god makes things so difficult to learn and understand but the Father offers peace and love.  Nothing difficult in that."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "38%",
+                    "Location": "Taylors, S.C.",
+                    "Name": "GrHpr20",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8AU6VBJU0HB2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,046,054"
+                },
+                "Date": "on November 5, 2009",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Michelle T",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMPLC8XAFP48V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,213,783"
+                },
+                "Date": "on August 30, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Product was shipped quickly and arrived in good condition.  Pleasure to do business with."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "11%",
+                    "Location": "",
+                    "Name": "lissajous",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N9L2XJ2G3MSS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,332,816"
+                },
+                "Date": "on February 11, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "Honolulu, HI",
+                    "Name": "Christopher J. Kidawski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQS3N3K7XIN2U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,232,021"
+                },
+                "Date": "on October 20, 2007",
+                "Helpfulness": 0.02,
+                "StarRating": "4",
+                "Text": "Seriously, nobody is a good physics teacher.  I bought this book to improve my vanity and it has been fruitless.  So in turn will you not yield fruit by buying this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Physics-Self-Teaching-Karl-Kuhn/product-reviews/0471134473/ref=sr_1_1?s=books&ie=UTF8&qid=1432393584&sr=1-1&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "105"
+    },
+    "Salesrank": "#2,250",
+    "Timestamp": "2015-05-23 12:49:32.719358",
+    "itemurl": "http://www.amazon.com/Basic-Physics-Self-Teaching-Karl-Kuhn/dp/0471134473/ref=sr_1_1?s=books&ie=UTF8&qid=1432393584&sr=1-1&keywords=physics+books+paperback"
+}
