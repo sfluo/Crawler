@@ -1,0 +1,470 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.00",
+    "Name": [
+        "Mining The Sky: Untold Riches From The Asteroids, Comets, And Planets (Helix Book)"
+    ],
+    "OfferPrice": "$14.13",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Colorado Springs, CO",
+                    "Name": "Brent Ziarnick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZER2I0I38ATY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,560,789"
+                },
+                "Date": "on September 17, 2002",
+                "Helpfulness": 0.972972972972973,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Laguna Niguel, CA",
+                    "Name": "Andrew J. Lewis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31GCQEK9DPAIJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,979,102"
+                },
+                "Date": "on March 24, 2000",
+                "Helpfulness": 0.9666666666666667,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 27, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "Cambria, CA  USA",
+                    "Name": "Peter D. Tillman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GHSD9VY8XS4Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#7,842"
+                },
+                "Date": "on September 12, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "Seattle, WA",
+                    "Name": "Craig Remillard",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q8GTBIN6780F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,622,593"
+                },
+                "Date": "on January 25, 2002",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Finally, a book by someone who knows what he's talking about!  John S. Lewis has impressive credentials in the area of space resources, and he gives them to the reader in a concise, objective manner.  This book is a far cry from other space authors' uses of hyperbole, criticism, or wild assumptions.  The book also stays within the general realm of the believable, not straying too far from facts to speculate about \"what could be done with this.\"  While such asides are mildly entertaining, it is my belief both that the reader can imagine her own wild developments from space technology and resources; and that the real future will prove even today's best thought-out plans to be hokey and narrow-minded.  John S. Lewis shows a rare mix of expertise, prose, and restraint, and makes this a must-have for anyone interested in this area."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "USA",
+                    "Name": "The m",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26MP0W3D8W64A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,157,969"
+                },
+                "Date": "on September 25, 2001",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 22, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "East Amherst, NY United States",
+                    "Name": "alext678",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36VGUKSE7EZG1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,177,175"
+                },
+                "Date": "on December 15, 2003",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 24, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the greatest books I have read. You will be surprised at how many resources there are in space. If there is anyone who says that space is useless, and should solve problems on Earth first should get a reality check and read this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Downers Grove, IL United States",
+                    "Name": "J. Strout",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ASKNLEFX5XIB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #239,723"
+                },
+                "Date": "on January 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "Wise, Virginia, USA",
+                    "Name": "Jack Kennedy Jr.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKJ85C0PV8CTS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,305,799"
+                },
+                "Date": "on December 31, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Mining the Sky is an excellent book for any person who has had any association with earthly mineral extraction and the potential for utilization of space-based resources on the Moon, Mars, and Near-Earth Asteroids (NEAs). While the book is nearly a decade old, the primary message remains poignant and relevant even more so in the 21st Century. It is my hope that the author will do a second edition in the near future. With recent robotic missions to the Moon, Mars, asteroids and comets having taken place since the book was first published, I am certain that there is even much more to now be said about the economics of space-based mineral commerce."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Salt Lake City, Utah",
+                    "Name": "Van.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MGUHFHT4QCZW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,837,412"
+                },
+                "Date": "on September 13, 2000",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": "An excellent book that truly stretched my ideas of mankind's place in the  universe.  I found some of the business ideas mildly uncomfortable, but the  science seems waterproof, and the author's enthusiasm and optimism shine  through the technical details.  Underlying the science and engineering and  business is an exhilirating breath of philosophy that borders on the  metaphysical.  Dr Lewis certainly provides plenty of objective  justification for his ideas, but between the lines you can capture the  heady euphoria of the early days of space exploration.  These passages  verge on the sublime.  EXCELLENT."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Georgia",
+                    "Name": "brad.p.warren@gte.net",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LEDIYJ43ZHJR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,965,111"
+                },
+                "Date": "on September 12, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dr. Lewis is not only a leading planetary scientist and a fascinating author, he is a visionary.  He proposes a practical means of producing vast personal wealth and unlocking the chains that bind us to our beautiful  Earth.  The frontier has always been in the mind and has always promised  freedom and opportunity.  John Lewis invites his readers to throw of the  shackles of Earth dependency and (to misquote) Go up young man!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 14, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I was eagerly anticipating reading this book, and it was okay when I began, and there are many good, interesting, and even exciting ideas throughout the book.  However, for some reason, I kept coming away from a  reading of the book with a sort of \"flat\" almost bored feeling.  The author himself, I support totally (especially in his involvement in the  SpaceDev companies plans for \"commercial space development\").  I  would still recommend this book to anyone intersted in space, and  especially commercial development of space (esp. of course in relation to  asteroids, etc.), my own feelings on reading the book nonwithstanding.  Almost certainly good for those looking for expert sources, research, etc."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "",
+                    "Name": "Magnifying Glass",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FFYQZPUGOX58/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#14,667"
+                },
+                "Date": "on August 12, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "Kent, WA United States",
+                    "Name": "Jason H. Martin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JUZIG5PG1021/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,628,767"
+                },
+                "Date": "on September 15, 2002",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": "This is a decent book, but it isn't as cohesive as I was hoping. The individual chapters are almost like seperate ariticles strung together. An interesting read, but not as good as 'The Millenial Project'. On the other hand it is more hard science then the other book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Creative Director in Seattle, Wa, USA",
+                    "Name": "Al Doyle",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16PUKNMTXSMJS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,800,237"
+                },
+                "Date": "on January 1, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Mining the sky is an encouraging answer to those who worry about overpopulation, global warming, and environmental degradation.  It challenges us to expand our limited perspective and seek solutions to the worlds problems in unconventional places.  Lewis very logically and reasonably explores the potential wealth of our solar system, and lays out a very feasable framework to follow in order to utilize the seeminly unlimmited resources in our backyard."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "",
+                    "Name": "Wikileaker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XE2JOZZKMEG6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#89,937"
+                },
+                "Date": "on March 24, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "Barry Haworth",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAK0RRP0RLE8B/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,139,863"
+                },
+                "Date": "on November 23, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "For those who wonder why some people make a fuss about space exploration, this book provides answers.  For those who are enthusiastic already, this book will help convince your friends.  Easily readable, this book contains  a wealth of detail about the solar system, what the moon and different  types of asteroids are made of and how the material can be accessed and  used.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Montr\u00e9al, Qc Canada",
+                    "Name": "Joan Roch",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AFTART68G0E6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,610,008"
+                },
+                "Date": "on October 27, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "The numbers are really what impressed me in this book... especially because they are really conservative! The potential of our own little solar system is absolutely incredible, and Lewis explains it very well. The real fiction in this book is the political agenda, that has already proven it's absolute lack of vision... If only they read those books."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "Seattle - USA",
+                    "Name": "J. A. Eyon",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RMWCN45F0PF9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#74,223"
+                },
+                "Date": "on July 27, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "Hawkeye",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LIMQOBHBAQCL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#34,262"
+                },
+                "Date": "on July 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "Austin, TX USA",
+                    "Name": "Anaxagoras",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31HAHF6ZD5PNV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,620,442"
+                },
+                "Date": "on May 19, 2001",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "",
+                    "Name": "LibertyCap",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A176YAQ6Q5UPRV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,211,657"
+                },
+                "Date": "on May 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book should be required reading for American manufacturing CEOs (those that are still here) -- to give them ideas and set them percolating -- and by politicians -- to get them the hell out of the way and get this hopeful future moving.  Lucid, engaging, with hardnosed facts and data generously spiced with imaginative vignettes of \"how it could be.\"  While we've missed the target of \"L5 by '95\" -- at least 1995, anyway -- this book prescribes a path that if followed with a modicum of enthusiasm, could result in hitting that target with ease by 2095...perhaps in another solar system entirely."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "RG",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30J4X4ZBOLBDB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,840,984"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "John S. Lewis' approach to space expansion is a well thought out balance of science & capitalism.  In this age of government deficits an approach combining exploration and profit provides a path for restructuring NASA or even independent commercial exploration.  A reader does not need a doctorate in rocket science to enjoy and learn from this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Converse, Texas United States",
+                    "Name": "Joseph Roberts",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LSZH7RK5MPDT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,381,538"
+                },
+                "Date": "on May 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The author presents a realistic and compelling plan for bootstrapping civilization into space. I'm not entirely certain that helium fusion research is advanced enough to follow the outlined plan, but the overall plan is still viable."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "PARKERSBURG, WV, US",
+                    "Name": "H. Shane Mills",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6UY4TDZJ8016/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,657,662"
+                },
+                "Date": "on September 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Numbers don't lie. I would like to see a moon colony just so we get the technology figured out. This book explains in detail why other resources would provide better returns. Changed my mind."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "Atlanta, GA",
+                    "Name": "Milton C. Walker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26OHQSXE3MMOP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,243,260"
+                },
+                "Date": "on February 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "So far this book is exactly what I expected. I'm not quite finished but from what I've read so far and things are great."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E6X3N984ZYNA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,315,322"
+                },
+                "Date": "on February 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "So much worth out there and all we need is a taller ladder and a strong dream to get back in front of the future."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Edinboro, PA USA",
+                    "Name": "John D. Wheeler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EBKBUZYPUR0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,754,440"
+                },
+                "Date": "on March 11, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book is a good example of not judging a book by its cover, which is the only \"pretty picture\" it has.  He appears to be all over the map, discussing the history of space exploration, planetary science (which  seems to be his specialty), and economic possibilities.  However, if you  want to make money in outer space, it all fits together.  Otherwise, you'll  probably find a chapter or two you love and a chapter or two you'll hate."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "Atlanta, GA USA",
+                    "Name": "Jason B.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17EM4DXPMLGW1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,401,970"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This was a very interesting book that laid out a lot of information about the planets and asteroids in our neighborhood."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "Silicon Valley, California",
+                    "Name": "Gregory L. Schaffer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/API93LCKJIF7K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,617,501"
+                },
+                "Date": "on December 22, 1999",
+                "Helpfulness": 0.5087719298245614,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "KALAMAZOO-PORTAGE-MATTAWAN-MI",
+                    "Name": "MAXR",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI8GGG21OSFNH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,438,961"
+                },
+                "Date": "on November 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "COULD BE BETTER -  FACTS ARE STRETCHED OUT -  LIKE THE BOOK BUT SCIENCE IS TOO FAR FETCHED MORE LIKE FICTION- NEEDS IMPROVEMENT FOR NEXT EDITION"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "31%",
+                    "Location": "Legion clubhouse",
+                    "Name": "Blue Tyson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X8VZWTOG8IS6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,802,210"
+                },
+                "Date": "on September 3, 2007",
+                "Helpfulness": 0.125,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Las Vegas, NV USA",
+                    "Name": "Eric Kassan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S9FDZSHZW79Y/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #104,815"
+                },
+                "Date": "on July 28, 2005",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "10%",
+                    "Location": "Petaluma, CA",
+                    "Name": "Frank Riley",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BTLKWF8RVG63/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,126,476"
+                },
+                "Date": "on December 5, 2010",
+                "Helpfulness": 0.02631578947368421,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mining-Sky-Untold-Asteroids-Planets/product-reviews/0201328194/ref=sr_1_61?s=books&ie=UTF8&qid=1432360505&sr=1-61&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "36"
+    },
+    "Salesrank": "#49,731",
+    "Timestamp": "2015-05-23 01:55:07.511847",
+    "itemurl": "http://www.amazon.com/Mining-Sky-Untold-Asteroids-Planets/dp/0201328194/ref=sr_1_61?s=books&ie=UTF8&qid=1432360505&sr=1-61&keywords=mathematics+books+paperback"
+}

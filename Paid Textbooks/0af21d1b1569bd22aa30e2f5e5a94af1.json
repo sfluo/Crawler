@@ -1,0 +1,57 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Elementary Nuclear Theory: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.79",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "inventor in Terra, Sol 3",
+                    "Name": "W Boudville",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#915"
+                },
+                "Date": "on July 4, 2006",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "32%",
+                    "Location": "",
+                    "Name": "Bookworm",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12FKXJPT9S17X/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,179,921"
+                },
+                "Date": "on January 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "professor bethe was an extremely capable nuclear  scientist and the way he has explained the elementary theory is a subject of great interest as reall the book stands up for its name and all the required explanations are simple and lucid a must read for those in the subject"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "Lakeside, Ca United States",
+                    "Name": "Roger Bagula",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,334,070"
+                },
+                "Date": "on April 19, 2008",
+                "Helpfulness": 0.18181818181818182,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Nuclear-Theory-Second-Physics/product-reviews/0486450481/ref=sr_1_82?s=books&ie=UTF8&qid=1432361602&sr=1-82&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#579,735",
+    "Timestamp": "2015-05-23 02:15:45.344865",
+    "itemurl": "http://www.amazon.com/Elementary-Nuclear-Theory-Second-Physics/dp/0486450481/ref=sr_1_82?s=books&ie=UTF8&qid=1432361602&sr=1-82&keywords=mathematics+books+paperback"
+}

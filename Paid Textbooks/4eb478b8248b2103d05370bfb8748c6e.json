@@ -1,0 +1,391 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Mathematics and the Physical World (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$16.85",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Ca",
+                    "Name": "Kersi Von Zerububbel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16W8HTCIWYDZ6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#4,864"
+                },
+                "Date": "on January 24, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is geared to the general reader who has a cursory knowledge of mathematics.  The chapters are organized around physical phenomena and the math behind their explanation.  The result is a charming and VERY useful book.  I have the 1970 edition which is quite worn from frequent use.  The chapter titled, Differential Equations - The Heart Of Analysis, is exceptionally beautiful and pertinent.  Reading this book is akin to a treasure hunt.  There is page after page of mathematical discovery.  Reading the chapter on  Motion Of Projectiles  made me terribly angry at the banal way in which this topic is handled in high school texts.  Things such as quadratic equations and the law of gravitation are explained very well.  I sincerely believe that this book should be a required text for High School math students.  Highly recommended.  The Dover edition is very affordable so even if it means foregoing a meal, do it.  Buy this book!  Well worth your time."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "San Mateo, CA USA",
+                    "Name": "Peter A. Farrell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PYBSUI4R4FXO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #658,446"
+                },
+                "Date": "on May 12, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "Los Angeles CA",
+                    "Name": "CubeBoy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJYDAP8EBWAGL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,941,947"
+                },
+                "Date": "on March 23, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "West Lafayette, Indiana, USA",
+                    "Name": "Patrick K Notz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XM4BA938W6M1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,507,145"
+                },
+                "Date": "on May 19, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I agree with the above review and would simply like to add my own thoughts.  The book illustrates the fascinating way in which mathematics, society, religion, politics and of course physics have affected each other  (it goes both ways!) through out the ages.  Furthermore, the author nicely  illustrates the processes by which people think and how those processes  have also changed through the ages (i.e., The Age of Reason versus The  Renisance).  This book left me with real insights as to the nature and  limitations of the current state of mathematics and physics.  Things are  not as they seem, my friend!  Lastly, the author displays an appreciation  for the humor and irony of the history which makes this book hard to put  down at times.  I never thought a math/history book could be a \"page  turner\"... Read it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 2, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "UNITED STATES OF AMERICA",
+                    "Name": "THE HAPPY READER",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26LE5CMCI6JSR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #151,041"
+                },
+                "Date": "on June 13, 2007",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "CPA,CISA, Published Author in Bronxville, New York USA",
+                    "Name": "Dr. Joseph S. Maresca",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24505CR98NLLV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#705"
+                },
+                "Date": "on January 17, 2004",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Worcester, MA United States",
+                    "Name": "Michael F Gosselin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U2YC0PG0RCO4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,161,573"
+                },
+                "Date": "on December 29, 2001",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": "What a journey!  This book will never age with time.  A must read for those interested in the humanistic value of a subject concider cold and forbiding by some who are disallusioned about what mathematics really is and its purpose in the history of mankind.  A book that could only have been written by Morris Kline,an educator who saw the beauty of the subject. I can say no more."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Mr. B. Franks",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3904MXZK446UQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,903,813"
+                },
+                "Date": "on September 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "New York, New York USA",
+                    "Name": "Daniel Hunter",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JRBCLPBFGLRW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,337,122"
+                },
+                "Date": "on October 11, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Kline's work is a breath of fresh air and an electric shock all in one.  His handling of both the history of math and the math itself intertwine so well that you finish the work actually \"knowing\" for sure what you thought you knew in high school or college math classes.  Having read this book one could argue that Kepler was the greatest scienctific mind ever, and actually be able to defend the thesis.  A must read."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Test Preparation in Worldwide",
+                    "Name": "Let's Compare Options Preptorial",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#202"
+                },
+                "Date": "on June 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "Albuquerque, NM, USA",
+                    "Name": "John P. Jones III",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YXRT2XIJIO57/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#673"
+                },
+                "Date": "on July 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "",
+                    "Name": "L.S. Chang",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKHOCYPYUDV45/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,589,743"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "3",
+                "Text": "I bought this book because I was impressed with Morris Kline's \"big\" book, Calculus: A physical and intuitive approach.  But I did not learn much from this book in question since Kline already provided in depth explanations in his calculus book.  I also have bought Morris Kline's Mathematics for the Non-mathematician, and a lot of the material mentioned in that book is repeated here, which made reading this particular book a rather dull experience.  This book is only useful for the lessons in the history of mathematics it provides.  If you seek mathematical uplift and you have considerable math experience, I would suggest you buy Kline's calculus book instead, which also goes through basic physics very well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Keith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OYIPW1951W6F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,946,757"
+                },
+                "Date": "on September 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Tianjin, China",
+                    "Name": "Juvenn Woo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXPD2YF2QD54U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,360,790"
+                },
+                "Date": "on January 1, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Really an excellent book, although it is philosophy of math, it is easy to understand. We could know then, how important the math in promoting the society!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "P. Judge",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JZWF74IEGAVI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,156,733"
+                },
+                "Date": "on June 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you are interested at all in any scientific ideas or knowledge than read this book. If you're not, than read this book and you will be."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Gbnet",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AITS8UVG88K68/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,266,237"
+                },
+                "Date": "on May 9, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Bandera, TX",
+                    "Name": "JG Bronson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IL2MT944PWW0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#21,586"
+                },
+                "Date": "on November 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book gives you an excellent introduction to the role of mathematics in real life without making heavy demands on your comprehension of mathematics.  The writing is graceful and often amusing. I expect to hear screaming because the author stresses how much Western civilization advanced because mathematics was important: two ideas many find offensive."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "Englewood, CO United States",
+                    "Name": "Bruce Bain",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE2D8BPIT6NGU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#46,031"
+                },
+                "Date": "on September 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "travel light and smiling",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZGNA0CBWK5GV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#38,511"
+                },
+                "Date": "on December 13, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this to replace a copy I gave away.  Kline provides an insight as to how math is to be used by those of us not residing in the Ivory Tower.  This book was an important part of overcoming a serious mental block."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Oregon Pineapple",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W1RRTAIMQA30/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,070,185"
+                },
+                "Date": "on October 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I studied Chemical Engineering as an undergraduate and got to see more than my fair share of mathematics during that time. I got through the program, but there were a lot of fragmented mathematical concepts in my mind. Ten years after graduation I'm finding an interest in revisiting old math textbooks and this book has been a godsend. For me, it shows how the various fields of math fit together. There are just enough anecdotes to make the overall concepts memorable. Morris is a great writer and it feels like he is on your team as he explains the concepts. I started tutoring my 10 year old nephew and I'm taking lessons from this book to make sure he has a sound foundation for more advanced concepts later on. I absolutely loved this book and would recommend it highly."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Florida, USA",
+                    "Name": "Sustainable Fuels",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R07UAR1FW7NJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,518,458"
+                },
+                "Date": "on June 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I highly recommend both Mathematics and the Physical World\" as well as \"Calculus: An Intuitive and Physical Approach\" both of which were authored long ago by Morris Kline.  If you are looking for a refresher or an aid for a current class, Kline's books will prove highly valuable.  The only way I was able to read both of these books is through the efforts of Dover, who has been reissuing out of print science and math books for many years.  I was very happy to see that Dover is making at least some of these available in Kindle format."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "Fredericksburg, VA",
+                    "Name": "V. T. Franks",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8B3W5790ZD5S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #802,223"
+                },
+                "Date": "on February 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book puts Western culture in context.  All the threads that didn't come together when you read philosophy, history, science, and religion now form a tapestry of intelligibility.  It is very readable, engaging, and insightful.  You don't need any particular knowledge to read this book; there are no formulas.  Just a story of human striving and intellectual pursuit that will speak to everyone."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Goodyear, AZ United States",
+                    "Name": "Brian",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13K349MRIAT6V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #493,351"
+                },
+                "Date": "on November 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent work. Very enjoyable read. Exellent for those studying history of math and science. Poor execution of port from print to digital: frequent errors that appear to be generated by an OCR scan that wasn't thoroughly proofed, which probably won't trip up math veterans. I'm about 30% through with it and will update this review if warranted."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "george mchugh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17P4XZ3U34XD3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #912,632"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Highly recommended for a novice like myself. Gives the reader much needed perspective in the history of ideas in an unthreatening and engaging way. Great read."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "41%",
+                    "Location": "boynton beach, fl USA",
+                    "Name": "russell lawrence",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25XQWQLVXOOSF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,317,191"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great Book.......Very Interesting Content.......Really Like the Way He writes........Will Buy More of His Books.......A+A+A+A+A+A+A+A+"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Norberto",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B3TGHJT6ON1K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,003,081"
+                },
+                "Date": "on December 6, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "when we look at the world through the lens of mathematics and physics, we enter a world almost magical. The author shows that very well!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Atlanta, GA USA",
+                    "Name": "gojefferson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23G9OITGO2XNX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,501,407"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": 0.2,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "San Jose, CA United States",
+                    "Name": "K. Jazayeri",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MAP0L7CCKTD5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,479,890"
+                },
+                "Date": "on October 4, 2008",
+                "Helpfulness": 0.16216216216216217,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Physical-World-Dover-Books/product-reviews/0486241041/ref=sr_1_7?s=books&ie=UTF8&qid=1432358381&sr=1-7&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "29"
+    },
+    "Salesrank": "#116,858",
+    "Timestamp": "2015-05-23 01:23:30.158219",
+    "itemurl": "http://www.amazon.com/Mathematics-Physical-World-Dover-Books/dp/0486241041/ref=sr_1_7?s=books&ie=UTF8&qid=1432358381&sr=1-7&keywords=mathematics+books+paperback"
+}

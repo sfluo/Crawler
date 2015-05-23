@@ -1,0 +1,157 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$42.95",
+    "Name": [
+        "Physics of Shock Waves and High-Temperature Hydrodynamic Phenomena (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$32.55",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Los Alamos, NM United States",
+                    "Name": "D. Mihalas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EPOFZZVBHEFJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,156,057"
+                },
+                "Date": "on April 18, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "Somewhere on Trexalon in District 268",
+                    "Name": "Utah Blaine",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AW8XP45YVIIZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#92,741"
+                },
+                "Date": "on October 8, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This majisterial work by the famous Russian physicist/astrophysicist Yakov B. Zeldovich is the first and last book to refer to when studying the hydrodynamics of compressible fluids at high temperatures.  The author's primary goal is to describe (as well as possible in a roughly 1000 page text) the physics, chemistry, and radiation diagnostics (i.e. radiative transfer) of a 20 kt thermonuclear explosion in the atmosphere.  This book will be of use to a wide range of physicists and astrophysicists in other areas of research as well, though.  The book begins with a (brief) discussion of the basics of the physics of shocks (and the hydrodynamics/thermodynamics of supersonic flow in general).  More detailed topics include a detailed discussion of the ionization of the air (i.e. a change of adiabatic index from 7/5 to 5/3), the broad band spectrum of the explosion, and many others.  Any absolute must have for any scientist studying compressible/supersonic flows."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "A. I. Haque",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S1SZVK8JWJZX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #818,090"
+                },
+                "Date": "on October 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Pullman, WA, USA",
+                    "Name": "street_hawk",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30ARBD5K6MQK4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,273,836"
+                },
+                "Date": "on November 29, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Roger O. Bangerter",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11TA8Q8Y37GWX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,419,543"
+                },
+                "Date": "on June 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is a classic.  I have used it for years.  It originally came in two volumes.  Someone borrowed my old Volume I and failed to return it.  I now have both volumes in one convenient package."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "Timonium, MD USA",
+                    "Name": "William R. Franklin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SFTMZMKZ4IT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#25,325"
+                },
+                "Date": "on October 26, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The fields of shock waves and high temperature hydrodynamics have been exhaustively examined in the literature and, while more recent treatments exist, there is still no better introduction than this enduring classic.  The mathematically correct presentation of most of the relevant physics quickly enables applied mathematicians and engineers working in these disciplines to achieve the level of understanding necessary to start producing useful results.  It can be read in its entirety as a solid introduction to more specialised topics or simply serve as an excellent reference.  And the price of this beautifully reprinted volume from Dover is irresistible."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Manhattan Beach, CA",
+                    "Name": "Master Universe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BFSPKYNN8Y9R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #369,526"
+                },
+                "Date": "on August 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The author is the \"father\" of high temperature, high pressure physics.  While not discussed directly, clearly this book is a data dump of the knowledge in the USSR developed during their nuclear weapons programs..... many of the physicist that developed the Soviet nuclear capabilities were Jewish and this book should be a tribute to their contribution (in particular in light of Stalin's purge of the Jews from all high positions)."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "New York, NY",
+                    "Name": "Oded Regev",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QCVR7W7RAKKA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,704,474"
+                },
+                "Date": "on February 25, 2006",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "24%",
+                    "Location": "",
+                    "Name": "Catherine Lewis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29W2U9TWXDKUX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,326,658"
+                },
+                "Date": "on October 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Happy with purchase."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "Vienna, VA United States",
+                    "Name": "kpdooty",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UON1Y1T8XJS1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,706,183"
+                },
+                "Date": "on July 4, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This rare gem presents theory, experiments, and applications in a comprehensive and accessible manner. This is a must-have for theorists and experimentalists: it brings theorists back to earth, and gives experimentalists scientific rigor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 2, 2002",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "I am happy to see this outstanding text in print once again.  This book is a must have for all who are interested in the subject of radiation-hydrodynamics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Shock-High-Temperature-Hydrodynamic-Phenomena/product-reviews/0486420027/ref=sr_1_79?s=books&ie=UTF8&qid=1432361602&sr=1-79&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#638,671",
+    "Timestamp": "2015-05-23 02:14:36.608828",
+    "itemurl": "http://www.amazon.com/Physics-Shock-High-Temperature-Hydrodynamic-Phenomena/dp/0486420027/ref=sr_1_79?s=books&ie=UTF8&qid=1432361602&sr=1-79&keywords=mathematics+books+paperback"
+}

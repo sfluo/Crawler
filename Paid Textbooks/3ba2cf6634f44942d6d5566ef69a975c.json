@@ -1,0 +1,122 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Lucifer's Legacy: The Meaning of Asymmetry (Dover Books on Science)"
+    ],
+    "OfferPrice": "$13.83",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "",
+                    "Name": "Steve",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TSZE3G4ASBGR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #530,828"
+                },
+                "Date": "on December 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I think this was a great book, although it seemed to dwell mostly on anti-particles.  It was easy to read and understand by the average person with an interest in astro physics. It doesn't boggle down one's mind with the math.  I think it's a book that everyone with an interest in this field should read.  I'm glad I read it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Robdel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FSB81ZF3V65C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,517,322"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I think this is the best book which Frank Close has written. It explains the consequences of asymmetries in nature and how the underlying symmetries are broken. I learnt quite a bit as to how it operates in biological systems. I thoroughly recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Danie van Zyl",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFLR5X1PZVX6N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,789,616"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Not for the physics novice. At times it gets intricate, but worth persevering."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "boulder colorado",
+                    "Name": "James H. Waters",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16ECPTYZQ2AG6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #178,876"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is a little off beat and I'm not quite at the level of scientific expertise that I can offer a critique. I'm recommending it because there are a lot of ideas here that you don't encounter elsewhere so it's quite stimulating. Of course, he may be dead wrong about these things - I can't say - but it's unique."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "",
+                    "Name": "BrianBrawdy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APW1MFJJT6OK5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,917,955"
+                },
+                "Date": "on January 2, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "It was as captivating as I hoped it would be. Though the title caught my eye on Amazon, the writing kept me glued to my iPad until the very end!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "New Orleans",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAKIB3WYYW1IJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #248,560"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "VIRGINIA BEACH, VA, US",
+                    "Name": "Chad C Kuske",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HSWQBGPJ7SC7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,692,731"
+                },
+                "Date": "on February 3, 2014",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "5",
+                "Text": "Very interesting, a lot of in depth insight into symmetry and it's breaking.  Highly recommend to anyone interested in the ideas about how this all came to be."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "Worker in a library. in Teramo , Italy",
+                    "Name": "Edoardo Angeloni",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KBV0G9ULFG7V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,801,441"
+                },
+                "Date": "on May 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lucifers-Legacy-Meaning-Asymmetry-Science/product-reviews/0486491676/ref=sr_1_90?s=books&ie=UTF8&qid=1432361778&sr=1-90&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#155,464",
+    "Timestamp": "2015-05-23 02:18:42.684484",
+    "itemurl": "http://www.amazon.com/Lucifers-Legacy-Meaning-Asymmetry-Science/dp/0486491676/ref=sr_1_90?s=books&ie=UTF8&qid=1432361778&sr=1-90&keywords=mathematics+books+paperback"
+}

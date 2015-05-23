@@ -1,0 +1,365 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Calculus of Variations (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$10.25",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "San Jose, CA USA",
+                    "Name": "Graham M. Flower",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OMCIPXZRBM0A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #672,121"
+                },
+                "Date": "on March 25, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I used this book for a first year grad course in the calculus of variations some years ago. I found the book to be clear and pretty readable. I found the problem sets to be quite workable  and covered the material well. I liked the fact that there were answers to many of them. The book is more rigourous than the treatments of this subjects found in math methods books like arfken but it is not highly abstract. (a style found in many  math books at this level, and more difficult for me, not a  professional mathematician, but a scientist) In fact I have found this quality to be a characteristic of most of the russian applied mathematics books translated by Richard Silverman, many  of which are now published by Dover. This practical, clear, and rigourous approach of these books is excellent and I think almost all of these books on Dover have found their way onto my shelves."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "",
+                    "Name": "henrique fleming",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,555,569"
+                },
+                "Date": "on December 28, 2001",
+                "Helpfulness": 0.9479166666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "Old Town, Maine United States",
+                    "Name": "Kevin Roberge",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MCJ4HD1PPT7Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #837,892"
+                },
+                "Date": "on November 25, 2003",
+                "Helpfulness": 0.9571428571428572,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "Denver",
+                    "Name": "M. Schneider",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATRDW3KWRUE11/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #817,490"
+                },
+                "Date": "on February 24, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Ok, not everyone needs to (or wants to) know calculus of variations.  But if you are among the ones who, this is a great book to get started with (assuming you are in grad school and have a decent handle on calculus and some basis in dealing with differential equations).  The text is clear and concise, and the financial investment is minimal.  A good buy!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Simon Fraser University, Burnaby, B.C. Canada",
+                    "Name": "Lawrence Lee",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39ADWHHRF232D/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,801,752"
+                },
+                "Date": "on June 11, 2003",
+                "Helpfulness": 0.918918918918919,
+                "StarRating": "5",
+                "Text": "Readable books on Calculus of Variations are hard to come by, if not non-existent. This is one of the clearest and most readable and self-contained books in the topic. I used it in a fourth year course at Simon Fraser University, BC, Canada. This is an introductory book meant for undergraduates and it is very well suited for this level. I strongly recommend that all serious students in Physics, Chemistry, engineering, and computing science to take a serious look at the book as a starting point in studying this most underated and relevant topic as a necessary mathematical foundation. Virtually all fundamental laws of Physics, Chemistry, and Engineering have their origins from some form of variational prinicples. If anyone is interested in pursuing this topic, this should definitely be the first book one should read. The student should be equipped with at least one introductory course in Real Ananlysis in order to start studying Variational Calculus. Otherwise, the readable may not find this book readable. Just a practical (cook-book) style applied mathematics course in Calculus and Differential Equations is inadequate as preparation to study this topic. I most sincerely congratulate the author in having done such a superbly well organized job in writing such a highly readable book in this challenging and important topic."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "X. Chen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L8QYVRSK1TGV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,471,271"
+                },
+                "Date": "on January 20, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a physicist I want to find a book to refresh my memory on theoretical mechanics. I came across this one, and after reading its first 4 chapters in continuation, I kow I don't need any other book. What a treat! Written by a past master, the book costs you next to nothing; yet as it's written by sure hand, it hasn't slightest pretention, just plain and insightful, natural and smoth flow, leads you almost effortlessly fowward. Even though I learned the subject before, I don't know of or even imagine a better exposition. Wow, I started to love Russian mathematicians."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Haifa Israel",
+                    "Name": "kazooo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZFDMFPVR6P8Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,273,377"
+                },
+                "Date": "on July 10, 2000",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": "This book is intended primarily for graduate students with math background  who wish to expand their applied math skills. Originally a Russian  textbook, it offers an excellent overview of the theoretical background for  the field without real heavy mathematics. All that is required is knowledge  of calculus  and a little ODE/PDE. Many classical examples, has an  introduction to applications such as analytical mechanics, optimal control  theory and approximate solution methods. The last edition I am aware of is  pretty old, so this book should be tough to come by. A new edition would be  welcome, with more examples and other applications."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "",
+                    "Name": "Heraclitus Junior",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27JYKLMZNEW7G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,515,705"
+                },
+                "Date": "on July 4, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "K. Bialik Israel",
+                    "Name": "Eytan Suchard",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OENAL7YCQ2DP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,761,103"
+                },
+                "Date": "on January 24, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "John",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CUX4X0L8QT9M/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,383,535"
+                },
+                "Date": "on October 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is absolutely fantastic, easily the best Dover book I have bought. The derivations are very clear and, if not easy to understand, than at least understandable. The level of mathematical rigor is satisfactory for comprehension, but not so much that the book is not practical. And the proofs are written with a minimal amount of mathematical jargon, making them possible to follow for non-mathematicians. Could be the only book on calculus of variations you ever need!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "Brian Jo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXDLJ701AFPVD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #368,378"
+                },
+                "Date": "on July 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "MA, USA",
+                    "Name": "rewt",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQK71NYNXEGJZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,942,563"
+                },
+                "Date": "on February 18, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I like this book, certainly what I have read of it. I'm now digging around near page 75, and it struck me that for the first time I really \"get it\" - In particular, this was about the use of the Legendre transform. The authors start with a very gentle introduction of it, and then, while things become more abstract, the text never jumps too far and never leaves the reader too much in puzzling. It's ought to be studied though, and it's not \"easy\"."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "USA",
+                    "Name": "MSE fanatic",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#44,931"
+                },
+                "Date": "on December 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Although I think this text is very good I found it hard to follow for someone who doesn't actually have a mathematics degree. The problems which are based off of physical problems are really good especially if your coming from a science and engineering background."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "Pedro Pontes",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V83Z1Y7NGGT7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,353,179"
+                },
+                "Date": "on December 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the best book in calculus of variations. Really need a introductory course on real  analysis to understand the proofs. As usual the russians write the best math books."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Nimish",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IDZP1O7GR1LZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,691,663"
+                },
+                "Date": "on August 27, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "tmchale",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B83N3SAQRU21/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,319,264"
+                },
+                "Date": "on August 12, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I went into this with only a background in (theoretical) linear algebra (no differential equations or real analysis) and I was pleasantly surprised that I could follow almost everything in this book. The book is also nicely paced, arriving at the Hamilton-Jacobi equation and Noether's theorem fairly early on. I also appreciated the final section on variational problems involving multiple integrals. In short, this is a concise, readable book and I believe the best introduction to the subject. The one complaint I have is that the problems (perhaps added by the translator) are not at the level of the text. They are too often just number fiddling instead of real proofs."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "42%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SB95NR0R64HN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,066,001"
+                },
+                "Date": "on March 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is quite thorough in that it contains much of the relevant information. I recommend finding additional references to understand some of the unique topics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "Cali, USA",
+                    "Name": "diligentreader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35WQZYONCR2UE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #16,087,042"
+                },
+                "Date": "on October 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent text on Calculus. Dr Gelfand is one of the greatest teacher who has a knack for explaining and teaching in the most simplest way to understand"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "Jess R.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SWQ4NXJBHLSC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,057,843"
+                },
+                "Date": "on October 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent, clear, concise.  Fills in the large mathematical gaps that are always ignored in courses on Lagrangian mechanics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "",
+                    "Name": "C George Brockus",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N68GPI5ASJZG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,758,120"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I always needed this education."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 16, 2003",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": "This is one of the best advanced math textbooks I have ever seen. It covers all of the important material, but is not tedious and focused on minute details like some books. Everything in it can be understood by an advanced undergraduate in math or related sciences."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LZ342OTN2SMU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,351,129"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Equations and mathematical symbols are impossible to read. Do not purchase technical books until kindle readers support them."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "",
+                    "Name": "Nilton Silva",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19X9C9RHNV3EE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,314,851"
+                },
+                "Date": "on April 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "Garden Grove, California USA",
+                    "Name": "Dr. Robert Conger",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C17XU7GRHZ34/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,321,301"
+                },
+                "Date": "on January 10, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "This is a classic text and I would recommend it to graduate students and mathematicians who need a review of the subject.  Great for us physicists as well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "",
+                    "Name": "Steven Marc Zimmerman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A184ZVE7XC3TQM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,676,858"
+                },
+                "Date": "on May 14, 2007",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "This book is a \"must have\" for those wanting to study topics in functional analysis."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "Worker in a library. in Teramo , Italy",
+                    "Name": "Edoardo Angeloni",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KBV0G9ULFG7V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,333,272"
+                },
+                "Date": "on December 19, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "RI United States",
+                    "Name": "J.R. Towers",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D4YSP279Y5K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #316,784"
+                },
+                "Date": "on April 4, 2010",
+                "Helpfulness": 0.23809523809523808,
+                "StarRating": "2",
+                "Text": "Good if you know the subject or are a mathematician. Arfken's Mathematical Methods for Physicists book has a section that is better than this book. The problem is that it is not extensive."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/product-reviews/0486414485/ref=sr_1_35?s=books&ie=UTF8&qid=1432359343&sr=1-35&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "27"
+    },
+    "Salesrank": "#53,903",
+    "Timestamp": "2015-05-23 01:40:15.410526",
+    "itemurl": "http://www.amazon.com/Calculus-Variations-Dover-Books-Mathematics/dp/0486414485/ref=sr_1_35?s=books&ie=UTF8&qid=1432359343&sr=1-35&keywords=mathematics+books+paperback"
+}

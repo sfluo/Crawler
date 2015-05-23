@@ -1,0 +1,482 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Basic Electricity (Dover Books on Electrical Engineering)"
+    ],
+    "OfferPrice": "$12.65",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "98%",
+                    "Location": "Houston, Texas",
+                    "Name": "Dennis Cody",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADYFZSUR4K072/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,502,571"
+                },
+                "Date": "on August 18, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have been an Avionics Tech. for 30 years and bought this book for my son-in-law. I have had a copy and used it for years to brush up on sometimes forgoten electrical principals. This book is so good that the aircraft technical schools issue it to aviation mechanics for the AC and DC basics. If you want to understand electricity, motors, generators, AC/DC theory...This book is for you!!!!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "Tim Fredericksen Jr",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26EKBNFNNM67C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,015,941"
+                },
+                "Date": "on June 2, 2000",
+                "Helpfulness": 0.9487179487179487,
+                "StarRating": "4",
+                "Text": "This book is a fantastic reference guide to those interested in the field of Electricity.  I found it extremely useful, both as a guideline for choosing my rating in the Navy's Nuclear Power Program, and as a basic  reference guide in application.  It is well thought out, and, laid out in a  logical straight forward matter. This book, coupled with some basic  knowledge of electricity, will give you a broad theoretical background in  this fundamental subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 29, 1998",
+                "Helpfulness": 0.96875,
+                "StarRating": "5",
+                "Text": "Well presented,well organized,  easy to follow, many many illustrations. This book explains in very easy to understand language tha basic principles of electricity. I highly recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "",
+                    "Name": "Ronco",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U8LAYT2IDI4C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #510,918"
+                },
+                "Date": "on January 29, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Louisiana",
+                    "Name": "c",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NYZCB8EE3A41/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,335,304"
+                },
+                "Date": "on February 19, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "California",
+                    "Name": "Carl Marks",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATUY6PJDVVFZH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #255,866"
+                },
+                "Date": "on October 18, 2009",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Brisbane, QLD Australia",
+                    "Name": "Mr. Shannon Kane Drenan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AI5YV47HR2AJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,518,386"
+                },
+                "Date": "on May 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a really good textbook for the person who is just geeting in to the field of electricity. I am studying to become an Aircraft Maintenance Engineer and I found this book extremely helpfull. It doesn't go in to too much depth which is good because you don't get confused with what you are tryingn to learn. All in all, a really good book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Phoenix, AZ  USA",
+                    "Name": "KnottyFella",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3COJ370SPWHL0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #107,366"
+                },
+                "Date": "on September 3, 2007",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "Independence, Utah",
+                    "Name": "C. Dee Throckmorton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R35AAX9G42FW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,051,589"
+                },
+                "Date": "on January 30, 2010",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Unknow",
+                    "Name": "simonzz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349HM4BN270VB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,783,938"
+                },
+                "Date": "on November 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Bakersfield, CA",
+                    "Name": "William A. Green",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QGEZB0YJG3WW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,766,833"
+                },
+                "Date": "on February 10, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This Book is a no BS lesson in basic electric that has stayed with me for years, if you can't get that new double talk,or just want to increase your understanding of electricity, this book is bottom line, to the point, easy to understanding..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "",
+                    "Name": "Peter Spaker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYCSG04ZCIU78/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#20,538"
+                },
+                "Date": "on August 2, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Philadelphia, PA",
+                    "Name": "Poison Ivy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7FWKU4CGYVG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #389,467"
+                },
+                "Date": "on June 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For a novice like me, sometimes the explanations are a little complicated and don't use the most basic terms, so it's not altogether a self-study book (which is what I need) but it's very good nonetheless."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Froggyv",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O5FRN9LWX60L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,529,931"
+                },
+                "Date": "on May 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "How can a book written in 1969 be of any value you ask?  Simple, the principals of electricity have not changed.  Electricity cannot be seen, the truth is we don't know for certain how it works.  This book provides a good working knowledge for anyone who wants to know about electricity.  It also encompasses magnetism.  You can't help but learn from it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "Huntsville, AL",
+                    "Name": "Claire Jones",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35IC6ZSJOW4YE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #497,030"
+                },
+                "Date": "on June 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I work around electrical components. I never had a formal college course in electricity. This Dover book taken from United States Navy instruction manual gives me what I need - a handy guide, all in one place, of knowledge about electricity and electric components. I recommend it for anyone who needs additional material to understand electricity."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "",
+                    "Name": "johnny hernandez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZZWH0XJ9B39J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,280,035"
+                },
+                "Date": "on October 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am taking a electrical course in college to see if i really wanted to begin as a career so this book was the book we needed for class. As i continued through the book the little that my instructor did teach was in the book. It was a great price so I could not pass up."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "",
+                    "Name": "joshua",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2623J29CFZVA4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #848,735"
+                },
+                "Date": "on June 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Still the most comprehensive book on the fundamentals of electricity, They used to make all kinds of instructional books and videos for the military, back when they were completely self sufficient. This is one of those books. No need for anything else."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "24%",
+                    "Location": "Economic Adjitator",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT3ZIG8TDKLLP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,327,025"
+                },
+                "Date": "on August 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Another good book for review. The basic do not change. It is like learning ones times tables. Something that no longer is important because of the calculator. But with electricity the rules are important and this book makes for a good review."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "",
+                    "Name": "Dieter Ballmann",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A129E5ETY3QNBL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#53,384"
+                },
+                "Date": "on February 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Not what I expected.  I thought the book would be a basic introduction to various types of electric circuits and wiring.  Not so.  Lots of mathematical formulas and chapters that don't seem to logically follow each other."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "Paul A. Vincent",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1027EV8A9PV1O/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#34,349"
+                },
+                "Date": "on June 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is a great book for anyone beginning in the electrical field.  This book simplifies all the terminology for everyone to understand.  It is very easy to read and has nice diagrams for easy understanding."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "45%",
+                    "Location": "Idaho",
+                    "Name": "Patriot  Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9QMX4S04XMGU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,325,763"
+                },
+                "Date": "on December 3, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "",
+                    "Name": "Brent Clay Foster",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11OKLP61NS0DR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,554,762"
+                },
+                "Date": "on September 18, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Whats there to say about this book. Tells you about basic electricity. Good information to get you started thinking of electricity."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Moe W",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARPCA0O8S1JR6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,423,937"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Exact same book as Handbook of Basic Electricity, but physically smaller.  Diagrams and photos suffer from reduced size."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Espen Lundbye",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OHGPVYQTCQI0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,972,358"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Wery good. The book has everything. Just open it and look for it, it is there."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Kat Dumais",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APAJD8DVYRLEM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,821,167"
+                },
+                "Date": "on May 22, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Ryan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B2AOYVFNCW79/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,896,846"
+                },
+                "Date": "on July 10, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Easily one of the absolute BEST informative books I've ever read...and it's so cheap!! I wish I could buy books like this for school instead of textbooks easily costing $100-$200 each - and they're much less clear than this book. This is an awesome resource for anyone interested in electricity, or someone who just needs a nice reminder. It covers plenty of the \"electricity\" field, and gets into some stuff that's not so \"basic\" for sure. Within two weeks, I bought 4 more books by Dover Books because they're so well written and laid out; some smart authors! I would recommend this to anyone with any remote interest in electricity. Don't waste your time and money with other books!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "Roswell, NM",
+                    "Name": "FrmrBurger",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FU8C1I23SRX9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,222,424"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Bought for a gift"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "Saylorsburg, PA",
+                    "Name": "Kindle Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J79CHIUWTEB4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,022,366"
+                },
+                "Date": "on April 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "book was helpful"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "andrew carlson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AF369OWLUNABG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,356,113"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good read"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Nashville Tn. United States",
+                    "Name": "Jeff G. Knutson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EWVNWD0R36S9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,592,474"
+                },
+                "Date": "on June 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good book but not necessarily good for audio.The later navy book with the green cover has a great section on audio.Seller was great,shipped quick and a good price.A+"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "John E. Furman Jr.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13CRU2TT4AGB7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,990,156"
+                },
+                "Date": "on December 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "47%",
+                    "Location": "KAYSVILLE UTAH",
+                    "Name": "ALLRED FAMILY",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HYQ8VAIHN0VV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,735,372"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "love the on line addition that came with this purchase."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "44%",
+                    "Location": "Newcastle, NSW AUSTRALIA",
+                    "Name": "John H. Donohue",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATVI5ERKHT76R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,287,710"
+                },
+                "Date": "on October 7, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": "I wanted something really basic - for a novice.  This book was too detailed for me."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "Milwaukee WI",
+                    "Name": "V S",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K3D4H7FEM2GG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#19,383"
+                },
+                "Date": "on July 25, 2007",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "FAA-A&P in Eastern MA",
+                    "Name": "JPN850R",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC76D8BXG0PR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#75,902"
+                },
+                "Date": "on March 13, 2009",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "PA, USA",
+                    "Name": "Albert S. Peperato Jr.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VECX5MXPNNJ5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,026,079"
+                },
+                "Date": "on April 15, 2010",
+                "Helpfulness": 0.2,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Electricity-Dover-Electrical-Engineering/product-reviews/0486209733/ref=sr_1_34?s=books&ie=UTF8&qid=1432359343&sr=1-34&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "36"
+    },
+    "Salesrank": "#124,213",
+    "Timestamp": "2015-05-23 01:39:06.722164",
+    "itemurl": "http://www.amazon.com/Basic-Electricity-Dover-Electrical-Engineering/dp/0486209733/ref=sr_1_34?s=books&ie=UTF8&qid=1432359343&sr=1-34&keywords=mathematics+books+paperback"
+}

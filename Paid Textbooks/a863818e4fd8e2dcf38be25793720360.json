@@ -1,0 +1,435 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$11.61",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Japan",
+                    "Name": "Pichierri Fabio",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#11,333"
+                },
+                "Date": "on December 18, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My first contact with this book happened while following a quantum chemistry course during my graduate studies in Italy. The edition was that published in 1982 by Mc Graw-Hill (1-st edition). At that time this was a hard subject to master but this book helped me a lot in clarifying many abstract quantum mechanical concepts during the preapration of my final examination. After several years I saw in a bookshop the paperback edition published by Dover and I bought it immediately. After re-opening it after so many years, I realized how good and well written this book was, especially its introduction of the Hartree-Fock method and the mathematical derivation of the Roothan-Hall equations. In my opinion, chapter 3 remains the best ever introduction on the HF-MO theory. The remaining chapters are, nowaday, a bit outdated but some useful appendices have been added. Considering both its content and price, I give it five stars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 3, 2001",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": "If you are someone just trying to learn computational chemistry and if you have  some background from Quantum Mechanics this book is for you. It starts with 2 chapters of review of quantum mechanics including matrix notations,spin operators,many electron wf etc.If you have not  seen these subjects in quantum mechanics you will probably cannot follow the subject.(If you do not have a background you can learn necessary quantum chemistry from Pilar's book)  The most important chapter is the 3rd one- Hartree Fock which explains how does a HF calculation operate.Writers just take He+ & H2 and show how is the calcuation done.You can learn what is electron density, exchange correlation and any other basic terms from this chapter.  The next chapters are configuration interaction,pair theories , many body perturbation theory and Green's function.  The chapter with perturbation theory is really good and explains most of the core of the subject.  This book is always takes as a holy book because it is one of the first qc books that tries to examplify what do the computer programs calculate in such long periods. It compares the methods their efficiencies in determining geometries,energies,etc.  If you have a backgorund and want to learn qc you should start from here.Another book in the same level that I can recommend is the Lecture Notes In Quantum Chemistry (Ed.Roos).  If you do not know anything about computational chemistry probably the first book you have to read is Jensen. It becomes really annoying if you do not have any background when reading this book and learn nothing but you have to start somewhere and after you get familiar with the terminology you can circle around  jensen-pilar-szabo-roos learn subject and feel confident to apply the methods. If you do not want to learn the background but just methods and learn how can you calculate geometry, transition states, etc just the way to apply computational methods to chemistry than my recommendation is to read jensen than two books of Hehre \"A laboratory book of Computational Chemistry\" and \"The Molecular Modeling Workbook for Organic Chemistry\" which the later two are only available at wavefun.com.  .  Returning back to the subject of the review, some can say that this book gives just ancient methods and does not explain how can someone learn how to compute chemistry  in 24 hours.I am sorry that any branch related with quantum cannot have an idiot's guide because it needs a deeper understanding. I think people cannot use the qc methods in their jobs  without understanding how can they calculate H2 at first."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "San Francisco, CA",
+                    "Name": "Matthew M. Yau",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ARA52HB238HT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,737,232"
+                },
+                "Date": "on October 14, 2000",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "I found this treatise on quantum chemistry very useful as some of the generic physical chemistry texts like McQuarrie and Atkins do not cover more advanced topics.  The presentation on perturbation theory and self-consistent field are very detailed and clear.  This book can serve as a supplement to the basic texts.  The treatment on Green functions are somewhat more obscure but is one of the better coverage among other texts.  Inorganic students will also find this book useful in explaining the underlying quantum principles of chemical bonding and eletronic structure.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 15, 1998",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "This text introduces one to the fundamentals of quantum chemistry.  It  covers the self-consistent field, perturbation, coupled cluster, and  Green's functions theories.  The perturbation theory and SCF chapters are  very good, but the coupled cluster is very poor.  I cannot recommend  Green's functions as I have not read it.  For the price, an excellent book  for the aspiring quantum chemist.  Includes the Fortran source code for an  SCF program."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "72%",
+                    "Location": "Portland, OR, United States",
+                    "Name": "Jeff",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C4J9CUHT3UXE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #784,722"
+                },
+                "Date": "on March 19, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Tucson",
+                    "Name": "Coyote",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A2CQ0T69U3MF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,130,234"
+                },
+                "Date": "on August 12, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Lexington, MA, USA",
+                    "Name": "nightowl03d",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10XXQFC3J3N3Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,896,914"
+                },
+                "Date": "on September 2, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Pittsburgh,  USA",
+                    "Name": "G. R. Jenness",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A146DWAGWPMPBO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,545,123"
+                },
+                "Date": "on August 1, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I'm a first year graduate student in Computational Quantum Chemistry and I found that this was a decent text.  My only big problem with it (and why I only give it a four) is that it has  a tendency to be a bit vague in the mathmatical formulisms.  It does have a appendix on molecular intergral evaluation, but I would prefere to see that as part of the text, instead of an afterthought.  Other than that, it goes into detail the entire Hartree-Fock method, including how many basis sets are put together. Just for that alone I would recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Reims",
+                    "Name": "Am\u00e9d\u00e9e Sastre",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NTL4FK3C6ZAL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,813,474"
+                },
+                "Date": "on June 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is wonderful for people (like me) who had no clear idea about equations behind Hartree Fock or CCSD methods. The book is well detailed and illustrated by simple (rather simple) examples. I did the major part of exercices and I did not find a lot of mistakes: some differencies in numerical calculations sometimes. However, the problem is that some exercises are long enough to solve and this tends to stop the reader during his reading. A second point is that the Hartree Fock method is fully explained but other methods and in particular those developped in the last chapters are less detailed. Obviously this is an introduction to quantum chemistry but ... Anyway I think this book deserves its 4 stars and even more (4.5 stars). Although this book is a little old now (10 year old) it remains one of the best introduction to modern quantum chemistry and provides the reader with a general picture of problems that arise in this chemical physics field of research. This book also provides the reader with a number of references to enable further readings which is noticeable."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Professor in Brazil",
+                    "Name": "Alexandre A. Souza",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE81NAE20PLP1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #607,011"
+                },
+                "Date": "on June 8, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is so far the best book written about Hartree-Fock Theory. It provides all the mathematical background of vectors, matrices and operators, necessary for the development of the theory. Then it presents the theory in a very satifactory (detailed) way. If you want to learn the Hartree-Fock theory, to the level that allows you to understand what the standard computational quantum chemical packages do, then you shoud read this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Netherlands",
+                    "Name": "R. T. Miranda",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQAT60CG13KHQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #14,993,362"
+                },
+                "Date": "on March 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Lost in Thought",
+                    "Name": "Jason Dowd",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#85,935"
+                },
+                "Date": "on February 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "Baltimore, MD",
+                    "Name": "Purushottam D. Dixit",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38UB3E1355O42/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,946,238"
+                },
+                "Date": "on May 20, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "quanta10000",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CSG1F7UBK040/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,095,209"
+                },
+                "Date": "on December 24, 2003",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Yes, its indeed one of the best book one can have if anyone wants to do computational quantum chemistry, provided you are an advanced user. The introduction of basic quantum chemistry is essential to tolerate this Computational Quantum Chemistry Tonic. This includes everything you want to know about Comput. Quantum Chemistry. A Worth Investment...for better benefits from the gold mine of subject. I need few more stars to rate this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "rome, Italy",
+                    "Name": "heine-cantor",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37PCNCW03AP83/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,894,021"
+                },
+                "Date": "on April 29, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Perhaps is the best book of physics I ever studied. If you want to understand what Hartree_Fock and beyond theories are, this is the right place to see. The exercises are well thought out and are integral part of the book: if you want to study with good results, you must solve them, for this, the authors provide all the information you need. Morever, the price, now, is really catchy."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "David Stuck",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ7WVXQGTUBRB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #13,800,041"
+                },
+                "Date": "on August 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I work in an electronic structure theory group the first thing anyone does when they join the group is read chapters 1-3 (and possibly work out the problems). The rest of the book might be worthwhile, but there are better, newer books available."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "",
+                    "Name": "alexvas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IL6666DOO87/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,763,595"
+                },
+                "Date": "on April 27, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Fairly good explanations, good pace, logical topic organization. I would prefer more examples and more exercises, especially in the first few chapters."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "Denmark",
+                    "Name": "Eduardo Jose",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JB8ORXB72OMC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,209,425"
+                },
+                "Date": "on January 9, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is no cheaper introductory course to fundamentals of quantum chemistry. Should be in every (physical-)chemistry library."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Irem Altan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUYZVXETOAJW9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #844,753"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's easy to follow except in some places it switches back and forth between different notations. I think it would be more understandable if they had stuck with one notation only. Also, in some parts it first gives the results in one section, and then gives the derivation of those results in the next section. I personally would have preferred if the derivation was done first. Other than that, it's very concise and very well written."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Chicago",
+                    "Name": "Zhiliang",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NUES6Z3XO6M7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,632,821"
+                },
+                "Date": "on February 24, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's a very classical book, with very detailed explanation. But the contents are a little out of date, but still can make you understand what's going on in the literature."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Muammar El Khatib",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27WO3KC4INPLN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,194,171"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a must read book for quantum chemistry. It is written in a clearly way, and it goes from the very basic to the complex approaches in a very progressively."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "Ship",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKE4W5JYGP03U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,024,211"
+                },
+                "Date": "on March 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Look at the cover, haha. Some scientists were having fun in the 80s. If you want a good intro text in computational chemistry, this is it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Ayush Asthana",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2320A9LVGPJRF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #15,987,482"
+                },
+                "Date": "on October 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Marked by carefully explained derivations, it is a perfect book to start your journey in the field of Quantum Chemistry."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "nashari",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32X971F5RT6Y8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,547,402"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "\u0670Very nice if you don't care about DFT and prefer the HF-based methods."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "",
+                    "Name": "Patrick M. McLaurin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8WDAMH0TSHBB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,860,393"
+                },
+                "Date": "on November 4, 2006",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This is a good book, densely written and explicit, though not always entirely thorough from a beginner's perspective.  Solutions to exercises would be useful, especially when you are a beginner and the not entirely thorough explanations need further clarification that could be provided in a solutions to exercises section."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Mr George Allan Hagedorn",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34J0OYNSQG2C4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,180,386"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is a classic in the field."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Soumyodipto M.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KLZXDAK1AGO5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #17,897,179"
+                },
+                "Date": "on July 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book and prompt delivery."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Han Qi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MBFIJ2W3Y8LH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #734,332"
+                },
+                "Date": "on April 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 28, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is one the best books to learn about CI methods which are reviewed in detail. A must have for those in the first steps of a quantum chem career."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Zurich, Switzerland.",
+                    "Name": "reviewer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NG3IWQSNNMHD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "82%"
+                },
+                "Date": "on March 19, 2003",
+                "Helpfulness": 0.375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Luis Martin Mejia Mendoza",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23Z5NWIPDRE9C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,446,760"
+                },
+                "Date": "on January 4, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "the item was in very good condition, the shipping was very fast and the wrapping was very good!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "M. Heshmat",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N2Q3LGB03I02/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,158,210"
+                },
+                "Date": "on February 18, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I have received my product as the senders said before (exactly on the same date) and this is very important for me."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "5%",
+                    "Location": "",
+                    "Name": "Rulin Feng",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BP9X3PWY2X2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,117,054"
+                },
+                "Date": "on June 28, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "It's generally OK, but a little bit dirty inside. The cover looks old and has been used for a long while."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/product-reviews/0486691861/ref=sr_1_33?s=books&ie=UTF8&qid=1432359343&sr=1-33&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "33"
+    },
+    "Salesrank": "#64,765",
+    "Timestamp": "2015-05-23 01:38:14.454452",
+    "itemurl": "http://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861/ref=sr_1_33?s=books&ie=UTF8&qid=1432359343&sr=1-33&keywords=mathematics+books+paperback"
+}

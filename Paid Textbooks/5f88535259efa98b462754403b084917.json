@@ -1,0 +1,44 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "The Geometry of Kerr Black Holes (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "",
+                    "Name": "A Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349KPQKG94JLX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #270,152"
+                },
+                "Date": "on April 5, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "J. Bielawski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NCESLO69JCK4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,395,419"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometry-Black-Holes-Dover-Physics/product-reviews/0486493423/ref=sr_1_92?s=books&ie=UTF8&qid=1432361778&sr=1-92&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#480,655",
+    "Timestamp": "2015-05-23 02:19:15.951693",
+    "itemurl": "http://www.amazon.com/Geometry-Black-Holes-Dover-Physics/dp/0486493423/ref=sr_1_92?s=books&ie=UTF8&qid=1432361778&sr=1-92&keywords=mathematics+books+paperback"
+}

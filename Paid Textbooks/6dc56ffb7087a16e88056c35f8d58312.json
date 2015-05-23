@@ -1,0 +1,40 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Relativity, Thermodynamics and Cosmology (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.16",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Kalamazoo, MI USA",
+                    "Name": "Mark E. Miller",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J0QWZ265MYT5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #309,234"
+                },
+                "Date": "on August 20, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Originally published in 1934, this Dover reprint covers the early development of cosmology in a rigorous mathematical format. You need to know math through tensor equations (as you would for any rigorous treatment of cosmology), and this probably should not be anyone's first foray into cosmology. For that, see Peebles. Having said that, this gives sidelights present nowhere else, and a fine treatment of some by-passed cosmological models."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 6, 1999",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "This classic book should be on the shelf of every physicist interested in relativity. The  exposition is very clear and can be used to fix some ideas. My comments do not include the thermodynamics part, which I'm not  competent to review. The cosmological applications are, evidently, severaly  outdated, but can be very useful for those interested in the history of the  development of observational cosmology."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Relativity-Thermodynamics-Cosmology-Dover-Physics/product-reviews/0486653838/ref=sr_1_75?s=books&ie=UTF8&qid=1432361602&sr=1-75&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#405,119",
+    "Timestamp": "2015-05-23 02:13:31.839733",
+    "itemurl": "http://www.amazon.com/Relativity-Thermodynamics-Cosmology-Dover-Physics/dp/0486653838/ref=sr_1_75?s=books&ie=UTF8&qid=1432361602&sr=1-75&keywords=mathematics+books+paperback"
+}

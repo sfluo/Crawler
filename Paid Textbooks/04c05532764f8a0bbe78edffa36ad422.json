@@ -1,0 +1,140 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Quantum Field Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$31.25",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 30, 2000",
+                "Helpfulness": 0.9642857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Baltimore, Maryland USA",
+                    "Name": "Dr. Lee D. Carlson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#5,781"
+                },
+                "Date": "on March 14, 2003",
+                "Helpfulness": 0.8913043478260869,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 31, 2001",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "",
+                    "Name": "A. Physicist",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A156GPYAPFQ5HB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,868,476"
+                },
+                "Date": "on May 6, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Quantum Field Theory by Itzykson and Zuber is truly a great text for this subject. The exposition is fairly good as well as a good number of examples without being just a problem book. There is something in it for everyone from experimental particle physicists to theorists. In this way it has a truly broad scope which makes it even more attractive given that you can normally find a copy for under $30. The book is not a great book for a first time exposure to the material, but I came to really appreciate this book when I took QFT using Peskin and Schroder and found that after I worked through most of semester with that text that Itzykson and Zuber became very accessible to me and handles certain topics a little better that P&S.; I gave it only 4/5 just for the text not being an real intro type text."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "California, USA",
+                    "Name": "Nicely007",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NKAZA5L1FK16/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,801,005"
+                },
+                "Date": "on February 19, 2007",
+                "Helpfulness": 0.6842105263157895,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Dublin, NH USA",
+                    "Name": "Old Yankee",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEIX50RSUTSY2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #17,504,938"
+                },
+                "Date": "on August 22, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "",
+                    "Name": "john nicholson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29OLWIETRSMU5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,253,237"
+                },
+                "Date": "on April 15, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "this book was as was described when I ordered it, but when I reviewed it, I was afraid it wouldn't have any Feynman diagrams (just for the visual and novelty of it) but after receiving the book, I was far from disappointed; plenty of pictorials."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Lev Rozonoer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HWIQGR908QJ8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,705,339"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "a classical textbook"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "PETER O LUTHI",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQIND03IZQEK2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,691,397"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 0.4,
+                "StarRating": "1",
+                "Text": "After purchasing this book for the Kindle I was very disappointed.  On all my devices, the formulas are so small as to be illegible.  These is no way to expand them.  Don't waste your money on the Kindle edition."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "buffalo,ny",
+                    "Name": "Long Long",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IQVPSWQC855I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,121,336"
+                },
+                "Date": "on November 22, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "a book so cheap yet so great. the shipment is fast too. recommend to others who need it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Field-Theory-Dover-Physics/product-reviews/0486445682/ref=sr_1_83?s=books&ie=UTF8&qid=1432361602&sr=1-83&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#623,559",
+    "Timestamp": "2015-05-23 02:15:55.892536",
+    "itemurl": "http://www.amazon.com/Quantum-Field-Theory-Dover-Physics/dp/0486445682/ref=sr_1_83?s=books&ie=UTF8&qid=1432361602&sr=1-83&keywords=mathematics+books+paperback"
+}

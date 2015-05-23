@@ -1,0 +1,53 @@
+
+GET / HTTP/1.1
+Host: www.amazon.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+HTTP/1.1 200 OK
+Date: Sat, 23 May 2015 13:47:37 GMT
+Server: Server
+Set-Cookie: skin=noskin; path=/; domain=.amazon.com
+pragma: no-cache
+x-amz-id-1: 16W14V2WETFHDSG4ZFZK
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+cache-control: no-cache
+x-frame-options: SAMEORIGIN
+expires: -1
+x-amz-id-2: c/JcuL+hXkIHtU/9JKDY33S389sPogjcnJkWD4UFYF87rwK0b+6YProDHV8xb334
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Set-cookie: x-wl-uid=17+66MiCIm76+/A78VliIMW5TQrop3porvoocUSqNOMJmtsvwcAE4yCDhr0MKGSF/fIco9Pqfv+w=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=191-3429965-1353049; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked
+
+
+
+GET /uedata/nvp/unsticky/191-3429965-1353049/Gateway/ntpoffrw?ld&v=0.597.0&id=16W14V2WETFHDSG4ZFZK&m=1&sc=16W14V2WETFHDSG4ZFZK&ue=45&ns=174&ne=346&af=375&cf=396&be=1637&pc=2350&tc=-509&na_=-509&ul_=-1432388857952&_ul=-1432388857952&rd_=-1432388857952&_rd=-1432388857952&fe_=-190&lk_=-190&_lk=-190&co_=-190&_co=-190&sc_=-1432388857952&rq_=-182&rs_=-82&_rs=1400&dl_=-80&di_=1639&de_=1639&_de=2039&_dc=2350&ld_=2350&_ld=-1432388857952&ntd=0&ty=0&rc=0&hob=42&hoe=45&ld=2352&t=1432388860304&ctb=1&rt=cf:14-2-5-5-4-0-1_af:10-2-4-3-4-0-0_ld:150-5-6-137-6-0-0&bf=dall_1-dcm_1-xhr_1-qs_1-ael_1-atob_1-&csmtags=aui|aui:aui_build_date:3.15.5.6-2015-05-23|gwCFImgNoCache|fls-na&viz=visible:45&pty=Gateway&spty=desktop&pti=desktop&aftb=1 HTTP/1.1
+Host: www.amazon.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.65 Safari/537.36
+Referer: http://www.amazon.com/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: skin=noskin; x-wl-uid=17+66MiCIm76+/A78VliIMW5TQrop3porvoocUSqNOMJmtsvwcAE4yCDhr0MKGSF/fIco9Pqfv+w=; session-id-time=2082787201l; session-id=191-3429965-1353049
+
+HTTP/1.1 200 OK
+Date: Sat, 23 May 2015 13:47:40 GMT
+Server: Server
+x-amz-id-1: 0B1T1W595XFDDDEBEAK5
+p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+x-amz-id-2: aN8bqXEOI2i/lluAJiFejW1EHiEZjSKc7O1asbl38lLZkqdcfyPtZUTOnWX03rEF
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: image/gif
+Set-cookie: ubid-main=185-2831110-4025334; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Set-cookie: session-id=191-3429965-1353049; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+Transfer-Encoding: chunked

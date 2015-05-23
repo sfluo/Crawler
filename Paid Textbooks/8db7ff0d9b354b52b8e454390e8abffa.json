@@ -1,0 +1,157 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Treatise on Electricity and Magnetism, Vol. 1"
+    ],
+    "OfferPrice": "$15.90",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "St. John's, Newfoundland Canada",
+                    "Name": "physics student",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHD0CUXA99230/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #235,474"
+                },
+                "Date": "on January 30, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Whenever I teach a course which touches on electric or magnetic phenomena I find myself going through this book. It works well with the early chapters of Jackson, in particular, and Smythe. Maxwell knew the subject thoroughly, up to the 1870s (and much of this material has since dropped out of courses and almost out of memory), his thinking was both profound and clear,  and he may well be the best writer on physics in the English language. His proofs are economical and elegant. Oh yes - this book is still a good reference for the treatment of spherical harmonics and multipole expansions in Cartesian coordinates."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Manistee, MI United States",
+                    "Name": "Shane M Gillespie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PX1F8LQYHJPE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,496,531"
+                },
+                "Date": "on December 15, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book in my opinion coming from a calculus III student is very rigorous and one needs to have a firm foundation on Mathematics I would say about calc III or better to even try to read this book. So far I have just started but every page is exciting because he goes into a deep explanation of what is happening and going on physically and mathematically. Not to mentioned his work is very organized."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Beijing, China",
+                    "Name": "Tom Potter",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24R6ZG8HW4I37/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,458,196"
+                },
+                "Date": "on March 12, 2005",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Espoo Finland",
+                    "Name": "Simo Liukkonen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XTB4IQLL91Q3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,378,895"
+                },
+                "Date": "on September 13, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "France",
+                    "Name": "Mauceri",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMMJ4B8JKKKR7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,747,015"
+                },
+                "Date": "on October 12, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "It's reading such a book we can understand how powerfull was the 19th Century scientific thought. Maxwell, was a genius as was Newton and Einstein, his book is didactic and clear. A must have."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "",
+                    "Name": "Marc Mest",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARKL8PLBDB4T5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,356"
+                },
+                "Date": "on February 21, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 6, 1999",
+                "Helpfulness": 0.6944444444444444,
+                "StarRating": "4",
+                "Text": "This  book  deals  with  what  most  students  around  the  world  claim  to  have  understood  but  ignore  basic facts about it .Read  about  electromagnetism  from  its  discoverer  and  you  will  realise  that  it  is  not  difficult  to  ask  for  the  whole  truth. Some  not  all  parts  of  the  book  will  surprise  you  but  these  few  parts  really  do  give  an  insight  to  what  Maxwell  equations  reveal  and  why  scientists  did  teach  this  subject  the  good  old  way  with  magnetic  poles  ,  the  eather  e.t.c. Imagination  is  a  virtue  of  the true scientist"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Sacramento, CA USA",
+                    "Name": "Steven H Propp",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OJW07GQRNJUT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#54"
+                },
+                "Date": "on July 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "",
+                    "Name": "Poppiexno",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8A3899LON2TJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #660,207"
+                },
+                "Date": "on October 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have to admit I haven't read this book; I bought it because Maxwell's equations represent one of the great advance in Physics, i.e. the integration of electricity and magnetism into a single theory. I have read that many physicists didn't understand the work when it was first published. Anyone who is serious about reading this book might want to purchase \"A Student's Guide to Maxwell's Equations\" by Daniel Fleisch"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "31%",
+                    "Location": "",
+                    "Name": "Grace",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PB6T5R7TIMUT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,300,371"
+                },
+                "Date": "on December 30, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I gave my husband this book for xmas as it was on his list and he was really surprised and happy to get it.  He hasn't read it yet but has skimmed through and likes what he's seen so far."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "",
+                    "Name": "some guy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SB82PMLFPA2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,870,231"
+                },
+                "Date": "on April 6, 2004",
+                "Helpfulness": 0.5263157894736842,
+                "StarRating": "4",
+                "Text": "There's alot of interesting stuff here.  Very informative about history yes, but it is still probably the best text on eletromagnetic theory.  There is some advanced math in here.  I only read part of it for a research project(its huge).  From this(and the equation contained within) came the basis for all of modern physics.  Maxwell's equations are inconsistent in some ways with classical mechanics.  To compensate, physicists had to create relatvity and quantum mechanics.  Maxwell's work was not all new stuff.  He took other people's theories and summed them up in his book.  He then predicted the existence of EM waves and such ."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Treatise-Electricity-Magnetism-Vol-1/product-reviews/0486606368/ref=sr_1_45?s=books&ie=UTF8&qid=1432359682&sr=1-45&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#568,460",
+    "Timestamp": "2015-05-23 01:45:04.861443",
+    "itemurl": "http://www.amazon.com/Treatise-Electricity-Magnetism-Vol-1/dp/0486606368/ref=sr_1_45?s=books&ie=UTF8&qid=1432359682&sr=1-45&keywords=mathematics+books+paperback"
+}

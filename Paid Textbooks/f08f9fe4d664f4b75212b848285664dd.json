@@ -1,0 +1,79 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.95",
+    "Name": [
+        "The Principles of Statistical Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.71",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 12, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Most books on statistical mechanics are both heavy on conceptual  abstraction and mathematical sophistication. Tolman's book really helps the  reader understand what is going on, including a discussion of why its  necessary to consider ergodic or quasi-ergodic systems in the cannonical  ensemble. It also contains explicit chapters on the relationship of  classical and quantum statistical mechanics, a subject often left unclear  or unexplored by other textbooks, or left to the teacher to show how in the  proper limit the classical results are recovered from quantum calculations."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Lost in Thought",
+                    "Name": "Jason Dowd",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#85,935"
+                },
+                "Date": "on October 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "72%",
+                    "Location": "New York, NY",
+                    "Name": "Z. Wu",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A234KUM064EGHL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #920,159"
+                },
+                "Date": "on March 7, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book gives a very detailed treatment of statistical mechanics, both classical and quantum mechanical.  Every concept is explained at length, with much verbiage.  This makes it a great book to use for self-study.  The book was written many years ago, and the treatment is somewhat dated.  This shows up, e.g., in the treatment of quantum mechanics which uses the inner product notation while most modern books would use the dual space notation.  Another feature of its age is its complete lack of graphs or charts (the only exception being the section on Boltzmann H-Theorem).  Nevertheless, the lucid and detailed discussions more than make up for the lack of pictures.  As a matter of fact, it may contain yet the most clear introduction to quantum mechanics itself, even though that is not the main purpose of this book.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Brazil",
+                    "Name": "Richard Axor",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ6ALGGFVHJ50/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,298,565"
+                },
+                "Date": "on August 5, 2000",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "Yet another fundamental work made available by Dover. Tolman's book cover  all the fundamental concepts on the subject of statistical physics using  classical mechanics and quantum mechanics. A handbook to read along modern  and concise texts like chandler"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "New York,NY",
+                    "Name": "Dann Passoja",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UW4A62N6P9K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,847,710"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Statistical-Mechanics-Dover-Physics/product-reviews/0486638960/ref=sr_1_47?s=books&ie=UTF8&qid=1432359682&sr=1-47&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#139,069",
+    "Timestamp": "2015-05-23 01:46:14.358225",
+    "itemurl": "http://www.amazon.com/Principles-Statistical-Mechanics-Dover-Physics/dp/0486638960/ref=sr_1_47?s=books&ie=UTF8&qid=1432359682&sr=1-47&keywords=mathematics+books+paperback"
+}

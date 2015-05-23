@@ -1,0 +1,148 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.39",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "Monterrey Mexico",
+                    "Name": "chrigo@intercable.net",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y5M43RWR90YW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,767,241"
+                },
+                "Date": "on November 2, 1997",
+                "Helpfulness": 0.96,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "",
+                    "Name": "Mark Smith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9DMY99WVCUSD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #805,963"
+                },
+                "Date": "on March 16, 2006",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Melbourne, Australia",
+                    "Name": "Ingrid Heyn",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24I3BMB9JZC7O/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #158,314"
+                },
+                "Date": "on March 27, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "IL, USA",
+                    "Name": "Michael Tsiappoutas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C16AHVX6PKIX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #292,521"
+                },
+                "Date": "on April 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "SP, Brazil",
+                    "Name": "J. R. G. Mendonca",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #124,307"
+                },
+                "Date": "on December 15, 2009",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "",
+                    "Name": "JeffBates",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U88T3791C2D8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #312,239"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought this as a reference book and it looks real good for that.  What you don't (in my very often) you lose.  This kind of book helps when things are forgotten."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "middle tennessee",
+                    "Name": "Alisha Kelly",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAUZXETQ2COZU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,598,715"
+                },
+                "Date": "on October 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "still trying to understand this stuff but this book helps lots really great for anyone interested in physics!!! love it"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "",
+                    "Name": "Larry Laughlin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACMWKZXX6SEJI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,997,890"
+                },
+                "Date": "on May 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Wichita, KS United States",
+                    "Name": "Dana T. Webb",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YLTFMACGMGAK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,769,902"
+                },
+                "Date": "on September 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Wish they would put this in eBook form for kindle I already have it in paper it's and excellent book"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Kimberly C. Christensen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18SNLZ142ZPA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,033,921"
+                },
+                "Date": "on March 5, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Physics-Dover-Books/product-reviews/0486600564/ref=sr_1_49?s=books&ie=UTF8&qid=1432359983&sr=1-49&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#407,939",
+    "Timestamp": "2015-05-23 01:46:25.903441",
+    "itemurl": "http://www.amazon.com/Mathematical-Physics-Dover-Books/dp/0486600564/ref=sr_1_49?s=books&ie=UTF8&qid=1432359983&sr=1-49&keywords=mathematics+books+paperback"
+}

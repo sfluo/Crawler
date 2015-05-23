@@ -18,13 +18,16 @@ import hashlib
 from bs4 import BeautifulSoup
 
 host = 'http://www.amazon.com'
-MaxNumReviews = 15 
+MaxNumReviews = 1500
 
-# it seems in order to get details of product, cookie is required.
-FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=1QC1CAANPA2T95A9NVZ4+s-1QC1CAANPA2T95A9NVZ4|1429326231448'
+##### it seems in order to get details of product, cookie is required.
+#FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=1QC1CAANPA2T95A9NVZ4+s-1QC1CAANPA2T95A9NVZ4|1429326231448'
+
+FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; skin=noskin; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=0K7BJKCF2ECQJKR3VDP3+s-0K7BJKCF2ECQJKR3VDP3|1432388134040'
 
 # we want to mimic a web browser
-UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'
+#UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'
+UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko)'
 
 def getPage(url):
 	'''
@@ -49,6 +52,8 @@ def getPage(url):
 		except:
 			tries += 1
 			continue;
+
+	print "Error: Fail to get ", url
 
 	return None;
 	
@@ -148,13 +153,25 @@ def extractReviews(revUrl, maxNum, reviews):
 		soup = BeautifulSoup(page) # put into soup
 		
 		# Task 1: Average Star Rating
-		if reviews['AverageStarRating'] is not '':
+		if reviews['AverageStarRating'] is '':
 			summary = soup.find('div', class_='a-row averageStarRatingNumerical')
 			if summary is not None:
 				stars = summary.span.string
 				reviews['AverageStarRating'] = stars
 			else:
 				reviews['AverageStarRating'] = ''
+
+		if reviews['TotalReviewCount'] is '':
+			try:
+				prodinfo = soup.find(id='cm_cr-product_info')
+				totalReviews = soup.findAll('span',
+					{'class' : lambda x: x and re.search('(\s|^)totalReviewCount(\s|$)', x)})
+				for tr in totalReviews:
+					reviews['TotalReviewCount'] = tr.string.strip()
+					break
+			except:
+				reviews['TotalReviewCount'] = 0
+			
 
 		reviewsoup = soup.find(id='cm_cr-review_list')
 		#for review in reviewsoup.find_all('div', class_='a-section review'):
@@ -274,19 +291,36 @@ def fetchItem(itemurl, record):
 	# Note!!! e.g. Kindle eBook (free) does not have a price
 	# Different category of products may have different page layout, different tags
 	# FIXME: So far, the following is only for Books (confirmed)
+	record['OfferPrice'] = ''
 	try:
 		buyNewSection = soup.find(id='buyNewSection')
 		offerPrice = buyNewSection.find('span', class_='a-size-medium a-color-price offer-price a-text-normal')
 		record['OfferPrice'] = offerPrice.contents[0].strip()
 	except:
-		record['OfferPrice'] = ''
+		try:
+			offerPrice = soup.findAll('span',
+				{'class' : lambda x: x and re.search('(\s|^)header-price(\s|$)', x)})
+			for op in offerPrice:
+				record['OfferPrice'] = op.string.strip()
+		except:
+			record['OfferPrice'] = ''
+			
 
+	record['ListPrice'] = '' 
 	try:
 		buyBoxInner = soup.find(id='buyBoxInner')
 		listPrice = buyBoxInner.find('span', class_= 'a-color-secondary a-text-strike')
 		record['ListPrice'] = listPrice.contents[0].strip()
 	except:
-		record['ListPrice'] = ''
+		try:
+#			newOffer = soup.find(id='newOfferAccordionRow')
+			listPrice = soup.findAll('span',
+				{'class' : lambda x: x and re.search('(\s|^)a-text-strike(\s|$)', x)})
+			for lp in listPrice:
+				record['ListPrice'] = lp.string.strip()
+		except:
+			record['ListPrice'] = ''
+			
 
 	# 6. Product Name
 	try:
@@ -299,16 +333,16 @@ def fetchItem(itemurl, record):
 
 	# Task 4. Star Ratings
 	# Task 7. Reviews (Recent 100): review Text, rating and timestamp, Reviewer
-	# Task 8. Reviewer Info: Name, Rating, rating, location
-	reviews = { 'MaxNumReviews' : MaxNumReviews }
 
+	# Task 8. Reviewer Info: Name, Rating, rating, location
+	reviews = { 'TotalReviewCount' : ''}
 	try:
 		review = soup.find(id='customer-reviews_feature_div')
 		allrev = review.find('a', id='seeAllReviewsUrl')
 		revurl = allrev.get('href')
 		if revurl is not None:
 			# may replace 'sortBy=bySubmissionDateDescending' with 'sortBy=helpful'
-			extractReviews(str(revurl), MaxNumReviews, reviews)
+			extractReviews(str(revurl), totalReviews, reviews)
 			record['Reviews'] = reviews
 	except:
 		revurl =  itemurl.replace('/dp/', '/product-reviews/') + \
@@ -335,13 +369,17 @@ def amazoncrawl(startUrl, keywords, path):
 	for key in keywords:
 
 		# construct the listing page
-		pageurl = host + startUrl + '&field-keywords=' + string.replace(key.strip(), ' ', '+')
+		newkey = string.replace(key.strip(), ' ', '+')
+		pageurl = host + startUrl + '&field-keywords=' + newkey
 		required_items = keywords[key] 
 
 		collected = 0 # tracking how many we collected already
 
+		urlfilename = string.replace(path.strip(), ' ', '-') + '_' + newkey + '.txt'
+		urlfp = open(urlfilename, 'w')
 		while collected < required_items and pageurl != '':
 
+			print(pageurl)
 			page = getPage(pageurl)
 			if page is None: 
 				break;
@@ -351,12 +389,22 @@ def amazoncrawl(startUrl, keywords, path):
 			# iterate items in this listing page
 			for itemInPage in soup.find_all('a', class_=itemlocator_class):
 				itemurl = itemInPage.attrs['href']
-				# print(itemurl)
+				print(itemurl)
 				
 				if itemurl is None:
+					print "No Item"
 					continue;
 
-				record = { 'itemurl' : itemurl}
+				###############################
+				#####
+				##### Save the URL
+				urlfp.write(itemurl + "\n")
+				continue
+
+				###############################
+				#####
+				#####  Capture the data when we get the URL
+				record = { 'itemurl' : itemurl, 'keyword' : key }
 				valid = fetchItem(itemurl, record) # pull the item
 				if valid:
 					collected += 1
@@ -372,6 +420,7 @@ def amazoncrawl(startUrl, keywords, path):
 				pageurl = host + nextPage.attrs['href']
 			else:
 				pageurl = None 
+		urlfp.close()
 
 def main(config):
 
@@ -390,17 +439,17 @@ def main(config):
 			# we could use search to find the url of product list for 
 			# each category. For now, let's skip it
 			if info['url'] == '': 
-				print "Fetching url" 
+				print "TODO: Fetching url" 
 				continue;
 
 			if not os.path.exists(type): 
 				os.makedirs(type)
-			else:
-				h = hashlib.md5()
-				h.update(info['url'])
+			#else:
+			#	h = hashlib.md5()
+			#	h.update(info['url'])
 				# if already exits, then just skip
-				if os.path.exists(type + '/' + h + '.json'):
-					continue;
+			#	if os.path.exists(type + '/' + h.hexdigest() + '.json'):
+			#		continue;
 			amazoncrawl(info['url'], info['keywords'], type)
 	
 def testReviewer():
@@ -412,8 +461,13 @@ def testReviewer():
 def testItem():
 	record = {}
 	#fetchItem('http://www.amazon.com/Illustrated-Guide-Home-Chemistry-Experiments/dp/0596514921', record)
-	fetchItem('http://www.amazon.com/Path-Way-Knowledg-Containing-Principles-Geometrie-ebook/dp/B004TPZGEC', record) # kindle
+	#fetchItem('http://www.amazon.com/Path-Way-Knowledg-Containing-Principles-Geometrie-ebook/dp/B004TPZGEC', record) # kindle
 	#fetchItem('http://www.amazon.com/FIFA-15-PlayStation-4/dp/B00KPY1GJA/ref=sr_1_1?s=videogames&ie=UTF8&qid=1429065279&sr=1-1&keywords=FIFA', record)
+	#fetchItem('http://www.amazon.com/Mathematics-Physicists-Dover-Books-Physics/dp/0486691934/ref=sr_1_4?s=books&ie=UTF8&qid=1432351575&sr=1-4&keywords=mathematics+books+paperback', record)
+	#fetchItem('http://www.amazon.com/Mechanics-Dover-Books-Physics-Hartog/dp/0486607542/ref=sr_1_12?s=books&ie=UTF8&qid=1432356061&sr=1-12&keywords=mathematics+books+paperback', record)
+	#fetchItem('http://www.amazon.com/Theoretical-Physics-Dover-Books/dp/0486652270/ref=sr_1_8?s=books&ie=UTF8&qid=1432356061&sr=1-8&keywords=mathematics+books+paperback', record)
+	#fetchItem('http://www.amazon.com/Geometry-Relativity-Fourth-Dimension-Mathematics/dp/0486234002/ref=sr_1_3?s=books&ie=UTF8&qid=1432356061&sr=1-3&keywords=mathematics+books+paperback', record)
+	fetchItem('http://www.amazon.com/Electrodynamics-Classical-Theory-Particles-Physics/dp/0486640388/ref=sr_1_115?s=books&ie=UTF8&qid=1432362674&sr=1-115&keywords=mathematics+books+paperback', record)
 	print(record)
 
 def test():

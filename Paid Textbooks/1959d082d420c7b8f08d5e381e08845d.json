@@ -1,0 +1,31 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Invitation to Dynamical Systems (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$20.27",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "",
+                    "Name": "Marc Mest",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARKL8PLBDB4T5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,356"
+                },
+                "Date": "on February 14, 2012",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Invitation-Dynamical-Systems-Dover-Mathematics/product-reviews/0486485943/ref=sr_1_74?s=books&ie=UTF8&qid=1432361602&sr=1-74&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#728,705",
+    "Timestamp": "2015-05-23 02:13:28.713975",
+    "itemurl": "http://www.amazon.com/Invitation-Dynamical-Systems-Dover-Mathematics/dp/0486485943/ref=sr_1_74?s=books&ie=UTF8&qid=1432361602&sr=1-74&keywords=mathematics+books+paperback"
+}

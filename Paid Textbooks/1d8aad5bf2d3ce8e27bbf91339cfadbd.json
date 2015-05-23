@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Introduction to Superconductivity: Second Edition (Dover Books on Physics) (Vol i)"
+    ],
+    "OfferPrice": "$15.36",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "India",
+                    "Name": "Harkirat S.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CK0MPEYCXNVO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,258,008"
+                },
+                "Date": "on April 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This classic book on superconductivity is excellent for an experienced reader who has already some  background in superconductivity. However, for a student trying to learn superconductivity, it says too many things in too brief which may be difficult to follow. While teaching a course I would prefer to follow a book like Superconductivity by Ketterson and Song and refer to this book for selected (special) topics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Atlanta, GA",
+                    "Name": "S. D Webb",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC46G5WVP3UV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,370,056"
+                },
+                "Date": "on August 3, 2004",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Montreal, Canada",
+                    "Name": "Frederic Sirois",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IHX2H2SBR9J9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,752,056"
+                },
+                "Date": "on March 30, 2000",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book provides an excellent comprehensive review of most of the  aspects relevant to superconductivity. A strong basis in physics is  required to follow it all the way. Otherwise, it is possible to read most  of the chapters separately without loosing continuity, so the more complex  ones can be put aside if the reader is not interested in deep physics. Many  references to relevant authors are given all along the text. It should be a  reference available to all the people seriously involved in  superconductivity. The only bad point is that it uses CGS unit rather than  SI units."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "",
+                    "Name": "Daniel Sank",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A41DYH426IEKN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,005,525"
+                },
+                "Date": "on September 6, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Gabe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AMS106AO4MAX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,835,982"
+                },
+                "Date": "on May 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Tiago Saraiva",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29VQL2J0W670C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,253,048"
+                },
+                "Date": "on May 9, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Michael Tinkham was a great developer of the field and made a fine book for students to have (in my opinion)a second approach to the subject."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Christopher Kovacs",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DTRCOGP4NFM8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,479,416"
+                },
+                "Date": "on November 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A bit denser than other intros, but the best intro I've read.  Tinkham does a great job guiding the reader (i.e. suggesting skipping the BCS chapter), giving examples, and not oversimplifying.  Its clear the writer had a broad base of knowledge and a good historical account of a lot of the research.  Comments on some complex superconductive phenomena which most other intros skip out on (non-equilibrium and other odd effects)"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "",
+                    "Name": "yy2kk",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY49ZAR1V7NX7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,825,005"
+                },
+                "Date": "on February 19, 2009",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": "I have one in my lab, this is for my home. it is a must have."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "11%",
+                    "Location": "",
+                    "Name": "Jingwen Zhang",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WWJBRPJ1JMSX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,743,066"
+                },
+                "Date": "on July 19, 2005",
+                "Helpfulness": 0.09090909090909091,
+                "StarRating": "5",
+                "Text": "I really enjoy reading this book.  Thanks for the wonderful service of Amazon"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Superconductivity-Second-Dover-Physics/product-reviews/0486435032/ref=sr_1_72?s=books&ie=UTF8&qid=1432360505&sr=1-72&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#236,678",
+    "Timestamp": "2015-05-23 02:13:07.273739",
+    "itemurl": "http://www.amazon.com/Introduction-Superconductivity-Second-Dover-Physics/dp/0486435032/ref=sr_1_72?s=books&ie=UTF8&qid=1432360505&sr=1-72&keywords=mathematics+books+paperback"
+}

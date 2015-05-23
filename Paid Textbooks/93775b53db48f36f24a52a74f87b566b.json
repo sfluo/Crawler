@@ -1,0 +1,57 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "An Introduction to Acoustics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.45",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "Stephanie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKHUUEANMYJE7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#60,579"
+                },
+                "Date": "on May 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "19%",
+                    "Location": "Sierra Vista, Arizona",
+                    "Name": "Jesse E. Davis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IJ6JOP0X760/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,328,396"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Good deal on a good product."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Marcus Vinicius Gir\u00e3o de Morais",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAZS62RUEJS44/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,646,441"
+                },
+                "Date": "on January 20, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good book... classical."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Acoustics-Dover-Books-Physics/product-reviews/0486442519/ref=sr_1_105?s=books&ie=UTF8&qid=1432362060&sr=1-105&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#459,890",
+    "Timestamp": "2015-05-23 02:28:14.521134",
+    "itemurl": "http://www.amazon.com/Introduction-Acoustics-Dover-Books-Physics/dp/0486442519/ref=sr_1_105?s=books&ie=UTF8&qid=1432362060&sr=1-105&keywords=mathematics+books+paperback"
+}

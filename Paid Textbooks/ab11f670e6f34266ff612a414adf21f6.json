@@ -1,0 +1,210 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Mathematics for Physicists (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.57",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "",
+                    "Name": "Cole from Newcastle",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A331WJ40ZI3CBR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,947,602"
+                },
+                "Date": "on August 3, 2001",
+                "Helpfulness": 0.9041095890410958,
+                "StarRating": "5",
+                "Text": "This is easily the best book I have found for the purposes of an engineer (such as this reviewer), or perhaps a physicist, wishing to acquire certain areas of mathematics quickly. In my current work (in electromagnetics) I have had to brush-up-on/acquire topics including: function spaces; vector spaces; differential equations (with adjoint operators etc.); and Green's functions and identities. This book beats all others I consulted for this purpose. Although the book is seemless, chapters are mainly self-contained. The  absence of problems/exercises is actually beneficial for my purposes, since the author has made the text correspondingly more complete. There are, however, a small number of judiciously placed examples, with quality rather than quantity being the author's apparent principle;- Once you have absorbed Professor Dennery's exposition of a particular topic, you are then aptly equiped to go to other texts for examples. In summary, this is a gem, Dennery is the 'Kubrick of maths writers'."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "Cambridge, MA USA",
+                    "Name": "O. Burak Okan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIUWDT795XBTQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,705,480"
+                },
+                "Date": "on January 24, 2006",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 25, 2004",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 3, 2004",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": "I would only recommend this book to people already fairly well-versed in the topics it covers.  In this book, the authors attempt to cover FAR TOO MUCH material for such a short text.  As a result, the reader ends up confused and with a feeling that the author isn't telling them NEARLY everything he knows, even about the basics.  The book's coverage of complex analysis is truly pitiful, and I would recommend A Course of Modern Analysis by Whittaker and Watson, even at the much higher 60 dollar price, as a useful source on this topic.  Concerning such topics as Lebesgue integration, Hilbert Space, and orthonormal bases--consult good books on real-analysis and/or functional analysis rather than this book.  Perhaps the author's greatest mistake is the book's complete lack of excercizes and it's few-and-far-between, weak examples of applications to problems.  That said, the reason I still gave this book three stars is that it is good in one way--namely, as a reference for those who already know the material."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "Houston, TX United States",
+                    "Name": "anonymous80",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVTOR9BO47B58/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,177,375"
+                },
+                "Date": "on June 14, 2003",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "3",
+                "Text": "I recommend getting Mathematics of Classical and Quantum Physics by Byron and Fuller (also from Dover). You'll get more (quantity and quality) for your money. Mathematics For Physicists just isn't very good, poorly written compared to Math. of C. and Q. Physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Edinburgh, Scotland",
+                    "Name": "professordes",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ET9ENP0XH0H1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,346,809"
+                },
+                "Date": "on January 16, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "cambridge, ma usa",
+                    "Name": "irfan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JFHTBENK7QXZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,143,371"
+                },
+                "Date": "on September 27, 2009",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "Having never really followed a course in a classroom, I have always tried to find books that are suitable for self-study. This book does an excellent job in that quarter. This is an excellent book for physicists looking for a familiar notation. Various subjects are treated rigorously and in an engaging manner. Definitely recommended for self study."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 8, 1998",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": "I studied this wonderful book for the math. for physicists class at Bogazici Univ., Turkey. We covered every part of this book, supplemented by Arfken. The elegant treatment of the diverse material is clear and easy to follow although the level is high and quite abstract. The drawbacks are lack of sufficient examples or exercises and occasional complexities in the text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 12, 1999",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "5",
+                "Text": "This book covers abstract vectors (as used in quantum mechanics etc) in a very concise and useful manner.  The rest of the book is nice too. This is a nice compliment to a colection."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "New Jersey",
+                    "Name": "B. Abramson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38IMHDWZAT7OH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #212,780"
+                },
+                "Date": "on February 15, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "The authors have condensed a universe of mathematics into single volume.  While I am only able to skim the surface it is clear that there are sufficient depths here to satisfy many practicing scientists.  However, having just read the first few pages of chapter IV on differential equations I have already found 5 typos.  I hope this isn't representative of the entire work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Washington, DC",
+                    "Name": "Ulfilas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#3,410"
+                },
+                "Date": "on April 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I like the treatment of complex variables in this book, especially with respect to analytic continuation (pp.76-80).  The discussion of analytic continuation culminates in the discussion of the Schwarz Reflection Theorem (pp.80-82).  The Schwarz Reflection Theorem is proven using Morera's Theorem (p.43), that if the integral of a function is zero for a closed contour, then that function is analytic.  The authors' lucid proof of the reflection principle relies on imagining a contour that loops around a boundary with an analytic function defined within this contour."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Sir Walter Scott",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B2BUD9WODBU5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,128,300"
+                },
+                "Date": "on April 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Godshatter",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A60KAEI55FOJO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #15,278,914"
+                },
+                "Date": "on September 28, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "",
+                    "Name": "Destination Infinity",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16XDO25GALUK6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,095,618"
+                },
+                "Date": "on August 23, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "Ben",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KJIISES4B1DT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,195,492"
+                },
+                "Date": "on June 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a cheap and handy math reference. The book is very comprehensive, covering most topic one would need refreshing. I strongly recommend buying it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "San Diego, CA, US",
+                    "Name": "N P",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AE21ZU7XEG5R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,186,405"
+                },
+                "Date": "on December 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "2.0"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Physicists-Dover-Books-Physics/product-reviews/0486691934/ref=sr_1_4?s=books&ie=UTF8&qid=1432358381&sr=1-4&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "16"
+    },
+    "Salesrank": "#134,542",
+    "Timestamp": "2015-05-23 01:22:00.165760",
+    "itemurl": "http://www.amazon.com/Mathematics-Physicists-Dover-Books-Physics/dp/0486691934/ref=sr_1_4?s=books&ie=UTF8&qid=1432358381&sr=1-4&keywords=mathematics+books+paperback"
+}

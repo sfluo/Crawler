@@ -1,0 +1,916 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$3.99",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "inkster, MI USA",
+                    "Name": "Ken Braithwaite",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#18,428"
+                },
+                "Date": "on November 14, 2000",
+                "Helpfulness": 0.9841269841269841,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Allston, MA USA",
+                    "Name": "Clark M. Neily",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U5OIHL1QOO2Y/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #498,663"
+                },
+                "Date": "on October 11, 2002",
+                "Helpfulness": 0.9484536082474226,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "South America",
+                    "Name": "Chris McKinstry",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PK2LTN51JAMF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,836,415"
+                },
+                "Date": "on April 13, 2000",
+                "Helpfulness": 0.94,
+                "StarRating": "5",
+                "Text": "Though first printed in 1961 and revised in 1980 this is the best introduction to information theory there is. Very easy to read and light on math, just as an introduction should be. I expect it will be in print for a  very, very long time."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "calvinnme",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E3F04ZK7FG66/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#619"
+                },
+                "Date": "on December 8, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I give this book five stars because it succeeds brilliantly at what it sets out to do - to introduce the field of information theory in an accessible non-mathematical way to the completely uninitiated. Information theory is that branch of mathematics that deals with the information content of messages. The theory addresses two aspects of communication: \"How can we define and measure information?\" and \"What is the maximum information that can be sent through a communications channel?\". No other book I know of can explain these concepts of information, bits, entropy, and data encoding without getting bogged down in proofs and mathematics. The book even manages to equate the concept of language with the information it inherently transmits in a conversational and accessible style. The book rounds out its discussion with chapters on information theory from the perspectives of physics, psychology, and art. The only math necessary to understand what's going on in this book is high school algebra and the concept of logarithms. If you are an engineer or engineering student who knows anything about information theory, you probably will not find this book helpful. Instead you would do better to start off with a more advanced book like \"An Introduction To Information Theory\" by Reza, which introduces concepts from a more mathematical perspective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 6, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Pierce's book is an excellent introduction to the subject of information theory.  It is not a text on the subject, although it does have some limited mathematical content which is more than the casual reader can handle.  The beauty of this book is that unlike most engineers and scientists turned authors, Pierce not only relates much of the history of the subject (from first hand knowledge), but does so with incredible conciseness and clarity.  The non-technical approach allows that, and Pierce takes full advantage of his chosen format.  It is better to say a non-textual approach really since this isn't a text.  Yet, like Feynman, Pierce is able to explain a great amount of the fundamental details of information theory without the rigor of difficult equations and derivations.  Any student truly interested in the subject should keep this volume as a companion to their textbook."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Cambridge, MA, USA",
+                    "Name": "Julius Kusuma",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMFVKQ2270HIJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,635,908"
+                },
+                "Date": "on March 23, 2000",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": "Pierce is a very talented educator, and this book demonstrates his ability to take a very deep subject, information and communication theory, and disect it into small, bite-size pieces that don't bite back. i think the  best researchers should be able to explain things in the simplest and most  intuitive way possible, and Pierce is a clear winner. however, this book is  quite old, especially due to the pace of progress in information and coding  theory in the past decade. however, this book also gives an excellent  overview of the historical development of information theory, which is  something that a lot of other books miss."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 13, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "Islington, Ontario Canada",
+                    "Name": "Glenn L. E. May",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35ST9DS1SQ7CR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,661,933"
+                },
+                "Date": "on August 7, 2007",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Arizona, USA",
+                    "Name": "Prasad V. Boddupalli",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K9ZPKS8XJ1IV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,915,893"
+                },
+                "Date": "on November 26, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Without scaring the reader through complex mathematics from page 1, Pierce introduces the subject in an intutive manner, which is the main strength of the Book. Any student interested in studying communication theory without  being scared away, should study this book first"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Melbourne, Australia",
+                    "Name": "Kam-Hung Soh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOQSKQ1IGS8VO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,258,027"
+                },
+                "Date": "on May 15, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "Vilius Normantas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C175TTMRQD2Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,681,626"
+                },
+                "Date": "on July 20, 2013",
+                "Helpfulness": 0.9,
+                "StarRating": "2",
+                "Text": "You can see it all over the book - \"I\"s instead of \"1\"s, \"o\"s instead of \"0\"s and even \"\u00a1\" (inverse \"!\") instead of \"i\". I wonder if they even bother to proofread these days."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "Anonymous Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFFCN9NFE8J9Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #229,422"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 26, 2002",
+                "Helpfulness": 0.76,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "San Jose, CA United States",
+                    "Name": "K. Jazayeri",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MAP0L7CCKTD5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,479,890"
+                },
+                "Date": "on September 18, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "University professor in Taipei, Taiwan",
+                    "Name": "Karen Chung",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATPPN4F788R5L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #553,513"
+                },
+                "Date": "on September 16, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "jfair",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L74GH91EZSBK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #16,294,343"
+                },
+                "Date": "on May 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "Sydney, Australia",
+                    "Name": "Prof WuZhai",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MC1NPH4UGXN3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,489,407"
+                },
+                "Date": "on August 12, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is by far the best introductory book on info theory.  The author has a talent for making difficult concepts easy and interesting.  A definite page turner!  Note, this book is for the lay person wanting to know what information theory is about.  If you're taking a course in information theory, look somewhere else!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Greeley, CO USA",
+                    "Name": "A. Adamson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32IJK1PMTHF7W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #574,605"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Jack  salisbury",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YY42M64H2YNY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,984,471"
+                },
+                "Date": "on March 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Dayton, Ohio",
+                    "Name": "Brett A. Fishwild",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OTXU5FEVE19W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#37,510"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I am not schooled in this field of science, so I cannot verify the accuracy of the terminology and methods or account for how current the material is - but I did find this book very engaging. There is some light math throughout, mostly discussing probabilities, but not enough to ward off a reader not well versed in science or math. The examples of the theories can at times seem a little obtuse at first, I had to reread some sections, but in the end I found that I had a decent understanding of the overall intent of the field. The main narrative of this book is how binary signals have been used from telegraphy up through voice and then television signals, and how their coding has evolved. That and the concept of entropy - of choice or determining what you don't know with each transmission of information. I think more dedicated scholars of this field might find this a \"survey\" type book - especially those last 3 or 4 chapters - but for us laymen I would recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Hong Kong",
+                    "Name": "A. CHIU",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K7HF93LTFK3I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,276,213"
+                },
+                "Date": "on October 7, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Santiago, Las Condes Chile",
+                    "Name": "Martin Hilbert",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHYRFSJ45QTK3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #328,745"
+                },
+                "Date": "on February 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "Philadelphia, PA",
+                    "Name": "Joe Jordan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K1H9TV07JS9P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,318,331"
+                },
+                "Date": "on December 17, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Daniel Soares Duarte",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SJ698T67H8WM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,503,339"
+                },
+                "Date": "on September 27, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This text really takes its time, being still a brief text, to explain for the lain reader the fundamentals of Information Theory. It is a classic book, and for the right reasons, since it does not run away from difficult mathematical and logical explanations for the common reader, from math itself to language, computers, etc. At the same time a deep and a pleasant reading. More than worth for those who want to get to know Information Theory."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "",
+                    "Name": "sash",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CISVVOF9U1M6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,920,326"
+                },
+                "Date": "on March 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This should be the first book for anyone getting into bayesian/statistical methods. Read this book to know how entropy in thermodynamics is related to one in information theory."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "Worker in a library. in Teramo , Italy",
+                    "Name": "Edoardo Angeloni",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KBV0G9ULFG7V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,333,272"
+                },
+                "Date": "on November 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "",
+                    "Name": "LancerMan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W9KJI20N29UX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,229,056"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've only been up to the first couple of chapters in this book but its very concise, explanatory, and enjoyable to read. The author does a great job at actually describing with thorough insight of \"what\" and \"how\" information theory is and how it's utilized in signal processing. I'm really liking Dover Publications, will definitely return to their series of books."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "jfizzix",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RGJMT7RNZPSV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,837,689"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I found this book to be an extremely refreshing look at information theory. It was written with a minimum of math, but didn't dumb down when it came to understanding the concepts. This book is a great find, and all the more great considering the price. This book covers all the basics of information theory in a way that is approachable to anyone with an interest in the sciences."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "phebe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG6BAVZX9ZKJ3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,541,126"
+                },
+                "Date": "on June 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Despite how old the book's publishing date is, I got a lot out of it, and people desperately trying to grasp certain concepts about electronic theories will be pleasantly rewarded. Heavy on the maths - I skipped most of the equations, but I did at least try to understand them. (I'm reading for leisure, not study, so it's not highly important). He introduces you to those that studied and theorized in all walks of the field. He encourages extended learning and explains the levels of involvement in related work. The chapters are short enough but also involved, for those who have already been a part of electronics in some way or the other. If you know zilch about electricity, don't bother with this read. You will get frustrated quick."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "Highlanderkev",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16EX9PE0WFLO4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,084,795"
+                },
+                "Date": "on April 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I have had a little prior experience in information theory but this book broadens my knowledge to a more substantial level. It also provides good outlets for further research and reading."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Baz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTWSBDA435U3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,520,801"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book provides an excellent high level overview of information theory, readable both by the expert looking to refresh their knowledge and interested laymen who aren't afraid of a little maths."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Southern California",
+                    "Name": "Don Jennings",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A60OH0VVTDVDX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #552,028"
+                },
+                "Date": "on May 25, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a very well written book.  It cleared up many problems I had in understanding the basics of information theory.  The only real fault of the book is that it was written in 1982 or so thus some new developments in information theory -- like Susskind's discovery of the maximum information that can be contained in a given volume -- are missing."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "David T. Ruppel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ89074XHBUFF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,058,235"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I wanted a general information theory book but was concerned that this one would be dated. Most of the concepts are very relevant to science in general and information theory. None of what I've read so far has be outdated by today's technology, merely expanding on it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "Gonzalez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JBLE5QZI5JI1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #232,090"
+                },
+                "Date": "on August 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "Brooklyn, NY",
+                    "Name": "Parzival",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALGX012NY5HHV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #832,953"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "As an undergrad I studied Information theory---so I'm not coming in from left field---the aspects that I enjoy and found useful is the author's illustration of utility in areas such as language."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Lincoln, NE USA",
+                    "Name": "Husker Engineer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B2G2S8MJYH3X/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #272,568"
+                },
+                "Date": "on June 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Great book. Very interesting. Great intro to the origins of communication theory. Have been reading a chapter each day @ lunch; 2/3 done and haven't been able to walk away from it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "Doug G",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMV2IB95ITGZ6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,956,621"
+                },
+                "Date": "on March 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Challenging but comprehensive. For one who has some math background, is somewhat familiar with information theory and has a strong interest."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "William Macaluso",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PD9V7FAYIBJ6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,062,342"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "Vladimir Zuzukin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R2TMP0E63M0J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #205,384"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Great classic text with understandable mathematics on information theory as developed by Claude Shannon for students with less than graduate level mathematics background.  As a classic text, it does an excellent job explaining Shannon information entropy at a time when our scientific and technological world was less complex (pun intended).  These lessons are still relevant today, making the topics understandable without feeling dated or obsolete."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "",
+                    "Name": "Thatoneguy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CSRR7FCKBL9M/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,473"
+                },
+                "Date": "on December 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This a good primer to get the reader to think about information theory, I would recommend it before taking related courses and for self study. It can be a little long winded on certain topics but does give a real general over view, almost like a wikipedia article. It does not have any real \"homework\" problems however, so you will need to have another traditional textbook if you want exercises."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "",
+                    "Name": "Ben",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQQFVH4K9LA08/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #725,602"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "49%",
+                    "Location": "",
+                    "Name": "Klug",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1753TJSYGESD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,475,926"
+                },
+                "Date": "on June 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Nice introduction to the models used to study information. The mathematical approach is good, and is not bound to the basics. Good readig for anyone interested in the subject!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "DaleO",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W8VEF487RENZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #144,407"
+                },
+                "Date": "on May 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The writer looks at the concepts of information theory from a lot of points of view, from the mathematical/scientific to a more more holistic\\humanistic view (for lack of a better term).  It's a bit dated (late 70's or ealy 80's), but still seemed like a good primer for a general audience."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "Chesterfield, MO United States",
+                    "Name": "Jim Duncan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NX8FSI0WKBSB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,763,729"
+                },
+                "Date": "on June 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Communication errors are widely cited as a leading causes of events in healthcare and other industries.  This book nicely introduces Claude Shannon's Mathematical Theory of Communication.  Provides objective methods of improving communication that go beyond common strategies such as \"try harder\" and read back."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "25%",
+                    "Location": "",
+                    "Name": "A. G. M. Last",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10KFV70CJ266L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,995,633"
+                },
+                "Date": "on March 1, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Pierces`s book met my need very well. Coming from a physics and philosophy background , I was probing the different meanings of entropy, the involvement of Boltzman`s constant etc . I was enlightened and lead by his fluent expertise into further fields of interest., - semantics, psychology and so on. A valuable book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "",
+                    "Name": "thedude42",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A850ABQTJNSC0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #124,085"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Haven't finished it yet, but wow, what a great book if you've never read Shannon's work or already took an extensive course based on his work.  I have taken a number of courses that touched on this material, and now that I'm reading this I have a much larger appreciation and understanding of the topics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Tyler Simon",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NVDMGFH626L4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,505,358"
+                },
+                "Date": "on August 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a very entertaining and practical book for leisure reading, it is not a textbook. I like that it only introduces the fundamentals of signal processing and doesn't bog the reader down with too much detail. I wish more technical books were written like this."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "Eug\u00eanio Silva Rezende",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAWGGQENDO7C2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,969,537"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book focuses on concepts rather than on the math behind the theory. I found it very captivating. The author's writing style is probably the best thing about the book. If it had more a little more math, it would be perfect."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "MikeP",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CSW87MJKDYY6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,109,391"
+                },
+                "Date": "on November 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very readable and insightful!  This was a great intro, which made me think about the subject matter in new ways.  There was some interesting history, philosophy, and just some light mathematics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "North Texas",
+                    "Name": "Texas Bookie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5KNO6M7QPBDF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,628,101"
+                },
+                "Date": "on May 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just as interesting as it was in the 70s when I read the first edition. Glad these are cheap. I give away copies to my Engineering students to help generate a little interest."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "",
+                    "Name": "Chaim D. Larsen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31KK30WRE6OZ2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,832,939"
+                },
+                "Date": "on November 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was a very interesting, informative, entertaining book for me.  Great for anyone looking into Intro to Information Theory. Great explanation."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Ronald J. Washington",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAY8WPT8Q90EC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,448,905"
+                },
+                "Date": "on March 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "You don't need to be an expert to read this book but you will need to have a passion about the subject to get through some of the topics covered."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "upper midwest",
+                    "Name": "Kathleen Lotz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ILHZ7RPK13XR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #536,394"
+                },
+                "Date": "on February 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I read a lot of science theory, though I am not a scientist.  This book is written in a way that even we hobbyists can understand and learn from."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Lexington, MA, USA",
+                    "Name": "nightowl03d",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10XXQFC3J3N3Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,896,914"
+                },
+                "Date": "on December 26, 2006",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "12%",
+                    "Location": "",
+                    "Name": "Richard E. Schreiber",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADNA1GYQSNEUL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,759,907"
+                },
+                "Date": "on August 11, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Pierce knows his subject, but the early text seems to wander in the weeds of minor matters rather than getting right to the point.  At least a couple of chapters should be mathematical.  I'm only half-way through the book, but is signal/noise separation the only reason for Information Theory?"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "Sunnyvale, CA",
+                    "Name": "FrankDeF",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EZTM9WY5B5IL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#20,185"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "2",
+                "Text": "Too simplistic for technical people. I bought to review my background in information theory, and was frustrated. It seems to be written for high school kids."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Moscow, Russia",
+                    "Name": "Oleg Mezentsev",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAQDY4RIX3TV3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,201,208"
+                },
+                "Date": "on January 11, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A very good introductory text to information theory. Written in a plain, comprehensive way without too many unnecessary equations. I recommend this book to anyone looking for a book in such topic!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "38%",
+                    "Location": "",
+                    "Name": "SweeteOwens",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A271R316B8YOBT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,342,364"
+                },
+                "Date": "on August 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The applications of Information Theory are virtually endless! Well written. Good diagrams. You don't have to be interested in telecommunications to get plenty out of this book as it explains the nature of duality perfectly and that, my friends, is the basis for life, the universe, and everything in a nutshell. Too bad they don't teach such intelligent and comprehensive subjects in grade school - the world would be a better place if they did."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "",
+                    "Name": "JK",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FDB5ZMVJYANF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #725,040"
+                },
+                "Date": "on July 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This does give you an understanding of Information Theory. The computations do sometimes get a little thick, but reading it carefully you do get an understanding."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "",
+                    "Name": "Tatkwan E Yu",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K9EW2GO7ZO8Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #924,297"
+                },
+                "Date": "on January 26, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I am trying to learn information theory from watching online lectures and Cover and Thomas's Information theory textbook.  I thought this book will give some qualitative motivation to how entropy and channel capacity is derived.  But it is just too wordy and do not add much to my understanding."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Carlos Sencion",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VMWR2AT2IVO5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #11,482,426"
+                },
+                "Date": "on July 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The author of this book, does an incredible job in teaching a complicated theory such as this. The way it's written, price and content makes it worth."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "15%",
+                    "Location": "",
+                    "Name": "JF",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABJ8U8FAAJ2QF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,307,301"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Information theory, from a classical source. Very valuable."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "29%",
+                    "Location": "Florida",
+                    "Name": "Mark Thrice",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQIL8Z5ZKKD2E/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,198,179"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "excellent introduction.  I like the writers style."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "",
+                    "Name": "Harold",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O1LNAOX5I4RZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,387,632"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "Houston, TX",
+                    "Name": "Lyle Wincentsen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WQ4R2C1T6YGZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,688,104"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "This is just ok. It's old enough that the writing style is kind of redundant. I don't feel like I learned much from this book that I hadn't learned by reading \"The Information: A History, A Theory, A Flood\" - and that book was infinitely more entertaining as well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32ZIJRJJQU3V1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,970,766"
+                },
+                "Date": "on March 29, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Prompt service and very informative book. It helpe with my system.  I would buy from seller again and recommend it to others. Product priced well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "USA",
+                    "Name": "Pickey Mouse",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GLZB2VKVVKSW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,278,841"
+                },
+                "Date": "on November 25, 2011",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "",
+                    "Name": "Magic Mouse",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QG963LK2MG1Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,188,696"
+                },
+                "Date": "on November 2, 2014",
+                "Helpfulness": 0.2,
+                "StarRating": "1",
+                "Text": "I am not sure which is worse, this book's long-winded waffling about a variety of irrelevant topics, or that it contains so very little content about information theory. It is not only extremely tedious but also almost completely fails to get to the point. You can view some of the pages on the Amazon preview. Have a good read and notice that there is a complete lack of information about information theory. Think that the book might get better in the pages which are hidden? Be assured that it doesn't."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "",
+                    "Name": "VinylMan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BQEQEHM9ICC0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #106,913"
+                },
+                "Date": "on December 20, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I did not like this book but it will be appreciated by more techie folks. It is slow reading and heavily theory laden."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "Vermont",
+                    "Name": "whtmtnspirit",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EXP289M0PITN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#72,843"
+                },
+                "Date": "on December 14, 2012",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Information-Theory-Symbols-Mathematics/product-reviews/0486240614/ref=sr_1_9?s=books&ie=UTF8&qid=1432358381&sr=1-9&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "70"
+    },
+    "Salesrank": "#7,977",
+    "Timestamp": "2015-05-23 01:25:17.828790",
+    "itemurl": "http://www.amazon.com/Introduction-Information-Theory-Symbols-Mathematics/dp/0486240614/ref=sr_1_9?s=books&ie=UTF8&qid=1432358381&sr=1-9&keywords=mathematics+books+paperback"
+}

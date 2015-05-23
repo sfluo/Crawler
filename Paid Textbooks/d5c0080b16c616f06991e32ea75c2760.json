@@ -1,0 +1,79 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Forces of Matter (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$5.95",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "Halls Creek,  Western Australia",
+                    "Name": "Daniel J. Turner",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACK8MMVI5VWBK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #13,236,686"
+                },
+                "Date": "on May 28, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Jacob White",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K6BG8N41V9M4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,911,310"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Gerardo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28PJD98GX7SOB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #15,743,834"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As far as i have seen, this book has some lectures that Faraday had, and is always a pleasure to me reading Faraday. For me, he's a way of giving those lectures really attractive, and it has all the drawings needed, plus it has nice font on it, and it's cheap enough i could afford it, in the other hand it has few pages."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 1, 2000",
+                "Helpfulness": 0.5135135135135135,
+                "StarRating": "5",
+                "Text": "This is very well written and the explanations are very clear.  Certainly a true classic.  This book will appeal to both the layman and the technically inclined."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "pittsburgh,Pa",
+                    "Name": "Larry A. Amati",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36MRGW6DEOV57/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #389,332"
+                },
+                "Date": "on June 10, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "If you like history,then you will love this book! Faraday was a genius in his own time.Amazing how relevent he would be today."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Forces-Matter-Dover-Books-Physics/product-reviews/0486474828/ref=sr_1_99?s=books&ie=UTF8&qid=1432362060&sr=1-99&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#318,109",
+    "Timestamp": "2015-05-23 02:21:31.872071",
+    "itemurl": "http://www.amazon.com/Forces-Matter-Dover-Books-Physics/dp/0486474828/ref=sr_1_99?s=books&ie=UTF8&qid=1432362060&sr=1-99&keywords=mathematics+books+paperback"
+}

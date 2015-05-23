@@ -1,0 +1,352 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Vectors, Tensors and the Basic Equations of Fluid Mechanics (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$8.64",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "Somewhere on Trexalon in District 268",
+                    "Name": "Utah Blaine",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AW8XP45YVIIZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#78,625"
+                },
+                "Date": "on May 6, 2007",
+                "Helpfulness": 0.9607843137254902,
+                "StarRating": "4",
+                "Text": "The title and many of the Amazon reviews of this book are misleading in my opinion.  This book should have been titled `The Mathematical Foundation of Fluid Mechanics'.  This book describes, in gory detail, the fundamental mathematics of viscous fluid flow.  The text is, obviously, heavy on vector and tensor calculus.  The first few chapters review the basic theorems of vector and tensor calcular relevent to fluid dynamics.  The basic equations of fluid dynamics are then derived, and the analysis is extended to viscous flow.  Finally, Aris discusses coordinate transformation and tensor analysis (that is really more of a lead-in to GR than fluid dynamics, although it is interesting to see how this all ties together!).  This is NOT a `complete' text in hydrodynamics.  There is no discussion of turbulence, supersonic flow, instabilities, etc.  This is a text on the mathematical (and geometrical) foundations of hydrodynamics.  As such, I view this as an advanced text for a researcher who wants to understand hydrodynamics at it's most complete, fundamental mathematical level.  If you are searching for any other type of hydrodynamics text, just move on.  The reason that I only gave this book four stars was because I feel that hydrodynamics is a much richer discipline than what is contained within this book.  Some of the most enthusiastic reviews greatly overstate the value of working through this book.  You will learn quite a bit by going through this book, and it is a great text IF you want to study the foundations of hydrodynamics in great detail, but you will need (alot) more if you want to begin to appreciate fluid mechanics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "Daverz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,636,020"
+                },
+                "Date": "on September 28, 2006",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "5",
+                "Text": "This would make a good introduction to tensors for physics students (e.g. for General Relativity), though the approach is a completely classical, using index notation; you won't find anything on manifolds or differential forms here.  An interesting feature is an extensive chapter on local surface theory (e.g. Gaussian curvature, but only after introducing the full Riemann tensor), which is good for building intuition about curvature in higher dimensions.  While the applications are all in n <= 3 dimensions, the mathematics is done in a way that easily generalizes to higher dimensions."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "",
+                    "Name": "rishiputra",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J362S7FJ49SZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,334,590"
+                },
+                "Date": "on March 17, 2000",
+                "Helpfulness": 0.7804878048780488,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Chicago, IL, USA",
+                    "Name": "Vivek Sharma",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#94,402"
+                },
+                "Date": "on February 26, 2004",
+                "Helpfulness": 0.7727272727272727,
+                "StarRating": "5",
+                "Text": "This is one of those pithy classics that one needs to tread through very very carefully. The book is an uphill task, wherein rests its utility and fun. Fluid Mechanics in its simplified diluted version is served in many OTHER textbooks. This one serves it in its raw mathematical glory, and as the author says in the preface of the book, any serious engineer and fluid mechanician must realize that math must be befriended and mastered. The author makes very terse, and powerful introduction to the field. I would recommend a physicist to supplement it with a text by Faber, for Chemical Engineer to study it after the famous BSL (Transport Phenomenon), for a mathematician to pick it on any day, and for everyone in general to approach it with determination required to climb a rocky terrain. (Ah! I guess I would write an even better review if and when I finish reading it:)"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Noname",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13NEXW54YHY6S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,780,959"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very good book, enjoyed the tensor approach and found it illuminating.  The book is not as much about the standard solutions to fluid problems (lubrication, creeping flow, boundary layer etc) as it is about the basic equations and how they can be applied with changing basis vectors, on surfaces, etc."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Engineer89",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R4G3EMRCGHOV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,467,437"
+                },
+                "Date": "on February 29, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I recommend this book to anyone who is already knowledgeable in Fluid Mechanics and wants to expand their knowledge on the subject matter. Ideal for anyone taking a course in a Graduate Fluid Mechanics class or related subject. Overall well written."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Colin Graham",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ACJ5J9MY64LD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,843,418"
+                },
+                "Date": "on November 14, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Great presentation of material, but does anybody know if there are solutions to the example problems? Always helps me learn when I see how it's done."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Kansas",
+                    "Name": "Paulo Eusebio",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFTHJAFLJHSGC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,557,085"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Excellent book that gives a nice mathematical review in the first chapter before diving into the technical stuff. Overall a good read but a bit skimpy on examples. Derivations can be hard to follow with the outdated notation though."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "49%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GTDYPVKD6Y8N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,704,562"
+                },
+                "Date": "on November 14, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I got this book for my research. This book is amongst the more readable introductions to tensors in complicated coordinate systems. Also has a very good chapter on free surface problems that is very well written and easy to understand."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Alex Bertuccio",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G5LDEORBKL60/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,785,283"
+                },
+                "Date": "on October 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Material is useful and definitely helps for my fluids class. There is a lot of math that I'm not familiar with and it helps break it down."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "J Cochran",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WECC7QDBZ41H/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,176,089"
+                },
+                "Date": "on August 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Aris does a good job of not boring the sanity out of you. A little background + a little interest = enough reason to read this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Kelsie M Mortensen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV2XIP4WZL0Z2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,398,206"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. Well written. I needed it to transform equations from Cartesian to a different basis and this book helped a lot."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Matthew B.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3219Y4FW0OLGG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,970,326"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I purchased this book to aid with an advanced aerodynamics course and it has really helped. The explanations are clear."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Jorge",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OVCCQ6I8I39C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,577,548"
+                },
+                "Date": "on August 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "everything all right, all in time, good stuff, everything like in the post, the pack was right, cool cool cool"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Rui Liu",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OZFBBWG2TW6C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #11,268,276"
+                },
+                "Date": "on May 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Best book for fluid mechanics ever, at graduate/researcher level"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Engr-Scientist",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14434P9VVN782/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,745,434"
+                },
+                "Date": "on May 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A must have for any serious fluid dynamics student and engineer!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "K. Ant.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DFN05AJ7LEY6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,390,229"
+                },
+                "Date": "on July 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I didn't particularly care for this book. My professor had this listed as an optional book for a masters college class but I didn't find it useful at all. If you are learning fluid mechanics then you should already have a grasp of vectors and tensors. I just did not find any use for it and didn't care for the way the author described the information."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K6FDPV9Q89M8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,963,481"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "helpfull"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Se7en",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7QZSZA2DE9VJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,693,210"
+                },
+                "Date": "on September 25, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "One of the smartest book in the field that made complicate stuff easy to understand"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "47%",
+                    "Location": "",
+                    "Name": "Nik Bostan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1P379QFSR1P8X/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,320,926"
+                },
+                "Date": "on August 5, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "this is really a nice book if you want to work on fluid mechanics. it provides you the equations of fluid mechanics in different coordinate system."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "New Zealand",
+                    "Name": "Allan Vandyke",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FO0ZXC9400WQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #16,544,719"
+                },
+                "Date": "on August 19, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "4",
+                "Text": "There is some very important information given in this book. However I still need to do much reading around tensor calculus as I feel that there were not enough worked examples using Christoffel notation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 11, 2000",
+                "Helpfulness": 0.5238095238095238,
+                "StarRating": "4",
+                "Text": "This book comes from the author who is influenced by Clifford Truesdell(pioneer of Rational Continuum Mechanics & Thermodynamics). This book can be a good introductory material to begin study in rational  mechanics. However, not so serious students may find it disappointing. One  can surely learn some good tensor manipulation skills with application to  fluid mechanics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Los Alamos, NM United States",
+                    "Name": "D. Mihalas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EPOFZZVBHEFJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,709,601"
+                },
+                "Date": "on April 19, 2006",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": "This book is simply magnificent. ANYONE interested in fluid dynamics should own it!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "41%",
+                    "Location": "",
+                    "Name": "john gragowski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT812D3YMGL6S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,297,419"
+                },
+                "Date": "on September 20, 2001",
+                "Helpfulness": 0.4117647058823529,
+                "StarRating": "3",
+                "Text": "This book would be good for a reference, however, I would not reccomend it for learning the subject or to supplement a course on fluid mechanics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Shaunak M. Vora",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN4021Z432W06/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,918,576"
+                },
+                "Date": "on September 23, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "29%",
+                    "Location": "Indiana",
+                    "Name": "Kimberly Hayden",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGD4EOKH7UCB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,791,072"
+                },
+                "Date": "on March 8, 2000",
+                "Helpfulness": 0.2894736842105263,
+                "StarRating": "5",
+                "Text": "I just couldn't get enough of this book.  A real page-turner"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Vectors-Tensors-Equations-Mechanics-Mathematics/product-reviews/0486661105/ref=sr_1_20?s=books&ie=UTF8&qid=1432358884&sr=1-20&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "26"
+    },
+    "Salesrank": "#141,664",
+    "Timestamp": "2015-05-23 01:34:03.947171",
+    "itemurl": "http://www.amazon.com/Vectors-Tensors-Equations-Mechanics-Mathematics/dp/0486661105/ref=sr_1_20?s=books&ie=UTF8&qid=1432358884&sr=1-20&keywords=mathematics+books+paperback"
+}

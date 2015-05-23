@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Fourier Series and Orthogonal Functions (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$17.78",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "",
+                    "Name": "WINSTON OLADAPO",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FYCAO2KZVJ63/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,307,084"
+                },
+                "Date": "on May 2, 2000",
+                "Helpfulness": 0.9032258064516129,
+                "StarRating": "4",
+                "Text": "During the course of my studying the book, i discovered that the book goes indepth in making the concept of fourier series analysis simplified. As an engineer i make use of fourier series applications often both in my  research work and in the teaching of my students to a great extent i have  found this book extremely useful in that it aids the level of  understanding. I have also realised that even to a novice that picks up  this book will find it very interesting to a large extent.As it is known  that fourier series is very usefu in engineering study , especially in the  area of solving heat condition problems and for specific applications in  engineering design.  The book has taken a more comprehensive form which  makes reading very easy . I  prefer this book because it follows a  progressive sequence of explanation.The introduction of fourier integral  into the fourier series solution has brought to a great extent the use of  partial differential equations in eral life engineering problems . The book  has also made the engineering concepts defined practicable, by  demonstration of a straight forward attempt aimed at pionting out the  extent to which engineerig is usefuk in our everyday lives. This book  should be recomended in schools as the true book avalaible in the  understanding of the concept of fourier series. Orthogonal function study  has also been made in such a way that a first time reader will find it easy  in terms of the concept and context."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "inkster, MI USA",
+                    "Name": "Ken Braithwaite",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#18,428"
+                },
+                "Date": "on November 16, 2000",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": "I learned Fourier analysis on my own, and mostly from this book. Its intuitive content is excellent, but it is a rigorous math text, approaching the subject form an algrbraic viewpoint. He treats convergence issies in detail and in a well-motivated fashion. \"Read Who is Fourier\" for an intro, and read this for the math behind the intuition."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "student",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O9MWQSOMS07W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,482,816"
+                },
+                "Date": "on April 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the best mathematics books I've been fortunate enough to come across as someone with a B.S in mathematics and as a current graduate student. The explanations are very clear, and details typically left out by other authors are included, whether it be in definitions, concepts, proofs, or examples. The title is somewhat deceiving in that much more material is covered than one would think. If I could give this book 6 stars, I certainly would."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "S.Haig",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J54XR6L9Q872/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,382,630"
+                },
+                "Date": "on October 11, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As an undergraduate physics major who didn't want to take a differential equations class, this book is a real life saver. The book gives the reader a working knowledge of fourier series and orthogonal functions (Bessel, legendre, laguerre, etc) while also providing enough mathematical rigor for the reader to understand the motivation and nature of the functions themselves. Personally, this book came in handy when trying to understand quantum mechanics where the equations can get very algebraically thorny. It's a cheap book and worth a whole lot more than it costs."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Harrisonized",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F3VU8ENAWC9U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,725,006"
+                },
+                "Date": "on January 12, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Olney, MD United States",
+                    "Name": "Michael Edick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DAVZ0XIKHHLM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#67,693"
+                },
+                "Date": "on August 27, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "Decent text, when combined with other sources.  The text wasn't basic-enough to comprehend on first read, but after reading through other texts I understand what the author was conveying.  I'll keep it as a reference."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "DaleO",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W8VEF487RENZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #144,407"
+                },
+                "Date": "on August 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This was written decades ago, so it naturally doesn't include the entire computer revolution regarding fast Fourier transforms and what not.  But the mathematical developments and the textual matter in the book still seemed relevant and interesting."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Doug",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JELLWGORH1P7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,670,644"
+                },
+                "Date": "on April 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The author talks to the reader to give an idea where the discussion is going.  He motivates the material he presents--he explains how each section relates to the others.  He does not throw it in your face."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "31%",
+                    "Location": "",
+                    "Name": "jm",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HI03URMX1XVI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,790,904"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "me gusto el libro y recomiendo que lo compren, el vendedor fue muy amable y en todo momento se preocupo porque llegara bien."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fourier-Orthogonal-Functions-Dover-Mathematics/product-reviews/0486659739/ref=sr_1_22?s=books&ie=UTF8&qid=1432358884&sr=1-22&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#864,254",
+    "Timestamp": "2015-05-23 01:35:03.089877",
+    "itemurl": "http://www.amazon.com/Fourier-Orthogonal-Functions-Dover-Mathematics/dp/0486659739/ref=sr_1_22?s=books&ie=UTF8&qid=1432358884&sr=1-22&keywords=mathematics+books+paperback"
+}

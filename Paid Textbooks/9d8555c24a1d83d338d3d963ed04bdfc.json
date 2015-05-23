@@ -1,0 +1,96 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Rotations, Quaternions, and Double Groups (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$16.52",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "Lakeside, Ca United States",
+                    "Name": "Roger Bagula",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,334,070"
+                },
+                "Date": "on May 15, 2006",
+                "Helpfulness": 0.9491525423728814,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "",
+                    "Name": "Kenneth A. Lloyd Jr.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UM43M445TGY0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,246,936"
+                },
+                "Date": "on October 26, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book will be difficult for \"paper mathematicians\" because it describes concepts of orientations in multidimensional configuration space that requires visual / spatial ability. It does so with with a depth and granularity that can be appreciated by those who work with these \"tools\".  This small book is not a quick read, nor a general overview. It takes time to ruminate on these words to gain understanding of increasingly important behaviors in classical and quantum physics, as well as modeling the complexity in systems.  But, these rewards require an investment of time and thought."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Olympia, WA USA",
+                    "Name": "Kevin Kiersky",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AES697PC2IW5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#12,403"
+                },
+                "Date": "on April 9, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "",
+                    "Name": "Mercator",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BLOWAL5PWYP0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #880,711"
+                },
+                "Date": "on June 30, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "San Jose",
+                    "Name": "Robin T. Wernick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABZMVCTAAIE6K/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#11,195"
+                },
+                "Date": "on March 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "",
+                    "Name": "Timothy Robinson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BAC3YI44070V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,998,037"
+                },
+                "Date": "on May 8, 2007",
+                "Helpfulness": 0.6410256410256411,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Rotations-Quaternions-Double-Groups-Mathematics/product-reviews/0486445186/ref=sr_1_23?s=books&ie=UTF8&qid=1432358884&sr=1-23&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#460,841",
+    "Timestamp": "2015-05-23 01:35:21.875902",
+    "itemurl": "http://www.amazon.com/Rotations-Quaternions-Double-Groups-Mathematics/dp/0486445186/ref=sr_1_23?s=books&ie=UTF8&qid=1432358884&sr=1-23&keywords=mathematics+books+paperback"
+}

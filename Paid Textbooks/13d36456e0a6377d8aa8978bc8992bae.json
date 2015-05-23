@@ -1,0 +1,1567 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books)"
+    ],
+    "OfferPrice": "$13.94",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Dallas, Texas",
+                    "Name": "Robert Morris",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26JGAM6GZMM4V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#137"
+                },
+                "Date": "on January 4, 2000",
+                "Helpfulness": 0.9714285714285714,
+                "StarRating": "5",
+                "Text": "Those who have read Gleick's biography of Richard P. Feynman (Genius) have probably also read this collection of Feynman's \"best short works.\" This is indeed an odd collection. Feynman is most accessible  in the interviews and speeches; least accessible in his \"Minority  Report to the Space Shuttle Challenger Inquiry.\" Gleick's biography  reveals a man who exemplifies what Whitman had in mind when he observed  \"Do I contradict myself? Very well then, I contradict myself. I am  large. I contain multitudes.\" Feynman was indeed large; he contained  multitudes. To read this book is to share the pleasure of his company as he  formally and informally shares his thoughts and feelings about himself, his  life, his career, and just about everything else which attracted his  attention. Chapter 1 (\"The Pleasure of Finding Things Out\") and  Chapter 8 (\"What Is Science?\") are my personal favorites. The  aforementioned \"Minority Report\" (Chapter 7) was, for me, tough  going. As I worked my way through this collection, I began to think that I  was in the company of someone who has Albert Einstein's intellect and Danny  Kaye's personality. Feyman must have been a flamboyant (albeit demanding)  classroom teacher. There can be no doubt about his intelligence. Nor his  passion and compassion. Nor his playfulness. How much I regret never having  known him personally. Therefore, how much I appreciate this collection  which I continue to re-read with joy."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "Dallas, Texas",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JGUSKVWEEAHY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,852,723"
+                },
+                "Date": "on January 24, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "taking a rest",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37F1G84K35FCZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #577,507"
+                },
+                "Date": "on November 8, 2000",
+                "Helpfulness": 0.958904109589041,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "SoCal/NorCal/Maui",
+                    "Name": "Dennis Littrell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABN5K7K1TM1QA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#979"
+                },
+                "Date": "on April 16, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 14, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Saint Helens, Oregon",
+                    "Name": "Duwayne Anderson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH88WGWK9PMDL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,372,164"
+                },
+                "Date": "on July 30, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Holland PA",
+                    "Name": "Michael R. Chernick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "97%"
+                },
+                "Date": "on February 9, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "Balmette Talloires, France",
+                    "Name": "Robert J. Crawford",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUM3YMZ0YRJE0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#1,378"
+                },
+                "Date": "on July 16, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Austin, TX USA",
+                    "Name": "Rory Coker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33UDDOH82EROT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#21,760"
+                },
+                "Date": "on July 8, 2001",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "Mexico",
+                    "Name": "Arturo Noriega Sevilla",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L1GVUPU9RY8N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #518,678"
+                },
+                "Date": "on May 30, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "Seattle, WA United States",
+                    "Name": "aryxus",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1625MQ6O8XBG8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #984,505"
+                },
+                "Date": "on November 14, 2000",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Jupiter, FL United States",
+                    "Name": "spacecase0928",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18CWDEWL0NC75/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,106,168"
+                },
+                "Date": "on June 3, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book because I was familiar with Feynman and his work with QED. It's a fantastic book that contains lectures and interviews about Feynman's childhood and work on the Manhattan Project, to the future of computer technology, as well as many more subjects. This man had an awesome life that anyone interested in math or science would aspire to.  The book is interesting and easy to read. I'm in 11th grade and I can understand it, so anyone who is at all familiar with physics and has a decent mathematical background will do fine reading it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Made it to Seattle!",
+                    "Name": "J. Bradham",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT35493GHBH83/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,301,382"
+                },
+                "Date": "on March 24, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book was my first introduction to Feynman.  Being an engineer, I find his deep dives into physics very interesting.  However, the true gem here is his philosophy that keeps peeking out: doubt everything - test it for yourself; and have a child-like wonder of the universe.  His sense of humor also jumps out and makes you laugh out loud.  This book covers a wide range, from his early adventures to his later musings.  I recommend it to anyone who is curious about how to find out for themselves how things work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "the Solar System",
+                    "Name": "Luis F Lupian",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJBXZ0HYUG6L0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,208,490"
+                },
+                "Date": "on March 22, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 4, 1999",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "This is the latest book from Dr. Feynman describing his thoughts on science, society, and pseudoscience.  As always, Feynman is eloquent, insightful, and completely clear in his thoughts.  The book is composed of  articles from various sources and gives his opinion on a variety of topics.  My favorite: \"The Value of Science.\"  In short - A must-have  addition to any library, scientific or not!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "New York",
+                    "Name": "Belina Mejias",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IA5I32LH7XDP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,490,815"
+                },
+                "Date": "on November 22, 1999",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "4",
+                "Text": "I was only slightly disappointed in reading this book because the subject is such a famous physicist that some of the pieces seemed lacking in a coherent comprehensiveness and detail.  They were more anecdotal and  disjointed, all in all, not a whole story, as I might have liked.  This  does not detract from the book at face value, which reads great and, at  that level, is a wonderful book.  Other books attempting similar things,  however, are much more detailed and read with full plots-- Sobel's  Galileo's Daughter and the Zoland book Nabokov's Blues.  But perhaps what  the editor preferred here was something more general and disjointed since  the subject is a celebrity anyway.  I did not find this a problem once I  realized what the book seemed to be attempting; I think I got spoiled by  reading other scientific \"biographies\" with a real plot.  Yet,  for anecdotal charm, wit, and poignancy relative to some of the problems of  our times-- like Challenger and all it symbolized for America-- this book  still hits hard."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Alexandria, Virginia USA",
+                    "Name": "rfriedman2",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23YVLONAH6OSX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,961,861"
+                },
+                "Date": "on December 5, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Forest Grove, OR United States",
+                    "Name": "towSaint",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABCMQXEU1V1VA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #273,044"
+                },
+                "Date": "on July 26, 2002",
+                "Helpfulness": 0.875,
+                "StarRating": "3",
+                "Text": "While I greatly enjoyed 'Surely You're Joking Dr. Feyman...\" this book leaves me unentertained. There are a number of insightful articles and some gems, but the best material is repeated from 'Surely you're joking...'.  For the dedicated Feynman fan, this is must-have, but it's a poor intro: read another of this amazing man's works first!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "",
+                    "Name": "Metallurgist",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#528"
+                },
+                "Date": "on March 26, 2009",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 23, 1999",
+                "Helpfulness": 0.7291666666666666,
+                "StarRating": "3",
+                "Text": "Most of these articles are in print already.  I have only lightly skimmed a few of them.  I hadn't previously seen the Omni interview, which described how the discovery of the Lamb effect in 1947 spurred Feynman to  finish his formulation of QED.  The interview has Feynman saying that the  measurements were done by Lamb and Rutherford, and the  biographical  footnote on the page correctly dates  Rutherford's death in 1937.  (Rutherford discovered the atomic nucleus in 1911 when he noticed alpha  particles scattering backwards from atoms instead of going through as  everyone would have assumed.) For some reason, the editor didn't catch the  inconsistency (the co-discoverer was actually Retherford, not Rutherford).  There are other indications of editorial sloppiness, such as the editor's  statement in the preface that light is slowed down in glass or water by a  fraction of a percent (compared to the speed in vacuum).  It's more like 30  percent, as anyone who has taken high school physics may remember.  I think  Feynman deserves better -- the editor should have run this book by a  physicist before publishing it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "Roma, Lazio Italy",
+                    "Name": "Eric J. Lyman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31WE0G828ZWY5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #998,035"
+                },
+                "Date": "on January 18, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Bangalore, India",
+                    "Name": "Ashwin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZM45NJ4DPG4N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,268,841"
+                },
+                "Date": "on March 25, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Japan",
+                    "Name": "S. Lan Smith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33VEZXW7XVKOO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,809,145"
+                },
+                "Date": "on October 3, 2006",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Norman, OK USA",
+                    "Name": "David B. McDonald Sr.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU0YP47J80HU9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,883,776"
+                },
+                "Date": "on March 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "New York, NY United States",
+                    "Name": "Mr. NY Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJIM1RCXJBMMR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,111,412"
+                },
+                "Date": "on April 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This was my first book on and by Feynman and I thought it was fantastic.  Feynman does a convincing job attacking the \"pseudoscience\" practiced in many fields: politics, social science, psychology, and laying the ground for improvement in these areas.  He also tries and in my view succeeds in describing the mind and process of a true scientist.  He then crosses over into religion and philosophy which he manages well, even if it is apparent that he is not a strong believer in God and that he thinks most philosophy is garbage.  I will be reading more Feynman."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "North Ogden, Ut United States",
+                    "Name": "Golden Lion",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5WMBIOGE8Q6N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#52,645"
+                },
+                "Date": "on June 16, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "M. H. Bayliss",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SHQJP6PNQTLD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#13,317"
+                },
+                "Date": "on August 15, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Orlando",
+                    "Name": "Gordon V. Monday",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMIB846VGLT28/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,628,200"
+                },
+                "Date": "on February 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A WONDERFUL AND INSIGHTFUL LOOK INTO THE MIND OF NOT ONLY A BRILLIANT SCIENTIST, BUT A DOWN TO EARTH HUMAN BEING AS WELL.  WHETHER A SCIENTIFIC OR  NON-SCIENTIFIC THINKER, THERE IS MUCH TO BE LEARNED ABOUT LIFE FROM THIS UNCHARACTERISTIC MAN, FATHER AND HUSBAND."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "12%",
+                    "Location": "Topsail, NC",
+                    "Name": "Eric Whyne",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFNV0MXZKRLDA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,235,814"
+                },
+                "Date": "on January 3, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is THE best book I have read all year.  Excellent insight into science, government, and religion.  The arguments within the book are great ammunition for discussions in any of these areas."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "Michael F. Maddox",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W93T2X3TDM9J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,311,431"
+                },
+                "Date": "on December 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Fayetteville, AR United States",
+                    "Name": "Brandon E Wolfe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EE3ZB6YYPKQO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,671,785"
+                },
+                "Date": "on May 10, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "Tom Turner",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ2S0A8D5W9M4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,781,105"
+                },
+                "Date": "on August 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Battle Creek, Michigan United States",
+                    "Name": "D. Roberts",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35YWA2V4QHOJ3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#1,979"
+                },
+                "Date": "on June 22, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "MSU",
+                    "Name": "Daniel A. Garland",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VEZ4XHH49XYC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,576,632"
+                },
+                "Date": "on April 20, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "New York, New York",
+                    "Name": "runonsentience",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SCUWMP4N6JGJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,589,019"
+                },
+                "Date": "on October 10, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "32%",
+                    "Location": "Merrimack, NH",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20Y3683HW66ZZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,965,250"
+                },
+                "Date": "on September 26, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Good book, but definitely has many overlaps with Surely You're Joking Mr. Feynman. This book is basically an edited collection of unfinished works from Feynman that Cashman has edited and transcribed."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Austin, Texas",
+                    "Name": "Rai Chowdhary",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DG5ZOVQ760HP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,476,101"
+                },
+                "Date": "on August 14, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "Boulder,CO,USA",
+                    "Name": "Rishikesh Singh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADIYDJA23DQLQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,809,502"
+                },
+                "Date": "on August 22, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This book makes Feynman come alive in all his irreverant best,the man,his  works,his brilliance,\"Feynman-the rough cut\",it all gells  magically thru this wonderful book.Richard Feynman continues to be a tower  of inspiration to millions worldwide.The best role model one can ever  imagine."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "Jerusalem,Israel",
+                    "Name": "Shalom Freedman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHD101501WCN1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#1,006"
+                },
+                "Date": "on December 13, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Sydney, Australia",
+                    "Name": "Rafe Champion",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACL845LEHNC7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #137,564"
+                },
+                "Date": "on August 7, 2002",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Potomac, MD United States",
+                    "Name": "T. Burket",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ME5HY6FHN2OG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#44,008"
+                },
+                "Date": "on August 26, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Luxx Mishley",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38VAF4S1DARTN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #134,994"
+                },
+                "Date": "on January 11, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "Desert Southwest",
+                    "Name": "El Paso",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8HS6N6BLZVSJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#35,548"
+                },
+                "Date": "on January 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "Edinburgh, Scotland",
+                    "Name": "Adam Rutkowski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWHDI0E3Z0MIR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,850,203"
+                },
+                "Date": "on September 24, 2000",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Towson, MD USA",
+                    "Name": "Irfan A. Alvi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1493ZQTQ2ET/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#617"
+                },
+                "Date": "on February 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Ejel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD303OSXPSST6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,104,142"
+                },
+                "Date": "on January 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Actually ordered this by mistake. Meant to order Surely You're Joking.... But it was a happy mistake. Still not a big fan of books made from assorted papers because they just don't flow well. It is much easier to read them when the person is interesting. Some folks are critical of Mr. Feynman's antics over the years. He just seemed playful, curious and refreshingly honest. Most people try to hide their weaknesses, especially those in the sciences. Not him. He openly discussed his quirks and personality flaws. He loved what he did and seemed happy. That showed throughout the book. But he was not refined, cultured or overly full of himself. He cherished his working class upbringing. I found him endearing and funny yet a few of his activities would not have been something that would appeal to me. There was less information on his scientific pursuits and the value of his contributions than I thought there would be still it was a fun read over all."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "San Francisco, CA, USA",
+                    "Name": "Ilya Grigorik",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MGUNKW1ANLT5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#7,722"
+                },
+                "Date": "on December 21, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Zanesville, OH",
+                    "Name": "James W. Fonseca",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GWEIAL82JG6O/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#43,938"
+                },
+                "Date": "on October 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Feynman is brilliant, arrogant and emotionally cold. He was the youngest brilliant mind working on the atomic bomb in Los Alamos in the 1940's and later won the Nobel Prize in physics. This book is an unintegrated collection of essays, transcripts of speeches, interviews and memoirs. As such it gets repetitive. We hear three or four times about how his father taught him to observe and we hear three or four times the identical story about the Cargo Cults in New Guinea after WW II. His father, who was not a scientist, turned out to be an excellent teacher specializing in teaching his son to learn by observing. Feynman and his school buddies also had basement \"workshops\" so that helped their intellectual development. It's fun to see a mind at work, punching the envelope, too undisciplined and too powerful to be contained within a skull."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "19%",
+                    "Location": "Paris, TX",
+                    "Name": "Dr. Thomas F. Bryant",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SL40F5OXCX4J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,589,140"
+                },
+                "Date": "on November 23, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Getting to know Dr. Feynman is greatly fascilitated by this book. It's recommended to science oriented readers."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "62%",
+                    "Location": "Houston, TX USA",
+                    "Name": "Anchorite",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17CC1VQEZZIMT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #460,880"
+                },
+                "Date": "on January 30, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I heard the audio book version of the book. Same content. Dr. Feynman was absolutely brilliant. Definitely one of the top scientific minds of the 20th century. He is not the ivory tower type of intellectual. He was extremely curious and had a knack for Math and Physics and was able to put it to good use. What's really good about this book is it gives a glimpse into how true scientists think and how it starts from childhood. He talks about scientific integrity and a few other amusing non-scientific things. He also mentioned in this series that he would see equations in different colours. So the 'j' would appear tan and another part of the equation purple...so he probably had savant like qualities without the awkwardness of regular savants."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "COLUMBIA, SC, United States",
+                    "Name": "Michele Kingery",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABJLC4JUBPAH7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#49,250"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Hill Country Bob",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GA8HU27UO4D7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#11,687"
+                },
+                "Date": "on April 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "New York",
+                    "Name": "Judah",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VDI1GQKNVA7U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#8,333"
+                },
+                "Date": "on November 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "Kristopher O. Davis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RPV3C9WQ7N4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,960,544"
+                },
+                "Date": "on April 20, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I had a general impression of Feynman before reading this. I knew he was defiant, funny, brilliant, etc., but this collection of works, letter, and interviews featuring Richard Feynman really shows just how different and original this man was. I enjoyed reading words and ideas coming directly from the man himself, rather than being regurgitated by some biographer. Feynman is by no means a good writer, which he admits, but nevertheless he has important things to say. His perspectives on life, science, learning, and religion are worth hearing out."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Geyserville, CA USA",
+                    "Name": "G. Heumann",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23ZWCHIQKN4RE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,394,785"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "What a great read. Feynman was at once brilliant but amazingly normal."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "UltraJohn",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9C3S563UHROU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,034,188"
+                },
+                "Date": "on May 24, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I read a lot of Asimov non-fiction (essays, textbooks, etc.), so I figured this might be something similar. It's really not; Feynman is not a very good writer, and in any case much of this book is transcription from talks he has given. The talks are fascinating, but not particularly well-organized. On the other hand, the \"appendix\" piece (from the report on the Challenger disaster) is absolutely incredible. The content is straightforward, factual, and devastating. That piece alone is worth the price of the book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "A View from Greensboro",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FNXUHS2GBA1Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,421,549"
+                },
+                "Date": "on July 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Every Generation - A few days ago, I ordered The Pleasure of Finding Things Out for my son (he needed light summer reading). So what happens, once more I find myself exploring its pages - hanging on Feynman's words as if it were my first time. I love everything about the book. Freeman Dyson's introductory essay is insightful, charming and sets the tone for the text wonderfully. Give yourself and your love ones a treat. Find time to make \"Pleasure\" a book for the entire family."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Guilherme Gomide",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXD5ZDE29HX0D/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,732,586"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book shows the person behind the Genius. His fiddling around with things and people, and so on and so forth.. You can actually hear his voice while you read his stories. He shows a little of how he thinks about the world, in a very amusing way. From cargo cult science to the resistance to the Nobel prize, Feynman succeeds in making you understand him.  I just love it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Photographe Amateur",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIZXDEKRRDWEV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,951,315"
+                },
+                "Date": "on November 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "sarah kliachko",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XQOP7TRQ7MGB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,934,694"
+                },
+                "Date": "on August 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The way a bright person study everything around him with an open mind and high curiosity is a good example to follow and to educate from an early age throughout life.."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Dan-Erik Lindberg",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALYR21JOD2E2B/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,514,053"
+                },
+                "Date": "on June 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "These short stories give a glimpse into the mind and life of Feynman. I found myself rather pleased with finding out that Feynman's view of how things should be done is very similar to my own. Thus, it is not so strange that I liked reading it. I did skip a few sections that I found less interesting, but it is a book that lends itself very well to skipping parts, due to the short segments and frequent shifts in topic. There are also several things repeated in his texts, possibly because he was particularly fond of those examples, but it didn't subtract much from my enjoyment of the texts."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "54%",
+                    "Location": "",
+                    "Name": "Nick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VKE3KXF83L0P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,779,285"
+                },
+                "Date": "on June 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Carmel Valley, CA USA",
+                    "Name": "Richard Bravman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CNLZZ2Q6L5TB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,794,292"
+                },
+                "Date": "on April 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I can think of no better way to invest several hours of your time than to spend it reading and thinking about the ideas Dr. Feynman shares with us here."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "Joe WOF",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19N6R6VUC46YJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,495,500"
+                },
+                "Date": "on April 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Dr. Feynman is engaging, interesting and well respected.  He enjoys his craft and has a easy cadence in life.  Sometimes he seems a little to obsessed in believing only in what he can prove himself."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Chicagoland",
+                    "Name": "Matthew Hull",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BJCCGULD7HUS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #867,597"
+                },
+                "Date": "on March 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Sebastopol, CA",
+                    "Name": "Tim O'Reilly",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A166KWUBADDTVX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #337,532"
+                },
+                "Date": "on December 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "Florida, United States",
+                    "Name": "Westwood Village Reviews",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5YYY60E2182C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #140,667"
+                },
+                "Date": "on November 25, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book provokes the kind of rare insights that can change your life. I recommend it as both a fine reading experience and something that can improve the quality of life."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Florida, USA.",
+                    "Name": "Richard J. Foster",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATUL61VCV2CA2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #909,923"
+                },
+                "Date": "on November 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "While some parts of this book are very enjoyable and provide a wonderful window into both Feynman's way of thinking, and the historical context (the \"Los Alamos from Below\" section, for example), I found others more difficult. Still worth reading, absolutely, just don't expect the same level of interest, humor, scientific detail, or just about any other aspect to be consistent from one section to another. This makes sense, as the book is a collection of items given to - and intended for - different audiences at different times. Unfortunately, at least for me, the inconsistencies meant that I could barely put the book down while reading some sections but found myself preferring other reading material over Mr Feynman's musings while working my way through the others."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "David Challacomb",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OEJSKZ55P787/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #971,023"
+                },
+                "Date": "on October 19, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I was very pleased with this book. Not every speech knocks it out of the park, but the set has variety, humor, and serious discussion. My favorite is Feynman's talk of his time working on the Manhattan Project. Great stuff, relevant, informative . . . quite a joy to read."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18FM4ALTGDH67/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,018,290"
+                },
+                "Date": "on September 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Being free from everyone, especially ones ownself, is the first step towards creativity and liberty. Whether a genius like Feinman or a mere mortal like myself, being yourself is the first step. As a brilliant mind, I never come close to him but as a fun-loving spirit,  I might come close to him, and there, fortunately, I find the liking of the great mind of Mr. Feinman. Is there anything not right? I'm sure that he appreciated more of fun than physics as a human being."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Prison Guy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OFG2B6HU07C6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,281,997"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have read everything by and about Richard Feynmen that I can find and \"The Pleasure of Finding Things Out\" is the most fascinating and revealing collection of his genius I have seen. It being so short makes it even more powerful; with less repetition than is found in some of the other MAGNIFICENT books.  Five Stars and beyond."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "Haxie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29URJLB78M6C7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#23,558"
+                },
+                "Date": "on November 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Ordered this book as a gift. Looks so good, I need to order a copy for myself after Christmas. Used hardback, arrived in excellent condition, certainly gift-worthy to anyone interested in physics, the natural world, or musings of a fascinating mind. These essays have virtually no math, so are accessible to just about anyone."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "David E DeJoia",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G9AFYLC13VYM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #13,271,957"
+                },
+                "Date": "on March 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Thought provoking and down to earth takes on the beauty, delight and importance of curiosity and science, from one of the great physicists of the 20th Century. I especially enjoyed his assessment of the social sciences and his thoughts on religion. I truly enjoyed the book, and wish I could have met him in person."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "Columbus OH",
+                    "Name": "clstal",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG9GM9M4DU8D2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,143,795"
+                },
+                "Date": "on November 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "An entertaining firsthand account of a genius physicist in accessible language largely curated from a series of lectures you can probably 'hear' in your head if you've watched youtube clips of his lectures. A free spirit - an odd descriptor for a Nobel prize winning physicist."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "29%",
+                    "Location": "",
+                    "Name": "rad",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AU9N153CPDKX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,800,817"
+                },
+                "Date": "on August 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is great and worthy that Feynman's family and friends are continuing to supply us with more of this fun, brilliant, mischievous genius.  I once saw a list of people who made lists of ten people from history they would invite to a dinner party...Feynman is on my list."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "TX USA",
+                    "Name": "WTG",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAWQT1EK55X2G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #233,376"
+                },
+                "Date": "on March 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Mostly the written ramblings of Feynman, often heard previously in his many videos/interviews that can be found on You Tube.  Lots of his \"books\" seem to re-presentations of material found almost verbatim in other published works or from interviews/lectures."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Los Angeles, CA, USA",
+                    "Name": "WillNic",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19JET1XKAZLQH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,455,140"
+                },
+                "Date": "on March 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "it's a book about feynman. what more do you want? the only reason i had to put the book down is because i had a midterm :( it's a great book. if you don't know why people like science, then get this book. if you already liked science, then read this book. i love it"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Richard Cassidy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEYNKFG11EX8J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,162,154"
+                },
+                "Date": "on December 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Feynman was about 25 years old, and working on his Physics PhD thesis, when he was chosen to work on the Manhatten - atomic bomb - Project..  And shortly after Hiroshima, he writes (page 11) that he was  \"...really in a kind of depressive situation.\""
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "MA, USA",
+                    "Name": "K.T.Wied",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IGY8BTN3AZJK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #846,532"
+                },
+                "Date": "on April 6, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have no words to describe how R. Feynman is inspiring! The pleasure of finding things out describes the universe of a genius and open mind. The title explains the book. A must-read book (for scientists and non-scientists... inspire yourself!)."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "Woodinville, WA  USA",
+                    "Name": "TeeJay",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CDYM53UWQWL7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #543,380"
+                },
+                "Date": "on January 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Valuable insight is made visible into how and why Professor Richard Feynman is motivated in his discoveries of topics in modern physics.  A valuable resource for anyone, especially those whose interests are in the sciences, especially physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "Texas, USA",
+                    "Name": "Leo W",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BO38FCPFQOP7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,828,459"
+                },
+                "Date": "on January 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "A lot of this book's content is taken from other books, such as the classic Surely You Must Be Joking Mr. Feynman. I was looking forward to reading something that I hadn't already read and this was a let down."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "32%",
+                    "Location": "",
+                    "Name": "Bob Richie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOW1116FB10B4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,074,240"
+                },
+                "Date": "on November 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a non-technical book that gives a glimpse into the life of a curious character. Feynman was not only a Nobel Laureate he was an ethical human being. His writing is straight forward and enjoyable."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Tim Sears",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACFE9CC03IQNE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,540,617"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Interesting book. Feynman starts the book by bringing you right into his thinking. Every sentence counts. The energy that he couples with his thinking is remarkable. I enjoyed the book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "Narragansett, RI",
+                    "Name": "Jazzed",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30ACBMB5EW55P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #473,824"
+                },
+                "Date": "on February 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "What can you say about this man and his books that hasn't already been said so many times before.  One word: Great.  Buy these books for yourself, your friends or your kids."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "pulsar",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS56GF9V4W7FK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,318,343"
+                },
+                "Date": "on April 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Any book by Richard Feynman is always instructive and entertaining. This due to his outspoken ways of inquiring without giving in to what is \"Politically Correct.\""
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Holly Phaneuf, PhD.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NA61TZT2AYM9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #472,077"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "How can you not love the way this man expressed himself? I do wonder if it was true that he had synesthesia, as his gift for metaphor makes science come alive."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "49%",
+                    "Location": "Philosopher in Tampa, Florida",
+                    "Name": "Paul",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14LSFT3PFBIOZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,118,647"
+                },
+                "Date": "on December 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "17%",
+                    "Location": "USA",
+                    "Name": "Myrna B. Tagayun",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UN3L3PJCZNGG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,332,971"
+                },
+                "Date": "on February 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Los Angeles, CA USA",
+                    "Name": "Ryan Essex",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX9KCLVWI3PY8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #451,424"
+                },
+                "Date": "on July 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Written entertainingly and informatively, with both substantive explanations of scientific principles and humorous stories of the life of a great man."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Louis N",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PWXMB5WZJDSE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,090,916"
+                },
+                "Date": "on May 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Highly recommend this book, easy to read and really good content. I fold more than 50 pages to go back to some thoughts or quotes."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Newport Beach, CA, USA",
+                    "Name": "Paine Whitney",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CLYZT3PF40YA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #164,963"
+                },
+                "Date": "on May 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Purchased as a gift and eagerly received and enjoyed by the recipient. An absolutely fantastic book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "49%",
+                    "Location": "Beverly Hills, Fl.",
+                    "Name": "Gene Christie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A290E433PPKSYL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,666,228"
+                },
+                "Date": "on September 5, 2008",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is pure entertainment.  Buy it and read it just for fun.  You will enjoy it very much."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Mina Youssif",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVQTUQHCTISVN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,180,974"
+                },
+                "Date": "on January 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "the book is in good look , there are no torn papers and no scratches , i really liked the book"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Boston, MA, USA",
+                    "Name": "Kris Tuttle",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABKK8267EVFF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#66,743"
+                },
+                "Date": "on February 1, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "24%",
+                    "Location": "evanston, il United States",
+                    "Name": "80th aero squadron",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24SGDI2RFZK54/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,238,541"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this book shows parents how to wake up children to become inquisitirs and  smarter,"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Christa Hodge",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VSZ9PJMV2VO4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,895,602"
+                },
+                "Date": "on May 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is about family, love and nuclear physics.  What more could you want?"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Richard Mayer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30B5BKC7ZJUQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,362,474"
+                },
+                "Date": "on November 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book. A view into his life like few others."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "Ipswich, MA United States",
+                    "Name": "George O. Lewis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AMC6XNT4CGL7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,568,555"
+                },
+                "Date": "on December 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Feynman is always a \"five star\" experience"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Osaka, JAPAN",
+                    "Name": "Chris Gladis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A912QKZ7UYI8L/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#33,733"
+                },
+                "Date": "on January 22, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Frankfort, Kentucky",
+                    "Name": "Gary Sprandel",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X8SXOK3MD24P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#12,631"
+                },
+                "Date": "on June 27, 2001",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Culver City, CA United States",
+                    "Name": "kresnels",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KN5JAFNGNTRT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,197,651"
+                },
+                "Date": "on February 22, 2002",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Kindle Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GIGXD93PFHIK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #16,325,912"
+                },
+                "Date": "on October 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. Everything that I expected."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "",
+                    "Name": "bookworm",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TMFIOXMA7IUD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,748,901"
+                },
+                "Date": "on March 4, 2011",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "2",
+                "Text": "I bought the book so that I can enjoy reading the brilliant thinking of Mr. Feynman. But it's painful to read this book from this publisher - Basic Books of the Perseus Books Group. The book paper is not of good quality. I can live with that. But font is so bad. In the middle of some paragraphs, a line is changed to smaller font. It happens all through the book. It just make my eye sore. I will avoid this publisher as possible as I can in the future."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "25%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATO9XRWKWG13I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,324,201"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good product and good service."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "Indianapolis, IN USA",
+                    "Name": "Indy Fritz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NPCEDKF0IZ6P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #403,160"
+                },
+                "Date": "on October 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Some great Feynman philosophy!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "israel",
+                    "Name": "yarden",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2142Z26H5E9R/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #14,077,738"
+                },
+                "Date": "on September 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "really nice reading"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "SWM",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APICB37CWSPQO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #984,612"
+                },
+                "Date": "on March 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A fun book to read"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Sunny Isles Beach, FL",
+                    "Name": "Peter J. Piaseckyj",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N1ZZOS82WWKU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#38,432"
+                },
+                "Date": "on July 16, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "10%",
+                    "Location": "",
+                    "Name": "Van Nguyen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P3GEIPYK0GT9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,265,034"
+                },
+                "Date": "on October 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "25%",
+                    "Location": "",
+                    "Name": "Charles Rost",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EBQPYWVJTGIX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,960,346"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good read"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "Tokyo Japan",
+                    "Name": "Hirotsugu Takahashi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A1TZMYM8CALP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,802,155"
+                },
+                "Date": "on September 5, 2000",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book tells us lots of things: computer, science and physics. Do you  know how small we can make a computer? Feyman tells you from a viwe of  physics. Do you know science or just the difinitions? Check it with this  book! The lectures on this book surely broadens your knowledge and gives  you a new way to think everything in the world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 20, 2001",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 15, 1999",
+                "Helpfulness": 0.38461538461538464,
+                "StarRating": "5",
+                "Text": "Richard Feynman was a great physicist and a  wonderful teacher. In another nice book  THE BIBLE ACCORDING TO EINSTEIN,  he is quoted as saying  \"The fact that I understand this rose --  the light reflected off its  surface, how  it is composed of cells, why it is red,  the evolutionary  origin of the bees'  attraction to it, and so on -- these  things do not in  any way diminish my  appreciation of its beauty. In fact,  they enhance my  ability to enjoy the rose.\"  This says it all."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "NM USA",
+                    "Name": "Gary Kern",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFITWD3Z7KBO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #236,925"
+                },
+                "Date": "on August 3, 2000",
+                "Helpfulness": 0.375,
+                "StarRating": "3",
+                "Text": "Richard Feynman is a cultural icon, inspiring imitation, adulation and  idolatry.  But he was also a con-man who made a virtue of his many vices.  Certainly he was an exceptional scientist, else he would not have won the  Nobel Prize.  But culturally he was an ignoramus, linguistically--a kid,  and professionally--a superstar who shirked responsibility and played the  role of maverick, even as he enjoyed all the professional percs.  He  persuaded everyone that he couldn't help it:  he was interested only in  finding out how things work and could devote himself only to that.  Others  could do the busywork, run the world and educate themselves.  This ploy  worked so well that when he spoke in his jerky 1940's plain-man language it  seemed that he was bringing elevated subjects down to earth, making them  simple and easy for the common man.  Actually he couldn't construct a rich  sentence or a weighty paragraph.  The same when he spoke about history or  religion--it seemed that he had unpeeled the manifold layers of cultivation  and interpretation.  Actually he only touched the first layer.  If you  imagine in this collection that it is not he, Richard Feynman, speaking,  but anyone else, you will discover that most of what is said reaches the  level of only a bright teenager.  Even when he speaks about science, he  spouts platitudes:  always doubt, always test, etc.  Yet, for all that,  there is something to be said for a great scientist who did not advance  beyond being a bright teen.  In these lesser articles and addresses,  Feynman appears with all his mannerisms, shortcomings and insights, an  original character if ever there was one.  His remarks are amusing,  irritating, stimulating and sometimes even inspiring.  You can't fail to  marvel, but you can stop far short of idolatry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 13, 2000",
+                "Helpfulness": 0.3888888888888889,
+                "StarRating": "3",
+                "Text": "This book is a mixed salad which does not come up to the information and entertainment values of previous books published on Feynman. They seem to be scraping the bottom of the barrel and in the next one I expect  a copy  of his Bar Mitzva speech, if he gave one."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "",
+                    "Name": "David Marshall",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C2FPHNY2UST9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,593,498"
+                },
+                "Date": "on November 8, 2002",
+                "Helpfulness": 0.391304347826087,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Las Vegas, NV USA",
+                    "Name": "Eric Kassan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S9FDZSHZW79Y/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #104,815"
+                },
+                "Date": "on June 17, 2005",
+                "Helpfulness": 0.125,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "44%",
+                    "Location": "",
+                    "Name": "solar-bear",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK3R3RNUWLFJR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,260,307"
+                },
+                "Date": "on May 15, 2005",
+                "Helpfulness": 0.2542372881355932,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "new orleans,LA, USA",
+                    "Name": "baby",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A5L4JT62AMVL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,097,618"
+                },
+                "Date": "on June 26, 2003",
+                "Helpfulness": 0.2,
+                "StarRating": "1",
+                "Text": "I found this book to be complicating as it jumped from subject to subject. It wasnt really that informative. It gave out the authors personal information and feelings rather than actual facts. I guess it was something that one with the same mind frame as him could relate to. I had to read this book for school. I got nothing out of it, except the ignorant and close minded thoughts of the author. The grammar was also terrribe. It wasnt written in a way that one could follow. I had to use my imagination to kind of figure out the authors feelings of whatever he was talking. It was written in a way as if he was actually talking to in person rather than through a book. But I do have to say that it was different. I guess if you are into and study science it is the book for you. But its not really a book to learn from. Instead its more like a book to say \"Oh! I feel that way too.\" To conclude, I dont know what to say to those of you who are into science, but to those of you who do not have much of an interest in it i would reccomend that you choose another book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "",
+                    "Name": "Aman Teja",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A205H2GZGT89CE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,608,847"
+                },
+                "Date": "on June 18, 2001",
+                "Helpfulness": 0.12903225806451613,
+                "StarRating": "1",
+                "Text": "Disappointing to say the least. The book at times is too technical and drags on and thus dosent engross as much as other feynmann books like surely you must..... Probably this is meant for a different audience.  The challanger report is interesting though. Buy it only if you want to spend some evenings concentrating on what you are reading..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "9%",
+                    "Location": "",
+                    "Name": "Gus Krizynski",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RSHV2IEV9TI1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,129,569"
+                },
+                "Date": "on August 16, 2005",
+                "Helpfulness": 0.09411764705882353,
+                "StarRating": "1",
+                "Text": "I am 15 years old and was required to read this book as summer reading for my school. Let me just say that this is the most punishingly boring book I have ever opened. I say opened because I just could not finish it. I was doing fine until I reached his section about the future of computers. I had to skip the entire section...about 50 pages or so. It, along with almost every other section of the book is impossible to understand, at least for a 15 year old. After that, the book just kept going downhill, and I gave up. This book is not interesting in the least. Avoid at all costs."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Pleasure-Finding-Things-Out-Richard/product-reviews/0465023959/ref=sr_1_102?s=books&ie=UTF8&qid=1432362060&sr=1-102&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "121"
+    },
+    "Salesrank": "#18,330",
+    "Timestamp": "2015-05-23 02:24:10.667730",
+    "itemurl": "http://www.amazon.com/Pleasure-Finding-Things-Out-Richard/dp/0465023959/ref=sr_1_102?s=books&ie=UTF8&qid=1432362060&sr=1-102&keywords=mathematics+books+paperback"
+}

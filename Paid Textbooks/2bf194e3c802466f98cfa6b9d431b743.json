@@ -1,0 +1,543 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Fourier Series (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$3.99",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "New Jersey",
+                    "Name": "Garrett H. Hansen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9VWRYSFCL7UE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,338,671"
+                },
+                "Date": "on September 10, 2004",
+                "Helpfulness": 0.9692307692307692,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "Vancouver, Canada",
+                    "Name": "L. Bovard",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z17Y2C4C704S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,903,517"
+                },
+                "Date": "on January 1, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "New York, USA",
+                    "Name": "Rakesh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LV6DRE4UPN17/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,264,500"
+                },
+                "Date": "on January 17, 2010",
+                "Helpfulness": 0.9642857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "Denver, Colorado",
+                    "Name": "Nejat Neisan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V14QTVUXVTLH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,311,445"
+                },
+                "Date": "on December 3, 2005",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": "This book is a must for the beginner and those who want to get their feet wet and beyond. Following the first chapter, lemma's and theorem's explained in the precise and concise fashion. And individuals with background in mathematics and in particular physics are the primary beneficiaries of this book. The thing that I enjoyed most were the related problem's at the end, as the theory of Bessel functions fully lay on the table along with related exercise and APPLICATIONS. As a physicist I have ever hardy encounter any simple book but yet effective. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 9, 1999",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "A good, thorough treatment of Fourier series and their applications to PDEs. I was impressed by the rigorous, yet clear explanatations. The book is advanced material but very easy to read. Definitely recommended, and  it's very cheap too!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Pittsburg, Kansas USA",
+                    "Name": "Bobby Winters",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A257FLJQ0GZYIP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,707,088"
+                },
+                "Date": "on December 13, 2000",
+                "Helpfulness": 0.84,
+                "StarRating": "4",
+                "Text": "This is a solid and inexpensive book on the subject.  There are lots of examples and many exercise solutions.  It is useful for self-study to the well motivated."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "UK",
+                    "Name": "Michel Alan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GLK7P876AGJT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,852,858"
+                },
+                "Date": "on July 15, 2008",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": "I thought that this book was an excellent introduction for someone with some mathematics background, but no prior knowledge of Fourier Series. The book assumes a knowledge of basic calculus and, of course, a knowledge of some common mathematical notation. I thought that the information was built up in a logical intuitive manner and that it was possible just to read the book (without doing too many exercises with pen and paper) and get a decent sense of how Fourier series worked."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 12, 1999",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "5",
+                "Text": "This book can be used as a reference, or as an introduction to Fourier series. It is clearly written, and gives the rigorous foundation as well as some practical applications of Fourier series."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "William",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7PJRXBQKEETT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,691,479"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "very useful book that teaches many aspect of Fourier Series, be sure to know the prerequisite that is needed before tackling this"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "physicist in nearest coffee shop",
+                    "Name": "chicken head cut off",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A108HV6T3PQVEC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #394,376"
+                },
+                "Date": "on January 9, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "PANAMA CITY, FL USA",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CN0VV7C7UBWZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,041,016"
+                },
+                "Date": "on May 10, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "The equations don't scale when you change font size. Formatting problems cause some weirdness in text lay out. Contents full of usual Dover goodness. To bad about the kindle though, my old eyes need bigger fonts."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Gabe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20MQOU9DG8LZ9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,781,761"
+                },
+                "Date": "on November 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I honestly really love this text. It is great for learning the topic. I recommend this book it's a great read."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Amin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y817H3BMQVOD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,608,681"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As its name ,it is a book about Fourier series . In chapter two one find another definition for orthogonal systems by their integrals. and there are examples and problems"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Joseph Lewis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A366ECEM4HUAFR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,423,963"
+                },
+                "Date": "on November 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great for review and catch up! A required reference for all Physics  students and Math students.  Add this to your reference library."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "Eug\u00eanio Silva Rezende",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAWGGQENDO7C2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,969,537"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Worth buying. The book covers probably the whole theory on fourier series. The content is very well organized. Great buy !"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "A customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A341EJRVGYAXTG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,897,454"
+                },
+                "Date": "on May 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a wonderful book with lots of great examples! I used it as a main reference when creating a shotgun review class."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LZ342OTN2SMU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,351,129"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": 0.75,
+                "StarRating": "1",
+                "Text": "Equations and mathematical symbols are impossible to read. Do not purchase technical books until kindle readers support them."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "COL James D. Bass, Ph.D.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABG86TOMNP722/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,428,334"
+                },
+                "Date": "on April 25, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Not for everyone, but if you need to work with complex signals (like human speech), this is one way to get working..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Ryan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B2AOYVFNCW79/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,754,041"
+                },
+                "Date": "on May 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book.  This helped me teach myself Fourier series relatively easily.  I love all of these \"Dover Books\" - they're very well written, clear, and concise with good examples all the way through.  And the price compared to modern texts.....how can you beat it?  I would recommend to anyone."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "45%",
+                    "Location": "",
+                    "Name": "STING1",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASX7U2ATOUFCD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,879,079"
+                },
+                "Date": "on May 16, 2012",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "EXCELLENT BOOK WRITTEN BY A WELL KNOWN RUSSIAN MATH TEACHER. IT IS SLIGHTLY ABOVE MY ENTRY LEVEL MATH BUT CAN BE INCORPORATED AFTER SOME TRIG, ALGEBRA AND CALCULUS REVIEW"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "",
+                    "Name": "Chris",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXZUJAUS3H76I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #180,095"
+                },
+                "Date": "on March 21, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "An excellent book for students, engineers, and scientists who want to refresh their knowledge, or simply use as a text book on Fourier analysis."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "Montgomery Village, MD",
+                    "Name": "Whetstone Guy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH5PPU03O74GP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #120,008"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I am not smart enough to understand this book.  After re-taking calculus which I am in the process of doing, I will give it another crack."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "",
+                    "Name": "Bob Kennedy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A182SF7G65J8ED/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #465,442"
+                },
+                "Date": "on February 16, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "Houston, TX",
+                    "Name": "C. Smith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMJ7IQ9S07JJ3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,727,084"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great study textbook!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Preston M.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ILV3CJL3JQ08/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,670,733"
+                },
+                "Date": "on April 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great item. Thank you"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "",
+                    "Name": "Fernando luis espinoza",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HL5ASCV6S7Q8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,465,792"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book met my expectations, indeed! I suggest it as a reference book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "39%",
+                    "Location": "",
+                    "Name": "gzurab",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OJ9HI5BK4NMI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,675,163"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "this is exactly what I was looking for, a very useful book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Hamilton, Bermuda",
+                    "Name": "Simon Zivi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29CM3I8I7UCOA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,650,621"
+                },
+                "Date": "on January 3, 2007",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "5",
+                "Text": "Sound elementary introduction to the subject of Fourier series, with some important applications. Sould cover most of the needs of experimental scientists and engineers"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Manuel Bermudez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A78PQRTDYWWBM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,159,852"
+                },
+                "Date": "on January 20, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "The only reason why I bought this book was because it was a cheap and I was somewhat already familiar with the subject from a partial differential equations course that I took previously.  Nice book over all"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "38%",
+                    "Location": "",
+                    "Name": "Paulo finardi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXV77YYCG6EC6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,531,199"
+                },
+                "Date": "on December 13, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Its is a good book, but the diagramation is weird."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "united States",
+                    "Name": "Tek",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APLNBK066D702/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,000,074"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A very satisfied customer. Keep up a good work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "CESAR GONZALEZ CERVANTES",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEWEVACELC611/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,170,821"
+                },
+                "Date": "on June 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Very good for beginers and advanced students"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "John Kanzler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35ZKGZ9E1VJEE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,918,258"
+                },
+                "Date": "on November 9, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Exactly what I expected, great shipping with prime."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Wyk38",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31OJKSKBI5KVZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,323,660"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "This is 'the\" reference book I needed."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "15%",
+                    "Location": "",
+                    "Name": "JF",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABJ8U8FAAJ2QF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,307,301"
+                },
+                "Date": "on January 22, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "Simple and nice book about Fourier series."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "29%",
+                    "Location": "",
+                    "Name": "Kimmer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13KBHE7QJI9TD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,550,613"
+                },
+                "Date": "on December 12, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Just as described, quick ship!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "41%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25NP80UCARQ3T/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,754,267"
+                },
+                "Date": "on September 16, 2013",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "3",
+                "Text": "It is a very detailed book about Fourier theory. Good from my point of view, but you must consider that all this book is just about Fourier. If you need complements for the theory you should see another book to complement whit specific subject exercises."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "31%",
+                    "Location": "",
+                    "Name": "jm",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HI03URMX1XVI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,490,462"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "3",
+                "Text": "me gusto el libro y recomiendo que lo compren, el vendedor fue muy amable y en todo momento se preocupo porque llegara bien."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "",
+                    "Name": "Indra Ghosh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N87X9S372D5P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,263,843"
+                },
+                "Date": "on November 6, 2014",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": "Very good book. I liked the presentation."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "Bay Area, CA United States",
+                    "Name": "Music Maker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TDUC29RYEJPW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,854,979"
+                },
+                "Date": "on December 12, 2014",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": "Nice coverage of the topic."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Olney, MD United States",
+                    "Name": "Michael Edick",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DAVZ0XIKHHLM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#67,693"
+                },
+                "Date": "on June 19, 2008",
+                "Helpfulness": 0.16363636363636364,
+                "StarRating": "2",
+                "Text": "Why is it all of these Fourier books start-off deep in the math?  This book expects you to know everything about Fourier series before you even pick it up.  Just once, I'd like a math text book that doesn't try to show how smart the author thinks he is."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov/product-reviews/0486633179/ref=sr_1_1?s=books&ie=UTF8&qid=1432358381&sr=1-1&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "41"
+    },
+    "Salesrank": "#4,393",
+    "Timestamp": "2015-05-23 01:19:43.885714",
+    "itemurl": "http://www.amazon.com/Fourier-Dover-Mathematics-Georgi-Tolstov/dp/0486633179/ref=sr_1_1?s=books&ie=UTF8&qid=1432358381&sr=1-1&keywords=mathematics+books+paperback"
+}

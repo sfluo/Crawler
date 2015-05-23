@@ -1,0 +1,599 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$10.95",
+    "Name": [
+        "Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$9.06",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Houston, Texas",
+                    "Name": "Michael Wischmeyer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A258HDMERSI6WJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #131,568"
+                },
+                "Date": "on February 12, 2004",
+                "Helpfulness": 0.9719626168224299,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "98%",
+                    "Location": "Denmark",
+                    "Name": "P. Mander",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASV1Z898YWM28/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #657,305"
+                },
+                "Date": "on May 17, 2012",
+                "Helpfulness": 0.9655172413793104,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Boston, MA United States",
+                    "Name": "Michael Demkowicz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F9OTQK42QNSJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,790,364"
+                },
+                "Date": "on January 29, 2003",
+                "Helpfulness": 0.8913043478260869,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Los Alamos NM, USA and Lombardy, Italy",
+                    "Name": "Cristiano Nisoli",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VQA0Q5XV18OC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #733,287"
+                },
+                "Date": "on October 14, 2010",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "5",
+                "Text": "Last week I was having dinner with friends in a restaurant in northern New Mexico. All physicists, slightly drunk, we were debating as different topics as \"why did Hannibal not march on Rome after annihilating its legions at the battle of Canne?\", or \"how could those 19th century guys figure out a concept as like entropy BEFORE knowing statistical mechanics\", when many lamented how unnatural thermodynamics felt as undergraduates, and how all textbooks were perhaps not incomplete but incapable of convey the physics. And then I said \"well, there is Fermi's Thermodynamics...\" end soon everybody agreed. My freshman course in thermodynamics, in Italy, was based on this book: although it is short and concise, no other text has its compelling clarity in explaining the basic laws. And it has that distinctive Fermi style: cutting the crap, straight to the physical point. Undergraduates learning the subject on any other book are really missing out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 18, 1997",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "72%",
+                    "Location": "New York, NY",
+                    "Name": "Z. Wu",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A234KUM064EGHL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #920,159"
+                },
+                "Date": "on March 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Fermi presents Thermodynamics in a clear, precise and almost irrefutable way that gives your all the results within only a few pages.  Quite often, after he arrives at a well known result effortlessly, I find myself going back a few pages to make sure I understand how he got there, because it just seemed too easy and so different from the arduous arguments for the same outcome I learned from a different source.  After this book, you will say, of course, this has to be.  Truly a masterful work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "Atlanta, GA USA; Georgia State University",
+                    "Name": "Robert Zaballa",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZW8LLG9I5RZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,982,909"
+                },
+                "Date": "on December 1, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": "Profound.  This book is a beautiful work on the subject of thermodynamics.  I consider this a classic treatise.  All that one requires is a knowledge of basic calculus."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "munich, bavaria, germany",
+                    "Name": "Johannes Pollwein",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G99GILLAYXIV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,489,467"
+                },
+                "Date": "on October 16, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Lost in Thought",
+                    "Name": "Jason Dowd",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#72,724"
+                },
+                "Date": "on November 10, 2009",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "",
+                    "Name": "henrique fleming",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,555,569"
+                },
+                "Date": "on July 18, 1998",
+                "Helpfulness": 0.78125,
+                "StarRating": "5",
+                "Text": "This is Fermi at his best. A charming booklet which presents thermodynamics using the elegant Carnot cycle method. It stands out from the competitors by showing many enlightening applications with physics always having the limelight. The study of the adiabatic atmosphere, with the derivation of the dependence of temperature on height,is particularly delightful."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "",
+                    "Name": "M-A B",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HVW2IABQRRG6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,881,256"
+                },
+                "Date": "on September 21, 2012",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "79%",
+                    "Location": "Madison, AL United States",
+                    "Name": "Thy Yem",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE7IP2E7M1VOT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,718,794"
+                },
+                "Date": "on February 21, 2003",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "USA",
+                    "Name": "K. Xue",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APPP0NHNJDCJK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #11,130,441"
+                },
+                "Date": "on March 30, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "A great physicist stands at a higher position than others in teaching. I studied thermodynamics from many other authors, and some of them are also really good. Nevertheless, Fermi has extraordinary clarity and he always explains why we should introduce something very convincingly. For example, do you feel uncomfortable when you first study thermodynamics and you have to touch the Carnot cycle? Why we need to study the \"thermo-engine\" if, say, you will not touch anything on mechanical engineering or a refrigerator? I felt uncomfortable before, since I study this subject only for the sake of condensed matter physics and some chemistry disciplines. However, Fermi first states the equivalence between heat and work, then he argued that it is easy to transform work into heat, because we can do friction!! Then a question arises NATURALLY how we can inversely transform heat into work. Even if one do not want to do any engineering about thermo-engine, he needs to think of this NATURAL question seriously. The problem is then, we do not have many ideas, the only good one at hand, is some reversible cycle to release net work, and then I feel motivated to study the Carnot cycle. This is great. More importantly, the EASE to transform work into heat and the DIFFICULTY to transform heat into work is a core aspect of Second Law, which I never thought about before. Another example, in the First Law, Fermi writes in a way very much like a realy physicist. He does not force the reader to accept some argument, but he let the reader to estimate the consequence. You either prefer this argument, or you may question the energy conservation law. (Physicists think in this way, for example, N. Bohr used to want to abandon the energy conservation law in beta decay, but he was wrong in that) Such way of thinking and writing attract me very much. Anyway, Fermi is Fermi and his small book on thermodynamics is excellent."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "San Pedro, Ca United States",
+                    "Name": "Lance B. Sjogren",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17DI37DFS230A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#26,023"
+                },
+                "Date": "on August 9, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "Phoenix, AZ",
+                    "Name": "Rudolf Dankwort",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12DDZCUHJ8SS0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #226,934"
+                },
+                "Date": "on November 7, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "We're dealing here with one of the great physicists of all time, a Nobel Prize winner and one of the chief developers of quantum mechanics.  So for Dr. Fermi this subject is a cakewalk, but that also means his explanations are superbly lucid.  I have never run across a better short text on this subject than this one, and I've run across a few.  I haven't finished it yet and am looking forward to his discussion of osmosis, a subject even my 300-page thermodynamics college textbook (a classic of its own) avoids."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Morgantown, WV",
+                    "Name": "ZachG",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RDQ3ET4YDASF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,770,400"
+                },
+                "Date": "on September 9, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book about two years ago and read through the first two chapters and completed the practice problems. Since then I have gone back to school for a Masters in Mechanical Engineering and am taking an Advanced Thermodynamics course. I pretty-much don't need anything else but this 150 pg. book. It is very clear, to the point, great derivations, and is making my life extremely easy. Get this, it costs only $10 and worth much more."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Columbia City, IN United States",
+                    "Name": "Edward A. Kimble",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UPC01R02JCZU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,156,398"
+                },
+                "Date": "on December 21, 2010",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "This is a good introductory chemistry textbook in Thermodynamics.  It is simple not complicated.  It is not a physical chemistry textbook and therefore is not focused on molecular motion or statistics.  Of the many other texts that produce more extensive mathematical treatment or pursue problem solving more rigorously, if you want to learn thermodynamics this book is a good place to start.  It is aimed at freshman or sophomore college level and is mostly theoretical but with good simple examples. If you are seeking how to do heat of formation or analytical techniques, it will not be satisfying."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "Connecticut",
+                    "Name": "Kindle Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWGY6IF82S2I5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,384,556"
+                },
+                "Date": "on November 23, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "Enrico Fermi stood at the beginning of the nuclear age and contributed to the technology we enjoy today. These brief notes he used to teach Thermodynamics are as a illuminating as any modern text on the subject."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Huntsville, AL USA",
+                    "Name": "J. Olson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4BLFWZR4LHW7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,963,655"
+                },
+                "Date": "on July 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I took a thermodynamics course a few years ago and am reading this book now to brush up on the subject. I am currently half way through the book. This text is succinct with few examples which I personally enjoy since I can read the entire book fairly quickly. It is well written and hits all the major concepts. Fermi does a nice job of giving interpretations to formulas where appropriate and provides proofs and derivations. This is exactly what I was looking for. The text is excellent as a brush-up text. However, if you are looking for an introductory text, you would be better off buying a larger text which includes more discussion and provides more examples. Also, this particular book has many minor typos. It is never a problem to catch them almost immediately but it is a bit distracting."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "TN",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18UP36J88MP6B/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #267,601"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you want a good understanding if thermodynamics for fun and don't mind some heavy lifting in terms of math exposition, this book by one of the greatest physicists of all time is worth the time to read. Eye opening stuff."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "",
+                    "Name": "tmchale",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B83N3SAQRU21/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,948,525"
+                },
+                "Date": "on August 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is very short (only about 100 pages) but it is thorough if you do not want to go into statistical mechanics. The book is also quite elementary: I did not see any arguments requiring more than basic multivariable calculus. It can be followed by anyone. The style is lucid and you appreciate that you are learning from a master here."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Divya Singh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SL8G58R7V2C4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,795,776"
+                },
+                "Date": "on August 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Very easy to read. This book, albeit seemingly short, is deceptively informative and helpful in teaching thermodynamics. I guess you wouldn't expect any less from the great Enrico Fermi, though. Get it as a pocket resource for a run through of the essentials behind the field; I've even had it as a required text for one of my classes."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "Illinois, USA",
+                    "Name": "D. Norton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QUFD2COM43EX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,310,674"
+                },
+                "Date": "on February 25, 2006",
+                "Helpfulness": 0.6595744680851063,
+                "StarRating": "3",
+                "Text": "This book is somewhat outdated.  The fundamental concepts are still there and are pretty clear, but there are still things that are assumed of the reader.  These assumptions are based on the fact that the reader has knowledge of thermodynamics already.  This is actually stated at the beginning of the book.  If you are an undergrad taking a thermo class, I do not think this would be a good book to help you in understanding this subject more completely."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "25%",
+                    "Location": "",
+                    "Name": "anon",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31FHFJSIGRGC3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,222,459"
+                },
+                "Date": "on August 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great book; a classic by one of the greatest physicists of the 20th century. It's very small as well, only about 200 pages. If only there were a book written this well for all topics in physics (e.g., Mechanics, electromagnetism, fluids). It also kind of reminds me of Einstein's Relativity book, really great read and you don't not need to be a genius to understand it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "New Providence, NJ USA",
+                    "Name": "Gustav Derkits",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33ZLO2W0RZLXI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,351,365"
+                },
+                "Date": "on August 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Among the short treatments of thermodynamics (Pippard, Pauli, etc.) Fermi's little book stands out as the most readable. There is considerable disguised subtlety, since thermodynamics is actually a hard subject which many experienced physicists do badly. Not the final book on the subject, but one that any young student will do well to read with a pencil in hand."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39P4LSW4JUHWV/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,464,653"
+                },
+                "Date": "on September 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a classic. The most compact, concise, and complete introduction to thermodynamics that I have ever found. Fermi explains the physics and lets the math run along behind.  It was required for my physics class and it was a tremendous help when I studied chemistry. Both the macro and micro viewpoints are contained here."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "44%",
+                    "Location": "Graduate Student in New York",
+                    "Name": "Yuxiao Dai",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M1ROXYDEHUW4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,496,104"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "eugenen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1INVHFT4UDOTQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,014,545"
+                },
+                "Date": "on November 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Jorge L\u00f3pez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14MHSR05L8VZW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,766,677"
+                },
+                "Date": "on June 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear and concise explanation of thermodynamics for a person who has already studied the fundamentals. Absolutely recommended for fast and easy reading."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "physicsprof",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E5YP363CMO3M/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #17,603,214"
+                },
+                "Date": "on February 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Everything you need to know about thermodynamics up to and including a graduate level in physics.  Used it for my Ph.D. Qualifying exams"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "24%",
+                    "Location": "",
+                    "Name": "Taster",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K5S1TZTVHWUQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,100,506"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Explanation is not only clear but also easy to follow. Excellent textbook! All physics textbook should follow the pattern of this one!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "28%",
+                    "Location": "",
+                    "Name": "AK",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34UJHS0FC7TIL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,325,074"
+                },
+                "Date": "on October 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great boot! Received on time. Very satisfied with the services and I recommend to a friend!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "40%",
+                    "Location": "",
+                    "Name": "Grant Harrell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A127VZJCCJJPUP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,559,987"
+                },
+                "Date": "on February 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I will use this book for my classes."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "California",
+                    "Name": "M D",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RPX3Y03Y077O/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,641,265"
+                },
+                "Date": "on August 26, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "An average of probably 4-5 spelling or grammatical errors per page, inconsistently-numbered equations, and references to non-existent figures. Further, some information is flat-out wrong. The text referred to reversible and no heat transfer as being the definition of adiabatic; this is the definition for isentropic, which adds the constraint of reversibility to an adiabatic condition. I was hoping to study from this for Ph.D. qualifying exams in thermodynamics, but will be moving to other texts as I clearly don't want to be remembering this one."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "wil3",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RRAO2TN5TUUI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,019,801"
+                },
+                "Date": "on April 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Tempe, AZ",
+                    "Name": "Earnric",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK19GT0H1YY7G/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,870,172"
+                },
+                "Date": "on October 26, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "A good, concise treatment of the topic. Very readable... The text comes across in lecture style, leading the reader from first principles through the basics of thermo, on to the more advanced concepts."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Knoxville",
+                    "Name": "Billy Wayne Mccann",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D14PDUHEV9Z2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,731,710"
+                },
+                "Date": "on June 25, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I decided to brush up on my thermodynamics and decided to use this book to do so. Great decision. Fermi presents one of the clearest presentations of thermo that I've read. Frankly, I wish we had used this book as a textbook when I originally learned thermo."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "Karlsruhe, Germany",
+                    "Name": "Jewgeni Starikow",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEKFM17N363U3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,860,134"
+                },
+                "Date": "on March 1, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A serious, detailed and pedagogically perfect introduction into the field of the classical thermodynamics - indispensable for serious, good, skillful students in natural or technological sciences ..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Wei Xiaohong",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARQ78X9RMPQ3F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,559,930"
+                },
+                "Date": "on December 31, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good service and good book. My friend have been looking for this book for a long time. I help her get it at last !"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Eli",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BLA8HN6Y64O2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,693,173"
+                },
+                "Date": "on May 31, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "This is a concise and complete review of thermodynamics. It does however assume a relatively strong knowledge of calculus-based thermodynamics to begin with, so I reccommend it as a review guide and not as a first book for learning the subject."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "24%",
+                    "Location": "",
+                    "Name": "Glenn physics",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SC74EB60WBMS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,788,444"
+                },
+                "Date": "on July 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent Book! Covers the issues very well."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "jeremy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24M202N3X45SK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,068,849"
+                },
+                "Date": "on September 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good product and delivery"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "Florida USA",
+                    "Name": "Joseph B. Ennis",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RX1NARM6WAB4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,327,811"
+                },
+                "Date": "on January 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "",
+                    "Name": "Sergio",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37FUZIZM7M80D/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #25,658,039"
+                },
+                "Date": "on October 16, 2011",
+                "Helpfulness": 0.4583333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "",
+                    "Name": "horizon21",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21KK9F1SNV53Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,409,970"
+                },
+                "Date": "on March 21, 2012",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "2",
+                "Text": "This book is for those already very familiar with thermodynamics and the multi variable calculus used in it. It would make a nice supplement to a textbook, but should not be used as the text itself (as was in my case) because it is not in depth and not particularly reader friendly."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Dover-Books-Physics-Enrico/product-reviews/048660361X/ref=sr_1_19?s=books&ie=UTF8&qid=1432358884&sr=1-19&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "45"
+    },
+    "Salesrank": "#148,331",
+    "Timestamp": "2015-05-23 01:32:36.542736",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Dover-Books-Physics-Enrico/dp/048660361X/ref=sr_1_19?s=books&ie=UTF8&qid=1432358884&sr=1-19&keywords=mathematics+books+paperback"
+}

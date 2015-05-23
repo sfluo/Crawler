@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Mathematical Tools for Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.90",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "",
+                    "Name": "Gadget Hound",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A329Z94PQ8SZSK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#50,646"
+                },
+                "Date": "on July 24, 2011",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "",
+                    "Name": "X Avatar",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ3CYY1X21OYR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #267,349"
+                },
+                "Date": "on August 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Farmingville, NY USA",
+                    "Name": "Gareth F. Williams",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25UJK687M1XKL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,026,824"
+                },
+                "Date": "on November 5, 2010",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "coral gables, fl USA",
+                    "Name": "Dr. Limfoma Mbweebwee",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A389L037YWPCF0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #429,849"
+                },
+                "Date": "on June 15, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Denton, Texas United States",
+                    "Name": "Dennis E. Knowles",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NUQDEFLNE2H0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,988,519"
+                },
+                "Date": "on January 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book after downloading part of the online version, the part dealing with Tensors. I found Nearing's description the best I have seen. Finally I have a 'feel' for what tensors are. I have a Masters in Physics from years back and some things were a bit fuzzy. I have found Nearing's other sections equally descriptive. Any book which can impart understanding is a jewell and this is one I enjoy reading."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "P. Glenn",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHEMS9RWM1VPQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,486,152"
+                },
+                "Date": "on January 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was truly a boon during undergrad years - I would recommend to anyone wanting to learn more about mathematical physics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Denton, TX USA",
+                    "Name": "Kindle Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W4R77YYKNLQG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,531,245"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book!  I like the approach and depth of presentation"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Theodore Shin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TVMJC258SP4U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,523,005"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "good book"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Thomas Barron",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NEU0MP2MM4IA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,084,850"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This book does not teach for understanding. Coming from a mathematical background, I find that this text \"teaches to the test\", showing you how to do basic calculations without any theory explanation. The tone is somewhat informal, which at times can come off as sarcastic. If the idea is to give undergraduate students a halfway-working knowledge on a very broad range of numerical topics, then I suppose this text is doing its job; but in my eyes, a text that aims to do only that is pretty pitiful."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Tools-Physics-Dover-Books/product-reviews/048648212X/ref=sr_1_50?s=books&ie=UTF8&qid=1432359983&sr=1-50&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#643,473",
+    "Timestamp": "2015-05-23 01:46:47.133946",
+    "itemurl": "http://www.amazon.com/Mathematical-Tools-Physics-Dover-Books/dp/048648212X/ref=sr_1_50?s=books&ie=UTF8&qid=1432359983&sr=1-50&keywords=mathematics+books+paperback"
+}

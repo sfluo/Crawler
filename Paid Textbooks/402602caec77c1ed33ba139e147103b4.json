@@ -1,0 +1,401 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Principles of Electrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.85",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Cotia, SP Brazil",
+                    "Name": "Pedro L. Ribeiro",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T0WRHNUYJTCY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,974,541"
+                },
+                "Date": "on September 15, 1999",
+                "Helpfulness": 0.9568345323741008,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 3, 2000",
+                "Helpfulness": 0.9215686274509803,
+                "StarRating": "5",
+                "Text": "This book is the best introduction to advanced electromagnetic theory I have ever encountered. The author does a masterly job at simplifying the mathematics without over-simplifying the physics. If you're looking to gain  a deep understanding of electromagnetics and its relation to the theory of  relativity, this book is for you!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "USA",
+                    "Name": "D Anderton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZD7C4ZW00YKH/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#13,799"
+                },
+                "Date": "on March 4, 2011",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "Illinois",
+                    "Name": "Where's my order",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASF7EVOA2UIDN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,809,838"
+                },
+                "Date": "on April 4, 2010",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 1998",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Melvin Schwartz won the Nobel Prize of physics in 1988 by his experiments (with Leon Lederman and Jack Steinberger) on this most elusive of all physical objects, the neutrino. We must be grateful for the fact that he found time to write this precious little book on electrodynamics. It is a gem . I compare it to the very best expositions: Landau-Lifshitz's \"Classical Theory of Fields\" and the first chapter of the first edition of Heitler's \"Quantum Theory of Radiation\" ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 28, 1998",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": "A beautiful book to wrap up your electrodynamics.Some time ago I read the lectures by Oppenheimer on Electrodynamics (based on notes taken by the student Bryce DeWitt...). I was fascinated by the perfect logic of the approach, which took full profit of relativistic invariance to shorten and clarify the whole theory. I wonder if the book by Melvin Schwartz took Oppenheimer's text as a model. It has the same elegance and logical structure, yet it is a little more leisurely written, being a textbook.It is, so, closer to perfection."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "Daverz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,636,020"
+                },
+                "Date": "on September 29, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is somewhat famous for its heuristic derivation of the full Maxwell's equations using Lorentz invariance, but every topic is covered in an exceptionally lucid manner, on a par with Feynman at his best.  The book is also a  neccessary antidote for the excessive detail and overgeneralization of Jackson."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "Austin, TX, United States",
+                    "Name": "Christine",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PQMB0RHHPCJ9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #173,730"
+                },
+                "Date": "on August 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really like this text very much and gladly give it five stars. However, I am very disappointed with the Kindle version. Amazon is still butchering mathematics and science texts with this mobi thing. Extremely poor mathematics rendering and rendering of figures. Flowable text works fine for books that are just text like scifi or romance novels and so on. For books like Schwartz's they need to be using print replica format or completely reset the book using html5 and mathml and credible rendering engines. It's really sad to see beautiful texts like Schwartz's Principles mistreated in this way. I hope we aren't going to see a whole series of poor republications of Dover books. That would be a real shame."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "",
+                    "Name": "Self-studier of theoretical physics",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39D3MOCFPEG7W/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,787,859"
+                },
+                "Date": "on January 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 15, 1998",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": "As you start to read the book you will quickly notice a different presentation style.  Progressing through the first chapter opens your eyes to this difficult subject. Dr. Melvin Schwartz really shines at explaining this subject. No doubt about it. The clear writing style enables you to read through the author's mind and get good understanding.  Each chapter progresses logically to the next one. And the price is hard to beat.  This book is great if you study on  your own. By the time you finish the book you will have acquired an impressive mastery of this field."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "Pennsylvania",
+                    "Name": "Alex J. DeCaria",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M0BSIG1JZJDF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,196,464"
+                },
+                "Date": "on March 22, 2014",
+                "Helpfulness": 0.875,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "",
+                    "Name": "Daniel Borrajo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA3TSTILQFNVF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,918,463"
+                },
+                "Date": "on April 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Assuming it is not used as an introductory book (I learned EM from Wangsness), Schwartz's book is perfect to get into the relativistic approach. There is one disadvantage: it uses Gaussian units, while many people are used to SI ones."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Los Angeles",
+                    "Name": "peppermint",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PT16GLCXPRN0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #343,840"
+                },
+                "Date": "on May 8, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Herman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F5S17KEF08G3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,331,014"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The book of Melvin Schwartz is well written and its is very nice that these type of books become available  as ebook. However: You can not read the equations ( small bitmaps) on your Kindle, they are too small! If you use the Kindle app on your computer it works fine. I suggest that Amazon put some effort in to make all equation as large as possible that you can also read the indices !"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "41%",
+                    "Location": "",
+                    "Name": "Maggie Essington",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36P2HWVH8CZL6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,378,080"
+                },
+                "Date": "on February 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Professors always told me electromagnetic theory can come from relativity, but pretty much never talked about it. Even the textbooks reference it but do not go into much depth. Well, this book does, and it is really a masterpiece to read. The author does a great job walking you through the steps and its really eye-opening and brings deeper understanding. Definitely recommended as a complement to any student's normal textbooks. It should really be the standard."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Yogi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T20TFAHDG4MX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #14,950,575"
+                },
+                "Date": "on January 1, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Doohee Lee",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWMZXFS0UWCKM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #14,147,616"
+                },
+                "Date": "on December 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "",
+                    "Name": "Jesse ren",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19IRP4VJRRANU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #21,063,052"
+                },
+                "Date": "on May 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an very good book, I could not have find an better derivation of Maxwell equations, Lienard-Wiechart potentials, and mostly it enhanced my understanding of partial differential equations and understanding of Quantum mechanics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Robert A. DiGiacinto",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z9IW15MCJ1B4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,877,693"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I took 2 courses from Dr. Schwartz while he was at Columbia University.  His presentation is crystal clear and demonstrates well his skill as a teacher.  Be prepared for some heavy mathematics if you tackle this text."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "",
+                    "Name": "Chris",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXZUJAUS3H76I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #180,095"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent book on electromagnetics for anybody who wants to learn or study this subject from a relativistic standpoint. Dover has many very good books that are no longer in print."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "Guillermo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P2Q9PZ8Q3ERI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,412,850"
+                },
+                "Date": "on September 19, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Schwart's explanations are nice. I don't get bored reading this, and the theory is put in a very simple and summarized way."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "",
+                    "Name": "Juan Navarro-sorroche",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LRLP7QEXAJW2/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,934,820"
+                },
+                "Date": "on November 6, 2006",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": "Principles of Electrodynamics by Melvin Schwartz is a very well written, very didactic book. The principles of Electrodynamics are clearly shown and the author explanations and demonstrations are rigurous but easy to understand. The book is a very good reference for certain topics of Electrodynamics not so well covered in other text books."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "27%",
+                    "Location": "Chicago, IL, USA",
+                    "Name": "Vincent C. Dunlap",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TWD017Q2AH8A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,279,945"
+                },
+                "Date": "on February 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Complete for one reference perspective."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "Karlsruhe, Germany",
+                    "Name": "Jewgeni Starikow",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEKFM17N363U3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,860,134"
+                },
+                "Date": "on March 1, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A really marvelous book, indispensable for all those considering themselves good and skillful students in natural and/or technological sciences ..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "57%",
+                    "Location": "",
+                    "Name": "engineer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OGRANMR428IM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,355,535"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "No one is forcing me or incentivizing me to re-study this topic. But I am happy to work on this material because the author is so skillful. This book also reminds one that in earlier times, our engineers were a lot more skillful than they are now. Nonetheless, this book leads the way even though it comes from a time when the fundamentals seemed to carry more weight."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "Carolyn Clanton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AL1GBHLESDW40/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,265,939"
+                },
+                "Date": "on November 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "my son likes this book a lot"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "46%",
+                    "Location": "",
+                    "Name": "Ali",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CVH4EZPA0YPW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,106,064"
+                },
+                "Date": "on January 11, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "6%",
+                    "Location": "",
+                    "Name": "gustavo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OWS5IIWGC2RX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,974,191"
+                },
+                "Date": "on May 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "43%",
+                    "Location": "France",
+                    "Name": "Charles ZERBIB",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U3H1ZGZRBQB7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,524,798"
+                },
+                "Date": "on November 26, 1999",
+                "Helpfulness": 0.4318181818181818,
+                "StarRating": "5",
+                "Text": "C'est de loin l'expos\u00e9 le plus clair sur le sujet \u00e0 ma connaissance. Quant au rapport qualit\u00e9/prix, on voisine l'infini"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "15%",
+                    "Location": "",
+                    "Name": "Jude",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATL8IVKAHG8DD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,315,408"
+                },
+                "Date": "on June 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "Too much an unthoughtful bin jumbled mass of material dumped into this read to make it into an informative lead to future growth made it returnable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 21, 2001",
+                "Helpfulness": 0.22727272727272727,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Electrodynamics-Dover-Books-Physics/product-reviews/0486654931/ref=sr_1_16?s=books&ie=UTF8&qid=1432358884&sr=1-16&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "31"
+    },
+    "Salesrank": "#92,723",
+    "Timestamp": "2015-05-23 01:31:31.437702",
+    "itemurl": "http://www.amazon.com/Principles-Electrodynamics-Dover-Books-Physics/dp/0486654931/ref=sr_1_16?s=books&ie=UTF8&qid=1432358884&sr=1-16&keywords=mathematics+books+paperback"
+}

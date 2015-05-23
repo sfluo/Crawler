@@ -1,0 +1,213 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Curvature in Mathematics and Physics (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$16.85",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Test Preparation in Worldwide",
+                    "Name": "Let's Compare Options Preptorial",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#202"
+                },
+                "Date": "on February 1, 2013",
+                "Helpfulness": 0.9484536082474226,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "",
+                    "Name": "Anthony Jagers",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A395TEAAN7VX1I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,203,260"
+                },
+                "Date": "on October 17, 2012",
+                "Helpfulness": 0.9369369369369369,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "Falls Church, VA USA",
+                    "Name": "Herbert L Calhoun",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RFXU3P0XKKF4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,842"
+                },
+                "Date": "on February 26, 2014",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "Ithaca, NY USA",
+                    "Name": "A. Waters",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABJCR09MZLVYM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,089,851"
+                },
+                "Date": "on April 1, 2013",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": "Classic book that will provide you with a rigorous overview of the links between the conceptual properties and interesting empirical applications that make the study of the physics and mathematics of nonlinear surfaces really exciting. I think it's one of the best -- if not the best -- book of its kind. It was a brilliant move to include this outstanding book in the Dover series makes because that increases accessibility since the price of each book is affordable unlike most of the comparable excellent titles at say Springer. I've gained the ability to start applying this work to biological problems in microbiology (bacterial cell membrane properties such as protein permeability). I highly recommend this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "anonyme",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TSTVD72FAIP7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,656,245"
+                },
+                "Date": "on October 9, 2012",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "",
+                    "Name": "spacengin",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CHPYE59I8S0Y/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,489,752"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "3",
+                "Text": "I was hoping for a more gradual and explanatory introduction.  A lot of notation and symbols are introduced with little explanation.  I refer to wikipedia for more information.  I have also observed a number of typos and errors so far averaging about 1 for every two pages but I am still in the early chapters of the text."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "63%",
+                    "Location": "Brandon, Mississippi USA",
+                    "Name": "Joseph C. Walker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BXZ9S8RO62ZJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,389,215"
+                },
+                "Date": "on December 18, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book gives a lot of very good details in a lot of areas but I particularly liked the coverage of torsion  For the price you cannot beat it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "",
+                    "Name": "Damien C. Johnson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2APZJJR8HWH32/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,889,141"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Awesome book for anyone genuinely loves math."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "15%",
+                    "Location": "",
+                    "Name": "JF",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABJ8U8FAAJ2QF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,773,167"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "Springfield, MO",
+                    "Name": "Robert J. Huffine",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18WW3ASTE97PM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,767,924"
+                },
+                "Date": "on November 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "One word: Manifolds."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "Corona del Mar, CA USA",
+                    "Name": "Stephen Scheinberg",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LEDLBIKXOYCJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,296,457"
+                },
+                "Date": "on November 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Exposition by a master."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "kikeo58",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16ZB0PR9V6TJ8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #184,851"
+                },
+                "Date": "on September 21, 2014",
+                "Helpfulness": 0.125,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "",
+                    "Name": "zzzzz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A303N34LYPC1X1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,200,820"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.38095238095238093,
+                "StarRating": "5",
+                "Text": "Nice book on the role of geometry on physics. Relatively elementary, say, advanced math undergrad at US college. Written by a master, of course."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "34%",
+                    "Location": "",
+                    "Name": "Shihui",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZL9Y3S3CRD9C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,786,927"
+                },
+                "Date": "on December 2, 2012",
+                "Helpfulness": 0.23529411764705882,
+                "StarRating": "5",
+                "Text": "This book includes many interesting materials about curvature in geometry and relativity theory. It almost lists the conclusions and theorems related with the important notion of curvature."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "",
+                    "Name": "John Yarbrough",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IEFBI3B9AOWF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,229,703"
+                },
+                "Date": "on November 26, 2013",
+                "Helpfulness": 0.10344827586206896,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Curvature-Mathematics-Physics-Dover-Books/product-reviews/0486478556/ref=sr_1_5?s=books&ie=UTF8&qid=1432358381&sr=1-5&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "15"
+    },
+    "Salesrank": "#417,409",
+    "Timestamp": "2015-05-23 01:22:21.329765",
+    "itemurl": "http://www.amazon.com/Curvature-Mathematics-Physics-Dover-Books/dp/0486478556/ref=sr_1_5?s=books&ie=UTF8&qid=1432358381&sr=1-5&keywords=mathematics+books+paperback"
+}

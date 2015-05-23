@@ -1,0 +1,57 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Worked Problems in Applied Mathematics (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$15.95",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Western Canada",
+                    "Name": "Boyd Jahnke",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATYF697QL2V1F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,176,677"
+                },
+                "Date": "on June 12, 2007",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "gayatri ramesh",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AOC3ZC8D03CK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,133,532"
+                },
+                "Date": "on October 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book to help you with applied math class and prepare for qualifying exams."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "55%",
+                    "Location": "West Seneca , New York  U.S.A.",
+                    "Name": "D. Monk",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VXQURU3S8UO7/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,087,607"
+                },
+                "Date": "on October 3, 2005",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "1",
+                "Text": "When you order a book that states \"Worked Problems in ...\" you expect the problems to have worked solutions. Fully 85% to 90% of the problems have no solutions at all. Problems 1 to 51 also have no solutions. If you are looking for a study aid with solved problems skip this one. If you are looking for a book on applied mathematics skip this one."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Worked-Problems-Applied-Mathematics-Dover/product-reviews/0486637301/ref=sr_1_30?s=books&ie=UTF8&qid=1432359343&sr=1-30&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#248,039",
+    "Timestamp": "2015-05-23 01:36:48.708460",
+    "itemurl": "http://www.amazon.com/Worked-Problems-Applied-Mathematics-Dover/dp/0486637301/ref=sr_1_30?s=books&ie=UTF8&qid=1432359343&sr=1-30&keywords=mathematics+books+paperback"
+}

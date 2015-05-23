@@ -1,0 +1,44 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Perturbation Techniques in Mathematics, Engineering and Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$9.95",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "",
+                    "Name": "J. Meyer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEWVMZB7J47EB/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,009,761"
+                },
+                "Date": "on February 15, 2009",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "4",
+                "Text": "Bellman was one of the pioneers of modern control theory.  I bought the book because I am an engineer who is interested in control theory.  This book is very mathematical and has very little engineering focus.  This book was near the edge of my mathematical comprehension.  I could follow the first couple of chapters but either lacked the background or attention to go beyond chapter 3.  However it does look impressive on my bookshelf 8-)."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "42%",
+                    "Location": "",
+                    "Name": "CEA",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19A3HYEO2BYQL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,759,847"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "as expected"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Perturbation-Techniques-Mathematics-Engineering-Physics/product-reviews/0486432580/ref=sr_1_17?s=books&ie=UTF8&qid=1432358884&sr=1-17&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,251,272",
+    "Timestamp": "2015-05-23 01:32:23.164687",
+    "itemurl": "http://www.amazon.com/Perturbation-Techniques-Mathematics-Engineering-Physics/dp/0486432580/ref=sr_1_17?s=books&ie=UTF8&qid=1432358884&sr=1-17&keywords=mathematics+books+paperback"
+}

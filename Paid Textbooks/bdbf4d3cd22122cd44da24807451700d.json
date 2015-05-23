@@ -1,0 +1,96 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Astrophysics: The Stars (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$7.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "",
+                    "Name": "Marguerite Abaddonais",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22FVIDYKHTOLS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #100,554"
+                },
+                "Date": "on April 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "cortezhill",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGV0RUQJHFW3S/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,587"
+                },
+                "Date": "on September 6, 2007",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "",
+                    "Name": "Zachary Denmeade",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OLJO5L2UMGBA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,045,057"
+                },
+                "Date": "on September 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book gives a great insight on how astrophysics works and gives great detail on forumlas and how they are used."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "",
+                    "Name": "johnp",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H8DI1HZF6JUJ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#13,434"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It's pretty plodding and not particularly mathematically elegant. The author does little to stimulate any excitement into what should be an extraordinary exciting field. It's more like a collection of obscure experimental observations. I don't think it does a good job of preparing you for a graduate course in Astrophysics. It's fairly out of date."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "Matt Caruana",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N0RA8N4HPE4Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,115,485"
+                },
+                "Date": "on May 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Wonderful!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Tallahassee, FL United States",
+                    "Name": "David Booker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK73Y669AMPVS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #236,658"
+                },
+                "Date": "on July 7, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "I didn't realize this was published in 1964. Very out of date"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Astrophysics-Stars-Dover-Physics/product-reviews/0486607712/ref=sr_1_25?s=books&ie=UTF8&qid=1432359343&sr=1-25&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#486,812",
+    "Timestamp": "2015-05-23 01:35:45.536817",
+    "itemurl": "http://www.amazon.com/Introduction-Astrophysics-Stars-Dover-Physics/dp/0486607712/ref=sr_1_25?s=books&ie=UTF8&qid=1432359343&sr=1-25&keywords=mathematics+books+paperback"
+}

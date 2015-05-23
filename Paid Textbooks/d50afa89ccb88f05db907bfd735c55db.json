@@ -1,0 +1,331 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.95",
+    "Name": [
+        "Basic Training in Mathematics: A Fitness Program for Science Students"
+    ],
+    "OfferPrice": "$58.17",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Santa Cruz, California",
+                    "Name": "Miguel F. Morales (mmorales@physics.ucsc.edu)",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XRQWR6JO3A14/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,309,937"
+                },
+                "Date": "on March 29, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the best book I have found for explaining the math needed by physicists and others in the hard sciences.  Shankar uses a very conceptual approach to the mathematics without dwelling on proofs - leaving the reader  with an understanding of the mathematics involved.  He also tackles  difficult ideas like: why are complex numbers necessary and where do they  come from?  Most books simply assume these ideas and run off into the wild  blue yonder with some proofs to give a veneer of completeness, whereas  Shankar tries to give a conceptual underpinning that is invaluable when he  tackles advanced topics (such as contour integration).  His approach  throughout is conceptual and pragmatic - giving you a solid understanding  for the math you will actually use.  Though it is designed for  undergraduates, I would also recommend it to anyone either reviewing their  math or (re)learning math they should have already known.  I used this book  to study for the math section of my physics PhD. qualifier and I only wish  that I had stumbled across it sooner - it would have made many of my  physics courses a lot easier."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 2, 1998",
+                "Helpfulness": 0.9705882352941176,
+                "StarRating": "5",
+                "Text": "This was the textbook used for a class I took several years ago, and since then I've really grown to appreciate what a great foundation in mathematical methods it gave me.  The text is clear and concise, the problems challenging and illuminating.  Shankar writes with a dry sense of humor that makes his book anything but dry reading for the student (a frequent problem I've had with other math textbooks).  I've found this book an invaluable reference on numerous occasions.  I think the best praise that I can give is that it provided me with a mathematical intuition for much of what I learned in physics, especially Quantum Mechanics.  Shankar ingeniously sets up many problems so that when the student comes across the topics in later study, he or she not only already understands the mathematical basis for the physical laws but also can guess where the arguments are going next.  Using this book and Shankar's Quantum Mechanics textbook in a later course made for one of the most rewarding intellectual explorations I have ever had."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "",
+                    "Name": "Anon",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DBYDKFOCLEZE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #733,017"
+                },
+                "Date": "on February 5, 2005",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Israel",
+                    "Name": "Yuri Khodorkovsky",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19WBN4BDQ8Q24/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,936,420"
+                },
+                "Date": "on April 4, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "San Francisco, CA",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVQDKJ9TCG22N/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,003,221"
+                },
+                "Date": "on October 6, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Wish I had come across this book earlier. Other undergraduate math refresher/review books are either too basic or too formulaic (if I had wanted a table of functions I would have bought one). The stress is clearly on concepts, followed by techniques. The book is a great review of all the oohs and aahs of undergraduate and high school mathematics that you have forgotten over the years. I graduated from high school 15 years ago and by page 3 I was doing derivatives from first principles. Richard Courant's \"What is Mathematics?\" would make an excellent companion to this book. For example I complemented the first two chapters on calculus with the chapters on number systems and, limits and continuity from Courant's book and I truly felt that my calculus review was complete."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "Weston, Connecticut",
+                    "Name": "Dr. Jeffrey Satinover",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35U3PX4SAKAAS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,003,828"
+                },
+                "Date": "on May 31, 1998",
+                "Helpfulness": 0.88,
+                "StarRating": "5",
+                "Text": "The text presents in remarkably clear and concise fashion exactly those areas of mathematics required for the physical sciences, especially physics. The sections on linear algebra, vector spaces, Hilbert space, Fourier analysis and differential equations build and articulate elegantly to open a first window on the vistas of quantum mechanics. Problems are likewise chosen with care to assist the student in raising himself to the next level of understanding, section by section in a well-thought out sequence. The only problems are with visual layout of the text and occasional typographical errors (one in a complex differential equation that forms the basis of a problem). I have since gone back to this text many times as a refresher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 19, 2001",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": ".If you enjoyed Klepner & Ramsay 's \"Quick Calculus\" as a school student for its engaging and dearly wished there was an undergrad math methods book in that style! The answer is this book. You may not find a work book type fromat like \"Quick calculus\" . But let me assure you despite the formal style and Prof Shankar's repute for being verbose you will find it like a rhaphsody  and yet in coherent english. I only dearly wish Prof Shankar would kill some research time to write a Graduate level fitness programme. I think all the previous reviewers justly awarded 5 stars to this book. To those raters responisble for eating half a star , let me say there is no other engaging lively and painless math review than this. If you find this book painful I don't know what to say . But on the contrary of you thought the book was too easy then read the title it is a fitness programme not a discourse like Morse & Feshbach or Courant & Hilbert."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Twin Cities, Minnesota",
+                    "Name": "Glenn McDavid",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G8H4J8PAHBMR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,652,749"
+                },
+                "Date": "on April 7, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book covers the basic areas of math needed for physics.  It is quite readable and useful for self-study.  It covers the standard topics in a concise fashion, but in sufficient detail to be useful.  I used it as a  personal math refresher after being away from advanced physics for some  years.  It gave me what I needed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 11, 1997",
+                "Helpfulness": 0.84,
+                "StarRating": "2",
+                "Text": "I just finished a math methods course which used this book as the primary text and it was not pleasant. Not to say the material should be easy, it's not, but frequently the problems were due to figuring out what is meant and what the problem calls for. Typo's abound, and we once spent a few hours tackling a problem with no success to realize that the equation had a typo. Many of the problems merely say, \"Verify the previous result.\" This doesn't help when the problems are interspersed throughout the text and are not clearly demarcated. A little more attention could be paid to how the book is laid out--italics are used for BOTH problems and key theorems. Also, who chose to use Optima as an optional section typeface when Times is used for body? Further, the illustrations look as if they were done on a Mac using Draw. Now granted, it is a math book, why does it matter how it looks? Because compared to the clarity and ease of use of other contemporary texts, this book is clearly inferior and confusing. Math methods is hard enough without having to wrestle with the textbook."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Chicago, IL",
+                    "Name": "Rachel West",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21KREAAI03ZN4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #128,756"
+                },
+                "Date": "on August 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It seems that most negative reviews argue that it has a huge amount of mathematics in a short book, but that is exactly was it was designed to be.  As physics students know too well, professors often expect you to know - or at least be able to learn on your own - a certain subset of fairly complicated mathematics that physicists call upon most frequently.  This book is WAY shorter than the traditional textbook that we used in my \"mathematics for physicists\" course, but was infinitely more clear and helpful.  This is a book that one can use on their own as needed to truly learn the math being used to simplify or defend a professor as he or she moves through a proof.  It's the math they assume you learned somewhere, in a beautifully clear and compact form.  Shankar is up there with Griffiths for his ability to make a complex topic clear.  Its small and light enough to carry with you wherever.  I love love love this book!!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "USA",
+                    "Name": "Fred Burroughs",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NZ3OBRUF13FA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,560,836"
+                },
+                "Date": "on May 22, 2013",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "Tulsa. OK",
+                    "Name": "Amazon Customer",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34IAC7U8GJ4HR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,417,858"
+                },
+                "Date": "on November 2, 2008",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": "I'm surly learning a lot of calculus in this text, but it's really slow going for me. I've studied calculus 20 years ago receiving an A after the third Quarter, but this book is really revolutionary. I'm reviewing calculus in order to take the third semester soon, and I bought this book as a help. It's a big help, but it goes extremely quickly and requires an excellent grasp of algebra. I really like the book. It's very profound--but it's deep. I highly recommend it for a math or engineering student."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Wimberley, Texas United States",
+                    "Name": "Linda Fisher",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZGD0OR0R590J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #8,661,441"
+                },
+                "Date": "on March 7, 2014",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "21%",
+                    "Location": "Somerset, N.J. United States",
+                    "Name": "Partha Sur",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SRM0WAOG4GTI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,319,350"
+                },
+                "Date": "on October 17, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "73%",
+                    "Location": "Davis, CA United States",
+                    "Name": "Mary K. Mccomb",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZI5GRGHULOCS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,369,041"
+                },
+                "Date": "on June 10, 2010",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "3",
+                "Text": "This is the first time I'm going to complain about my Kindle.  I simple cannot read the equations in this book as reproduced on the Kindle.  I bought it on Kindle to save money but I regret my choice."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "",
+                    "Name": "John M Fahy",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27QJLE1RFTNPS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,607,967"
+                },
+                "Date": "on October 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Simply, a classic! Warning though, one had better be well-equipped in Mathematical concepts, principles, and applications. This is not, as the title infers, a basic training course in Mathematics...Good Luck!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "37%",
+                    "Location": "Carson City, NV USA",
+                    "Name": "John",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12S5PHL54AIB5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,303,954"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Overall good. Some concepts are not explained in enough detail. Shankar is obviously brilliant & moves through the material quickly. Never boring."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Naydn R Best",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A283AQCDBGDBKZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,741,717"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A great book to have available for those problems you have not had to do for some time."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "matt",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9B0104OQ37CO/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,220,779"
+                },
+                "Date": "on May 29, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Not even for people with a rudimentary sense of calculus, this book covers many advanced concepts and techniques. I would need to brush up on Calc I and II to even begin to scratch the surface of this book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "64%",
+                    "Location": "",
+                    "Name": "Mark Twain",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32DRXOIBWA60E/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #980,442"
+                },
+                "Date": "on October 26, 2010",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "3",
+                "Text": "The book is pretty good if you have seen the material before and you just need a review. If, however, you haven't seen a certain topic (say, Fourier series) then you're pretty screwed. General introductions are pretty loose (again, because this is only for review). I don't read it much, probably because of that."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "71%",
+                    "Location": "",
+                    "Name": "leo",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24O1JWR3LQU6A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,276,901"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent Teacher..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Western Canada",
+                    "Name": "Boyd Jahnke",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATYF697QL2V1F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,176,677"
+                },
+                "Date": "on October 19, 2014",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "I would love to buy this book but can't afford it.  It seems ridiculous to me that a Kindle edition should cost more than the paperback.  Publishers would make more in the long run by selling Kindle editions at a reasonable price ~$10 or $15 for example and they would do the country and the world much good by making knowledge accessible.  Stop being such jerks, publishing folk."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Tucson, AZ United States",
+                    "Name": "Robert R. Openshaw",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6AQJKPRW1P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#72,119"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "vey good book"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "52%",
+                    "Location": "louisville, ky USA",
+                    "Name": "R. Taylor",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XSLCCKZD6DA9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #316,641"
+                },
+                "Date": "on December 11, 2009",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": "...basically stacks of higher level theorems with proofs but with no clearly apparent purpose...the author claims that working through the book will make a student more prepared...however, at no point does he offer proof or even an explanation of how...he doesn't even offer relevance to any particular area of science...suggested alternatives are texts by Boas, Sneider, and Arfken/Weber..."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "25%",
+                    "Location": "Dublin, Ireland",
+                    "Name": "KH",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39F5J809I8VP/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,950,805"
+                },
+                "Date": "on December 28, 2009",
+                "Helpfulness": 0.19047619047619047,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Training-Mathematics-Fitness-Students/product-reviews/0306450364/ref=sr_1_57?s=books&ie=UTF8&qid=1432359983&sr=1-57&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "25"
+    },
+    "Salesrank": "#141,677",
+    "Timestamp": "2015-05-23 01:52:32.734356",
+    "itemurl": "http://www.amazon.com/Basic-Training-Mathematics-Fitness-Students/dp/0306450364/ref=sr_1_57?s=books&ie=UTF8&qid=1432359983&sr=1-57&keywords=mathematics+books+paperback"
+}

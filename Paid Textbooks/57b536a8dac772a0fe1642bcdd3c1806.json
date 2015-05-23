@@ -1,0 +1,66 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$37.95",
+    "Name": [
+        "Chebyshev and Fourier Spectral Methods: Second Revised Edition (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$25.57",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 20, 2004",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "Texas USA",
+                    "Name": "John Lipp",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L5YOHZZXUE18/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,606,752"
+                },
+                "Date": "on August 17, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "",
+                    "Name": "Amir Arzani",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HNPHAPEUTYR4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,336,465"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is not just an excellent book on spectral methods, but it is simply one of the best numerical methods books ever! The author explains many of the conceptual aspects very well. The material discussed in the book gives a very good perspective to anyone who is interested in applied numerical methods for differential equations. Different aspects of numerical methods are discussed much more deeply than any other numerical book. Although the book is mainly a spectral methods book, it can be valuable to anyone who wants to know numerical techniques more deeply."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Stuart I Benton",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YAM6NNV9SO92/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #20,736,352"
+                },
+                "Date": "on April 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm from a different field but wanted to use some of these techniques to perform calculations for my project. It was easy to pick up and is written from a practical perspective. Seems like it will be a great resource for the future as well!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chebyshev-Fourier-Spectral-Methods-Mathematics/product-reviews/0486411834/ref=sr_1_69?s=books&ie=UTF8&qid=1432360505&sr=1-69&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#208,578",
+    "Timestamp": "2015-05-23 02:05:34.807721",
+    "itemurl": "http://www.amazon.com/Chebyshev-Fourier-Spectral-Methods-Mathematics/dp/0486411834/ref=sr_1_69?s=books&ie=UTF8&qid=1432360505&sr=1-69&keywords=mathematics+books+paperback"
+}

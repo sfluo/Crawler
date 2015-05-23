@@ -1,0 +1,244 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Fractals, Chaos, Power Laws: Minutes from an Infinite Paradise (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.95",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Huntington Woods, MI USA",
+                    "Name": "Michael J. Edelman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RPTVW5VEOSI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#73"
+                },
+                "Date": "on June 19, 2000",
+                "Helpfulness": 0.9661016949152542,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Mexico City",
+                    "Name": "josech",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S1YJT4DN3TEC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,484,204"
+                },
+                "Date": "on March 16, 2002",
+                "Helpfulness": 0.9736842105263158,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 31, 2000",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "61%",
+                    "Location": "Europe",
+                    "Name": "Thomas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RO5NF0U4QJ38/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,327,484"
+                },
+                "Date": "on February 16, 2010",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "89%",
+                    "Location": "Iowa City, Iowa United States",
+                    "Name": "Palle E T Jorgensen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N2477VRD8OIZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #111,267"
+                },
+                "Date": "on February 28, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "For the uninitiated! --The author combines insight with story telling. He has a story to tell, and does it well! Not only does he know the theory inside out, he has the ability to get accross the central points so it (almost) seems easy, in any case entertaining, using pictures (including cartoons), humor, and equations when they are needed. He further make clear the many fascinating links between chaos theory, algorithms, technology, and areas of pure math, such as number theory. Highly recommended!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "London, UK",
+                    "Name": "Steve Uhlig",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANIHM0BW3ZWR3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,714,065"
+                },
+                "Date": "on January 27, 2001",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "59%",
+                    "Location": "usa",
+                    "Name": "book fan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHJT9K7BMCGFY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #155,838"
+                },
+                "Date": "on May 29, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "78%",
+                    "Location": "USA - PA",
+                    "Name": "Christos Faloutsos (christos@cs.cmu.edu)",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA3NMG0L6GBIZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,996,777"
+                },
+                "Date": "on July 22, 1999",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "The best introductory book on fractals and chaos. It has a breath-taking wealth of topics, complete with the intuition behind them, the formulas, the drawings and pictures. A 'must read' for anyone who wants a serious  introduction to these fascinating topics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "Kluang, Johor, West Malaysia",
+                    "Name": "Mathew Titus",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HVL7MRK1OWIE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,628,272"
+                },
+                "Date": "on February 10, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "Graffignano, Viterbo Italy",
+                    "Name": "Massimiliano Celaschi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11YOT86X3M4GU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,507,040"
+                },
+                "Date": "on June 22, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "One of the best introductory books I've ever read about the subject. A good example of multidisciplinarity and a bridge between theoretical and practical studies. The author does not avoid mathematics, allowing accuracy  and complete explanations, and does not exceed, making the book readable to  beginners."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "75%",
+                    "Location": "Tucson, Arizona USA",
+                    "Name": "Thomas J. Trebisky",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI9G197C4ZLXL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #151,313"
+                },
+                "Date": "on December 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book is kind of a tease.  You get just enough mathematics to get you interested, but never all you need to get a real understanding.  This is essentially an executive level whirlwind tour of self-similarity and related topics.  The writing style adds a bit of \"sweetening\" to each section, which might be acceptable in the first chapter, but it pervades the book and gets really annoying.  If you like to tickle yourself with interesting ideas without getting too deep, this might be just the book for you."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "60%",
+                    "Location": "Milford, CT USA",
+                    "Name": "nancymat",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARYUXU4WYY2H9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,710,269"
+                },
+                "Date": "on January 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Book was too mathematically challenging for me (a mere college graduate).  One needs to have a PhD in physics and/or math to understand it!  But I'm sure it is wonderful, based on the other reviews from people who understand those things!!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "s. berger",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39BWOJ3ORLPEU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#63,452"
+                },
+                "Date": "on October 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a fine review of the subject with a nice balance between qualitative and quantitative aspects of fractals. The math is clear and if you have some calculus in your background, not hard to follow."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "94%",
+                    "Location": "Philosopher, poet and lover of life in Hermit Range, Planet Earth",
+                    "Name": "Secluded Path",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W2AL1H893QNQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #123,882"
+                },
+                "Date": "on August 23, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book is an extraordinarily well written and presented introduction to fractals and power laws. It has a far deeper mathematical level and requires more time and effort to understand than the typical popularizations. I find it specifically well suited for the the mathematically inclined layman and scientists outside mathematics who want to delve deeper into this subject. Note, however, that if you are a hard core mathematician (of the \"lemma - proof - corollary\" type), you might probably find this book too superficial and light for your taste, so this book is not for you. If you are an Earth, Life or medical scientist, or just a mathematically curious guy, you will find this book interesting and rewarding. I wholeheartedly recommend it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "",
+                    "Name": "C George Brockus",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N68GPI5ASJZG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,292,580"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Tough math read on fractals and chaos."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "",
+                    "Name": "a reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18GR7BZAJWPC9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,035,524"
+                },
+                "Date": "on March 16, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": "I did glean a few interesting bits from this, so for that it gets two stars, but my comments are mostly negative. First, while not serious enough by itself for me to deduct even one star, the title is misleading. The author intended to write a book about self-similarity. The topics of fractals, chaos, and power laws are byproducts of his focus on self-similarity. So the coverage of those topics is haphazard. I guess the publisher chose the title to pick up on current buzzwords. Second, even considering what the book is really intended to be about, the exposition is disjointed. Each chapter is a collection of a few loosely related examples. Third, while a popularization necessarily must be handwavy, many passages were the kind of over- and misstatements you see in newspaper writing. Also, he tends to insert equations in the text where a good turn of phrase would have been more effective."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "Orland Park, IL",
+                    "Name": "cygnus.x1",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT95KRFR5UARS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,300,846"
+                },
+                "Date": "on May 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I got what I'd wanted, but it isn't written the way that I expected.  I don't mind the math, but it's the general organization that's problematic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 19, 1998",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "The book opens up ideas of wonderful depth, but isn't easy reading for those who hate equations. I would put this book in the top ten must read area for fractal people! Your unique Associates ID is:  thefractaltransl"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fractals-Chaos-Power-Laws-Infinite/product-reviews/0486472043/ref=sr_1_40?s=books&ie=UTF8&qid=1432359682&sr=1-40&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "18"
+    },
+    "Salesrank": "#148,762",
+    "Timestamp": "2015-05-23 01:42:03.890292",
+    "itemurl": "http://www.amazon.com/Fractals-Chaos-Power-Laws-Infinite/dp/0486472043/ref=sr_1_40?s=books&ie=UTF8&qid=1432359682&sr=1-40&keywords=mathematics+books+paperback"
+}

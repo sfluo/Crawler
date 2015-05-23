@@ -1,0 +1,317 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Sound Book: The Science of the Sonic Wonders of the World"
+    ],
+    "OfferPrice": "$13.56",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Retired",
+                    "Name": "Thomas C. Fletcher",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VF4BV5ONRSL6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#72,913"
+                },
+                "Date": "on August 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "Sun Valley",
+                    "Name": "H. R. Drackett",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANOFXSJJYSD82/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,602,252"
+                },
+                "Date": "on March 2, 2014",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Interesting to learn how musical instruments reverberate, as explanations for some of the great sonic spaces in nature and man made.  I will now listen to everything differently, and as a result, hear my surroundings differently."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "Chattanooga TN",
+                    "Name": "K. D. Phillips",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A187CQD9X6BHU8/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #408,890"
+                },
+                "Date": "on September 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "(This review refers to the audio CD edition which I purchased directly from Tantor Audio).  This is an entertaining, informative, and thought-provoking book that examines a wide variety of acoustical effects.  It may be a bit light on the science and a bit basic for the acoustical engineer, but for a lay person, it should be quite enlightening.  Unfortunately, the audio edition did not fully capitalize on that medium to convey examples of sound described in the text, but it was still a quality production, Jonathan Cowley, the narrator, having a great voice and style for delivering the content."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "47%",
+                    "Location": "",
+                    "Name": "RichardLB",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LQZGCQCXIYBS/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,211,718"
+                },
+                "Date": "on June 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "After hearing an interview with the author on NPR, I was intrigued enough to order this book. It was very much well worth it. If you're an audio engineer or lay-person interested in the way sound works in our world, you'll enjoy this book. From natural phenomena to man-made artifacts, both old and new, the way sound works in our world is intriguingly explored in a very easy to read manner. This is not a technical book, nor a difficult read - and neither is it unnecessarily dumbed-down either. Get it. You'll enjoy it!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "New York, NY",
+                    "Name": "Marc Johnson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MD1UXA0GJZLN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,483,811"
+                },
+                "Date": "on October 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an absolute gem for anyone who is curious about the world. Yes it's about sound, but it's a journey with a person who has so much to teach us about the world. You'll never wince from a subway train in quite the same way, nor will an autumn chorus of crickets ever escape you. I urge anyone to buy this book and cherish it. It will reward you over and over again."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "pauli",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16677KN4P9SLI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,207,093"
+                },
+                "Date": "on June 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "There was so much information, much of which I had never focused on before and/or thought about.  Today, I listened to my favorite birds singing with an even more sensitive interest."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "mau6",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X1NHXPYQQQOK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #12,654,865"
+                },
+                "Date": "on March 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "it's a bit hard to read for those not sophisticated in physics, but still very interesting to dig into. a bit less of science, a bit more of entertainment would give it 5 stars."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "San Francisco, CA USA",
+                    "Name": "Michael J. Graphix",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9JWQ9PD2RDKE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #244,262"
+                },
+                "Date": "on March 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great read. I highly recommend it for both audiophiles and anyone with an interest in the world around them."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "M. Sider",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMYDS3XCPMK3B/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #4,538,423"
+                },
+                "Date": "on August 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Gave this book as a gift to an audiologist friend who found it quite fascinating"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Karen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QLUXNYS3I7U/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,039,406"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is fabulous!  A great read, very informative and fascinating."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "86%",
+                    "Location": "",
+                    "Name": "Jacob",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EP5VR9MS5928/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,062,150"
+                },
+                "Date": "on April 3, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Shortly After reading the chapter on echoes, I visited Mt. Bromo with my family. Instead of just looking at the crater of this volcano and viewing the surrounding caldera, we experimented with listening to this area as well. Mt. Bromo  is another place to add to any sound tourism list as its echoes were splendid. I am glad for the increased awareness this book gave me for observing soundscapes as well as views."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "DREW SCHMIDT",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JVKQ84O1H3D0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,973,806"
+                },
+                "Date": "on December 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "WHAT EVER YOU WANT TO FIND OUT ABOUT SOUND- THIS IS IT. DREW"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "HearswitEars",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FJJIHGYVHN81/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #10,886,929"
+                },
+                "Date": "on July 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very fun read.  Made me more aware of my sound surroundings."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "NY",
+                    "Name": "Anton Stayduhar",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34I4LEKUX08J/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #228,782"
+                },
+                "Date": "on April 16, 2014",
+                "Helpfulness": 0.6,
+                "StarRating": "2",
+                "Text": "For those with scientific interest in acoustics, you'll find little science here.  The book reads more like a tour guide, complete with over the top and unnecessary scenic detail, that falls far short of increasing anyone's knowledge of acoustics in more than the most elementary terms (and that's an understatement).  Best placed in the travel section."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "50%",
+                    "Location": "",
+                    "Name": "George R. Koonce",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI8GDY07XEUU6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,757,885"
+                },
+                "Date": "on April 2, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A great book on the sounds that occur in nature and the influence that structures, natural and man-made, have on what we hear."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Redmond, WA",
+                    "Name": "JimmyJoeBob",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DMVMDODOG6ZL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,195,192"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "26%",
+                    "Location": "PA USA",
+                    "Name": "Gil Edgar III",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A408WN8WJM2VU/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,200,149"
+                },
+                "Date": "on July 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Although I enjoyed the book, I was expecting more \"science.\"  Additionally, writing a book about sound is like giving a slide presentation about color photography - in black and white.  Fortunately, I read the book on my kindle fire and on my Kindle for PC.  This allowed me to highlight and then search the internet for audio files of his examples.  That made it a lot more fun.  Thank Amazon for this wonderful technology!!  I love my Kindle."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "28%",
+                    "Location": "",
+                    "Name": "chuck fowler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LDUAM6CQM4YZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,306,007"
+                },
+                "Date": "on November 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thanks"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Phyllis Poparad",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DK8ELEMUJTDA/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,655,965"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was ordered as a gift and the recipient was happy to get it. Heard the author on NPR and prompted me to buy the book."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Washington, DC",
+                    "Name": "Over the River",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PWPQ90NQFE53/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#26,504"
+                },
+                "Date": "on February 19, 2014",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "33%",
+                    "Location": "",
+                    "Name": "Dian3",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LHFRYM0VNH69/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #22,815,568"
+                },
+                "Date": "on April 8, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "I've always been interested in Audio and Acoustics, and I think this book has the perfect balance between theory and common phenomena explained in an easy way.A great book for experts and regular people. Loved it!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "La Jolla, CA USA",
+                    "Name": "Parent",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO67UOB1KDOTE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #6,563,229"
+                },
+                "Date": "on March 20, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "A wonderful book. He conveys a sense of adventure exploring sound phenomena. It made me listen more closely to my everyday world too."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "Ridgefield CT",
+                    "Name": "Gary Anderson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DZ0Y7WRW6E4X/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#38,701"
+                },
+                "Date": "on March 4, 2014",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "He writes well but doesn't say that much.  His material might be presented in a more interesting, even more retainable fashion via a novel by Dan Brown.  If you don't enjoy this kind of knowledge for its own sake, you might not find it fascinating and probably won't read through to the last chapter.  However, if you are intrigued by the detail of nature surrounding you, Mr. Cox's skill with phrasing and pace will support your glide through often repetitious materials.  My read has been a chapter at a time and I must admit that I have yet to read the last chapter, but only because I left the ipad on which I'd downloaded this book on an airplane."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Sound-Book-Science-Sonic-Wonders/product-reviews/0393350584/ref=sr_1_108?s=books&ie=UTF8&qid=1432362060&sr=1-108&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "23"
+    },
+    "Salesrank": "#122,018",
+    "Timestamp": "2015-05-23 02:29:12.086171",
+    "itemurl": "http://www.amazon.com/Sound-Book-Science-Sonic-Wonders/dp/0393350584/ref=sr_1_108?s=books&ie=UTF8&qid=1432362060&sr=1-108&keywords=mathematics+books+paperback"
+}

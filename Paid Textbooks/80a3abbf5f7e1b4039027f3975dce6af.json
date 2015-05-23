@@ -1,0 +1,70 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Mathematics for Quantum Chemistry (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$13.25",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "58%",
+                    "Location": "Baton Rouge, LA USA",
+                    "Name": "Shawn Wilkinson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TU8SKHORDE11/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #607,484"
+                },
+                "Date": "on January 18, 2007",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "Flushing, New York United States",
+                    "Name": "A. T. Ko",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FUNBX78X5XY9/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #7,215,400"
+                },
+                "Date": "on August 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Michigan",
+                    "Name": "Sajeewa Pemasinghe",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RHM8EFSSOBGY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,471,357"
+                },
+                "Date": "on September 4, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "You should use this book with \"Quantum Chemistry\" by Ira N. Levine. Quite mathematical, but the author tries to be as friendly as possible. Describes both the matrix approach and the differential equation approach to quantum theory."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "22%",
+                    "Location": "israel",
+                    "Name": "Tarek Musslimani",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJBQYIWC9O6F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,992,821"
+                },
+                "Date": "on June 14, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Quantim mechanics in general requires high level of methematics such as linear algebra and differential equations.  This book gives only the basics of mathematics, which probably fits high school and not a university level.  If you don't know mathematics at all then you can buy it.  But for those who know little mathematics then It is not recommended."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Quantum-Chemistry-Dover-Books/product-reviews/0486442306/ref=sr_1_37?s=books&ie=UTF8&qid=1432359682&sr=1-37&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,045,727",
+    "Timestamp": "2015-05-23 01:41:24.979910",
+    "itemurl": "http://www.amazon.com/Mathematics-Quantum-Chemistry-Dover-Books/dp/0486442306/ref=sr_1_37?s=books&ie=UTF8&qid=1432359682&sr=1-37&keywords=mathematics+books+paperback"
+}

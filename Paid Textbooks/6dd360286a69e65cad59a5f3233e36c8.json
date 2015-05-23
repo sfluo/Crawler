@@ -1,0 +1,140 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "Topology and Geometry for Physicists (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$12.21",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "Israel",
+                    "Name": "Assaf Tal",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J5JTEB1OPT2Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,769,371"
+                },
+                "Date": "on January 12, 2002",
+                "Helpfulness": 0.873015873015873,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Baltimore, Maryland USA",
+                    "Name": "Dr. Lee D. Carlson",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#5,781"
+                },
+                "Date": "on July 10, 2002",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 9, 2000",
+                "Helpfulness": 0.7368421052631579,
+                "StarRating": "5",
+                "Text": "This book is written by physicists. Like a book by M. Nakahara it describes basics of diff geometry and topology. Though it stresses physical intuition more than formal definitions. I especially liked discussion of  fiber bundles and  characteristic classes. Highly recommended."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "",
+                    "Name": "Alberto Dominguez",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADRU0P0DUUN8D/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#68,489"
+                },
+                "Date": "on May 11, 2002",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": "Unlike many physics students, I grant a lot of leeway to books on mathematics for physicists.  I think it's all right for an author to engage in hand-waving arguments if this enhances physical intuition or even to make the occasional statements without proof if this allows more ground to be covered.  However, if a proof actually is presented, I expect this proof to be correct.  In this book, proofs are sometimes only for special cases of theorems stated more generally and often contain logical errors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 15, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This book shows you the geometric view of some advanced mathematical topics. It can greatly assist your intuition of what is going on in a mathematical setting when reading a true mathematics book. Armed with this book the other advanced text in Topology, Algebraic Geometry and Differential Geometry make more sense from a Physics point of view."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "",
+                    "Location": "",
+                    "Name": "Agustin Arguedas",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A207Q5UYUB70QI/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,715,882"
+                },
+                "Date": "on October 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Good introduction, but with several typos and unclear sections."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "",
+                    "Name": "Technogeek",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H74JMTW6A91I/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,166,698"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "I haven't actually read this book, but from just skimming it, I see that it contains no exercises at all.  Without any exercises, it would be really hard to use this book for self study, and hope to retain the material.  Based on the reviews, it looks like the better books available on the topic are \"Geometry, Topology and Physics\" by Nakahara, and \"The Geometry of Physics: An Introduction\" by Frankel."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "Seattle, WA United States",
+                    "Name": "DJG",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS4ZBFVWW50QR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,453,924"
+                },
+                "Date": "on January 15, 2004",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "4",
+                "Text": "This book shows you the geometric view of some advanced mathematical topics. It can greatly assist your intuition of what is going on in a mathematical setting when reading a true mathematics book. Armed with this book the other advanced text in Topology, Algebraic Geometry and Differential Geometry make more sense from a Physics point of view."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "70%",
+                    "Location": "South Portland, ME United States",
+                    "Name": "readalot",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20IANZT3VRZZ5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,126,837"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The very modest description of this used book's condition had me expecting less. It turned out to be in much better shape. The person, who sold the book, was definitely not trying to oversell it. I would buy another book from him any day."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "48%",
+                    "Location": "Hartford, CT USA",
+                    "Name": "Integrity Todd",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KX3A8VL1VVF0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,287,784"
+                },
+                "Date": "on January 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Stephen Hawking's \"A brief history of time\" talked conceptually about quantum mechanics and its relation to the universe. Mathematics is the link to comprehending the origin of the conclusions that have been reached. While I lack the expertise to work out rigorous mathematical proof, the mathematical ideas are made tangible and applicable in this text. In a search for meaning in the world of physics one necessarily needs a compass for direction and it rests with having the necessary mathematical tools to do so."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Topology-Geometry-Physicists-Dover-Mathematics/product-reviews/0486478521/ref=sr_1_43?s=books&ie=UTF8&qid=1432359682&sr=1-43&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#161,528",
+    "Timestamp": "2015-05-23 01:43:14.650358",
+    "itemurl": "http://www.amazon.com/Topology-Geometry-Physicists-Dover-Mathematics/dp/0486478521/ref=sr_1_43?s=books&ie=UTF8&qid=1432359682&sr=1-43&keywords=mathematics+books+paperback"
+}

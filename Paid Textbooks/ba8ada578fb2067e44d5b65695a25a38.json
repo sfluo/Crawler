@@ -1,0 +1,57 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "The Fourth Dimension Simply Explained (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$14.10",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "Troy Michigan",
+                    "Name": "Steve Reina",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UTKYA2U8542F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#6,032"
+                },
+                "Date": "on March 29, 2007",
+                "Helpfulness": 0.84,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "40%",
+                    "Location": "",
+                    "Name": "Richard Foglia",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4UMDMUD31DPD/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,311,392"
+                },
+                "Date": "on March 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A+"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "53%",
+                    "Location": "Atlanta GA",
+                    "Name": "S. Frey",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LPSA63A1GDUQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,015,458"
+                },
+                "Date": "on October 1, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fourth-Dimension-Simply-Explained-Mathematics/product-reviews/0486438899/ref=sr_1_62?s=books&ie=UTF8&qid=1432360505&sr=1-62&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,125,271",
+    "Timestamp": "2015-05-23 01:56:12.270347",
+    "itemurl": "http://www.amazon.com/Fourth-Dimension-Simply-Explained-Mathematics/dp/0486438899/ref=sr_1_62?s=books&ie=UTF8&qid=1432360505&sr=1-62&keywords=mathematics+books+paperback"
+}

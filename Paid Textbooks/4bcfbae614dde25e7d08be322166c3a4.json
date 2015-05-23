@@ -1,0 +1,109 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "The Theory of Spinors (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$12.96",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "GA, USA",
+                    "Name": "Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAY6R5HJD97R6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #344,648"
+                },
+                "Date": "on January 11, 2000",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "35%",
+                    "Location": "Lakeside, Ca United States",
+                    "Name": "Roger Bagula",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,334,070"
+                },
+                "Date": "on September 13, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "GA, USA",
+                    "Name": "Reader",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAY6R5HJD97R6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #344,648"
+                },
+                "Date": "on January 11, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "North Carolina, USA",
+                    "Name": "Lowell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IQACD8KKCI7Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #28,843,936"
+                },
+                "Date": "on December 20, 2001",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "This book is a great work on the subject of spinors. Since it is based solely on Elie Cartan's work, the termonology and wording reflects that of the transition coming out of the Post-Victorian math era (i.e., when quaternions and the more abstract mathematics where used for applied calculations in physics, which have been replaced with scalars and vectors). The geometrical definition layed down in the third chapter makes this a very comprehensive book for the newcomer to the subject. Quote page 42., \"A spinor is thus a sort of \"directed\" or \"polarized\" isotropic vector; a rotation about an axis through an angle of 2pi changes the polarization of this isotropic vector.\""
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Arizona",
+                    "Name": "sheine",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A147M6P4HLH7RT/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #176,359"
+                },
+                "Date": "on May 12, 2009",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "34%",
+                    "Location": "",
+                    "Name": "Shihui",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZL9Y3S3CRD9C/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,786,927"
+                },
+                "Date": "on December 3, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "E. Cartan is a master in mathematics. This book is one of his famous monographs. In this book, the moving frame method is introduced to describe the spin. It is suitable for not only the mathematicians but also the physicists."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "76%",
+                    "Location": "",
+                    "Name": "Nate",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELI92XSOT6H4/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#41,486"
+                },
+                "Date": "on September 11, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "The style, presentation, format and so on are old and cumbersome to read in the eyes of a modern educated individual. I found other books on the topic of Spinors but written at a higher level of understanding were easier due to the aging of this book. Wouldn't particularly suggest this title to anybody not interested in seeing the work of the originator of spinors."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Spinors-Dover-Books-Mathematics/product-reviews/0486640701/ref=sr_1_21?s=books&ie=UTF8&qid=1432358884&sr=1-21&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#746,480",
+    "Timestamp": "2015-05-23 01:34:49.598186",
+    "itemurl": "http://www.amazon.com/Theory-Spinors-Dover-Books-Mathematics/dp/0486640701/ref=sr_1_21?s=books&ie=UTF8&qid=1432358884&sr=1-21&keywords=mathematics+books+paperback"
+}

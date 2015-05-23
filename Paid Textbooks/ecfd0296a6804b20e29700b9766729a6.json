@@ -1,0 +1,153 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "The Electromagnetic Field (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.37",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "77%",
+                    "Location": "Israel",
+                    "Name": "Assaf Tal",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J5JTEB1OPT2Z/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #23,769,371"
+                },
+                "Date": "on January 10, 2002",
+                "Helpfulness": 0.96,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "81%",
+                    "Location": "",
+                    "Name": "JC Maxwell",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KO47TAP3R4XN/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,541,896"
+                },
+                "Date": "on August 8, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 12, 2000",
+                "Helpfulness": 0.9615384615384616,
+                "StarRating": "5",
+                "Text": "I am a graduate student in Physics and have found this to be a wonderful reference manual to the \"Jackson\" graduate text. Shadowitz offers great explanations for sometimes complicated mathematical terms.  Additionally, he gives valuable, indepth examples for tensors and makes no  illogical or complicated jumps in his derivations of other mathematical  formulae."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "96%",
+                    "Location": "Austin, Texas",
+                    "Name": "ra5193@email.sps.mot.com",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A134A09WI2HPXL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,992,822"
+                },
+                "Date": "on May 12, 1998",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": "Book goes beyond classical text(state theory, give minimal amount of related examples, move on, etc..) Author is an educator(not just an instructor) and the strengths of the book are in the extent to which he attempts(and succeeds)  to illuminate the subject so that every facet of it is clearly revealed. Well Done!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Norman, Oklahoma, USA.",
+                    "Name": "Randolph Best",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26BKV6R6XFJT6/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,732,900"
+                },
+                "Date": "on December 14, 1999",
+                "Helpfulness": 0.84,
+                "StarRating": "3",
+                "Text": "When it comes to a Junior-Senior textbook on electromagnetism, electrical engineers and physicists will want a different approach. However, electronics engineering is close to physics and this book comes close to  pleasing both  groups.  Probably the best book on EM theory for electronics  engineers is \"Fields and Waves in Communication Electronics\" by  Ramo, Whinnery, and van Duzer.  Ramo is the R in the company called TRW.  Nonetheless, Shadowitz covers the basics of an EM text for electonics  engineers, for example, transmission lines, waveguides, and antenna  radiation.  Sprinkled throughout the text are interesting tidbits of  theoretical physics.  The book is in SI units, but  he adequately informs  the reader about esu and emu units, a discussion of which seems to have  become unfortunately banned at some American colleges."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "teaneck, NJ United States",
+                    "Name": "J. M WILINSKY",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TIL1PC2ZE97B/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#2,702"
+                },
+                "Date": "on August 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I was Dr. Shadowitz's student in E+M while he was writing this book(he had already published his book on Special Relativity when I met him). As is the case in most all universities, even the largest, the physics department is usually like a family, very close and friendly and somewhat smaller than other departments, with fewer major students. We had one of the best physics curricula of any university!(Even European university representatives would visit us to see how we handled our curriculum.) Dr. Shadowitz tested out many if not most of the exercises in this book on us with good results. I learned a great deal from him, both in physics and in life. He loved teaching and explained the subject in the most revealing way possible. This book reflects his methods and love of the subject. I hear he is no longer with us. I will miss him."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "90%",
+                    "Location": "Los Angeles, CA. USA",
+                    "Name": "W. Clement",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11FNDXYXNC9SC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #125,542"
+                },
+                "Date": "on May 16, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "First published in 1975, I use this book to understand complex topics that other Physics books explain poorly.  I would compare the way Albert Shadowitz writes to how well Linus Pauling (an award winning Chemist) wrote in exploring General Chemistry.  You study just the material you need to understand.  Shadowitz makes the information accessible because he obviously enjoyed his work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 11, 2002",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "You can't possibly get more for your money than this book.  Don't let the price fool you - this is a well written book on electromagnetics."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "83%",
+                    "Location": "Mass, USA",
+                    "Name": "Z3",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V2SCB60ZVM6Q/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,142,335"
+                },
+                "Date": "on March 16, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "1",
+                "Text": "I was very excited that dover books are now available for the Kindle, however, technical books such as this are junk when they are poor conversions...many of the formulations and equations contain squares in lieu of the proper symbols, characters, Greek letters, etc. Useless."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "72%",
+                    "Location": "Des Moines, IA",
+                    "Name": "Joe O",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FSHGR18V1M0P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #236,410"
+                },
+                "Date": "on February 23, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I wish I had this before I had to endure a course with Jackson's E/M text."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "MA",
+                    "Name": "P. D. Kousoubris",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXRCPBNEFIYRW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #269,741"
+                },
+                "Date": "on March 22, 2006",
+                "Helpfulness": 0.2564102564102564,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electromagnetic-Field-Dover-Books-Physics/product-reviews/0486656608/ref=sr_1_91?s=books&ie=UTF8&qid=1432361778&sr=1-91&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#213,996",
+    "Timestamp": "2015-05-23 02:18:58.058666",
+    "itemurl": "http://www.amazon.com/Electromagnetic-Field-Dover-Books-Physics/dp/0486656608/ref=sr_1_91?s=books&ie=UTF8&qid=1432361778&sr=1-91&keywords=mathematics+books+paperback"
+}

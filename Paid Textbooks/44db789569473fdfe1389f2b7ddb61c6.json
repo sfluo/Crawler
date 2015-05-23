@@ -1,0 +1,70 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Space Mathematics: Math Problems Based on Space Science (Dover Books on Aeronautical Engineering)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "80%",
+                    "Location": "Reston, VA USA",
+                    "Name": "Carlos N",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZX7ALG4SG6QW/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #806,970"
+                },
+                "Date": "on November 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "Disappointing content.  The examples are quite old, but I expected that given the date of publication.  However the content itself is not very good.  The format of the book takes some mathematical concept  and tries to wrap it around a spaceflight idea.  However there is very little insight provided to the student.  The format is also overly verbose and hard to read. I'm a practicing aerospace engineer and teacher and I could come up with problems that are better worded and better illustrate both the mathematics and the spaceflight concepts."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "San Jose, CA",
+                    "Name": "Dana Nourie",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39MULB7OU501/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#7,455"
+                },
+                "Date": "on February 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm an adult learning math, and this book is great! It perfectly illustrates how algebra is used in one of my favorites areas of interest, astronomy! I hope NASA creates more of these!"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "20%",
+                    "Location": "",
+                    "Name": "Salah Alriashi",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YBVNS70UXCGC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #30,778,822"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "Good job"
+            },
+            {
+                "Author": {
+                    "Helpfulness": "16%",
+                    "Location": "",
+                    "Name": "AL",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FZPR4JHAYOCL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,330,527"
+                },
+                "Date": "on December 8, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Crap"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Space-Mathematics-Problems-Aeronautical-Engineering/product-reviews/0486490335/ref=sr_1_24?s=books&ie=UTF8&qid=1432358884&sr=1-24&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#166,086",
+    "Timestamp": "2015-05-23 01:35:35.405306",
+    "itemurl": "http://www.amazon.com/Space-Mathematics-Problems-Aeronautical-Engineering/dp/0486490335/ref=sr_1_24?s=books&ie=UTF8&qid=1432358884&sr=1-24&keywords=mathematics+books+paperback"
+}

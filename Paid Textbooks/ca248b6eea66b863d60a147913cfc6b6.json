@@ -1,0 +1,70 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Theoretical Nuclear Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.83",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "95%",
+                    "Location": "",
+                    "Name": "Adam L. Bruce",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARSGAWB8YU6ZG/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,785,858"
+                },
+                "Date": "on July 31, 2011",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Blatt and Weisskopf is a good, thick compendium of nuclear theory developed from a quantum mechanical point of view. It's become something of a classic it its time, and I think this is well deserved, since it is written with a good flow and clarity and also covers everything a nonspecialist in nuclear physics would ever need to know (and provides a good basis for those who are specialists). The Dover edition is nice and also inexpensive. I would highly recommend it as a reference for all physics and chemistry people."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "USA",
+                    "Name": "ScienceThinker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#21,065"
+                },
+                "Date": "on June 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "93%",
+                    "Location": "inventor in Terra, Sol 3",
+                    "Name": "W Boudville",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#915"
+                },
+                "Date": "on July 6, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "47%",
+                    "Location": "Rockville MD USA",
+                    "Name": "Kuda B. Ekanayake",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20128HZVBNZRR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,027,855"
+                },
+                "Date": "on July 27, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I bought this for my grandson.  He likes it , it looks new.  He already have read the first part."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Nuclear-Physics-Dover-Books/product-reviews/0486668274/ref=sr_1_89?s=books&ie=UTF8&qid=1432361778&sr=1-89&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#364,244",
+    "Timestamp": "2015-05-23 02:18:33.721153",
+    "itemurl": "http://www.amazon.com/Theoretical-Nuclear-Physics-Dover-Books/dp/0486668274/ref=sr_1_89?s=books&ie=UTF8&qid=1432361778&sr=1-89&keywords=mathematics+books+paperback"
+}

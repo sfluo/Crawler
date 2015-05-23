@@ -1,0 +1,109 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "A Treatise on the Mathematical Theory of Elasticity (Dover Books on Engineering)"
+    ],
+    "OfferPrice": "$20.20",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "Tilburg, Noord-Brabant Netherlands",
+                    "Name": "V.A. Jonkers",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21YK04XKJNAK3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,023,492"
+                },
+                "Date": "on April 7, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Yuri",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30BT28B4IS4PF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #9,864,277"
+                },
+                "Date": "on February 4, 2012",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "84%",
+                    "Location": "Boston, USA",
+                    "Name": "McGillman",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R129EDWJACS1/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,476,651"
+                },
+                "Date": "on January 15, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "absolute bible in elasticity, every professor who teach elasticity would list it among the reference books. But you have to invest much time to understand it."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "100%",
+                    "Location": "",
+                    "Name": "ERKAN SAMHAL",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XNLQLMO2NLJ5/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #5,567,344"
+                },
+                "Date": "on July 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is perfect. I had read it in Turkish translation early 1990 only. To start reading from this original one made me happy. Thank you very much. The subjects in the book are well established. One can learn all in case of studying sistematicall. Thank you again."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "69%",
+                    "Location": "",
+                    "Name": "Fabio Cesar Siqueira da Silva",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANI6TNFD7HWWZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #2,349,343"
+                },
+                "Date": "on October 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am using this book in conjunction with some papers in the field to study phononic crystals. It is a great reference to have and for the price I could not resist to have my own copy."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "67%",
+                    "Location": "",
+                    "Name": "CJR",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FZEW4GGVC4M3/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,659,003"
+                },
+                "Date": "on July 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Purchased this book to replace my previous copy lost in a move.  It is an excellent text citing contributors to the Theory of Elasticity."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "0%",
+                    "Location": "",
+                    "Name": "Laith",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XAQ9NQM6327P/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,076,431"
+                },
+                "Date": "on October 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Treatise-Mathematical-Theory-Elasticity-Engineering/product-reviews/0486601749/ref=sr_1_95?s=books&ie=UTF8&qid=1432361778&sr=1-95&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#519,407",
+    "Timestamp": "2015-05-23 02:20:37.334329",
+    "itemurl": "http://www.amazon.com/Treatise-Mathematical-Theory-Elasticity-Engineering/dp/0486601749/ref=sr_1_95?s=books&ie=UTF8&qid=1432361778&sr=1-95&keywords=mathematics+books+paperback"
+}

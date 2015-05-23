@@ -1,0 +1,105 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Methods of Applied Mathematics (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$14.69",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "San Jose, CA USA",
+                    "Name": "Graham M. Flower",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OMCIPXZRBM0A/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #672,121"
+                },
+                "Date": "on September 3, 2001",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "74%",
+                    "Location": "",
+                    "Name": "A.A.A.",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VKKIBX3LF7SC/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,101,375"
+                },
+                "Date": "on December 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This textbook is not very readable.  It is very dense, and does not contain much in the way of explanation.  If you can learn applied math straight out of this textbook, then you are smarter than I am.  For me, I had to find a bunch of other resources to help me learn the material... a compilation of other less-terrible textbooks checked out from the library plus a bunch of internet resources."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "91%",
+                    "Location": "State College, Pa USA",
+                    "Name": "J. B. Fahnline",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB6MOEWJ31TI0/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #444,397"
+                },
+                "Date": "on March 8, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I did my Ph. d. on integral equation techniques, and I spent a lot of time in the math library looking for books on the subject that I could understand.  This was easily the best book I found.  After reading it, it becomes clear that inegral equations are very closely related to matrix equations."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "82%",
+                    "Location": "Palo Alto CA USA",
+                    "Name": "Srinivasan Nenmeli Krishna",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31UJPCGB32INQ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#48,384"
+                },
+                "Date": "on December 27, 2008",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "I have used many books by Hildebrand for most of my advanced self-study in maths.This is one of the excellent texts ,covering matrices and variational methods in an easy manner.--glad that Dover has reprinted this classic work."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "65%",
+                    "Location": "",
+                    "Name": "Venkatram Krishnan",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XW5EQOOCDSPK/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #24,373,431"
+                },
+                "Date": "on January 12, 2008",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": "Francis Hildebrand is one of the best mathematicians who existed and every one of his books are diamonds. This is yet another one by him. The book contains only 3 chapters, and they are among the best treatment you can find anywhere. For anyone interested in applied mathematics, this book is a MUST READ."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "66%",
+                    "Location": "Orlando, FL USA",
+                    "Name": "Joshua M. Guillemette",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19N15QU7VHM0F/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #583,120"
+                },
+                "Date": "on August 26, 2011",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": "The book uses most of chapter 1 to explain techniques and concepts from Linear Algebra. Toward the end he makes the connection between vector space and functional space and has a common language developed. The Linear Algebra is not of a very high level and should have been covered in a good undergraduate course. The Function Space concepts should be familiar to anyone having taking ODE using Fourier Transforms. I am know working in Chapter 2 and the concise way he writes leaves out steps or doesn't make explicit connections and so I find myself re-reading and looking for other resources. I have not tried the exercises but they look to run from straight forward to ridiculous, which is probably what a graduate text should do. So if he had used a few more words and steps I would give 5 stars but alas, I cannot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 23, 1999",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": "The book doesn't have much examples. As the books on applied mathematics and mathematics should have. But excellent for revision not for the  starters."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Methods-Applied-Mathematics-Dover-Books/product-reviews/0486670023/ref=sr_1_29?s=books&ie=UTF8&qid=1432359343&sr=1-29&keywords=mathematics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#375,650",
+    "Timestamp": "2015-05-23 01:36:34.777230",
+    "itemurl": "http://www.amazon.com/Methods-Applied-Mathematics-Dover-Books/dp/0486670023/ref=sr_1_29?s=books&ie=UTF8&qid=1432359343&sr=1-29&keywords=mathematics+books+paperback"
+}
