@@ -1,1 +1,29 @@
-{"Category": "", "Name": "", "Timestamp": "2015-05-23 13:23:32.229420", "itemurl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/dp/048661798X/ref=sr_1_366?s=books&ie=UTF8&qid=1432393621&sr=1-366&keywords=physics+books+paperback", "Reviews": {"TotalReviewCount": "1", "ReviewList": [{"Date": "on June 5, 2012", "Text": "The classic text if you are at all interested in the fundamentals behind molecular spectra, and the microwave region in particular. Beautifully written, crystal clear.", "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #242,048", "Helpfulness": "68%", "Name": "R. G. W. Brown", "Location": "Tustin, CA, USA"}}], "ReviewUrl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/product-reviews/048661798X/ref=sr_1_366?s=books&ie=UTF8&qid=1432393621&sr=1-366&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": "5.0 out of 5 stars"}, "OfferPrice": "", "Salesrank": "", "ListPrice": ""}
+{
+    "Category": "",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "68%",
+                    "Location": "Tustin, CA, USA",
+                    "Name": "R. G. W. Brown",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #242,048"
+                },
+                "Date": "on June 5, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The classic text if you are at all interested in the fundamentals behind molecular spectra, and the microwave region in particular. Beautifully written, crystal clear."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/product-reviews/048661798X/ref=sr_1_366?s=books&ie=UTF8&qid=1432393621&sr=1-366&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "",
+    "Timestamp": "2015-05-23 13:23:32.229420",
+    "itemurl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/dp/048661798X/ref=sr_1_366?s=books&ie=UTF8&qid=1432393621&sr=1-366&keywords=physics+books+paperback"
+}

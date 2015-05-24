@@ -1,1 +1,126 @@
-{"Category": "", "Name": "", "Timestamp": "2015-05-23 13:26:20.155899", "itemurl": "http://www.amazon.com/000-Solved-Problems-Physics-Schaums/dp/0070257345/ref=sr_1_794?s=books&ie=UTF8&qid=1432393669&sr=1-794&keywords=physics+books+paperback", "Reviews": {"TotalReviewCount": "42", "ReviewList": [{"Date": "on February 27, 2005", "Text": null, "Helpfulness": 0.9859154929577465, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AGZ2XBT5MRAX/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #27,900,828", "Helpfulness": "99%", "Name": "Eric Woodward", "Location": "Chula Vista, CA"}}, {"Date": "on June 11, 2000", "Text": "This remains my favorite book for physics problem solving since I began using it in 1988.  From the basics of vector algebra to the principles of modern physics, the student will find a single source for solved problems  (both non-calculus and calculus based).  The mathematical notation is clean  and simple and the solution to each problem is found immediately beneath it  (not hidden at the end of the chapter or collected in the back of the  book).  The diagrams are elegant and clear, as well, with a minimum of  \"cute\" (and usually irrelevant) materials.  The student can add  this book to their reference library and it serves as one of the best  review texts for the standardized tests (such as the GRE and the MCAT).", "Helpfulness": 0.9827586206896551, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A298F0QB0364RL/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #29,467,997", "Helpfulness": "98%", "Name": "Mark H Slovak", "Location": ""}}, {"Date": "on March 4, 2007", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #3,222,585", "Helpfulness": "92%", "Name": "Michael H. Wofsey", "Location": "Tuscaloosa, Alabama"}}, {"Date": "on June 3, 2001", "Text": "I took a General Physics I class last semester in College (I never took it in high school) and I was very lost for a while.  If you've never done a Physics problem and then see all these new concepts and see how much mathematical thought is required -- well, let's just say it's very intimidating.  As my instructor said, the only way to get good at solving physics problems is to do physics problems.  He advised us not to give up in attempting problems and to \"sleep on some\" and have a go at it again the next day(Great advice, by the way!).  With this book, and the abundant number of problems in it, ranging from easy to challenging, I was able to get an A in the class.  The author included in this book a \"Skeletons\" outline in the very beginning in order for the student with minimal time to get the maximum benefit:  mock homework, exams, and final exams.  Awesome book, I'm so glad I bought it... and I will be taking Physics II!", "Helpfulness": 0.9629629629629629, "StarRating": "5", "Author": {"ProfileUrl": ""}}, {"Date": "on November 23, 2002", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": ""}}, {"Date": "on October 6, 1999", "Text": "I use this book instead of my textbook. The problems start out easy and become more difficult as you progress. This approach works for me. You must learn how to do the easy problems first. Once you've mastered those, then  move on to the harder problems.", "Helpfulness": 0.9473684210526315, "StarRating": "4", "Author": {"ProfileUrl": ""}}, {"Date": "on April 15, 2008", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J3JXEFO2AZEZ/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #19,180,633", "Helpfulness": "85%", "Name": "The Rizzler", "Location": "Virginia"}}, {"Date": "on July 8, 2006", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UNJ0TOI6HNAY/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #18,779,963", "Helpfulness": "97%", "Name": "Walter", "Location": "Haverford, PA, United States"}}, {"Date": "on July 9, 1999", "Text": "For any one who study introduction physics courses this book is a good source for practicing to Solve a physics problem, however I think it was written for the student new in the world of physics, And it is not a good  source information for advanced physics studying.", "Helpfulness": 1.0, "StarRating": "4", "Author": {"ProfileUrl": ""}}, {"Date": "on February 22, 2004", "Text": null, "Helpfulness": 0.84375, "StarRating": "5", "Author": {"ProfileUrl": ""}}], "ReviewUrl": "http://www.amazon.com/000-Solved-Problems-Physics-Schaums/product-reviews/0070257345/ref=sr_1_794?s=books&ie=UTF8&qid=1432393669&sr=1-794&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": "4.4 out of 5 stars"}, "OfferPrice": "", "Salesrank": "", "ListPrice": ""}
+{
+    "Category": "",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "99%",
+                    "Location": "Chula Vista, CA",
+                    "Name": "Eric Woodward",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AGZ2XBT5MRAX/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #27,900,828"
+                },
+                "Date": "on February 27, 2005",
+                "Helpfulness": 0.9859154929577465,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "98%",
+                    "Location": "",
+                    "Name": "Mark H Slovak",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A298F0QB0364RL/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #29,467,997"
+                },
+                "Date": "on June 11, 2000",
+                "Helpfulness": 0.9827586206896551,
+                "StarRating": "5",
+                "Text": "This remains my favorite book for physics problem solving since I began using it in 1988.  From the basics of vector algebra to the principles of modern physics, the student will find a single source for solved problems  (both non-calculus and calculus based).  The mathematical notation is clean  and simple and the solution to each problem is found immediately beneath it  (not hidden at the end of the chapter or collected in the back of the  book).  The diagrams are elegant and clear, as well, with a minimum of  \"cute\" (and usually irrelevant) materials.  The student can add  this book to their reference library and it serves as one of the best  review texts for the standardized tests (such as the GRE and the MCAT)."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "92%",
+                    "Location": "Tuscaloosa, Alabama",
+                    "Name": "Michael H. Wofsey",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #3,222,585"
+                },
+                "Date": "on March 4, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 3, 2001",
+                "Helpfulness": 0.9629629629629629,
+                "StarRating": "5",
+                "Text": "I took a General Physics I class last semester in College (I never took it in high school) and I was very lost for a while.  If you've never done a Physics problem and then see all these new concepts and see how much mathematical thought is required -- well, let's just say it's very intimidating.  As my instructor said, the only way to get good at solving physics problems is to do physics problems.  He advised us not to give up in attempting problems and to \"sleep on some\" and have a go at it again the next day(Great advice, by the way!).  With this book, and the abundant number of problems in it, ranging from easy to challenging, I was able to get an A in the class.  The author included in this book a \"Skeletons\" outline in the very beginning in order for the student with minimal time to get the maximum benefit:  mock homework, exams, and final exams.  Awesome book, I'm so glad I bought it... and I will be taking Physics II!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 23, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 6, 1999",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "4",
+                "Text": "I use this book instead of my textbook. The problems start out easy and become more difficult as you progress. This approach works for me. You must learn how to do the easy problems first. Once you've mastered those, then  move on to the harder problems."
+            },
+            {
+                "Author": {
+                    "Helpfulness": "85%",
+                    "Location": "Virginia",
+                    "Name": "The Rizzler",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J3JXEFO2AZEZ/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #19,180,633"
+                },
+                "Date": "on April 15, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "97%",
+                    "Location": "Haverford, PA, United States",
+                    "Name": "Walter",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UNJ0TOI6HNAY/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #18,779,963"
+                },
+                "Date": "on July 8, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 9, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For any one who study introduction physics courses this book is a good source for practicing to Solve a physics problem, however I think it was written for the student new in the world of physics, And it is not a good  source information for advanced physics studying."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 22, 2004",
+                "Helpfulness": 0.84375,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/000-Solved-Problems-Physics-Schaums/product-reviews/0070257345/ref=sr_1_794?s=books&ie=UTF8&qid=1432393669&sr=1-794&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "42"
+    },
+    "Salesrank": "",
+    "Timestamp": "2015-05-23 13:26:20.155899",
+    "itemurl": "http://www.amazon.com/000-Solved-Problems-Physics-Schaums/dp/0070257345/ref=sr_1_794?s=books&ie=UTF8&qid=1432393669&sr=1-794&keywords=physics+books+paperback"
+}

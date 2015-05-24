@@ -1,1 +1,29 @@
-{"Category": "", "Name": "", "Timestamp": "2015-05-23 13:22:12.161451", "itemurl": "http://www.amazon.com/Introduction-Theory-Boltzmann-Equation-Physics/dp/0486438317/ref=sr_1_208?s=books&ie=UTF8&qid=1432393605&sr=1-208&keywords=physics+books+paperback", "Reviews": {"TotalReviewCount": "1", "ReviewList": [{"Date": "on December 15, 2011", "Text": "The book has an approach to the traditional physics by a statistical view. The solutions of the equations are obtained from classical theorems, as Hilbert and Freedolm. In this way the approach starts by the statistical mechanics for arriving to difficult questions about stochastics. So a theory sufficiently abstract provides some solutions for a real problems.", "Helpfulness": 0.2857142857142857, "StarRating": "4", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KBV0G9ULFG7V/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #31,333,272", "Helpfulness": "23%", "Name": "Edoardo Angeloni", "Location": "Worker in a library. in Teramo , Italy"}}], "ReviewUrl": "http://www.amazon.com/Introduction-Theory-Boltzmann-Equation-Physics/product-reviews/0486438317/ref=sr_1_208?s=books&ie=UTF8&qid=1432393605&sr=1-208&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": "4.0 out of 5 stars"}, "OfferPrice": "", "Salesrank": "", "ListPrice": ""}
+{
+    "Category": "",
+    "ListPrice": "",
+    "Name": "",
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "23%",
+                    "Location": "Worker in a library. in Teramo , Italy",
+                    "Name": "Edoardo Angeloni",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KBV0G9ULFG7V/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #31,333,272"
+                },
+                "Date": "on December 15, 2011",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "4",
+                "Text": "The book has an approach to the traditional physics by a statistical view. The solutions of the equations are obtained from classical theorems, as Hilbert and Freedolm. In this way the approach starts by the statistical mechanics for arriving to difficult questions about stochastics. So a theory sufficiently abstract provides some solutions for a real problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Theory-Boltzmann-Equation-Physics/product-reviews/0486438317/ref=sr_1_208?s=books&ie=UTF8&qid=1432393605&sr=1-208&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "",
+    "Timestamp": "2015-05-23 13:22:12.161451",
+    "itemurl": "http://www.amazon.com/Introduction-Theory-Boltzmann-Equation-Physics/dp/0486438317/ref=sr_1_208?s=books&ie=UTF8&qid=1432393605&sr=1-208&keywords=physics+books+paperback"
+}
