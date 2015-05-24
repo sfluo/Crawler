@@ -23,11 +23,11 @@ MaxNumReviews = 1500
 ##### it seems in order to get details of product, cookie is required.
 #FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=1QC1CAANPA2T95A9NVZ4+s-1QC1CAANPA2T95A9NVZ4|1429326231448'
 
-FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; skin=noskin; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=0K7BJKCF2ECQJKR3VDP3+s-0K7BJKCF2ECQJKR3VDP3|1432388134040'
+#FakeCookie='skin=noskin; x-wl-uid=1uHgA6QYtOf9VAskEst2YwASvctHz7iD/DW4sDnNew/GMyywt9FUDbwsRnzE39zseg1uFAnaoIOI=; session-token=ULgTXs9bV43xIhlut2kEZI/Le5ZL2aINFopjKFZtgrdqGxxcX/1GSZkYmvCc0+uktkYcJD657Tk9Dsi11JxPnPodmIOYJjBuc4tAAts0ZpR6lbzomtDBPlLh5LnmGAschVmi/T0BOD1Nr2+6qf/WyvMupgeEHH+ya5b4z+aYSY+5jD3LapfzmrqE3jF3ogvn1E+bbPmdR5rrwJkRej25mYbSkOrYqBNHyZNf9TCOrnCNEgOOU/g/JIjb10OaOkAB; __gads=ID=25a2624337c614a3:T=1428607844:S=ALNI_MZfckri_ZZ1-ydzF7K7bsrJYRUofA; __ar_v4=7CUFP6UIQZARTK57SDZKRU%3A20150409%3A3%7CVKZDA7NCVJAINNGOEQVAY3%3A20150409%3A3%7CIQS3HPYPHFHRHEYBEZAXCQ%3A20150409%3A3; skin=noskin; ubid-main=188-5471422-6981114; session-id-time=2082787201l; session-id=184-9289097-6318545; csm-hit=0K7BJKCF2ECQJKR3VDP3+s-0K7BJKCF2ECQJKR3VDP3|1432388134040'
 
 # we want to mimic a web browser
 #UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.90 Safari/537.36'
-UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko)'
+#UserAgent= 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko)'
 
 def getPage(url):
 	'''
@@ -42,8 +42,8 @@ def getPage(url):
 		try:
 			req = urllib2.Request(url)  # pull the page
 
-			req.add_header('Cookie', FakeCookie) 
-			req.add_header('User-Agent',UserAgent)
+			#req.add_header('Cookie', FakeCookie) 
+			#req.add_header('User-Agent',UserAgent)
 			response = urllib2.urlopen(req)
 			page = response.read()
 
@@ -226,7 +226,7 @@ def extractReviews(revUrl, maxNum, reviews):
 			if reviewer is not None:
 				authorUrl = host + reviewer.get('href')
 				profile = {'ProfileUrl' : authorUrl}
-				extractReviewer(authorUrl, profile)
+				#extractReviewer(authorUrl, profile)
 			else:
 				profile = {'ProfileUrl' : ''}
 			a_review['Author'] = profile
@@ -260,7 +260,7 @@ def fetchItem(itemurl, record):
 
 		Alert: the page might use different template for different categories of products
 	"""
-	# print(itemurl)
+	print(itemurl)
 
 	page = getPage(itemurl)
 	if page is None:
@@ -466,9 +466,11 @@ def main_fetch(urlfile):
 
 		with open(urlfile, 'r') as urlfp:
 			lines = urlfp.readlines()
-			for itemurl in lines:
+			for line in lines:
 				#print "item:", itemurl
-				itemurl = itemurl.strip()
+				line = line.strip()
+				end = string.find(line, '/ref=')
+				itemurl = line[0:end]
 				record = { 'itemurl' : itemurl}
 				valid = fetchItem(itemurl, record) # pull the item
 				if valid:
@@ -495,7 +497,13 @@ def testItem():
 	#fetchItem('http://www.amazon.com/Mechanics-Dover-Books-Physics-Hartog/dp/0486607542/ref=sr_1_12?s=books&ie=UTF8&qid=1432356061&sr=1-12&keywords=mathematics+books+paperback', record)
 	#fetchItem('http://www.amazon.com/Theoretical-Physics-Dover-Books/dp/0486652270/ref=sr_1_8?s=books&ie=UTF8&qid=1432356061&sr=1-8&keywords=mathematics+books+paperback', record)
 	#fetchItem('http://www.amazon.com/Geometry-Relativity-Fourth-Dimension-Mathematics/dp/0486234002/ref=sr_1_3?s=books&ie=UTF8&qid=1432356061&sr=1-3&keywords=mathematics+books+paperback', record)
-	fetchItem('http://www.amazon.com/Electrodynamics-Classical-Theory-Particles-Physics/dp/0486640388/ref=sr_1_115?s=books&ie=UTF8&qid=1432362674&sr=1-115&keywords=mathematics+books+paperback', record)
+	itemurl='http://www.amazon.com/Electrodynamics-Classical-Theory-Particles-Physics/dp/0486640388'
+	fetchItem(itemurl, record)
+	h = hashlib.md5()
+	h.update(itemurl)
+	print h.hexdigest()
+	with open(h.hexdigest() + '.json', 'w') as f:
+		json.dump(record, f)
 	print(record)
 
 def test():
