@@ -1,1 +1,57 @@
-{"Category": "in Books (", "Name": ["Techniques and Applications of Path Integration (Dover Books on Physics)"], "Timestamp": "2015-05-23 13:22:37.064859", "itemurl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/dp/0486445283/ref=sr_1_281?s=books&ie=UTF8&qid=1432393612&sr=1-281&keywords=physics+books+paperback", "Reviews": {"TotalReviewCount": "3", "ReviewList": [{"Date": "on December 13, 2006", "Text": null, "Helpfulness": 0.92, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #1,382,253", "Helpfulness": "87%", "Name": "Daverz", "Location": ""}}, {"Date": "on May 28, 2012", "Text": null, "Helpfulness": 1.0, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "#21,065", "Helpfulness": "88%", "Name": "ScienceThinker", "Location": "USA"}}, {"Date": "on January 10, 2007", "Text": null, "Helpfulness": 0.3333333333333333, "StarRating": "5", "Author": {"ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X7S5N5UR43IM/ref=cm_cr_pr_pdp?ie=UTF8", "Ranking": "Reviewer ranking: #26,995,096", "Helpfulness": "36%", "Name": "Chi Tsung Chen", "Location": "Kaohsiung Taiwan"}}], "ReviewUrl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/product-reviews/0486445283/ref=sr_1_281?s=books&ie=UTF8&qid=1432393612&sr=1-281&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful", "AverageStarRating": "5.0 out of 5 stars"}, "OfferPrice": "$19.20", "Salesrank": "#413,744", "ListPrice": "$22.95"}
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Techniques and Applications of Path Integration (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$19.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "Helpfulness": "87%",
+                    "Location": "",
+                    "Name": "Daverz",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #1,382,253"
+                },
+                "Date": "on December 13, 2006",
+                "Helpfulness": 0.92,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "88%",
+                    "Location": "USA",
+                    "Name": "ScienceThinker",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "#21,065"
+                },
+                "Date": "on May 28, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "Helpfulness": "36%",
+                    "Location": "Kaohsiung Taiwan",
+                    "Name": "Chi Tsung Chen",
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X7S5N5UR43IM/ref=cm_cr_pr_pdp?ie=UTF8",
+                    "Ranking": "Reviewer ranking: #26,995,096"
+                },
+                "Date": "on January 10, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/product-reviews/0486445283/ref=sr_1_281?s=books&ie=UTF8&qid=1432393612&sr=1-281&keywords=physics+books+paperback/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#413,744",
+    "Timestamp": "2015-05-23 13:22:37.064859",
+    "itemurl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/dp/0486445283/ref=sr_1_281?s=books&ie=UTF8&qid=1432393612&sr=1-281&keywords=physics+books+paperback"
+}
