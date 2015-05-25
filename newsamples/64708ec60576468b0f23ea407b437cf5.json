@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Problems in Quantum Mechanics: Third Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.41",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31G6R6ZDTPY6B"
+                },
+                "Date": "on April 25, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I can't say enough about how much I like this book! But nevertheless it's just a problem book. But it contains great problems, very typical and interesting, with full solutions. Althouh you can find many problem books on the subject, but this one written by the Russians is by far the best that I studied from. Excellent Companion to Griffiths' or Shankar's introductory QM. Great preparatory book for advanced quantum mechanics. However, I am not sure if D.ter Haar is the main author or translator. The original author may be Kogan and Galitskiy. But I am not sure."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Quantum-Mechanics-Third-Physics/product-reviews/0486780805/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#179,268",
+    "Timestamp": "2015-05-24 12:48:43.824654",
+    "itemurl": "http://www.amazon.com/Problems-Quantum-Mechanics-Third-Physics/dp/0486780805"
+}

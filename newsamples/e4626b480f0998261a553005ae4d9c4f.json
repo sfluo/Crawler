@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Lasers in Chemistry"
+    ],
+    "OfferPrice": "$53.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 11, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Andrews' Lasers in Chemistry is the best book that I have seen of its type.  With its clearly written text and organized structure it serves as an excellent reference and text for chemists who use lasers in their research.  Whether you have questions about a laser system or a spectroscopy method, it is a great stepping stone and will help greatly in finding and understanding more specialized texts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lasers-Chemistry-David-L-Andrews/product-reviews/0387517774/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,772,958",
+    "Timestamp": "2015-05-24 15:27:59.174014",
+    "itemurl": "http://www.amazon.com/Lasers-Chemistry-David-L-Andrews/dp/0387517774"
+}

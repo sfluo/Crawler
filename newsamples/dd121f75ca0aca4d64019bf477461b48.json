@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.00",
+    "Name": [
+        "Philosophical Problems of Quantum Physics"
+    ],
+    "OfferPrice": "$17.22",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35YWA2V4QHOJ3"
+                },
+                "Date": "on March 16, 2000",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A258HDMERSI6WJ"
+                },
+                "Date": "on July 17, 2003",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GP8M6F6D82VB"
+                },
+                "Date": "on September 11, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HE2MSCBTX2V0"
+                },
+                "Date": "on August 24, 2008",
+                "Helpfulness": 0.09090909090909091,
+                "StarRating": "2",
+                "Text": "There are many books on quantum physics and the men who discovered it.  The best I have read were by Brian Greene.  While this book was not a difficult read, I didn't find it of any particular interest.  This, in spite of the fact that I am deeply inspired by what quantum mechanics may say about our existance."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Philosophical-Problems-Quantum-Physics-Heisenberg/product-reviews/0918024153/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,041,642",
+    "Timestamp": "2015-05-24 13:49:08.514477",
+    "itemurl": "http://www.amazon.com/Philosophical-Problems-Quantum-Physics-Heisenberg/dp/0918024153"
+}

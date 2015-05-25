@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physical Ceramics: Principles for Ceramic Science and Engineering"
+    ],
+    "OfferPrice": "$151.20",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MX5S134L0KT9"
+                },
+                "Date": "on January 15, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Should be on any ceramic engineer or scientist's bookshelf.  This book is classic in it's presentation of physical properties of ceramics.  Together with Kingery & Reed, Chiang's book makes a powerful trio in any ceramic engineers resource collection."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physical-Ceramics-Principles-Ceramic-Engineering/product-reviews/0471598739/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#693,559",
+    "Timestamp": "2015-05-24 15:28:29.538705",
+    "itemurl": "http://www.amazon.com/Physical-Ceramics-Principles-Ceramic-Engineering/dp/0471598739"
+}

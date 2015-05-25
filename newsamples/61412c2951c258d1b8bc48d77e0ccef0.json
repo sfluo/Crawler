@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Dialogues Concerning Two New Sciences (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.99",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10T0OW97SFBB"
+                },
+                "Date": "on October 22, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11D33D2JIAELH"
+                },
+                "Date": "on September 6, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADS7IF434D3VW"
+                },
+                "Date": "on March 25, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB399AECXCDT8"
+                },
+                "Date": "on April 22, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dialogues Concerning Two New Sciences contains information, in the form of a dialog, about the results of Galileo's experiments in materials science and the physics of motion. There are a a few great thought experiments within like the poof that two objects of different masses fall at the same velocity for example. I found the book hard going at times as Galileo relies mostly on  written explanations of the concepts rather than mathematical equations. Galileo makes frequent use of geometry to prove his points so some knowledge of geometry is desirable as a prerequisite for reading this book. Although the book was written a long time ago I learned some things from it, including why small particles of sand will suspend in water. This is because when objects are small the ratio of surface area to volume is greater and particles of water \"catch\" on the indentations of the surface of the grain of sand thus retarding it's progress deeper into the water. This is a great book and still worth reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M9HGZW65RMXM"
+                },
+                "Date": "on December 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ILNFC79URK75"
+                },
+                "Date": "on December 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YMJ0QYQJKKOA"
+                },
+                "Date": "on June 1, 2005",
+                "Helpfulness": 0.7058823529411765,
+                "StarRating": "2",
+                "Text": "The publishers and Stephen Hawking evidently think they are reprinting Galileo's famous book supporting the Copernican viewpoint, \"Dialogue Concerning the Two Chief World Systems\".  Instead, they've given us \"Dialogues Concerning Two New Sciences\", a magnificent book (I use it as a text in my Galileo and Einstein course, see my website) BUT this book has nothing to say about planets or Copernicus -- the furthest object from earth in this book is a cannonball in flight!  It's a five star book, but not if you want to find out what Galileo thought of Copernicus..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24EYI34149AW3"
+                },
+                "Date": "on March 24, 2000",
+                "Helpfulness": 0.15789473684210525,
+                "StarRating": "5",
+                "Text": "Galileo's masterpiece comes through to all who are blessed enough to read it.  Copernicus would be proud."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 3, 2003",
+                "Helpfulness": 0.04,
+                "StarRating": "3",
+                "Text": "instead of dialogue only. I have not read entire book, but the preview of the book was boring. I like the picture description better than word description. I realized Galileo could not draw his theories directly, instead he let us imagine it by reading his words, because the church would have given him ultimate punishment if he did."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dialogues-Concerning-Sciences-Dover-Physics/product-reviews/0486600998/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#1,959,103",
+    "Timestamp": "2015-05-24 13:50:21.813806",
+    "itemurl": "http://www.amazon.com/Dialogues-Concerning-Sciences-Dover-Physics/dp/0486600998"
+}

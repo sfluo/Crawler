@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$83.00",
+    "Name": [
+        "Dictionary of Microscopy"
+    ],
+    "OfferPrice": "$66.59",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21CNKGSSOEA2X"
+                },
+                "Date": "on April 10, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I became fond of microscopes when I was a child and played  with the microscope that my Dad used in medical school. In my first job, I worked for a company that sold laboratory equipment including three brands of American- and German/ Swiss- made microscopes. To my good fortune, I joined an American dealer that sold optical instruments manufactured in Germany and Switzerland. My interest in microscopes continues today, and the Dictionary of Microscopy available from Amazon keeps me informed of optical instrumentation I missed  before retirement. All the terms used in the disciplines where microscopes are used are in the Dictionary."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RBXED2VI6XLJ"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great images and descriptions. A wealth of knowledge. Happy I decided to purchase for microscopy studies. Helps when reading about various topics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIJJB9BD4OO9Q"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A great reference book for those in the world of microscopy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dictionary-Microscopy-Julian-P-Heath/product-reviews/0470011998/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#3,257,055",
+    "Timestamp": "2015-05-24 15:50:36.138966",
+    "itemurl": "http://www.amazon.com/Dictionary-Microscopy-Julian-P-Heath/dp/0470011998"
+}

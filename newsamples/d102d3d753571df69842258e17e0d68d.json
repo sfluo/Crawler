@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$61.00",
+    "Name": [
+        "Quantum Electrodynamics (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$54.90",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on February 12, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book collects a set of lectures by Feynman on quantum electrodynamics and a few reprints of his papers on the subject.Nowadays it would be a (hard) graduate course. At its time it was written for Feynman's peers. At that time the method developped by him, though he had total control of it, was not complete as far as derivations are concerned. However, each topic was solidly grounded on the basis of specific arguments. This is how things are done. Usually you have a hundred incomplete arguments which, put together, are, so to speak, stronger than a formal demonstration. And, what arguments! What insight this (then) young guy had already!This book is for pleasure! You probably should read it together with some modern text, like Veltman's \"Diagrammatica\", to get the modern perspective and also to see how little, after all, was changed. A companion book, called \"Theory of Fundamental Processes\" is also a sterling lecture, for the same reasons. Perhaps even more so."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A108HV6T3PQVEC"
+                },
+                "Date": "on April 25, 2001",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": "I think this is a good supplemental book. it's like his course on physics; you cant learn from it alone; but with a canonical text it adds wonderful insight on a subject. His theory of fundamental processes is out of date (way before tau neutrinos, and there are mistakes in parts); so i would avoid that one. this one I find to be about the level of sophistication of his lectures on gravitation, but explaining field theory. Feynman naturally has a slightly more functional approach than other books of this era. I think it's a good book to keep next to something like peskin and schroeder in ones personal library"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 5, 1999",
+                "Helpfulness": 0.7,
+                "StarRating": "4",
+                "Text": "People reading this book must be safely assumed to be physics oriented guys esp the ones in particle physics. The book is a good introduction for an amateur who is not necessarily a good mathematician cuz this book has  surprisingly NO glamorous formulae associated with QED.It doesn't give you  in-depth scrutiny of the high-energy world yet it gives you enough to keep  you interested all the way. The title can be mis-leading cuz it doesn't  really cover extensive knowledge about the field, should've been  introductory QED or something on those lines. Anyways should be fun to read  iff you want to know the nuances of matter !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OPJTR4D6GLCC"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Feynman teaches his own diagram approaches to QED. Just think about it! And compare to the 3 vol. of Schwinger's text..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30HNU3626S0JR"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "theoretical"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M4PQPBV45U71"
+                },
+                "Date": "on May 23, 2000",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "5",
+                "Text": "I only had the opportunity to browse around this book. However, I imediately realized that this one was worth reading calmly. Once more Fayman explains this generally abstract subject with his grace and  knowledge, making it easier to digest the material. If you have read any of  Fayman's book, you know his ways of explaining things are just superb. So,  without further explanations, this book it is worth every penny, it worked  for me, a Physics student, and it will work for anyone who's interested in  this matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VA8OV8BR5V9N"
+                },
+                "Date": "on August 24, 2000",
+                "Helpfulness": 0.16,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Electrodynamics-Advanced-Books-Classics/product-reviews/0201360756/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#548,800",
+    "Timestamp": "2015-05-24 13:20:34.901851",
+    "itemurl": "http://www.amazon.com/Quantum-Electrodynamics-Advanced-Books-Classics/dp/0201360756"
+}

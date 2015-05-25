@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$95.95",
+    "Name": [
+        "Crystal Structure Analysis: A Primer (Iucr Texts on Crystallography)"
+    ],
+    "OfferPrice": "$88.88",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21LPICTWFKBMC"
+                },
+                "Date": "on December 13, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystal-Structure-Analysis-Primer-Crystallography/product-reviews/0199576351/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,400,650",
+    "Timestamp": "2015-05-24 15:29:32.495168",
+    "itemurl": "http://www.amazon.com/Crystal-Structure-Analysis-Primer-Crystallography/dp/0199576351"
+}

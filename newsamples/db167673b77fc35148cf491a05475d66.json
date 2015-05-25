@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$50.40",
+    "Name": [
+        "Student Study Guide & Selected Solutions Manual for Physics: Principles with Applications Volume 1"
+    ],
+    "OfferPrice": "$40.00",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LEIFKCZ6RDG4"
+                },
+                "Date": "on February 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This is different from other student solutions manuals in that it only provides solutions to a few problems from the textbook.  However, I've still found this manual useful as the solutions are detailed and it serves as a good summary of each chapter.  The explanations of each equation are especially handy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34RS7U3UXURIW"
+                },
+                "Date": "on September 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "wow! the book is brand new!!! I am more than happy with my purchase. gives step by step how to do each problem."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW7LWBGU3I46I"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Not enough solutions to make it worth the money"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARU1NNC0G0QNI"
+                },
+                "Date": "on September 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Useful book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Selected-Solutions-Manual-Physics/product-reviews/0321762401/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#129,670",
+    "Timestamp": "2015-05-24 12:49:33.871883",
+    "itemurl": "http://www.amazon.com/Student-Selected-Solutions-Manual-Physics/dp/0321762401"
+}

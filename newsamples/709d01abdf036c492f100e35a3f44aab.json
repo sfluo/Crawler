@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$184.95",
+    "Name": [
+        "Programming for Chemical Engineers Using C, C++, and MATLAB"
+    ],
+    "OfferPrice": "$160.83",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36WBZ2URNWNIZ"
+                },
+                "Date": "on April 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book were a discovery for me I always figure on my mind a book covering programming just not only in matlab, but using other languages as C++ and C, and Dr. Kapuno did it for all of chemical engineers interested in programming.I highly recommend it for your corse of if you work in engineering and every day need to implement routines out of commercial software"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on June 20, 2008",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Programming-Chemical-Engineers-Using-MATLAB/product-reviews/1934015091/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,963,918",
+    "Timestamp": "2015-05-24 15:36:19.194271",
+    "itemurl": "http://www.amazon.com/Programming-Chemical-Engineers-Using-MATLAB/dp/1934015091"
+}

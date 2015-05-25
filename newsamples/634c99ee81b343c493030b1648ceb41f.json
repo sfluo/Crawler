@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$54.95",
+    "Name": [
+        "An Introduction to the Philosophy of Physics: Locality, Fields, Energy, and Mass"
+    ],
+    "OfferPrice": "$43.14",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NF735JALJURE"
+                },
+                "Date": "on February 12, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In college, foundational questions in physics are often swept under the rug, typically by rushed professors who neither have the time nor the inclination to answer questions like:  'What, exactly, is an electric field?'  'Is a Poynting vector a real thing or merely a mathematical construct that aids our ability to visualize or make calculations?'  'How do we make sense of quantum non-locality?'  Having been shut down in class on several occasions, most students just turn in their problem sets and learn what's necessary to do well on exams.  Well, these questions still remain, and this book does a fantastic job in both identifying and addressing at an introductory level how they may be ultimately resolved.  The mass-energy equivalence and the specious conclusions even physicists derive from it was an eye-opener, to say the least.  Physics professors should put this book on their suggested reading lists to address the questions of the more inquisitive.  I wholeheartedly recommend this book for people just starting out in the philosophy of physics, and even for physics majors who, during a summer soul-searching session, desire to think about things on a deeper level."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APAZFYQP48TV4"
+                },
+                "Date": "on February 9, 2004",
+                "Helpfulness": 0.9767441860465116,
+                "StarRating": "5",
+                "Text": "This is just an excellent book. With questions that all early physics students ask and are usually shunned for asking them. Is the electric field a real entity? What is the difference between a real quantity and a math tool that gives us the right answer. Spactiotemperal locality is covered very well, the mix of physics and philosophy is superb. The last chapter on quantum mechanics could be expanded and perhaps the author can do a seperate book on that topic.  This book is a must for all students of physics and philosophy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JSSB8UOJLP20"
+                },
+                "Date": "on May 4, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23HBDA7NES0FF"
+                },
+                "Date": "on December 28, 2012",
+                "Helpfulness": 0.6875,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31W7FJU1W1MQQ"
+                },
+                "Date": "on November 20, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A book of importance for physicists who generally do not wander into the field of philosophical thinking of the issues. This book, hopefully will provide the readers of physics the important notion that the \"totality\" of physics encompasses the \"touchable\" as well as the \"untou"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Philosophy-Physics-Locality-Fields/product-reviews/0631225013/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#977,540",
+    "Timestamp": "2015-05-24 13:50:28.147836",
+    "itemurl": "http://www.amazon.com/Introduction-Philosophy-Physics-Locality-Fields/dp/0631225013"
+}

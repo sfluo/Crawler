@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$10.95",
+    "Name": [
+        "Equilibrium Statistical Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$9.86",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 14, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on September 13, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on September 5, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HVMXIE0RL27E"
+                },
+                "Date": "on September 20, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I buy this book for the graduate class. this book is cheap enough, and the quality is also very good. My professor recommend this book to us."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Equilibrium-Statistical-Mechanics-Dover-Physics/product-reviews/0486411850/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,169,502",
+    "Timestamp": "2015-05-24 12:45:54.645299",
+    "itemurl": "http://www.amazon.com/Equilibrium-Statistical-Mechanics-Dover-Physics/dp/0486411850"
+}

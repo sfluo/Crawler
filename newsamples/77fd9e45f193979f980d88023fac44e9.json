@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Mechanics"
+    ],
+    "OfferPrice": "$89.95",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 4, 1999",
+                "Helpfulness": 0.8125,
+                "StarRating": "4",
+                "Text": "Schwabl's Quantum Mechanics is a superb supplement to any course on quantum mechanics.  After struggling through Griffith's obfuscated discussion of addition of angular momenta, Schwabl's exposition was my  savior.  I would not, however, try to learn QM solely from Schwabl (i.e.  self-study) because he frequently skips derivations and says things like  \"it is immediately apparant that...,\" which can be frustrating.  However, as a text for a course or as a supplementary resource, Schwabl is  extrememly valuable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RAPN32YBFIAW"
+                },
+                "Date": "on June 3, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This is the required textbook when I took QM course. It is a nice book. It covers almost everything that a undergraduate or graduate student need to know. But some parts of this book seem too abstract and hard to understand. It needs more worked example to help one understand it. You need another book if you want to use Schwabl to self-study QM. I consider Schwabl as a good reference book if you need to find something."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 28, 1998",
+                "Helpfulness": 0.6153846153846154,
+                "StarRating": "2",
+                "Text": "While this book certainly covers a lot of ground, it is painfully lacking in derivations or examples.  I beleive it would be a reasonable book to use (as a reference) for someone who has already mastered quantum mechanics,  but it is almost impossible to learn out of.  Also, if you want a very  terse, yet comprehensive reference, why bother with something other than  Landau?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DUM03K1KLBZ1"
+                },
+                "Date": "on February 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I bought this one when I was doing my MS degree. It was in a really good condition when I was buying this."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Franz-Schwabl/product-reviews/3642091075/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#871,935",
+    "Timestamp": "2015-05-24 15:39:27.319903",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Franz-Schwabl/dp/3642091075"
+}

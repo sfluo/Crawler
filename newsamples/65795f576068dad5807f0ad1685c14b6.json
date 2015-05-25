@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Operator Methods in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.68",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NZY142MWAO93"
+                },
+                "Date": "on February 16, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFOVUOGVQLNK"
+                },
+                "Date": "on April 22, 2003",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Operator-Methods-Quantum-Mechanics-Physics/product-reviews/0486425479/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#153,396",
+    "Timestamp": "2015-05-24 12:51:57.455202",
+    "itemurl": "http://www.amazon.com/Operator-Methods-Quantum-Mechanics-Physics/dp/0486425479"
+}

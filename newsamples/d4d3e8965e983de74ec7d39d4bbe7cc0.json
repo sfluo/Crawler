@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.00",
+    "Name": [
+        "In Search of Schr\u00f6dinger's Cat: Quantum Physics and Reality"
+    ],
+    "OfferPrice": "$14.97",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M0RAJSV8U55V"
+                },
+                "Date": "on July 31, 2004",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35YWA2V4QHOJ3"
+                },
+                "Date": "on February 7, 2000",
+                "Helpfulness": 0.9272727272727272,
+                "StarRating": "5",
+                "Text": "This is a wonderful book that deals with a rather fascinating subject:  quantum mecahnics.  For those who may not be familiar w/QM, it is the physics of the microcosmic world of electrons, photons, protons &  neutrons.  It is where Newtonian causality breaks down, where there appears  a \"totally new ballgame.\"  Gribbin does an excellent job of  writing for the layman, especially considering the recondite nature of the  topic.  However, I would recommend anyone interested in QM to read Alice In  Quantumland by Robert Gilmore first as it is slightly more accessible &  also has the advantage of being \"fun\" to read (it is told as an  allegorized story). Note that I still recommend Gribbin's book, but AFTER  one has read Gilmore's. It may help to make Gribbin's book make a bit more  sense.  All in all, though, this is an enlightening work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU"
+                },
+                "Date": "on October 11, 2007",
+                "Helpfulness": 0.9666666666666667,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOA4X13ZFB1Z5"
+                },
+                "Date": "on August 22, 2001",
+                "Helpfulness": 0.8109756097560976,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2002D8NQ0KE6L"
+                },
+                "Date": "on August 6, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I read this book about six months ago, and can't stop thinking about it.  Gribbin says that \"everybody knows that the greatest discovery of the 20th century was Einstein's Theory of Relativity, and EVERYBODY is wrong.\" And then he proceeds to explain quantum theory.  With bold, simple explanations, he makes clear how quantum mechanics lies at the center of all the sciences.  However, the content, written in the early 80s, is a little bit dated, something Gribbin fixed in his newer book \"Schrodinger's Kittens\".  Great book, though, and filled with excellent quotes by Einstein, Bohr, and others."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CZ8OS5F4UFKE"
+                },
+                "Date": "on December 4, 2002",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FI2UQ98PFNH7"
+                },
+                "Date": "on July 18, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In Search of Schrodinger's Cat is an incredible piece of work. Gribbin  thoroughly explains quantum theory through documenting historical  break-throughs in \"classic\" Newtonian Theory, up until, and well  into, the discoveries of what quantum physics was and is.  As you explore  through scientific discoveries, whether intentional or accidental, Gribbin  has the ability to explain, step-by-step, what individuals in the science  world did to accomplish,what is now, quantum physics.  Each section is  broken down and explained in scientific terms, and then reitterated in  terms so that even a monkey could understand it.  Everyone should read this  book, including monkeys!  And the cat paradox, what a genius thing to come  up with!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M18I3IAYSLK3"
+                },
+                "Date": "on March 20, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A great introduction to the bizarre world of quantum mechanics. The first two sections provide a bit of history and framework preparing the reader to be kicked off the deep end in the remainder of the book. The long bibliography at the end provides an excellent source of further reading material. Read this book before reading Schrodinger's Kittens and the Search for Reality."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QB2WRVKJLGF0"
+                },
+                "Date": "on April 4, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARBRDPF5FZ7D8"
+                },
+                "Date": "on April 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Search-Schr%C3%B6dingers-Cat-Quantum-Physics/product-reviews/0553342533/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "102"
+    },
+    "Salesrank": "#97,202",
+    "Timestamp": "2015-05-24 13:19:48.224286",
+    "itemurl": "http://www.amazon.com/Search-Schr%C3%B6dingers-Cat-Quantum-Physics/dp/0553342533"
+}

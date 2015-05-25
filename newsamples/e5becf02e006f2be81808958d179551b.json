@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "An Atlas of Fullerenes (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$19.44",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 15, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "P. W. Fowler and D. E. Manolopoulos: AN ATLAS OF FULLERENES; Clarendon Press, Oxford 1995.  This book is based on the spiral generation and enumeration algorithm which practically solves the topological problem of fullerene isomerism. Manolopoulos and Fowler developed the algorithm (1992)  and also demonstrated its limitations (1993). In particular, they reported a tetrahedral fullerene C380 which is without a spiral (and thus, the species cannot be discovered by the algorithm). For present practical purposes, however, the treatment is certainly a reliable enumeration tool. In fact this treatment is one of the most important contributions of chemical theory to fullerene science.  Primarily, the book is a catalogue of fullerenes. It presents all pentagon/hexagon based isomers for C20 - C50 and all isolated-pentagon (IPR) isomers for C60 - C100. This limitation is dictated by a rapid increase of the number of the fullerene isomers with the carbon content n (this number is roughly proportional to n**9). For C100 the number of all isomers equals 285913 (or 570602, if enantiomers are regarded as distinct). Each isomer is presented graphically together with important select characteristics (topological symmetry, NMR pattern, symmetry-conditioned vibrational activities, HMO HOMO-LUMO gaps, etc.). Generally, it has been known that in reality the symmetry of some species can be reduced either by Jahn-Teller distortion or by general energy reasons; this aspect can be handled only  beyond the HMO model. Nevertheless, the topologically generated structures represent a useful input for any more sophisticated quantum-chemical computation. In addition to its function as a catalogue, the book also systematically discusses various conceptual topics.  This excellent monograph is of interest to any fullerenist, but it will serve especially as a reference tool to anyone involved with higher fullerenes (after all, the book supplies their versatile nomenclature).  [Zdenek Slanina]"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 15, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "P. W. Fowler and D. E. Manolopoulos: AN ATLAS OF FULLERENES; Clarendon Press, Oxford 1995.  This book is based on the spiral generation and enumeration algorithm which practically solves the topological problem of fullerene isomerism. Manolopoulos and Fowler developed the algorithm (1992)  and also demonstrated its limitations (1993). In particular, they reported a tetrahedral fullerene C380 which is without a spiral (and thus, the species cannot be discovered by the algorithm). For present practical purposes, however, the treatment is certainly a reliable enumeration tool. In fact this treatment is one of the most important contributions of chemical theory to fullerene science.  Primarily, the book is a catalogue of fullerenes. It presents all pentagon/hexagon based isomers for C20 - C50 and all isolated-pentagon (IPR) isomers for C60 - C100. This limitation is dictated by a rapid increase of the number of the fullerene isomers with the carbon content n (this number is roughly proportional to n**9). For C100 the number of all isomers equals 285913 (or 570602, if enantiomers are regarded as distinct). Each isomer is presented graphically together with important select characteristics (topological symmetry, NMR pattern, symmetry-conditioned vibrational activities, HMO HOMO-LUMO gaps, etc.). Generally, it has been known that in reality the symmetry of some species can be reduced either by Jahn-Teller distortion or by general energy reasons; this aspect can be handled only  beyond the HMO model. Nevertheless, the topologically generated structures represent a useful input for any more sophisticated quantum-chemical computation. In addition to its function as a catalogue, the book also systematically discusses various conceptual topics.  This excellent monograph is of interest to any fullerenist, but it will serve especially as a reference tool to anyone involved with higher fullerenes (after all, the book supplies their versatile nomenclature).  [Zdenek Slanina]"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atlas-Fullerenes-Dover-Books-Chemistry/product-reviews/0486453626/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,211,228",
+    "Timestamp": "2015-05-24 15:14:00.420847",
+    "itemurl": "http://www.amazon.com/Atlas-Fullerenes-Dover-Books-Chemistry/dp/0486453626"
+}

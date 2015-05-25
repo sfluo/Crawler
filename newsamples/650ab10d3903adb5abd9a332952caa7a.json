@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$70.00",
+    "Name": [
+        "Atomic Physics"
+    ],
+    "OfferPrice": "$52.68",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on May 25, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HKBD770DM98G"
+                },
+                "Date": "on June 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very useful reference text for advanced undergraduate or higher atomic physics. It moves rather quickly and assumes prior knowledge of quantum mechanics, but provides a lot of good information on modern experimental techniques."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atomic-Physics-Christopher-J-Foot/product-reviews/0198506961/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#231,084",
+    "Timestamp": "2015-05-24 13:11:09.833617",
+    "itemurl": "http://www.amazon.com/Atomic-Physics-Christopher-J-Foot/dp/0198506961"
+}

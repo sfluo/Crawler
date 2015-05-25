@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$57.95",
+    "Name": [
+        "Molecular Modeling Basics"
+    ],
+    "OfferPrice": "$55.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on May 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22PTLPC4BLAA"
+                },
+                "Date": "on May 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent for beginners. However I would recommend some prior knowledge of quantum, perhaps undergraduate physics or chemistry, but otherwise excellent!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Modeling-Basics-Jan-Jensen/product-reviews/1420075268/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,239,402",
+    "Timestamp": "2015-05-24 15:30:29.261458",
+    "itemurl": "http://www.amazon.com/Molecular-Modeling-Basics-Jan-Jensen/dp/1420075268"
+}

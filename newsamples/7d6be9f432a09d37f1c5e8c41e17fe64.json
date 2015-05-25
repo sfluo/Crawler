@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Chemistry of Marine Water and Sediments (Environmental Science and Engineering / Environmental Science)"
+    ],
+    "OfferPrice": "$359.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 2, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A collection of lectures by professors attending a conference in Ustica Italy in 2000, this book covers a broad range of subjects including many that are often overlooked.  We use this as a supplement to our textbook (Libes) in Marine Biogeochemistry/Chemical Oceanography.  The chapters on aerosols, photochemical processes and a collection of chapters on toxicants (endrocrine-disrupting, organic and organometallic compounds) round out holes in the Libes book.  Additionally, the other chapters present an up-to-date view of marine chemistry and organic matter cycling.  This is not a true replacement for a more traditional textbook, but it is a great readings supplement."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemistry-Sediments-Environmental-Science-Engineering/product-reviews/3642075592/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#6,429,016",
+    "Timestamp": "2015-05-24 15:18:11.969947",
+    "itemurl": "http://www.amazon.com/Chemistry-Sediments-Environmental-Science-Engineering/dp/3642075592"
+}

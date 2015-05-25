@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "The Physics of Sailing Explained"
+    ],
+    "OfferPrice": "$16.52",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O83HJ6VOSXX1"
+                },
+                "Date": "on August 15, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH4CQ4BZSVJRR"
+                },
+                "Date": "on January 19, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "The book doesn't go into alot of detail, but for the novice sailor it's more than sufficient for a good starting point."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LRYZFI4U9QDS"
+                },
+                "Date": "on March 9, 2006",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6WKXZUC2ONP7"
+                },
+                "Date": "on November 26, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A124ORM08ZR9QT"
+                },
+                "Date": "on February 25, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QJL64YJUWG77"
+                },
+                "Date": "on May 21, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have raced sailboats and now teach a course on game math and dynamics.  The Physics of Sailing Explained has been an extremely good source of material on the dynamics of sailboats.  The sections on the keel as a symmetic wing and airflow for two-sail combinations (sloops) are especially good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7M4292RHNXZR"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19TCW119F3C61"
+                },
+                "Date": "on January 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z0788FQY945B"
+                },
+                "Date": "on April 9, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I had read a borrowed copy years ago and finally decided this was a book I needed to have in my personal library as I refer to it all the time in sailing discussion. Amazon and their merchant came through in a big way for me. This book explains a lot about why things work as they do and helps you become a better sailor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19BS7284RJ4HX"
+                },
+                "Date": "on October 25, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C1HUPKX3MXW9"
+                },
+                "Date": "on May 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Oversimplified and not always as accurate as I would like."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Sailing-Explained-Bryon-Anderson/product-reviews/1574091700/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#328,835",
+    "Timestamp": "2015-05-24 13:11:17.321106",
+    "itemurl": "http://www.amazon.com/Physics-Sailing-Explained-Bryon-Anderson/dp/1574091700"
+}

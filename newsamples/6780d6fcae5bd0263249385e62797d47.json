@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Physics and Music: The Science of Musical Sound (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.63",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31BD4RXCON7QO"
+                },
+                "Date": "on July 16, 2008",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "I've never used this book for a class, but would recommend it as a different, albeit older, treatment of the subject. Perfect in a library of acoustics texts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Music-Science-Musical-Sound/product-reviews/0486779343/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#101,413",
+    "Timestamp": "2015-05-24 12:32:49.691138",
+    "itemurl": "http://www.amazon.com/Physics-Music-Science-Musical-Sound/dp/0486779343"
+}

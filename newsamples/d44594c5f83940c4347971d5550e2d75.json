@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$68.95",
+    "Name": [
+        "Introduction to Physics in Modern Medicine, Second Edition"
+    ],
+    "OfferPrice": "$58.57",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VO5RZ4RQWQ3E"
+                },
+                "Date": "on March 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQGTIDED76V6L"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "While the book covers the basics, if you want more in depth information then look elsewhere. A good starter but read on, read on"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2G7IVDCG1JADD"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Nice and interesting book. Very comprehensive even to beginners in physics. It arrived very quickly. I was able to read ahead for class, before any homework was even assigned."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANCJ1UAW4U205"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Great pictures and good examples but it would be helpful to locate a key for the questions at the end of the chapters.  Some of these questions were tough to figure out and even our professor was struggling."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Physics-Modern-Medicine-Second/product-reviews/1584889438/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#732,013",
+    "Timestamp": "2015-05-24 13:36:53.358133",
+    "itemurl": "http://www.amazon.com/Introduction-Physics-Modern-Medicine-Second/dp/1584889438"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$52.00",
+    "Name": [
+        "Design and Mounting of Prisms and Small Mirrors in Optical Instruments (SPIE Tutorial Texts in Optical Engineering Vol. TT32)"
+    ],
+    "OfferPrice": "$43.42",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASUHCSY85TRDZ"
+                },
+                "Date": "on January 22, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Paul Yoder is an expert in the field of optomechanical system especially in the area of mounting optical components.  I have had the fortunate circumstance of having attended his SPIE short course where he presents the materials covered in this book.  In both his class and his book he presents extremely useful information regarding the various ways one can mount a particular optical component, why one may choose one method and not another, how the mounting method affects the optic.  He describes this in both a conceptual manner and analytically with example problems - usually from real world applications.  Furthermore, he presents this kind of information for a wide range of optical components and scenarios."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mounting-Mirrors-Instruments-Tutorial-Engineering/product-reviews/0819429406/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,402,483",
+    "Timestamp": "2015-05-24 15:46:02.062039",
+    "itemurl": "http://www.amazon.com/Mounting-Mirrors-Instruments-Tutorial-Engineering/dp/0819429406"
+}

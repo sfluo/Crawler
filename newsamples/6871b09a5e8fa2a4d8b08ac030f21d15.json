@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$104.99",
+    "Name": [
+        "Twistor Geometry and Field Theory (Cambridge Monographs on Mathematical Physics)"
+    ],
+    "OfferPrice": "$87.76",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYMF4PWIBXCDH"
+                },
+                "Date": "on July 29, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQK71NYNXEGJZ"
+                },
+                "Date": "on August 6, 2007",
+                "Helpfulness": 0.7,
+                "StarRating": "4",
+                "Text": "I'm another one of the \"total idiots\" physicists. Unfortunately, I wasn't so lucky with the book.  While I find here and there a few pages that I can understand without too much stress, there are other parts that caused me to abort reading - symbol stack overflow. Why do I get the impression that others here may rate this as a five star book simply to express their (probably well deserved) pride to have understood some of it? It's more than just a little difficult to read this book. They call this an introduction?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHGVB4H4SVBGL"
+                },
+                "Date": "on December 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If one is beginning to probe the intricacies of Twistor Theory, after an elementary introduction from Roger Penrose, one should own, read and study this volume."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 9, 2004",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "This is an extremely well written book. Couldn't be more clear. The authors derserve an AMS award for clarity of exposition. They even explain to physicists (read mathematical idiots) what a sheaf cohomolgy is. Hats raised to their efforts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Twistor-Geometry-Cambridge-Monographs-Mathematical/product-reviews/052142268X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,496,707",
+    "Timestamp": "2015-05-24 13:33:43.525694",
+    "itemurl": "http://www.amazon.com/Twistor-Geometry-Cambridge-Monographs-Mathematical/dp/052142268X"
+}

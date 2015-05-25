@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$85.00",
+    "Name": [
+        "Polymorphism in Molecular Crystals (International Union of Crystallography)"
+    ],
+    "OfferPrice": "$81.60",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on December 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The term polymorphism, meaning many forms, is employed in many fields of science but in the context of chemical crystallography it refers to the possibility that one compound can crystallize in two (or more) different arrangements. Hence, each such arrangement of molecules in the solid (a polymorph) represents a different phase of the compound. Bernstein's book provides an excellent overview of the field of polymorphysm as concerned to molecular crystals. The initial part of the book provides historical information and a discussion on the terminology used in this field. This is followed by a discussion of the thermodynamic and kinetic aspects of polymorphism as well as of the experimental methods (spectroscopy, X-ray diffraction, etc.) that are currently employed in the study of this phenomenon. Computational approaches to the study of polymorphism also are discussed and specific references are provided so that the reader can deepen his or her knowledge. The last part of the book is concerned with applications in the fields of pharmaceutical chemistry, dyes and pigments, and high-energy materials. The book is highly recommended to those that are interested in studying the structural and energetic aspects of molecular crystals."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Polymorphism-Molecular-Crystals-International-Crystallography/product-reviews/0199236569/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,560,067",
+    "Timestamp": "2015-05-24 15:40:48.711540",
+    "itemurl": "http://www.amazon.com/Polymorphism-Molecular-Crystals-International-Crystallography/dp/0199236569"
+}

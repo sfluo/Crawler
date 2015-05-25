@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$30.00",
+    "Name": [
+        "The Exergy Method of Thermal Plant Analysis"
+    ],
+    "OfferPrice": "$27.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11G5T59TUW62K"
+                },
+                "Date": "on April 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I Love This Book, I Recommend it. It is an excellent book for advanced studies of exergy method ! !"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exergy-Method-Thermal-Plant-Analysis/product-reviews/1908341890/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#320,341",
+    "Timestamp": "2015-05-24 15:28:46.055631",
+    "itemurl": "http://www.amazon.com/Exergy-Method-Thermal-Plant-Analysis/dp/1908341890"
+}

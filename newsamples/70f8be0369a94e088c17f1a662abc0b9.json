@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$82.95",
+    "Name": [
+        "Nonlinear Solid Mechanics: A Continuum Approach for Engineering"
+    ],
+    "OfferPrice": "$59.11",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SS5S7Y9VXRI4"
+                },
+                "Date": "on April 13, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I think this book tends to fill the bibliographic void left by the Classic and \"currently dificult to get\" works of C. Truesdell's \"The Non-Linear Field Theories of Mechanics\" and D. C. Leigh's  \"Nonlinear Continuum Mechanics; An Introduction to the Continuum  Physics and Mathematical Theory of the Nonlinear Mechanical Behavior of  Materials\". This book is divided mainly in two parts, one part dealing  with the mathematical framework at which the subject is based on, and the  other one deals with the Physical Principles and the Constitutive Theories  of several materials including rubber like materials and biological tissue.  It is true that you will not find a specific definition of Nonlinear  Material Behavior as I was supposed to find it at the begginig of the work.  Instead of that, such a definition must be self-generated into the decided  reader's mind, once he or she begins to read the book's parts regarding to  Hyperelastic and Viscoelastic Materials ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X2V7OM2JQU5O"
+                },
+                "Date": "on October 25, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am a graduate student with the mechanical engineering department at Dalhousie university. This book is one of the best texts I have ever read. Every chapter is well organised and the material is presented in a clear manner that stimulates your interest on the subject of continuum mechanics. I have no doubt that engineers of all disciplines (students & professionals) as well as physists and other scientists will find the book as exciting as I have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALBTJITHRTEXX"
+                },
+                "Date": "on July 15, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is actually very good. It has a great sections about hyperelastic materials (~ 100 pages). Also it explains well tensors operations (2nd order and 4th order tensors)..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LHGHHDQRAZDG"
+                },
+                "Date": "on September 2, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I used this book 4 years ago as an introduction to continuum mech textbook, and I still constantly use it as a reference now. The presentation is clear and well-organized, and the physics is in general well-explained so that it's unlikely to be drowned in the math and forget the theme. I personally like it and will recommend it to any beginner of continuum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JM6E7QXJV55Q"
+                },
+                "Date": "on January 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This text is the best one after I bought several other continuum mechanics texts which made me frustrated again and again. This text is in depth, but very easy to understand. The style the author wrote the text is very clear and classic. You can really feel it is an enjoyment to study the text and make progress smoothly every day."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SKE6ADSDOBMV"
+                },
+                "Date": "on October 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Didactically, the best modern textbook on continuum mechanics that I know. I've been teaching CM from other books, trying to appeal to the fluid mechanics students, but next time I am using this book and supplementing it with my own notes for the fluid related concepts and examples."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E4R4816D2W4"
+                },
+                "Date": "on July 17, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12HZVF4EJ01EK"
+                },
+                "Date": "on May 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18KFO7ZJHM2JU"
+                },
+                "Date": "on January 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "the book describes the fundamental of continuum mechanics in a clear and simple form. good book for engineering students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20WIAOJRJ2T4L"
+                },
+                "Date": "on October 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "It was better to choose a simpler language to teach. The physical meaning of the formulas were not included in the book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SXSZKVZKKEPG"
+                },
+                "Date": "on August 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "The figures in the book look like scanning copies but not initial print, however, the characters are clear, I do not know the reason."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO2RZ3D2MOK02"
+                },
+                "Date": "on January 8, 2007",
+                "Helpfulness": 0.1111111111111111,
+                "StarRating": "2",
+                "Text": "We were required to use this book for ENME670 Continuum Mechanics at the University of Maryland. It was so terrible I had to constantly seek out other resources. I had gotten many books out of our library, almost all of which were more useful than this one (Mase was particularly helpful). Maybe I am being a bit unfair because our professor did not closely follow this book but instead went off of his own notes, but still I cannot think of many textbooks that I liked less than this one throughout my college career. Perhaps this book would have been useful to someone who already knows many of the basics of Continuum Mechanics, but for me it was just horrendous."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GHU3LZSVWCHN"
+                },
+                "Date": "on February 29, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Unfortunately I never got the book, Amazon shipped it twice and it never made it to my office. All I can say about it is: never use Expedited International Shipping. It will get lost and there is no way to track it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nonlinear-Solid-Mechanics-Continuum-Engineering/product-reviews/0471823198/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#298,838",
+    "Timestamp": "2015-05-24 15:20:50.480446",
+    "itemurl": "http://www.amazon.com/Nonlinear-Solid-Mechanics-Continuum-Engineering/dp/0471823198"
+}

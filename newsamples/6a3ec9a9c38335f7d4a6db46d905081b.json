@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Conceptual Physics (Laboratory Manual)"
+    ],
+    "OfferPrice": "$19.75",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8HSW8EVWVO5N"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I love this text and author. Delivery was prompt, condition was excellent. Would recommend it for anyone who wants to understand the concepts of physics without being overwhelmed by the math. Equations and math included - but the explanations are so good. The labs also use lots of simple \"equipment\" so don't have to have a huge budget for lab to participate."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATYX7SX36FBFM"
+                },
+                "Date": "on July 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "LIKE NEW"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Conceptual-Physics-Laboratory-Manual-Robinson/product-reviews/0130542571/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#683,870",
+    "Timestamp": "2015-05-24 13:41:05.237213",
+    "itemurl": "http://www.amazon.com/Conceptual-Physics-Laboratory-Manual-Robinson/dp/0130542571"
+}

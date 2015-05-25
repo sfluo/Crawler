@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Mechanics. Lectures on Theoretical Physics Volume 1"
+    ],
+    "OfferPrice": "$72.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EGXH1EW0R9D8"
+                },
+                "Date": "on January 20, 2000",
+                "Helpfulness": 0.8928571428571429,
+                "StarRating": "5",
+                "Text": "This book, written near the beginning of the century by one of Physic's true giants, Arnold Sommerfeld, does what most of the newer books involving fancy graphics and glossy paper don't: it explains Physics. You can really  feel the physics flowing from this book, the same as with Dirac's book on  Quantum Mechanics or General Relativity. A truely unique learning  experience."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mechanics-Lectures-Theoretical-Physics-1/product-reviews/0126546703/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#604,686",
+    "Timestamp": "2015-05-24 13:37:35.880118",
+    "itemurl": "http://www.amazon.com/Mechanics-Lectures-Theoretical-Physics-1/dp/0126546703"
+}

@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.95",
+    "Name": [
+        "Quantum Mechanics: Fundamentals (Graduate Texts in Contemporary Physics)"
+    ],
+    "OfferPrice": "$48.27",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UBLLMYTZ1WUP"
+                },
+                "Date": "on April 22, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FP96VN8H1AQZ"
+                },
+                "Date": "on September 11, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the most complete book on the fundamentals of the quantum mechanics, it's focused on the theoretical foundations and too on the principal experimental facts behind the theory, but it's a graduate level, demanding some background on the wave mechanics often viewed at undergraduate courses on quantum mechanics...the beginning formal mathematical framework can be complemented by Sakurai's Modern Quantum Mechanics but the main theory there is no other book with the same level of insight and ingenuity. Highly recommended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Q3X96QI44PMV"
+                },
+                "Date": "on May 2, 2005",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on April 12, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OZS9TGTY3Y5L"
+                },
+                "Date": "on March 23, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 3, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": "Quantum mechanics taught from the point of view that mathematics leads and concepts follow.  This is great if you already know the concepts or are very gifted at math, but it is not for the average student unless supplemented.  (Consider Shankar.)  A lot of ground is covered rapidly in this book, so it might be a very good reference for an experienced researcher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TFQ9YIHT3UHG"
+                },
+                "Date": "on October 5, 2010",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": "So we where incouraged to buy this book for an advanced graduate level course in QM. I wouldn't recommend it though. I feel it is a hard book and that the explanations are often very unclear. All toghether however it does cover a lot of material which you may not find on analogous books. It was apparently chosen for this course because from a survey it came out as the best graduate level book to learn QM. I don't know, I'm glad I actually knew quite a bit of QM before starting to use this book otherwise it would have been a disaster."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHD0CUXA99230"
+                },
+                "Date": "on June 29, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Fundamentals-Graduate-Contemporary/product-reviews/0387220232/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#84,303",
+    "Timestamp": "2015-05-24 13:16:47.190199",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Fundamentals-Graduate-Contemporary/dp/0387220232"
+}

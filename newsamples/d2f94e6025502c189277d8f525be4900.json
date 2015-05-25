@@ -1,0 +1,990 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Feynman Lectures on Physics (3 Volume Set) (Set v)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RTKL9KB8KLID"
+                },
+                "Date": "on April 1, 2001",
+                "Helpfulness": 0.9568627450980393,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOKQZVWCLONRH"
+                },
+                "Date": "on April 23, 2005",
+                "Helpfulness": 0.9562043795620438,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on May 8, 2000",
+                "Helpfulness": 0.9764705882352941,
+                "StarRating": "5",
+                "Text": "I hold the opinion that Richard Feynman was the best physics teacher of all times. I keep his three red volumes always at the main position of my bookshelves, aside Dirac's \"Principles of Quantum Mechanics\" and  the Landau-Lifshitz collection. What is it that puts them in a class apart  from every other introductory text? A Nobel-prize winner, Giaever, I think,  said that he seldom had to reach for other book of physics than Feynman's.  On the other hand, the very respected mathematician Gian Carlo Rota gave it  a bad review, orienting students to go instead to Halliday-Resnick for  help. Perhaps these opposite opinions give us a clue: Feynman's  \"Lectures\" are the sole book to present basic physics as a living  subject, as real physics, that thing that researchers slowly build in their  day-to-day toil.For the author, as always, strived to rebuild everything  almost from scratch, sometimes with great originality. This explains why we  never grow tired of it. It explains too why it \"lacks\" the  organization of a text designed solely by pedagogical purposes. It's an  asset, rather than a liability. If you are a beginner, use both (Feynman  and Halliday-Resnick). In Feynman you'll see the magic and understand the  beauty of a career in physics, as in nowhere else."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A153IWCRSYKWO3"
+                },
+                "Date": "on January 13, 2005",
+                "Helpfulness": 0.984375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y8GWKBMHQRKZ"
+                },
+                "Date": "on September 29, 2000",
+                "Helpfulness": 0.9761904761904762,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RRU57OK3Z8I1"
+                },
+                "Date": "on November 20, 2002",
+                "Helpfulness": 0.9705882352941176,
+                "StarRating": "5",
+                "Text": "Feynman's famous three-volume set is an edited set based on his lectures to the introductory physics classes at Caltech, which are widely considered to be among the best lecture series ever published.  Feynman takes a different approach from the typical introductory physics textbook.  His point of departure perhaps assumes a higher level of mathematical sophistication than most introductory or survey texts.  Also, his choice of topics is not as broad and comprehensive as many modern surveys of introductory physics.  What makes Feynman's work remarkable is the his manner of explaining physical principles underlying a topic, instead of simply presenting the traditional expression of a rule and its formal mathematical expression.  When one completes reading a section of Feynman's lecture, if one has the mathematical sophistication one will obtain a \"feel\" for how the topic fits in the broad context of physics as a whole.  As a note of caution:  most introductory physics surveys do not present material with use of matrix mathematics.  Feynman assumes familiarity with the basics of matrix algebra, and this fact makes his presentation challenging to many students.  In various sources I have read that his lectures were well attended by students in the upper division portion of their education and many graduate students and faculty, while the freshman audience intended may have been  poor.  That reflects the series as being a high-level conceptual overview reflecting the unified structure of physics.  Perhaps not suitable for introductory physics instruction to any but the most advanced students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 11, 1999",
+                "Helpfulness": 0.9512195121951219,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16NE20NLWPHU6"
+                },
+                "Date": "on August 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38KL9NSSKAF7T"
+                },
+                "Date": "on July 28, 2002",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZDPQA6FLY8XM"
+                },
+                "Date": "on September 25, 2004",
+                "Helpfulness": 0.8928571428571429,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 8, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "At the risk of deifying Feynman even more than the physics cummunity and lay press already have, I found that the book is the best source of \"basic\" physics I have encountered.  I say \"basic\", but be prepared to be a physics PhD (which I am...but still found the book very challenging) or a VERY smart layman...either way, be prepared to slog your way through it with a focused mind and be rewarded.  Especially, vol II on E&M I found to be the only source of that material which allowed me to truly understand some parts of E&M at a fundamental level."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VU1J666BU5JV"
+                },
+                "Date": "on December 31, 1999",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 31, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent series of lectures that is great to supplement the standard introductory material dealing with these subjects.  It isn't a textbook and it doesn't address any of the subjects contained within it as rigorously as texts that are devoted to the particular subjects.  Still, the lectures contained hererin present material in new and enlightening ways.  Even if you already know the material through a different text, Feynman will get you thinking about things you never thought about and might make things more conceptually clear.  The lectures read quite well and often can be read out of order.  One word of caution: there are a couple books out there, like \"Six Easy Peices\", that are just scaled down versions of this set of lectures.  No need to buy those books if you own this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T4VCIARKEJSW"
+                },
+                "Date": "on April 13, 2006",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PT69JY8VFRYW"
+                },
+                "Date": "on January 22, 2005",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "4",
+                "Text": "I read these books several years ago because one of my professor is a super Feynman fan.He told us how wonderful these lectures are.By curiosity,I found them out in the library and tried to read them.I must say that these books are not that easy to read.The style is very informal.There are not many equations in the books.If you don't have some knowledge about a topic and you want to learn it from these lectures,you will soon feel very frustrated.I agree that Feynman is a great physicist but probably he is not that good at preaching knowledge.If you ever read Freeman Dyson's Disturbing the Universe,you ought to know that Feynman is not very good at explaining his own ideas at least in those period of time while Dyson was in Cornell.I shall not suggest a beginner starts learning physics from these lectures.But if you have learned physics several years and want to see some fresh explanation of some topics you are familiar with,you can find many interesting stuff in these lectures.I think that the true value of these books."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22PIB1I3F6QM9"
+                },
+                "Date": "on August 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 12, 2004",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": "The Feynman lectures on physics is a transcript of some of the lectures Feynman gave at the California Institute of Technology to freshman and sophomore students.  It was somewhat of an \"experiment\"; feynman had never done this before. He purposed to adress these lectures to the most \"intelligent\" of the class.  It should be no surprise that these lectures are difficult.  Remember this is Caltech.  Feynman assumes knowledge of certain subjects, such as calculus (the review inside is very elementary) and very basic physics equations such as Newton's Gravitational Law.  These things aside, this texbook is one of the best college \"texbooks\" you can get; captivating, and very challenging (boy i've spent nights wrestling over certain abstract topics).  Feynman at his best; he can be quite humourous at times: for example when he pokes fun of philosphers.  My biggest complaint is Feynman lack of sympathy to those of us that need a bit of clarification.  So buy the books, but don't get discouraged if it's hard.  However, DO NOT buy this if math is not really your thing and you have no experience of college-level physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32HEH9BZ1B0KY"
+                },
+                "Date": "on August 19, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 9, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": "Upon reading these books it is immediately apparent that Richard Feyman had a complete grasp of the concepts presented.  His expositions are thoroughly well thought out, and extremely logical.  Does that make these books great tools for learning to be a practising physicist?  The answer to that question has two parts.  First, to become a competent physicist one must have a clear conceptual picture of the necessary material.  Second, this applies in particular to (although is not limited to) research, one must be able to use the concepts and the machinery to solve problems.  These books concentrate on the first problem, having a firm grasp of the concepts fundamental to physics.  It must be borne in mind that these books constitute a lecture series.  Thus, they contain only the explanations offered by Feyman in his oratory, i.e. no problems sets are included with the texts.  Therefore, they are at a significant disadvantage with respect to other, more complete treatments of the material, which is exacerbated by the price of the three volume set.  However, when supplemented by another text(s) which provides worked examples and solved problem sets, the volumes really come into their own.  Reading and digesting the contents of these three volumes will not develop all of the necessary skills required to practice physics competently, however the sheer clarity of the exposition of the concepts treated provides the student with a thorough grasp of the material from which to formulate approaches to problem solving.  Ulimately though, one needs to decide whether the price of these volumes together with that of another complementary text is worth it.  If you are serious about developing a deep understanding of the material, the answer is probably yes.  If you just need something to get you through your exams, probably not."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R2SJZGHH14E7"
+                },
+                "Date": "on July 15, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RPDJRHZ4SCLD"
+                },
+                "Date": "on December 18, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LGZNVTWUVA1"
+                },
+                "Date": "on February 9, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARNOB2K8G0JSQ"
+                },
+                "Date": "on August 21, 1997",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15IZQLN9J5CCQ"
+                },
+                "Date": "on May 5, 2000",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ETXESP7C99RW"
+                },
+                "Date": "on October 30, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on September 11, 2003",
+                "Helpfulness": 0.7674418604651163,
+                "StarRating": "3",
+                "Text": "I have to say I have been perpetually disappointed with these books.  I have used the electricity volume as supplemental information for an E&M course I taught with success.  But I could not have turned the students aloose by themselves.  These books are full of errors in math and even some in physics.  Feynman never meant these books to become the holy grail of physics they have sort of become.  These books are the babies of an experimental freshman physics course at Cal Tech designed to reduce the outflow to the EE department.  Feynman considered the course a failure partly because of his lack of time and involvement.  Nevertheless, I have read some of the material with a great deal of enjoyment.  If nothing else these books can bring a tear to the student's eye over what could have been."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LH4Q21Z3RAK9"
+                },
+                "Date": "on August 1, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Richard Phillips Feynman is showing physics with an extremly clear view, providing all essentials of classical and quantum physics. His \u0082lectures` are the best an undergraduate can read to understand. The nobel laurate from 1965 was able to explain everything in his own very intuitive way of thinking. He is writing precise and shows a combination of experimental and theoretical physics which is searching still for competition. Sometimes, I thought, even Albert Einstein was not able to to describe thing smore simple. Very inventive are his ideas on the General Theory of Relativity in Volume two. It should be emphasized, that his physical intuition was leading him to the very important description of the Aharonov-Bohm effect in chapter fifteen of volume two. He shwos, that the vector potential must be a real field. All in all, Feynman`s work should be read more than once by every physicist. I personally know men, who are experts in fields like superconductivity or gravity and still are consulting for these Feynman lectures sometimes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BO6PE8OQL28R"
+                },
+                "Date": "on November 2, 2004",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQ34XOZ6PZYM"
+                },
+                "Date": "on March 16, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is -- by far -- the best physics text book I've ever read.  I picked it a few months ago for work on my M.S. in Physics, and I have to say, I've never enjoyed a college book so much.  It's well-written and incredibly precise.  I wish all my textbooks were like this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 15, 1999",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "The only problem with this book is that once you start reading it, and you fall in love with it, it's next to impossible to stop.  Chapter are beautifully organized, they are not too long, too wordy or too short. You  are sure when you start it, even if it takes some extra effort you'll be  able to finish it.  Here and there in between the lines Feynman reveals  many of the astonishing secrets of nature; You can't just sit there and  remain speechless, you'll say: \"Hey, that's right!\"  My major is  physics, and I claim I've seen more physics text books than average  physicists, but this is different, this is a hilarious masterpice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SH1TY10CGDZ7"
+                },
+                "Date": "on May 24, 2001",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "Unlike my fellow reviewer above (below?) I *have* a PhD in physics, yet these books taught me more basic physics than I ever learnt in 4 years of undergrad. The quantum mechanics book is especially clear...I honestly wish my first 1st year phyics lecturer had of simply said 'read Feymnam'..I would have learnt so much more than I ever did in lectures/other texts. Give these books to a child starting science/maths and let them grow up using it and learning from it...there could be no better gift."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4VY1074VAXRU"
+                },
+                "Date": "on August 3, 2001",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A311L6YC4N0BKN"
+                },
+                "Date": "on July 15, 2003",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KVPY8RHF08LR"
+                },
+                "Date": "on June 8, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW"
+                },
+                "Date": "on November 14, 2000",
+                "Helpfulness": 0.7619047619047619,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 28, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI1U11HEFZQP"
+                },
+                "Date": "on January 20, 2003",
+                "Helpfulness": 0.7647058823529411,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36DLRLEC6UVR1"
+                },
+                "Date": "on October 5, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SJRO3EMOJI6E"
+                },
+                "Date": "on May 25, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABCMQXEU1V1VA"
+                },
+                "Date": "on July 26, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Not only was Richard Feynman a tremendously accomplished physicist, he was a tremendously effective communicator. In this set Dr. Feynman presents a years worth of college physics in a manner more readily digested, more intuitive, and more entertaining, than anything I have seen. Dr. Feynman pulls physics from the stuffy closet of academia, shakes off the dust and holds it up to the light so all can see what fools the 'experts' are. Dr. Feynman demonstrates none of the ego of others of his genre. His desire is clearly to convey physics to the best of his knowledge without trying to impress you with how smart he is. His informal manner, irreverent attitude, and inquisitive ponderings are refreshing. This series embodies three archetypes: What physics is, how to learn, and how to teach."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GB4WEW3WWEAR"
+                },
+                "Date": "on March 23, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am a medical specialist in Australia.  That means my knowledge on physics is at high school level only - i.e. faily limited.  Yet somehow I manage to understand what he is trying to explain!  I am also able to appreciate the way he marvels at the beauty of the universe.  The way he repeatedly reminds us that there are lots of things about the world we don't know or understand highlights the mystery of the universe; and yet we can understand those that we can, and he guides you to do so - this highlights another mystery: our intellect!  Reading it is a unique EXPERIENCE.  I can't help but to give an example: in just two chapters, he explains lucidly how the equation E=mc2 is derived and what it means, and one actually can follow him.  Amazing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UVX70AOOF1I"
+                },
+                "Date": "on July 23, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "The recordings of Dick Feynman are aged in the static and use of analouge recorders. However, once past this slight annoyance the lectures are fantastic. No  intro physics student should be without at least the book, and best to have the audio as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OMUWSW2KW9TK"
+                },
+                "Date": "on November 10, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really enjoyed packing volume three with me on a recent vacation trip.  Feynman amazes me with his clarity of thought, clear explanations, and wonderful sense of humor.  Why should there be anything difficult about the fundamentals of nature?  You really see how simple things are at the bottom, and only get clouded when working out the details.  Feynman clearly separates the essence from the messy mathematical details of implementation.  I love how he beats a horse to death in one dimension before generalizing!  I'm sure that's how all great minds work.  Few books on quantum mechanics are of such a high caliber.  Volume three is a treasure!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 19, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KWNZ58GF53CK"
+                },
+                "Date": "on December 20, 1999",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "What can be said about this book that hasn't been said before?  This book really taught me what physics is about.  Other books give you the impression that physics is only heuristic reasoning and applied  mathematics.  Though I recommend this book to every science and engineering  student, I must say that is not ideally the book for a main course on  physics, that is you get to understand a LOT of physics, but due to its  lack of problems and its very general approach it might seem that generally  it doesn't fit in the usual physics courses.  But that is not a problem  because this is after all, an introductory book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7V2VGPSKWH4W"
+                },
+                "Date": "on January 4, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AITSJAK877SWK"
+                },
+                "Date": "on October 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DXVAI08P00HD"
+                },
+                "Date": "on November 23, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OZB7T5T16NMY"
+                },
+                "Date": "on June 16, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is EXCELLENT!!!!! The explanations and examples Mr. Feynman gives are very clarifying... I study Physics in Brazil and this book has helped me a lot... I have read many physics books, and so far, I haven't found anything better than these. I definetly recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A264IAXNHAEMPU"
+                },
+                "Date": "on February 21, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6CJ68FMJ014L"
+                },
+                "Date": "on January 11, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 7, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KHQIEA8CGJH"
+                },
+                "Date": "on February 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I loved the Feynmann Lecture series when I was an undergraduate student, but I sold them after three years of using them. Years later, I have seen the Commemorative Issue on the shelve of bookstores again and I could not resist the urge to buy it again. It vividly brings back wonderful memories of a time long gone, and the commemorative issue is better (hardcover) than the original (paperback). I strongly recommend this issue to anyone who wishes to learn physics from a master narrator."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 6, 2000",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Richard Feynman is recognized as the best physics teacher ever. I firmly endorse it. The way he explains even the most obscure ideas of physics, in a clever way, is astonishing. It makes you think \"why haven't I thought about it in this way before\".  I wish my physics teachers have read it. It would have made this discipline more \"tasty\" and pleasant to study. This is a serious question: if physics could be presented in a more enjoyable way, maybe we could have many more physics students and physicians.  If you're a physics teacher, do this favour for your students: read this book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 3, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This excellent series of texts covers almost every topic in modern physics.  This is the only book on Physics that covers all this complex physics topics that could be understood by anyone with a college degree.  However, for those without background in Calculus, you may have some  trouble."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 27, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "These are the volumes that got me started in physics several years ago and surprisingly they retain their charm even today when I am reading those passages for the n-th time. Like a great, majestic symphony, a timeless masterpiece."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALK7ZLTHCNL3G"
+                },
+                "Date": "on June 18, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Anybody wanting to be a physicist, or just interested in physics, should have this set of books. Whether used as a reference or as a primary text, it will enhance your physics experience exponentially."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOQW57I26ZN5"
+                },
+                "Date": "on January 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 22, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really haven't met yet a book so interesting in Physics as this one. No other has such a profound treatment of the basic concepts and at the same time the large range of applications as this one. It begins with a general  view of how humankind understands the Universe at the time the book was  written (and very few things changed in these thirty five years) and  explains very well the fundamental ideas of Physics, from classical to  quantum mechanics. A book of reference for every physicist of any degree of  knowledge, although it's aimed to freshmen undergraduates."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24S1BQJ5D8HU"
+                },
+                "Date": "on June 8, 2005",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 10, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I purchased vol.2 in 1970 having had only  high school physics. Since then I have purchased all 3 volumes. I have read them over and over. I have worn out one set and bought a new set. A great book like a great play or great  movie never gets tiresome. When I want to calculate something I have many  other \"how to\" books. When I really want to understand something  I turn to Feynman. What more can be said?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GEEM27K2BKXW"
+                },
+                "Date": "on August 22, 1998",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Excellent introduction to physics. The book was written after the recorded  lectures of physics in Catlech given by this extraordinary physicist.  Although the maths are, of course, taken into account, you will find that  this is an easy book, clear and sincere. Sincerity is not common in high  standing books because authors are more worried about the impact that the  book will have on his/her peers than in teaching the subject to laymen or  students. This is not the case with Feynman's book. Although it has been  stated that the lectures were more popular among colleagues than among  students I can assure you that even if you don't know a word of physics you  will grasp the concepts, if not at first try at least after two or three  readings. It also conveys the thought -so popular nowadays- that human  knowledge can't be contemplated in absolute terms. We think we understand  nature but if we analyze what we really know we get to the conclusion that  this knowledge is useful but not radical. We may have good theories -useful  for remembering,\u00a0 already mentioned by Giordano Bruno- but they don't add  any deep or special knowledge about what we describe and the rules that  look so powerful and exact and allow predictions are not so exact but only  approximate and they don't give us any special insight of Nature. We may  perform complicated calculations using well known formulae involving  forces, inertia, velocity, etc but we don't really know what is inertia,  time or space."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 21, 1999",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This set explains physics!  The explanations are original--very hard to find indeed.  The examples are practical in both research and application fields. The only book (set) that I deeply in love."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 23, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "An excelent set.  Goes into more detail than you probably knew existed on all the major subjects in physics from Newtonian to Modern Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 16, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Almost everything was said about this great, amazing book, but the volume 3 deserves a special remark. It is one of the most(if not the most)  quantum mechanics book that treat this subject in a very elegant way.  Beginning directly with the very deep mistery of quantum mechanics (the  interference of probabilities amplitudes) and treating the reader as an  inteligent person, Feynman shows the strange and marvelous world of quantum  mechanics. You will probabilly never find another book so deep and at the  same time so simple. This book treats QM in a physical view point and  leaves the abstract mathmatics of QM for a more advanced text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R57ECIAWC0EW"
+                },
+                "Date": "on March 3, 2001",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U99VYUULH2V9"
+                },
+                "Date": "on March 17, 2003",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great mind's presentation of an integrated view of physics.  He can't help but portray it idiosyncratically, at his level.  Historians will review it to see what we were thinking.  Take it as you will.  It's remarkable how much of this 40 year old book holds up.  The chapter deriving Euler's formula numerically alone is worth the price of admission.  This magisterial work belongs in the time capsule, or alongside \"Ulysses\", \"King Lear\", and the complete works of Yeats and Auden.  Most of all, it is the ideal gift for someone with possibilities."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A669YDFFBFV7N"
+                },
+                "Date": "on August 9, 2001",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I love physics, but I used to think that it was difficult. Most authors of physics books are too smart to explain it to other people. Feynman is one of the few who realized that not every student is brilliant and that some of us never paid attention during calculus classes - my observation is that people who really like physics don't like mathematics. He takes his time explaining calculus and he pays attention to the smaller steps that in other books are neglected since the author seems to think that readers can do these steps by themselves. We don't, we are stupid!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 21, 1999",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a three volume set. The set explains just about every subject in physics. What makes this set so good is its emphasis on the physical comcepts rather than on heavy mathematics derivation. The explanations are  original and the examples are practical in both pure researches and  applications. If you like physics, this set is priceless."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SMDVLVSCVMEJ"
+                },
+                "Date": "on March 31, 2000",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CCIZ45R2WESQ"
+                },
+                "Date": "on August 23, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Lectures on Physics is an extraordinary book written by an extraordinary man who goes far beyond the vanity of most breeders and generously devotes his imagination to devise experiments and reasoning available to non-physical (but smart) to allow these to glimpse of how beautiful is that science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2087EAI8MRP25"
+                },
+                "Date": "on July 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UYK3NBI427YG"
+                },
+                "Date": "on August 6, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "The collection is one of the best books available for basic physics nowadays. The commemorative issue is even better. Indispensable for physicists and students with interests in this area"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UE1QI5GJLUO3"
+                },
+                "Date": "on May 20, 2001",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "There is an anectode that Einstein, commenting on Frederick Engels's (cofounder of communism, along with Karl Marx) \"Dialectics of Nature\", humorously observed: \" This is the way a physicist *should not* think\". Well- Feynman's legendary lectures ooze the impression: this is the way a physicist *should* think. Great merits of the trilogy are: -intriguing approach, more \"physically\" than \"mathematically\" oriented -accessibility to the persevering layman (one can learn chunks of physics in spare time) -all the general physics, from mechanics and thermodynamics to electromagnetism and quantum theory, set in a step-by-step manner, amply illustrated by analogies & avoiding mathematical rigor. Why the sky is blue ? Why our bodies don't collapse into points ? Why the time \"flows\" in one direction only ? It's in the trilogy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V2F9ZSQF8AQ5"
+                },
+                "Date": "on January 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJX9E4MLTC5P0"
+                },
+                "Date": "on April 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I recommend anyone interested in Physics or science in general to read this seminal work. Its a tour de force! No-one can explain complex subjects as lucidly as Feynman."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TN3IP50TRRQS"
+                },
+                "Date": "on November 3, 2006",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I purchased the Feyman Lectures on Physics because I always wanted have this material to prepare my lectures. I did my graduation in French Universities and the physics lectures there are something diferent from the Anglo Saxon way. I always wanted to take advantage of my formation and the fact that I have acess to Physics books from the US or UK to have another look to Physics. For this Feyman Lectures are essential. The clarity and the originality of these lectures continue to inspire generation of teacher. Sometime I regret that the mathematical formalism is not more present, but this is due my formation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U7DUFL7J2TRE"
+                },
+                "Date": "on July 9, 2003",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A375QNQGZ9TATU"
+                },
+                "Date": "on April 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The volumes were in good shape as advertized and I am enjoying rereading the brilliance of Feynman! Jim Lee"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C54E9FFMZ4BZ"
+                },
+                "Date": "on December 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Arrived on time and was just what I expected, was looking for it for ages and finally found it here."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32IMEZ02OOLNI"
+                },
+                "Date": "on May 31, 2001",
+                "Helpfulness": 0.6111111111111112,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I9U6S9OYICY4"
+                },
+                "Date": "on June 25, 1998",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I always have returned to these volumes to get something new everytime."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33TZX24SF8DEI"
+                },
+                "Date": "on June 20, 1998",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Read these lectures if you want to UNDERSTAND physics instead of just using memorized formulas without knowing what you're doing. Richard Feynman was one of the few persons who are not only a great scientist but also a brilliant teacher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RBRYIS293FC2"
+                },
+                "Date": "on July 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Classic physics lectures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALH3MC39BYMSK"
+                },
+                "Date": "on March 12, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Intended at students, the feynman lectures in stanford were much attended by researchers. The same holds for the book. It provides a new way to teach physics that has kept its full originality. Not the least, it is highly pedagogical, introducing every new subject step by step. Emphasis is on the physics reasoning more than on the maths. As such, it is a great source of inspiration to physicists and physics teachers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YWSUVTDGKZC1"
+                },
+                "Date": "on September 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "totally recommend"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 15, 2004",
+                "Helpfulness": 0.6101694915254238,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32Y622D3KANPD"
+                },
+                "Date": "on November 9, 2006",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "These lectures are a boon to anyone interested in having a go at understanding both the micro and macro of our universe and what part we have in the scheme of it all. Feynman is both the essence of clarity and he provides the tools for scientific thought about the origin of the universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 21, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "if humor sense makes you feel better, when you read the books of Feymman, you will find what's the definition of humor:spirit spouts out directly of the deep soel, the silence and warmness.... you can say that I'm crazy, but  it's just because the three poetic physic books made me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OL1VTSCCGEBB"
+                },
+                "Date": "on January 29, 2006",
+                "Helpfulness": 0.5882352941176471,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 20, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "There is not more to be said about the \"Lectures\". A must have for every science practicioner. And philosopher. And engineer. And..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKCX7RJ2B6UP7"
+                },
+                "Date": "on February 20, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Quality very good, completely new. Very glad to be able to get such a valuable set of books at such a low price"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 7, 2000",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "I have the spanish language version, but even after translation it is still one of the great general physics resources, specially for the first 3 years of the degree on physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34AJQNTU26CII"
+                },
+                "Date": "on December 17, 2003",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "5",
+                "Text": "Listen - these books are not a good introduction to physics.  These should not be your first physics books.  But they are a terrific complement to an introductory physics series.  You cannot claim to be a theoretical physicist without having read these books.  And frankly, if you want to be a theoretical physicist, you should love reading these (and Dirac's lectures on Quantum Mechanics, also on amazon).  If you don't, maybe you should consider doing something else with your time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4IGGPAA7QAXR"
+                },
+                "Date": "on March 28, 2000",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Physics is often considered by many as obstruce blend of mathematics and observable facts leaving very less if not nothing to IMAGINATION which in fact is the very basis all great discoveries and inventions.Einstein says  \"Imagination is more important than Information because in imagination  we encompass everything\".Physics studies the observable universe  acknowledging the fact that Nature is an immense treasure house of the  unknown. The \"Feynman Lectures on Physics\" has all the spontanity  of expression that evokes awe and wonder at the marvel of creation not just  because of the fact that they were the lectures delivered at CALTECH ,it is  more so primarily because of the fact that Prof.Feynman was a passionate  Teacher and a devout seeker who looked at Nature with wonder and  reverence.His explanations of even the most difficult concepts are lucid  and clear because he gives lot of examples,analogies,smilies drawn from day  to day life.This is the greatness of a true master: To see the subtle  manifest in the gross and the gross visibly expressed in the subtle.These  lectures are sprinkled with enough humour which is quite characterstic of  Dr.Feynman.This makes the reading all the more enjoyable.the most striking  feature of his lectures is the finishing touche he gives to every main area  in Physics ;most of the lectures have a tail ender titled  \"Philosophical Implications\" and this is how Prof.Feynman  communicates more of his Insight than mere Information. I'm just reminded  of these remarkable  words from Prof.Feynman's biography: \" I,an atom  in the universe,..an universe of atoms\".These words reflect the  Philosopher in him.He demonstrates through his lectures the ART of teaching  SCIENCE."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 19, 2001",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is a book for the physics hobbyist.  Read the set in high school after I took physics.  Absolutely enchanting.  Made physics a lifelong interest even though I didn't go into it.  Read the three volumes in a more scattered way a couple more times over the years.  The magic is still there.  I would not say the material is difficult--this is undergraduate physics after all.  However, Feynman's view is often different in a fundamental way.  Reading the Notes is like reading special relativity for the first time--it is the splendid physical arguments that draws you.  The mathematics used is basically simple algebra."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NCD7AQN0A1W9"
+                },
+                "Date": "on April 30, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "great text-books for anybody who wants to understand a bit more how things work :P"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IJY380EI193D"
+                },
+                "Date": "on February 7, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I love the set! I'm a grad student in Physics and these are a great reference to have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N3N439PRGV3I"
+                },
+                "Date": "on April 4, 2003",
+                "Helpfulness": 0.5339805825242718,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 14, 2003",
+                "Helpfulness": 0.3448275862068966,
+                "StarRating": "2",
+                "Text": "Hype is absolutely right; If you want to really learn physics you have to be solving problems and as Gregory mentioned there are NO exercises. Of course if we were stranded on a deserted  island we would be satisified with constructing our own problems I guess. Anyway,if you don't need Feynman's LONG! explanations and want to do some thinking for yourself get Spiegel's Schaum's outline or a Paul Davies book for enlightenment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NJTPU3OQS76M"
+                },
+                "Date": "on February 14, 2007",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "2",
+                "Text": "In his Preface, Feynman admits that these lectures were aimed at \"the most intelligent students\" coming out of high school into Caltech.  He also admits that many students had trouble with the content judging from their performance on the examinations and said that his system of lectures is \"a failure\".  I agree with Feynman.  These lectures are very hard to understand.  Partly the lectures, prepared in early 1960s, suffer from being rather dated.  Mostly though this material is presented in a confusing way, with lots of complicated mathematics that often hinders comprehension.  I recommend getting a basic college textbook instead (Physics for Scientists and Engineers by Wolfson and Pasachoff is a good choice)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PGMJQWFIYJML"
+                },
+                "Date": "on August 9, 2005",
+                "Helpfulness": 0.15384615384615385,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30Y82XWPZ9G5W"
+                },
+                "Date": "on September 24, 2005",
+                "Helpfulness": 0.19047619047619047,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24CM3EUPQP74Y"
+                },
+                "Date": "on August 17, 2000",
+                "Helpfulness": 0.11538461538461539,
+                "StarRating": "5",
+                "Text": "I wanna write something on physics but do not know how to begin, I just know if I do not read Feynman my life will be void."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PEN323EP55TA"
+                },
+                "Date": "on January 8, 2008",
+                "Helpfulness": 0.047619047619047616,
+                "StarRating": "4",
+                "Text": "I ordered this set of books for my son, therefore, I am unable to review the product.  However, the books arrived a couple of days after they were expected."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SB82PMLFPA2"
+                },
+                "Date": "on May 9, 2004",
+                "Helpfulness": 0.1111111111111111,
+                "StarRating": "3",
+                "Text": "I spoke to soon earlier.  This is a fairly good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QSMYI0G98COH"
+                },
+                "Date": "on December 12, 2006",
+                "Helpfulness": 0.1506849315068493,
+                "StarRating": "1",
+                "Text": "Nobody questions that Feynman was one of the great physicists of the 20th century.  This review is not about Feynman the physicist, but Feynman the author of 3 textbooks, which purportedly try to explain beginning college physics.  He has failed for students that start with very little knowledge of physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Feynman-Lectures-Physics-Set/product-reviews/0201021153/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "108"
+    },
+    "Salesrank": "#843,176",
+    "Timestamp": "2015-05-24 13:41:55.412328",
+    "itemurl": "http://www.amazon.com/Feynman-Lectures-Physics-Set/dp/0201021153"
+}

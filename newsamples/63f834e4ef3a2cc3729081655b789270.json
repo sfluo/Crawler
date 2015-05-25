@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student's Workbook for College Physics: A Strategic Approach Volume 1 (Chs. 1-16)"
+    ],
+    "OfferPrice": "$39.80",
+    "Reviews": {
+        "AverageStarRating": "2.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVW689C1H7NKB"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "may have been a god workbook but defeats the purpose of giving extra practice as no answers available so not really helpful at all if you want to know if your work is correct :("
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E7FUS9HQTOSJ"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This workbook sucks! Such a waste of money. Another way for college students to be gouged."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALUMCRPWEDEHZ"
+                },
+                "Date": "on November 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "dropped the class but easy workbook to go with the text"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAOGTSMFQQ2JP"
+                },
+                "Date": "on October 22, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "I use this in my physics course."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Students-Workbook-College-Physics-Strategic/product-reviews/0321908864/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#205,597",
+    "Timestamp": "2015-05-24 13:01:19.074770",
+    "itemurl": "http://www.amazon.com/Students-Workbook-College-Physics-Strategic/dp/0321908864"
+}

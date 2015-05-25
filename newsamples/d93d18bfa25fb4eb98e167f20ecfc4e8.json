@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Engineers and Scientists (Third Edition)  (Vol. 3)"
+    ],
+    "OfferPrice": "$80.26",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FATOHOGARG25"
+                },
+                "Date": "on December 9, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The authors have taken the time and patience to discuss the subjects in a way that the common man can begin to comprehend."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Engineers-Scientists-Third-Vol/product-reviews/0393929698/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#496,851",
+    "Timestamp": "2015-05-24 13:16:40.200080",
+    "itemurl": "http://www.amazon.com/Physics-Engineers-Scientists-Third-Vol/dp/0393929698"
+}

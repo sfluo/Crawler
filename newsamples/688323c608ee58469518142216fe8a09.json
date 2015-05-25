@@ -1,0 +1,396 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Einstein For Dummies"
+    ],
+    "OfferPrice": "$15.68",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SM64C79TS70F"
+                },
+                "Date": "on October 31, 2005",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHN8LAGG3JY6O"
+                },
+                "Date": "on October 23, 2005",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": "This is the best physics book I have read. Mr Calle does a superb job in explaining subjects which are extremely difficult to understand if you use a standard text book. Reading this book myself gave me a clear understanding of quantum physics and relativity. I would really recommend this book to everyone who wants to start studying science before attending the real classes. The book does not have any equations but simplifies everything by figures and thought experiments. As I am writing this review I'm about to graduate with a masters degree in engineering and I truly regret that I didn't know about this book five years ago."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX4PKK022Y51J"
+                },
+                "Date": "on April 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU"
+                },
+                "Date": "on August 30, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGB1YDTHIQ59V"
+                },
+                "Date": "on February 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is everything it claims to be.  It attempts to break down the very complicated world of physics that Einstein was so involved in.  It gives a great history of his life and those who influenced him.  It was an easy read in terms of the organization and language used, but make no mistake  about it, the topics, theories and concepts are not easy to understand at all.  I found myself reading certain concepts over and over again but still not able to follow - but I do not blame the author - I simply am not equipped with the mental capacity to follow Einstein's logic.  And that is OK - this book served its purpose in that it opened my eyes to how much there is to know and understand about how our world works.  Even if I learned only how much I have yet to learn, I am sure I am smarter for reading it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GZKOMC2INTVQ"
+                },
+                "Date": "on August 13, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LZFWI88CFRN7"
+                },
+                "Date": "on July 2, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39MULB7OU501"
+                },
+                "Date": "on April 3, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Wow, when I bought this book I was hoping for a better grasp of Einstein's theories of relativity, and ended up gaining a much better understanding of physics in general. The author says up front that you can skip around if you like, but I recommend reading this book cover to cover. I found the way physics is explained through what Einstein understood (previously discovered physics concepts) and then wending into Einstein's theories truly helpful. The way the author weaves in other scientists and their discoveries in histories read very well and quickly. I've read this book in two sitting and got so much out of it. I recommend it to anyone interested in or struggling with physics. For those of you with a good grasp of physics, this book might bore you. I found it truly helpful and delightful to read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24FMF1XT4S2S1"
+                },
+                "Date": "on August 20, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "An excellent book which clearly describes not only Einstein's contributions to physics, but the contributions of many other physicists who went before him like Galileo, Kepler, Newton, Maxwell, and Lorentz and who were his contemporaries like Planck and Bohr.  In highlighting Einstein's contributions, he covers a wide range of topics including dynamics, electromagnetism, atomic physics, and quantum mechanics.  For a more detailed description of physical concepts covering a broader range, I highly recommended his book on superstrings, etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J30E4Z7W7RAX"
+                },
+                "Date": "on September 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My 9th Grade son, who is very interested in math and physics, asked me to buy this book for him.  He reads it every night for fun and talks about what he's learning.  He was lukewarm at the beginning because the focus was biographical but now that he's in the science part, he can't get enough of it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGH06IPU444B4"
+                },
+                "Date": "on July 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I liked the book but it did not get me to wrap my mind around the time/space confusion issues that I was having.  I guess I need to read a time/space book wrote for a grade school kid :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W3EJKHGYC9VQ"
+                },
+                "Date": "on December 18, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very little appreciation for formal math or physics is needed to enjoy this book.  Someone with a reasonably analytic outlook could pick up this book and gain a fair amount of insight.  Anyone who already has even a basic understanding of relativity should probably skip this book.  The key points covered are that in special relativity, space-time is a continuum where the only constant is the speed of light -- different observers in different inertial frameworks will see the same events unfold at different rates.  In general relativity, the big insight is that the effect of gravitational attraction is equivalent to acceleration and it is impossible to distinguish between the two.  General relativity explains this effect as mass/energy causing space-time to curve in a way that causes an observer to cover distance at an increasing rate while approaching a concentration of mass/energy -- i.e. someone standing on the earth opposing the pull of gravity is equivalently experiencing acceleration.  The book also contains a fair amount of biographical information on Einstein, and also does a broad/shallow survey of the \"rest\" of physics and briefly touches on the role of relativity there."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17HJWTCAQYC9D"
+                },
+                "Date": "on November 21, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "This is an interesting book about Einstein's life and work.  There is only one equation -- guess which one!  When the book said you only needed high school algebra to understand the Special Theory of Relativity, I wish it had included those equations.  But -- one can find them elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F77OPK085OOJ"
+                },
+                "Date": "on August 18, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALR84O3XWBJWH"
+                },
+                "Date": "on December 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33FKGMPVOQQ28"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "At last, an author who explains Einstein in plain English to ordinary readers, with plenty of illustrations.  Dr. Calle is a NASA senior research scientist with a doctorate in physics and extensive professional experience in Einstein's theories.  This guy really understands Einstein's ideas, and that's undoubtedly the reason why he explains them so well.  I bought the 384 page Kindle edition ($11.49) because it's a great bargain.  Buy this book!  You won't be sorry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AEPM2EMG97H5"
+                },
+                "Date": "on February 3, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I found this book to be simple to read and thoroughly enjoyable.  I have always been fascinated by Einstein's Theory, and then I found this book.  It is enlightening and fascinating.  The concept is difficult to wrap your head around, but after reading this book, you will be able to explain it to your friends with ease. I have also read The Elegant Universe by Brian Greene, which is also excellent, just full a lot of technical science teminology, which bogs it down."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD0BBEZZWG3CM"
+                },
+                "Date": "on September 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KHJOBUH6714J"
+                },
+                "Date": "on June 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Before I read the book, I had a big interest in phisics and science and this book offered me even more than I espected. Not only you get a nice and simple explanation of Einstein's theories and ideas, but a whole overview troughout the history of modern science. Even more, it is very well written and you always want to read more. I totally recommend it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5HRLGDTHZWG1"
+                },
+                "Date": "on December 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "If this was my first introduction to Einstein's many great contributions to science, I would have rated it much higher. It covers almost all of his important work and theorys but I didn't pick up very much that I didn't know before reading the book. I guess I wasn't as dumb as I thought I was (at least not this time).."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGQE43KBQSASK"
+                },
+                "Date": "on April 21, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I wish all text books were written like this. It has all the needed details for the kind of book it is, yet written with such a straightforward style that makes it a pleasure to read. Writers of text books can learn a lot from this book. This is what learning should be about."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VEPXC7AGJRS1"
+                },
+                "Date": "on March 3, 2006",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "It is the best of the many books that I have read that present Einstein's work in a simplified fashion.  The personal data about Einstein is interesting also."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27JHIAWMKBK44"
+                },
+                "Date": "on May 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book is kind of huge and heavy but the information inside is clear for any reader. The author uses an understandable vocabulary."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KQ0O27NJQT5Q"
+                },
+                "Date": "on May 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Read this fun book in 3 days while at sea under the stars. Loved it. Simple experiments on complex ideas. It was seperated really well. I can now wrap my head around some of these theories now and actually explain them a little too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P5HXX1C40VUI"
+                },
+                "Date": "on August 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "One of the best Physics books I have read, and one of the books I have learned the most from. It speaks to non physicists in a way they can understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20NJQE5HKX3EE"
+                },
+                "Date": "on April 7, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I found Einstein for Dummies to be interesting and informative. It was an enjoyable read, and quickly got me up to speed on Albert Einstein and his extraordinary life's work. At $13, it is priced right, and I would highly recommend it to anyone who is curious about Einstein."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFJNCGUWQ5U86"
+                },
+                "Date": "on December 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Some of it repetitious, some of it originally too complex, or even too simple, but read the whole thing and you finally might be able to grasp some of the difficult concepts of relativistic physics and get an understanding as to why the history of science trended that direction."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15985T5SAPFOX"
+                },
+                "Date": "on September 29, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Makes difficult ideas easy to grasp, informative and enjoyable to read. Potted history and explanation of foundation concepts provide useful context within which Einstein's revolutionary ideas are examined."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2URZPFOAC8C97"
+                },
+                "Date": "on October 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Whether you are a beginner, or more advanced, this volume does a great job of putting it all in one place, and within the context of the surrounding social and scientific environment. The technical explanations all use great analogies to help explain the concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16FDY0JXDG6E4"
+                },
+                "Date": "on December 19, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21NN34UOSS9L3"
+                },
+                "Date": "on September 27, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IZRHH2VTL02P"
+                },
+                "Date": "on June 1, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CST8G3OEDTMQ"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Better as history than a scientific text. But very readable and enjoyable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RFRU3T1PQAHK"
+                },
+                "Date": "on November 26, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "I need an \"Einstein for total idiots\" if this is just for dummies.  I attempt to understand the theories but it still gets confusing.  Maybe you have to be smarter in the abstract rather than worry about the math.  Anyway, I wouldn't really bother with this book.  The author attempts to explain things in simple terms, but it does get abstract and your better off finding a good biography.  Also spend a little too much time with historical data we can find anywhere regarding his family situation, background, etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E34YRW3CUDYG"
+                },
+                "Date": "on April 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book which explains the things in an understandable way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6VTNAF46YK5Q"
+                },
+                "Date": "on December 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "love to learn about Einstein and all that he did"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DGTG2EKN8999"
+                },
+                "Date": "on September 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "clear and understandable"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DQXLAOAMZLC0"
+                },
+                "Date": "on July 20, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Helps to stretch this old brain of mine when I thought that I was all through with learning."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXP8P8OAD5NXA"
+                },
+                "Date": "on March 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great Product"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S5YVC95QGTHY"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADAGK40YSLZXS"
+                },
+                "Date": "on June 30, 2011",
+                "Helpfulness": 0.45454545454545453,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW9IM2AT0EO06"
+                },
+                "Date": "on June 24, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Not the best of books . Needs more math. Not much more useful than many other books."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Einstein-Dummies-Carlos-I-Calle/product-reviews/0764583484/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "42"
+    },
+    "Salesrank": "#67,433",
+    "Timestamp": "2015-05-24 13:18:34.228768",
+    "itemurl": "http://www.amazon.com/Einstein-Dummies-Carlos-I-Calle/dp/0764583484"
+}

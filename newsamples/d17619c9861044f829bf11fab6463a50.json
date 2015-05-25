@@ -1,0 +1,432 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Physics For Dummies"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W3EJKHGYC9VQ"
+                },
+                "Date": "on February 6, 2009",
+                "Helpfulness": 0.9518072289156626,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SMN4S6TX26H3"
+                },
+                "Date": "on November 30, 2009",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "3",
+                "Text": "If this book is for dummies ,I shudder to think what that makes me,several grades below imbecle probably. I have read other books in the Dummies series,calculus, geometry,etc,and generally understood what the author was saying,but I only made it to pg 27 before hitting a brick wall.I thought my understanding of maths would be sufficient ,but I was sadly mistaken.I was looking for a much simplified explanation,but given the nature of Quantum Physics ,my guess is such an explanation does not exist.Therefore I find it difficult to rate this book given that I understood so little of it.However I will use this review to warn that this is very definitely not a book to be judged by it's cover. Three stars"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BAVKZGXNIA5C"
+                },
+                "Date": "on November 7, 2010",
+                "Helpfulness": 0.9117647058823529,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IQQJPGZ2RDN7"
+                },
+                "Date": "on December 6, 2010",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37JTWITMKPD0B"
+                },
+                "Date": "on December 24, 2010",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "1",
+                "Text": "Do not buy this book. I am on page page 53 and I am giving up. I am on my way to return it for a refund today. This book is full of misspelled words, typos, and the author makes many careless mistakes in his derivations of equations, such as forgetting brackets or other symbols and he makes dozens of copying errors when carrying numbers from one step to another. Many of the scientific points that he makes are wrong too. For example, he states twice that the intensity of a wave is equal to the square of its amplitude- WRONG. The intensity is _proportional_ to it, not equal.  As others have already mentioned, this book is not a true beginner's book. Most of the concepts are simply defined by mathematical symbols without being properly explained first. Yes the author does mention at the beginning of the book that you should have had some advanced linear algebra and experience with Hilbert space previously, but how can you call a book \"for Dummies\" that requires that. Those requirements should be on the cover of the book, not on the inside so people do not buy it, then realize that they can not use it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3II9WLLL0ZBUV"
+                },
+                "Date": "on March 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book for making hard concepts easy. The topic is a hard one, but Quantum Physics for Dummies makes it as easy as it can be made. There are numerous worked-out examples, and everything is discussed in detail. The book makes things clear that so many other books leave you totally in the dark about. I used it to help get my through my college course on quantum physics! If you want to learn quantum Physics, this is the book for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TD75V32570J4"
+                },
+                "Date": "on March 23, 2009",
+                "Helpfulness": 0.9047619047619048,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RFXU3P0XKKF4"
+                },
+                "Date": "on October 17, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31C2USG2U8PNJ"
+                },
+                "Date": "on March 17, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH04Z3X5E9FN6"
+                },
+                "Date": "on April 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "As a math major, I am familar with the math so far (chapter 2). And, so far, there are many typos in the math. If I didn't have some familarity with the subject, I would already be confused by the typos. Not acceptable: do not buy! (Not that I've found a reasonable alternative)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASH0CUR1DNZG8"
+                },
+                "Date": "on March 22, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Yes, quantum physics involves a lot of math, but I feel that Holzner makes the math clear. Each chapter has lots of interesting examples that illustrate its topic. I feel that his coverage really made this subject much clearer. If you're up to it, this is a great start for a very complex learning adventure."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T0ZD0PQEENCI"
+                },
+                "Date": "on July 16, 2010",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TTEJ7RJXNLZZ"
+                },
+                "Date": "on October 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "The main problem with this book is a miserably misleading title.  A Brief Outline of Advanced Quantum Physics would have been better, and probably discouraged many buyers.  I hope that was not the intent of the writer.  And in fact, in tiny print near the front of the book, there is a disclaimer, warning readings to start with his Basic Physics and Workbook series.Too easy to overlook.  And  I have had  basic physics AND two years of calculus, and this book is still poorly organized, and sparsely explained, almost schematic in its brevity when presenting complex ideas critical to understanding the subject.  Where was the editor?  And sloppy.  One example from the first pages,  Chart  1.2, presenting early theories of black-body radiation.  Because of the labeling, it is not even clear where the Raleigh-Jeans Law leaves off and the plotting of the Wein's Law begins.  Of course, if you already know this, you can figure it out, but for others, for us true Dummies, the curve is not clearly defined....even the hyphen gets in the way.  This is just sloppy work, as is the full pages in Ch 2 devoted to one narrow column of the matrix, with little elaboration...just white, wasted space.  There are places where the author really show a capability to explain difficult concepts, but these are buried in a sea of skimpy and rushed explanations.  A lost opportunity!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38AKHUK96FH9F"
+                },
+                "Date": "on July 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "There is clearly an audience for this book as evidenced by the many thoughtful reviews. The authors and editors of this series are congratulated on their ever expanding  series of books on math and physics. You will need a basic understading of linear equations and differential equations to enjoy this book. It would have been helpful for the workbook to include more examples worked out of Eigenvectors, unitary matrices, and  Hermetian matrices . Many of the operator functions would make much more sense if the multiplication were actually worked out. In addition the proofs of the Heisenberg and Schrodinger equations are missing steps. I would encourage Dr Holzner and the editors of the series to consider a second edition of both this book and the workbook.  Chapter 2 of the textbook and the corresponding excercises in the workbook should be markedly expanded to more fully cover all math mentioned above. It would not be difficult to make this a 5 star book.The beauty of this math and physics should be able to be appeciated by many more people. Teaching the math is the hard part. As evidenced by his differential equations workbook Dr. Holzner should be able to rewrite the present texts to be better understood by a wider audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34CLJN82F9NLH"
+                },
+                "Date": "on June 2, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "The book has very good Quantum theory and examples but in some of the derivations important steps are omitted and this can be frustrating. One has to figure out the missing steps oneself or has to look in other books. There are cases where results are shown without derivation. Besides the book has numerous errors in the formulas. At this time I am halfway through the book and have been making the step additions and the corrections with a pencil on the book. The book really has to be revised to make the derivations more complete without missing steps and to correct the errors in the formulas. I intend to finish the book but it will take time because of all the extra time taken in figuring things out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JRO3OXBHF6EE"
+                },
+                "Date": "on October 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "The title indicates `for Dummies' yet the cover of the book says \"prepare for graduate or professional exams\".  I would agree with the latter. If you are interested in a more easier to understand book an Quantum Physics I recommend Alastair I. M. Rae's book called Quantum Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADKZOXAOV8EXD"
+                },
+                "Date": "on March 29, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1STPKHS01PKUG"
+                },
+                "Date": "on April 26, 2010",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "1",
+                "Text": "This book is not for dummies.  It is full of equations from the beginning.  The preface indicates it is written at a college course level and assumes you are knowledgeable about calculus. I wanted to have the concept of Quantum Physics explained in layman's terms.  Therefore, the description of the book on Amazon should state clearly the level of knowledge required for this book.  It really does not belong in the Dummies series."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VQLTLBQVMGDQ"
+                },
+                "Date": "on December 13, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LMVEXA9NS3Z5"
+                },
+                "Date": "on July 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Yes this is a \"for dummies\" book, but quantum physics is one of the hardest, if not the hardest class offered in college period. They can only dumb it down so much. I took physical chemistry 2 which is basically quantum physics applied to chemistry. The book assigned for that course was impossible! And I had no problem reading and understanding my organic chemistry book, but the chapters on quantum physics were rediculous. I had to read things over 3 or more times to understand them. This book is much easier to understand, but the subject matter is still very complicated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IQRVCLTE1606"
+                },
+                "Date": "on September 9, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I like the concept of the book and the general approach to the math, etc.  However, there are numerous typographical errors and quite a few mathmatical leaps. It is sometimes difficult for the reader to know if his failure to follow is due to an error in the text or otherwise.  I recommend the book in spite of these issues because it is the first compact and comprehensible explanation of the math behind the physics that I have encountered."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34A8XZDN48BHF"
+                },
+                "Date": "on January 24, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33K9RK23RW89C"
+                },
+                "Date": "on January 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1I0F4U2HV4ET5"
+                },
+                "Date": "on February 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The only complaint I have these days is the absolute lack of information in our techno systems to write a problem down using the right symbols to explain the theoristic measurements of science, sound, and more.  It was better when there was less compatition in our ranks in computers and programmers.  They are all different and many feel certain aspects are unimportant while others like myself feel they are a necessary to make it as simplistic to explain as possible, even a 4 year old child is able to understand me as I speak about chemistry, why not the same with all sciences."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS5LWW9UPJIV4"
+                },
+                "Date": "on March 12, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": "I was hoping for a conceptual treatment of Quantum Physics whereas this book tends to be very much \"in the weeds\" treatment.  The book would likely serve best in an academic environment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HH1DPK1ASVDN"
+                },
+                "Date": "on August 3, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A58ICO6J7CG2M"
+                },
+                "Date": "on July 6, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This is great! I am so happy that this state of the art information can now be shared and transmitted to us normal people! The ideas behind Quantum Mechanics are fascinating and although it's only a bit older than a century, it is now that it will start revolutionazing the way we think. After a 100 years of existance, it was about time somebody \"popularized\" the information. Thank you Stephen! I am moreless at the beginning of the book and some concepts are hard to grasp on and completely understand, but reading them twice and letting it sink in for a while, makes it all click after a bit. You should know I am more in the arts department and a complete newbie (or \"dummy\") to any scientific field. If you are a complete newbie like me, I recommend that you read the \"Physics for dummy\" book first... if those concepts have settled in, than it should make this one an easier ride. All in all, it is still without a doubt understandable material that requires just a bit more attention than a normal John Grisham novel!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1045HQ629WAND"
+                },
+                "Date": "on July 17, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMEH0TPZD1ZHS"
+                },
+                "Date": "on August 22, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book was more helpful to me taking my Quantum Physics course than the assigned textbook was. It's one of the things that got me a B instead of a C. If it was me teaching the course, this would have been the textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30YEA54ZSM988"
+                },
+                "Date": "on April 24, 2012",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y0EXVNU74VZP"
+                },
+                "Date": "on March 1, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "IN ORDER TO UNDERSTAND THIS BOOK, THERE ARE MANY OTHERS YOU NEED TO BUY AND READ FIRST, LIKE MATH FOR DUMMIES, ALGEBRA FOR DUMMIES, PHYSICS FOR DUMMIES, ............LOL"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8RWU1SH1SXGC"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I highly recommend \"Quantum Physics For Dummies\" by Steven Holzner to anyone taking a first year course on Quantum Mechanics or anyone trying to learn Quantum Mechanics by self-study watching video lectures on iTunes U and YouTube from Stanford University or Oxford University. From state vectors, energy wells, harmonics oscillators, angular momentum and spin, to problems in multiple dimensions and perturbation theory, this book will get you through each area with  clear explanations and examples. Unlike many other supplement books on Quantum Physics, that loose you after the first few chapters, this book does a great job in every chapter, clearly explaining each subject area. I have nothing but high praise for Steven Holzner. He did a great job, making the difficult subject of Quantum Mechanics understandable, a task that few highly recommended textbooks on the subject have been able to do. Forget the few typos and incorrect examples found in the book, that \"experts\" on the subject are so quick to point out. If you are starting out to learn Quantum Mechanics, check this book out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6AQJKPRW1P"
+                },
+                "Date": "on September 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good book and service"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11BO8XS8WS5Q5"
+                },
+                "Date": "on March 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as described"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6VTNAF46YK5Q"
+                },
+                "Date": "on November 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as decribed"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BSYRVI5LECV"
+                },
+                "Date": "on December 29, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Like all the dummy books, it gives basic information that has sometimes been a clincher to getting the question.  However sometimes the info is too basic or vague for my university student needs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFEZW3K4HI7ZM"
+                },
+                "Date": "on March 23, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Obviously this book is not for dummies, you need to know a little about QM and some math but compared to the quantum physics textbooks this book is much easier to understand. You obviously have to know some math if you want to understand any of the topics in quantum physics - even \"dummies\" should know that - but the math is not hard when you compare it to the math in the textbooks and the author does a fantastic job of explaining what the equations mean (physically). This book has been a tremendous help to me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19U2BJOBNGWFC"
+                },
+                "Date": "on May 17, 2009",
+                "Helpfulness": 0.5652173913043478,
+                "StarRating": "2",
+                "Text": "Having an astronomy degree, I'm not exactly a \"dummy\" when it comes to physics, but wanted a refresher on quantum and so bought this book.  I found it very disappointing.  The author skips right over precisely the steps and derivations a \"for dummies\" book should walk you through more carefully.  The book is also plagued by numerous typos in the formulas - in some chapters at a rate approaching one per page.  Some of the errors are inconsequential/easily spotted, but many are significant enough to mislead the reader.  I got the impression the whole book was thrown together in a rush just to fill a hole in the For Dummies catalog."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P5356D1S5UAQ"
+                },
+                "Date": "on March 17, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Quantum mechanics is not a philosophy, it's a branch of physics, and like all branches of physics it uses mathematics as a language. This book is not for the laymen and a quick look inside or even at the cover bullets will tell you that. This book is for dummies like me who are struggling in their QM course. It's really annoying seeing all these negative reviews from people expecting a text on popular science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21O9IKWRQ1YFG"
+                },
+                "Date": "on March 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A stage by stage instruction manual on Quantum Physics for the newbie physicist. Clear and concise guide to the amazing world of quantum."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IEVIVN8JYRTC"
+                },
+                "Date": "on March 12, 2009",
+                "Helpfulness": 0.47619047619047616,
+                "StarRating": "2",
+                "Text": "I have a few \"For Dummies\" titles and find them to be helpful in content and brevity.  This book is a disaster.  In the introductory chapters many important topics are condensed to meaningless \"sound bites\" with no substantive content.  Later topics are rushed with impractical format and loss of purpose.  I want to believe the author is a true expert in physics who was unfortunately derailed by the publisher by cutting the content down to a very (over)condensed matter.  There are much better options for the interested reader including Quantum Mechanics Demystified and The New Quantum Universe by Hey -- the latter is a great book, well illustrated and given a five star review by this reader.  Quantum Physics for Dummies should not have been published as-is, or should have been \"complete\" in reasonable substance, with longer and more meaningful content."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SH47LJ092F88"
+                },
+                "Date": "on May 13, 2010",
+                "Helpfulness": 0.4,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F89VP7V9H8FE"
+                },
+                "Date": "on January 31, 2009",
+                "Helpfulness": 0.45454545454545453,
+                "StarRating": "1",
+                "Text": "If you want page after page of equation after equation this is the book for you. Hopefully you have a graduate degree in physics.  But if you're looking for an actual discussion about quantum physics you'll find no conversation here. True \"Dummies\" will stay away from this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VQVS6VRD3PGS"
+                },
+                "Date": "on May 7, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": "A contradiction!!  Anything but a general overview for novice readers  I want my money back"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z60E0RV5B1I5"
+                },
+                "Date": "on February 3, 2009",
+                "Helpfulness": 0.4074074074074074,
+                "StarRating": "1",
+                "Text": "I wish I had seen Ian Percy's review prior to getting this book. I agree with him completely. This book has no business being in the Dummy series. It makes no attempt at using language."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Physics-Dummies-Steven-Holzner/product-reviews/0470381884/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "46"
+    },
+    "Salesrank": "#207,113",
+    "Timestamp": "2015-05-24 12:49:37.877872",
+    "itemurl": "http://www.amazon.com/Quantum-Physics-Dummies-Steven-Holzner/dp/0470381884"
+}

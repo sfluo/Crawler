@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Plasma Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.45",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OWS5IIWGC2RX"
+                },
+                "Date": "on May 25, 2013",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Plasma-Physics-Dover-Books/product-reviews/0486498654/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#317,625",
+    "Timestamp": "2015-05-24 12:28:47.731408",
+    "itemurl": "http://www.amazon.com/Plasma-Physics-Dover-Books/dp/0486498654"
+}

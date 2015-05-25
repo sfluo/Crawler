@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Charged Particle Beams (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$32.85",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11FKE22W8GAPW"
+                },
+                "Date": "on December 16, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Humphries pulls out all the stops with this book. A must have for particle physicists."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Charged-Particle-Beams-Dover-Physics/product-reviews/0486498689/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#922,365",
+    "Timestamp": "2015-05-24 12:43:08.902625",
+    "itemurl": "http://www.amazon.com/Charged-Particle-Beams-Dover-Physics/dp/0486498689"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "On Growth and Form: Fractal and Non-Fractal Patterns in Physics (Nato Science Series E:)"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on March 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Before perusing this series of 1985 lectures on fractals, I was not aware of the wide range of applications.  The applications include dendritic crystal growth, epidemics, cellular automata, crack propagation, polymers and colloidal systems.  Of particular interest to me was the lecture by R. C. Ball of the Cavendish Laboratory on diffusion-limited aggregation, which used the formation of snowflakes as an example.  I also found the discussion of scale invariant diffusive growth by T. A. Witten III of Exxon to be of interest."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Growth-Form-Fractal-Non-Fractal-Patterns/product-reviews/0898388503/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,964,742",
+    "Timestamp": "2015-05-24 15:48:30.201262",
+    "itemurl": "http://www.amazon.com/Growth-Form-Fractal-Non-Fractal-Patterns/dp/0898388503"
+}

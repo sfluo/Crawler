@@ -1,0 +1,747 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.99",
+    "Name": [
+        "The Quantum Universe: (And Why Anything That Can Happen, Does)"
+    ],
+    "OfferPrice": "$14.35",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN89MYMWS3FI8"
+                },
+                "Date": "on January 31, 2012",
+                "Helpfulness": 0.9291338582677166,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALRQYRWQ7LRQ3"
+                },
+                "Date": "on February 5, 2012",
+                "Helpfulness": 0.90625,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DKBKTJNRO56X"
+                },
+                "Date": "on February 12, 2012",
+                "Helpfulness": 0.9117647058823529,
+                "StarRating": "3",
+                "Text": "The book is good, but the Kindle edition is not. The equations appear fuzzy and with low contrast, there are references to pages in the text, but the Kindle edition does not contain pages (only positions), the Index does not contain links and is completely useless, some images cannot be enlarged enough to be readable (problem inherent to the Kindle images)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JUKS0DSO2XZG"
+                },
+                "Date": "on February 14, 2012",
+                "Helpfulness": 0.9629629629629629,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G8L4U5W9XMEI"
+                },
+                "Date": "on April 19, 2012",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15FMSQIZG8FYR"
+                },
+                "Date": "on February 15, 2012",
+                "Helpfulness": 0.9,
+                "StarRating": "3",
+                "Text": "My first problem with this book is the \"clocks\" - an analogy that is used throughout the book. They were OK at first, but the authors continue to drag them back into the narrative. And unfortunately for Kindle readers, the clock images are always several \"page forwards\" from the text they relate to. You cannot expect digital readers to page forward and backward to see the figures you are describing. This is my last non-fiction book on Kindle."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EHBEPBSJQLP0"
+                },
+                "Date": "on February 26, 2012",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GSFJSS7QQDK9"
+                },
+                "Date": "on February 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book performs a curious balancing act. It is a broad look at a range of quantum physics phenomena aimed at a general audience, but it actually tries to explain the details of what's happening. And, miraculously, it does so in language and mathematics that should be accessible to a bright high school student with a background in algebra and geometry. A degree in physics isn't needed ... but the book is a little weighty for the completely uninitiated. Still, if you are comfortable with detailed discussions of science - perhaps with a mathematics or engineering background - then this proves to be a good bridge into a basic understanding of quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW7LKNC6RD93P"
+                },
+                "Date": "on March 24, 2012",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADTY4BRCH4489"
+                },
+                "Date": "on March 25, 2012",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "3",
+                "Text": "This book is way beyond the typical popular science (i.e., significantly dumbed-down) text.  It's well written, and the subject matter is, of course, fascinating, but the book should be on a list of supplemental readings for a college course in physics -- it is not aimed at even the average/intelligent layperson.  The problem is that the subject matter is inherently challenging, and while the authors go to great lengths to bring concepts \"down\" to the level of the non-physics student, the effort is pretty much of a failure.  I still learned a lot about the broad concepts addressed, but presenting this book as popular science reading for the masses borders on negligent, if not intentional, misrepresentation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RKTYBWHIUD02"
+                },
+                "Date": "on May 17, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14BTJRH9VNLJJ"
+                },
+                "Date": "on September 29, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H51P1OPMC4UF"
+                },
+                "Date": "on July 13, 2012",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": "I read the Kindle version. Many of the diagrams and pictures are difficult to view due to the eBook format of the text. Since several other reviews have gone into great detail with the pros and cons, I'm going to keep this short and to the point. I'm familiar with Brian Cox from his television appearances, and I have enjoyed watching several of the science programs he has hosted. I have a layman's interest in science, physics, astronomy, etc., etc. I am definitely not a mathematician. I was interested in this book as I thought it was directed at a general audience. However, approximately half of the book delves into the sophisticated mathematical calculations behind the quantum physics that is being discussed. On the one hand, I stuck with it. The non-technical sections are very coherent, straightforward and easy to read. When the authors are not delving into the hardcore mathematics, the historical and philosophical aspects of how all that is known today about modern physics was arrived at by the great theoretical physicists of the past and et al, are very interesting. For myself, a book that in its entirety covered the subject matter at this general level would have been perfect. As it is, half the book went well beyond the scope of my interest. This text is probably most suitable for mathematics students who are considering delving into higher level physics and desire a thorough understanding of the founding principles of quantum theory along side the relevant step-by-step mathematics lessons. As for me, I skipped a lot of pages and just read the general information that I found most interesting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R5QELPJS73A4"
+                },
+                "Date": "on March 23, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "I've gone through a dozen lay-person books on  quantum theory and particle physics and have to give Cox and Forshaw a grade C.  This, for several reasons: the use of clocks to equate the wave and particle aspects is carried to tedious lengths (and anyway, Feynman did it better in QED); the energy level of electrons chapter is sketchy and lacks a good foundation; the math, such as it is, needs to be eliminated or given more explanation. The book did not live up to the reviews.  Oerter, Marburger, and Schumm did it better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHK4MS7ISZI6B"
+                },
+                "Date": "on May 6, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y9YEV0K9G087"
+                },
+                "Date": "on January 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1I3U97KUPQB7M"
+                },
+                "Date": "on April 10, 2012",
+                "Helpfulness": 0.72,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMRZ5G7HF7I03"
+                },
+                "Date": "on January 31, 2012",
+                "Helpfulness": 0.7222222222222222,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J8LGXF612LLD"
+                },
+                "Date": "on March 8, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31L27U63Q3LXW"
+                },
+                "Date": "on May 28, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW6DCQLX2MS0"
+                },
+                "Date": "on April 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I consider myself to be pretty much a dummy where science & maths are concerned but, after enjoying Professor Cox's Wonders Series, I decided to try to get a handle on the Quantum World. I read this book after reading the previous \"Why Does E=mc2?: (And Why Should We Care?)\". Thanks to them, I believe that I now have a basic understanding. While most of the maths was beyond me, It was not a drawback as the underlying meaning and implications of concepts are clearly explained and built up, step-by-step, to give a fuller picture of the strange Quantum world. It is not a dry academic work. The style and structure of the book made the subject accessible to me, and I believe that readers with a good grasp of mathematics will get much more from it..I would recommend this book to anyone who is curious about the Quantum world but thinks that the subject is impenetrable. For me, the authors have shown that it is not."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASXWWMI45MH9E"
+                },
+                "Date": "on March 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE3IWXZC9XVDM"
+                },
+                "Date": "on January 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BGHUZJSTPEUV"
+                },
+                "Date": "on May 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Quantum physics is the closest thing we have to magic, and the author breaks the pieces into managable bites.  I recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD8VKY1QD5I8T"
+                },
+                "Date": "on November 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "First book I've read on quantum physics. The math was simple and even though some of the concepts are hard to wrap your head around, the author does a good job of explaining them"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GLNCKCV8OH0N"
+                },
+                "Date": "on March 13, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P222CN9HAPTF"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DYSYCFMD9UPV"
+                },
+                "Date": "on December 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIDMCRFY7ASHI"
+                },
+                "Date": "on November 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUXXM501IHILL"
+                },
+                "Date": "on November 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you are interested in learning about this topic with limited knowledge this is the book for you. The authors break down things with amazing analogies that really help understand what they are talking about. Very fascinating."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M5JJLD808107"
+                },
+                "Date": "on September 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I struggle to understand this, even though I've read elsewhere about the subject matter.  I think the other material I've read is more understandable, even though maybe pitched to a more sophisticated audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K1VS37Z3CBVF"
+                },
+                "Date": "on November 14, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WU2GH2HFC7D2"
+                },
+                "Date": "on November 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RSB7ZGV2TDNT"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A385YXFXYFGEFG"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A good book that gives a fine flavor to quantum thinking and theory, but you must be able to understand some intermediately advance math, or you must be willing to skim over the math and enjoy the verbal explanations. I'm in the latter category, so there were times when I ignored a few paragraphs here and there that explained the math. But I did come away with a deeper understanding of quantum theory and why the universe works like it does. One formatting problem: the illustrations in the Kindle edition, which include quite a few equations, are not very legible (I have an older basic Kindle)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A290HB7NK0MV3G"
+                },
+                "Date": "on December 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Quantum mechanics (or electro dynamics) is introduced almost from scratch, where the mathematics introduced is helpful in understanding. Rather than just introducing, it tells the story of the discoveries involved by Rutherford, Planck, Einstein, Bohr, Heissenberg, Schrodinger, etc. It contains the wittiness associated with Brian Cox, which keeps the tone light. After reading other popularising books about this subject, this is a welcome addittion because of its approach."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MX96YM4NT6HT"
+                },
+                "Date": "on May 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The title of this book suggests a light romp through quantum mechanics (the little dog on cover), but it is a challenging but rewarding read free of any new age philosophy found so often in books on this subject. This is an excellent overview of what we actually know; don't be scared of by the math, because the book can be read skimming these technical parts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LM5IMFE0A694"
+                },
+                "Date": "on March 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm one more of those not-scientists who have become interested in Quantum Physics. Who knows why but I  find it fascinating. This book has helped me to understand concepts since it is written in such a way that even people like me can \"get it\""
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G8K95KM6RP0J"
+                },
+                "Date": "on December 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Cox can be convoluted, but stick with him and he will deliver an explanation. He loves his subject and that draws you in. The difficulty lies in that not all cosmological mathematical explanations have a physical analog. It can be mind bending."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39OO1C3KZKM05"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "A little heavier than I expected so slow going. Nevertheless, it was very well written. Quatium Mechanics is counter intuitive but obviously it is the way nature works."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37KE9OUTX1SFN"
+                },
+                "Date": "on October 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The amazing life of the atom and us humans. The explanation of how the transistors were developed and what we carbon elements have been able to understand. It is truly an amazing adventure."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAZDVS1EWZOPL"
+                },
+                "Date": "on September 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It was extremely interesting. The subject is extremely confusing an they do a pretty good job explaining it. However, it seems to be for those who don't remember much from high school science. I on the other hand am a science student in college and felt like a third of the book was reviewing scientific principles that I already have a firm understanding of which got boring and tedious. All in all I liked it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QHHQM4XW5L6E"
+                },
+                "Date": "on September 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent book that takes on the difficult task of decribing the quantum world and the nature of the electron and light. A tribute to the work of Richard Feynman."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16Y34PNVWN3CK"
+                },
+                "Date": "on August 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X95S5KJO2L5K"
+                },
+                "Date": "on March 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Thanks Brian for another great book.  The math was a little advanced for me, but I loved reading about the quantum world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16NRDJ7D5QX7M"
+                },
+                "Date": "on January 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SGI3PVJPSWMH"
+                },
+                "Date": "on January 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I found the subject inspiring and in depth, it is difficult to stop listening as a matter of fact I am still listening to it"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AR1D23JRPBWH6"
+                },
+                "Date": "on October 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Physicist Brian Cox and Jeff Forshaw make the weird world of Quantum Physics accessible to everyone. Entertaining and well written. For anyone who want's to learn the latest views on how the Universe works, this book would be a good start!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15F9XZ9ZCOT3K"
+                },
+                "Date": "on January 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A very good way of presenting much of how the quantum world works.  If one reads and rereads, taking it slowly and not letting the comfortable prose lull the reader into going too fast, there's a wealth of information here that is presented in an understandable way.  Well worth having and rereading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SY10RQA8MEEX"
+                },
+                "Date": "on January 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PLC52CEL16QC"
+                },
+                "Date": "on May 4, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ76YPZ6FDQPX"
+                },
+                "Date": "on July 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A04959272AUPG8OSW4TK6"
+                },
+                "Date": "on March 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is only for those well educated in math and even then  it would be a stretch to say you understood even half.But it is still worth the effort togo as far with it as you can"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM23Y1NU0VFGW"
+                },
+                "Date": "on April 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's difficult to find book relating to Quantum Mechanics that include the maths. This book truly struck gold and is the perfect book for a beginner Quantum Mechanic ;D"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q5KV5M0MEMH3"
+                },
+                "Date": "on April 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excelent. Allows for a deep understanding of basic ideas without demanding a high level in maths."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TRAUS9B2OD5R"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Best book I have read in my life. If you like the subject, this the bible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PWCOTLFTGNJD"
+                },
+                "Date": "on April 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "really interesting and easy to understand read. great service. thanks!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QS2OSW6I0ULA"
+                },
+                "Date": "on February 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My grandson loved this book.  A little over my head."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24K9YKPX7XF2N"
+                },
+                "Date": "on July 2, 2013",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "2",
+                "Text": "I have read \"Why does E=mc2\" by Brian Cox, and I thought that this book could be as entertaining and educational.  However, I found this book to be at times very difficult to understand.  They jump from one subject to another very rapidly loosing continuity, and often leaving the reader wonder why they could not be a little more organized.  If I read a book for a second time it is because I liked it.  If I read this book for the second, and third time, it will be because I am trying to understand their point."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28CQJB08KOS8"
+                },
+                "Date": "on June 3, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I have since a long time evinced interest and curiosity in the subject of quantum mechanics/dynamics. This book does satisfy my interest and curiosity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K88S2R36PBFY"
+                },
+                "Date": "on October 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANG8DLE5A4ZT0"
+                },
+                "Date": "on March 28, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This a superb book. Excellent explanations. Nevertheless, page 74 displays a profound misunderstanding of quantum mechanics. Cox calculates it would take over a thousand times the age of the Universe,i.e., 14 trillion years for the grain of sand to hop out of a 3 cm matchbox. Therefore he says it won't happen. Wrong! Whatever can happen will happen and there is no law of physics that prevents this. It absolutely will happen. It will just take 14 trillion years, which is not the same as never. Or to put it another way, if you had 14 trillion grains of sand in 14 trillion match boxes, it would happen in a year. Quantum mechanics is indifferent to whether you use more time or more sand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DAG312SUWTMM"
+                },
+                "Date": "on May 10, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Of the many interacting components explained, the following links progress. Albert Einsteins quantum mechanics photo electric effect was explained. Photo electric effects are the heart of the quantum foundation theory. As energy of the photon depends on color, not light brightness when projected in a stream of particles. Feynman and contemporaries went further with QED Quantum Electro Dynamics. This is where light behaves like particles. It explains outside the nucleus and excepting gravity. This is the interactions of matter and particles with one another, via the electromagnetic force. That drives all physics, chemistry, and physical science. Particle accelerators have been built since the late 1920's to create unseen particles. Theories say, the gluon should exist which carries the strong force. This is explained by the equation E equals mc squared. This means mass and energy are interchangeable, the secret to creating new particles. Science is about exploring and the only way to uncover the secrets of the universe is to go and look. I own a copy of this book. It is a perfect update for one element of astrophysics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VQCW2E1DLTRT"
+                },
+                "Date": "on March 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. I dig it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFPNVP4F0PMU0"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARUL8O0O3B5C7"
+                },
+                "Date": "on March 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Easy to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AL2731M766SKG"
+                },
+                "Date": "on April 8, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book contains loads of activities that can be used for all secondary age groups, and even higher ed/college. I use them for both English Composition 1 and 2. Innovative - not the same boring stuff that's been around for years. There are specific activities for students who are gamers, Facebook users,...so they can relate to the material. Time frames for activities are shown, as well as samples and templates. Really loved this book,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A234HDCV5GBCFR"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Did the author give up to explain in simple words? It sometimes seems to be full of messy, mathematical expressions than 'Why does E=mc2?'."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXKEW37AZ2E0E"
+                },
+                "Date": "on March 24, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LEWOQLTSUM46"
+                },
+                "Date": "on September 6, 2013",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "2",
+                "Text": "I have a honors B.Sc. in applied mathematics about 45 years ago but recently joined an astronomy club where a lot of talk is about cosmology and quantum mechanics. being extremely rusty I started reading some lay person books to get up to date on the latest ideas without going through all of the maths. I found this book condescending and vague. the explanations in terms of clock faces I became so fed up with I was skipping sections just to alleviate the boredom. They chose either words that are not in common usage or phrases that are not in common usage to explain topics. This I found to be a sign of \"look at us and how clever we are\". Although I learnt some things about Quantum mechanics early in the book, as the book progressed I found that they had less and less to contribute to any meaningful discussion about Quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25GE208FVQH1S"
+                },
+                "Date": "on July 21, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "I  believe that what the authors are doing here is to portray the rigor of the maths involved and how those maths help to prove certain ideas about sub-atomic energy. For those who are not proficient in math (I have had a few college level courses, which I passed but did not much enjoy) this can be a bit tedious.  But it seems to be the main purpose of the book as opposed to conveying what it all means. After all, scientists have widely differing opinions on what it all means.  For myself I would prefer to read 5 shorter books with 5 different attempts to bring QM to life,  than to read this book which simply gives a sense for how all the maths work.  I am sure there are other insights in the book, but I had either already heard them, or I didn't freakin understand them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN8BVKNIX37HY"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I like Kathy stuff but I guess  I was out if sorts when I read this one. Maybe a revisit is needed later..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19HRACDDCP9DD"
+                },
+                "Date": "on November 26, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "new as stated and delivered fast"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JCQ0AK557XKP"
+                },
+                "Date": "on July 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "wont play 0n my computer"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2531A8IAYO9MJ"
+                },
+                "Date": "on September 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Wonderfull"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1P3DKC0XBC6UG"
+                },
+                "Date": "on May 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I got this book to help me understand quantum mechanics. I have two degrees in math. This book did not help in teaching me the fundamentals of quantum mechanics. It tried to use humor to glass over its lack of creativity in actually teaching the subject. I'll try Feynman."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAE2DUEMTR30I"
+                },
+                "Date": "on May 23, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NXB0IU8GO28M"
+                },
+                "Date": "on October 26, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28ZSMOCQID5SE"
+                },
+                "Date": "on November 1, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "Boring to have clock example as the key to explain uncertainty. Lacks imagination. On solving the equations, I would have loved to seen it well defined and together."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYE27F11K5DM7"
+                },
+                "Date": "on June 14, 2012",
+                "Helpfulness": 0.24242424242424243,
+                "StarRating": "1",
+                "Text": "The notion of the multiverse is pure speculation and does not qualify as evidence-based science. Readers who don't want to think too much will be captivated, but they and the authors would do well to read Richard Tolman's treatise on statistical mechanics as a homework assignment. Thank God Tolman is a clear thinker; one would be hard-pressed to say the same of Cox and Forshaw. Tolman uses the phrase \"without proof, as a necessary postulate\" to discuss the line of thinking behind quantum theory, but the vast majority of scientists appear not to understand what he means. (Feynman was the Tolman Professor at Caltech.)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Universe-Anything-That-Happen/product-reviews/0306821443/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "81"
+    },
+    "Salesrank": "#90,665",
+    "Timestamp": "2015-05-24 13:32:48.463312",
+    "itemurl": "http://www.amazon.com/Quantum-Universe-Anything-That-Happen/dp/0306821443"
+}

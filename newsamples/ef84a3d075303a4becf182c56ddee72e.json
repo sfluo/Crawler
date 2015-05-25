@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Molecular Quantum Electrodynamics (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14R6M2RVHUGU7"
+                },
+                "Date": "on December 30, 1999",
+                "Helpfulness": 0.7916666666666666,
+                "StarRating": "5",
+                "Text": "An absolutely excellent book, a must for anybody seriously studying the interaction of electromagnetic fields with molecules. Very clearly written, totally self-contained, a rare treausure"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I totally agree with the other reviewer: this is a treasure. If you want to understand what quantum electrodynamics is all about in practice, whether you are studying quantum chemistry or molecular physics or not, this is your book. It is a very nice companion volume to anyone studying advanced quantum mechanics and QED for the first time.  A caveat, though: the treatment is noncovariant, so maybe people interested in high energy physics may find it \"boring.\" Otherwise, highly recommended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K3K8O3MVORGE"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book is good, but trying to go through it linearly would be difficult. Also, I'm not sure how one with a background in chemistry could get through this. It is generally pointed to a physicist interested in chem phys. I would recommend this to a student have a strong background in EM fields, QM, and some basic understanding of quantum optics or even QED from a treatment such as that by Greiner."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Quantum-Electrodynamics-Dover-Chemistry/product-reviews/0486402142/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,175,896",
+    "Timestamp": "2015-05-24 15:15:29.788670",
+    "itemurl": "http://www.amazon.com/Molecular-Quantum-Electrodynamics-Dover-Chemistry/dp/0486402142"
+}

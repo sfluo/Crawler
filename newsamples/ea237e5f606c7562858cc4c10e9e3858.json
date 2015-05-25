@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$179.00",
+    "Name": [
+        "Radar Interferometry: Data Interpretation and Error Analysis (Remote Sensing and Digital Image Processing)"
+    ],
+    "OfferPrice": "$129.70",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHMFSHSJ3SII1"
+                },
+                "Date": "on January 31, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "In the field of remote sensing and digital image processing this book can provide general high level data interpretation. One drawback for an experienced signal processing reader is the fact that it is rather theoretical than practical. I would recommend this book as a preliminary reference to my signal processing systems engineers."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Radar-Interferometry-Interpretation-Analysis-Processing/product-reviews/9048156963/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,806,342",
+    "Timestamp": "2015-05-24 15:43:41.127921",
+    "itemurl": "http://www.amazon.com/Radar-Interferometry-Interpretation-Analysis-Processing/dp/9048156963"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$10.95",
+    "Name": [
+        "Thermoelectricity: An Introduction to the Principles (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$9.86",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MWYRG13GD7ID"
+                },
+                "Date": "on June 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A very light and well explained review on the thermoelecric principles and hystory. Clear and well constructed. Ideal for young researcher and also for undergraduate students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermoelectricity-Introduction-Principles-Dover-Physics/product-reviews/0486453049/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#750,203",
+    "Timestamp": "2015-05-24 12:38:55.889650",
+    "itemurl": "http://www.amazon.com/Thermoelectricity-Introduction-Principles-Dover-Physics/dp/0486453049"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$48.60",
+    "Name": [
+        "Physics for Scientists and Engineers: A Strategic Approach, Vol. 2 (Chs  16-19) (3rd Edition)"
+    ],
+    "OfferPrice": "$40.08",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HAQET7GKGCFZ"
+                },
+                "Date": "on May 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good examples, helpful chapter review pages"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/product-reviews/0321753186/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#220,471",
+    "Timestamp": "2015-05-24 12:51:59.307916",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0321753186"
+}

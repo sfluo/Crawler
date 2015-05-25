@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Recursive Universe: Cosmic Complexity and the Limits of Scientific Knowledge (Dover Books on Science)"
+    ],
+    "OfferPrice": "$14.68",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKJM7XBEQFELX"
+                },
+                "Date": "on September 13, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book covers the topic of mathematical complexity and how it develops in the physical world. It was written decades ago and has been surpassed with new research. However it is a good introduction. I would recommend reading it but realize the more recent stuff has the advantage of more findings that may not have been available at the time of this books writing. The subject is fascinating and Poundstone writes other good popularizations of applied math like \"prisoner's dilemma\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FGFST9GHK72X"
+                },
+                "Date": "on October 13, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Stimulating discussion of epistemological implications and limitations of various sophisticated philosophical and mathematical concepts. Thoughtful treatment of complex, abstract concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CP6NLT754S8A"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This book explains the complexity of our Universe by using Conway's Game of Life to show how massive complexity emerges from simple recursive rules.  Understanding this book will change the way you view the Universe and it's complexity.  I keep referring back to it and rereading certain sections.  The author doesn't spell out these conclusions, he lays out the foundations and allows the reader to formulate his/her own theories.  I hope he writes a sequel to this book incorporating some of the new discoveries of physics and cosmology."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NJI8H9BO6XE7"
+                },
+                "Date": "on January 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent book. I read it years ago - long before this Dover edition was published. It had a profound effect on the way I think about the universe - how things work at the most fundamental level and how this foundation could have led to things like plant-&-animal life and evolution."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWLHKTW699QPL"
+                },
+                "Date": "on February 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I have been thinking for day about the fundamental question: is it possible to extract complexity from simplicity? This book, through the use of simulation answer affirmatively: you can do it if you use recursion... and if you allow for randomness to create a simple computer to you... a fascinating read on how information theory could be the grand unified theory that physics has been searching for"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Recursive-Universe-Complexity-Scientific-Knowledge/product-reviews/048649098X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#133,256",
+    "Timestamp": "2015-05-24 13:40:14.761592",
+    "itemurl": "http://www.amazon.com/Recursive-Universe-Complexity-Scientific-Knowledge/dp/048649098X"
+}

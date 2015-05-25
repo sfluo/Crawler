@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$150.00",
+    "Name": [
+        "Soil Water Dynamics"
+    ],
+    "OfferPrice": "$122.18",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35QX6AODEGZ8H"
+                },
+                "Date": "on December 17, 2009",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a great book that is very complicated and takes a bit of reading and a whole lot of math to figure out.  It is a good book and is a pretty good text on Soil Water Dynamics.  Is a great companion to a Soil Physics book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Soil-Water-Dynamics-Arthur-Warrick/product-reviews/019512605X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,985,276",
+    "Timestamp": "2015-05-24 15:55:44.101564",
+    "itemurl": "http://www.amazon.com/Soil-Water-Dynamics-Arthur-Warrick/dp/019512605X"
+}

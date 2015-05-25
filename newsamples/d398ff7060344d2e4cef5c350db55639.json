@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$75.95",
+    "Name": [
+        "Exploring Quantum Physics through Hands-on Projects"
+    ],
+    "OfferPrice": "$65.80",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EWTIIGBL7VM"
+                },
+                "Date": "on March 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ABJD1YWL40S"
+                },
+                "Date": "on March 30, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OBA3BSRN5Z2H"
+                },
+                "Date": "on March 12, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RY1PU08KX2YF"
+                },
+                "Date": "on November 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Amazon addressed the printing formats and binding.  Book is now well made.  Project descriptions and diagrams are well laid out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LV4X35A6G5I6"
+                },
+                "Date": "on February 9, 2013",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "2",
+                "Text": "We just received this book and the information looks interesting.  However, the book will be returned due to the cost and the very poor quality of the book material and binding.  We paid nearly sixty dollars and upon receipt the binding was already coming undone.  Not because someone else abused the book, it is simply poorly manufactured.  Also, the paper is very thin and of poor quality as it has a wrinkly/wavy appearance to the paper.  Since this is a book for hands-on experimentation, it would be hard to have it open while performing a project and would be difficult to copy a page or two since the book is small and the margins are small.  For a well known publisher of informative texts, Wiley has done a very poor job with this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW4GC20Q3F1ZA"
+                },
+                "Date": "on February 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GUPDZ1V4Q8E7"
+                },
+                "Date": "on March 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a retired electrical engineer and student of physics I found Exploring Quantum Physics through Hands-On Projects totally absorbing. I believe I could set-up and operate most any of these experiment-demonstrations. Since there are significant (on my budget) costs involved to many of these experiments I choose to live through each of the set-ups and demonstrations vicariously. However, since the level of buildup is so well detailed I may use some of the instructions to build equipment for other uses."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N7P5QWMXG758"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J0ZZPEN3ZEC5"
+                },
+                "Date": "on December 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you find that lots of equations make your head hurt, but you do like to tinker with genuinely mind-bending aspects of the physical world, then this book is a great way to dive head first into the quantum realm. While this is DIY, it is not for beginners. Some experience with electronics is necessary to get the most of this workbook. But it's well worth it for those who like to test reality rather than take someone else's word for it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DGJVGTOE563T"
+                },
+                "Date": "on June 30, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVVHQR48M82J4"
+                },
+                "Date": "on September 28, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is a lot of fun for somebody that enjoys electronics and physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exploring-Quantum-Physics-through-Projects/product-reviews/1118140664/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#490,563",
+    "Timestamp": "2015-05-24 13:24:52.182175",
+    "itemurl": "http://www.amazon.com/Exploring-Quantum-Physics-through-Projects/dp/1118140664"
+}

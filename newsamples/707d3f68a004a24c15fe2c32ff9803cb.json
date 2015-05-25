@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$73.95",
+    "Name": [
+        "Fundamentals of Quantum Chemistry, Volume ., Second Edition (Complementary Science)"
+    ],
+    "OfferPrice": "$68.14",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on May 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ORG7308ZE7SF"
+                },
+                "Date": "on December 17, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a very thorough book, but it still needs some deeper and more intuitive explanations behind the formulas and so on.  I'm glad the book was written, because there's really no other book like it and it's much needed, but it still needs to be better to really live up to its purpose."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Quantum-Chemistry-Complementary-Science/product-reviews/0123567718/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,648,943",
+    "Timestamp": "2015-05-24 15:20:57.215547",
+    "itemurl": "http://www.amazon.com/Fundamentals-Quantum-Chemistry-Complementary-Science/dp/0123567718"
+}

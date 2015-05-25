@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Little Books of Big Ideas Physics: Calculus for AP Physics C and Beyond"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7JEYFSKE91NL"
+                },
+                "Date": "on June 22, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UMBHM6R5AEW5"
+                },
+                "Date": "on October 13, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FXC690S4KAQC"
+                },
+                "Date": "on October 11, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "This book is basically a rehash of the material in the AP Physics C by the same author.  It is not worth the money I paid."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Little-Books-Big-Ideas-Physics/product-reviews/141382210X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,139,410",
+    "Timestamp": "2015-05-24 13:02:14.099503",
+    "itemurl": "http://www.amazon.com/Little-Books-Big-Ideas-Physics/dp/141382210X"
+}

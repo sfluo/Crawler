@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Mammoth Book of Vintage Science Fiction: Short Novels of the 1950s (The Mammoth Book Series)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MC5IOX5OPF4X"
+                },
+                "Date": "on December 28, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/product-reviews/088184621X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,218,667",
+    "Timestamp": "2015-05-24 23:35:41.934169",
+    "itemurl": "http://www.amazon.com/Mammoth-Book-Vintage-Science-Fiction/dp/088184621X"
+}

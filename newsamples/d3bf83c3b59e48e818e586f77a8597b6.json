@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.00",
+    "Name": [
+        "Student Solutions Manual Volume 2 for Essential University Physics"
+    ],
+    "OfferPrice": "$14.97",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PGV5BBH4WPZO"
+                },
+                "Date": "on February 19, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This is a good study tool, wish it incorporated more than just the odd numbers but it is what it is; the content that is in the manual is helpful as well as descriptive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOD4VWOL4050U"
+                },
+                "Date": "on June 19, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I always buy the student solutions manual for every math and science class that I take.  This solutions manual in particular is one of the best that I have ever seen.  It has extremely thorough, step-by-step solutions to every odd-numbered problem presented in the textbook.  I can't imagine taking a Physics class without it's accompanying solutions manual!  This is definitely a MUST HAVE."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HXZ3XR50IQV6"
+                },
+                "Date": "on August 9, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book arrived very fast and was in very good condition for a used book. I am very satisfied with this purchase."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Essential-University-Physics/product-reviews/0805304053/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,094,469",
+    "Timestamp": "2015-05-24 13:35:49.520556",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Essential-University-Physics/dp/0805304053"
+}

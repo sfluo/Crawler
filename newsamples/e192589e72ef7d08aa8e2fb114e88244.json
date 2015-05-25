@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.60",
+    "Name": [
+        "Student Solutions Manual for Quantum Chemistry and Spectroscopy"
+    ],
+    "OfferPrice": "$13.00",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15EO7RIXSL4QP"
+                },
+                "Date": "on January 5, 2010",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "1",
+                "Text": "This solutions manual only shows several solutions of the questions from the book. These solutions are available online if you own the textbook. Therefore, this is a waste of money."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CR03SWQK8IFS"
+                },
+                "Date": "on January 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I found this text to be very helpful with some problems.  It would be nice if it were more complete (had all worked problems), but it had a fair amount and the solutions could be used on other problems that were just stated differently or used other approaches to the same type of problem.  Depending on your level of understanding will determine how useful this book is to you.  I definitely found it helpful and would recommend buying it with the book!  Also I did not find anywhere online where the solutions are if you own the book, I even used the online simulation site."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Quantum-Chemistry-Spectroscopy/product-reviews/0321616189/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,608,858",
+    "Timestamp": "2015-05-24 15:26:33.268049",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Quantum-Chemistry-Spectroscopy/dp/0321616189"
+}
