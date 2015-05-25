@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Applied Optics and Optical Design, Part One (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.51",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J6V9YJ7YJQ1A"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "There are too many mathematical details to suit me.  I want to understand the pluses and minuses of various astronomical telescopes, but I don't want all the math behind why.  This book is meant for someone who wants to design telescopes and other optics.  I just want to look through them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T6PJJHXMTSLT"
+                },
+                "Date": "on October 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Enjoy doing business... Sells quality products..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VVFBWR1ALHPF"
+                },
+                "Date": "on October 28, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "useful"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applied-Optics-Optical-Design-Physics/product-reviews/0486670074/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#976,672",
+    "Timestamp": "2015-05-24 12:45:59.232171",
+    "itemurl": "http://www.amazon.com/Applied-Optics-Optical-Design-Physics/dp/0486670074"
+}

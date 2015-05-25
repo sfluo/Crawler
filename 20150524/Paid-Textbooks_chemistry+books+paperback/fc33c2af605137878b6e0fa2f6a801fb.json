@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Pushing Electrons: A Guide for Students of Organic Chemistry"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXUSN6XLQS2DP"
+                },
+                "Date": "on December 9, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "useful as a supplemental practice resource for the basic introduction of concepts covered in orgo I. each section seems designed to create a solid foundation on which students can build as they cover more advanced material. a useful investment of time. this 1995 version is still very relevant - the basic concepts of ochem covered in this book have not changed since then."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHI49WQKKT8KU"
+                },
+                "Date": "on March 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Mr. Weeks is an excellent writer, combining enough theory with gobs of practice problems. The student of organic chemistry will come away with a clearer understanding of reaction mechanisms by an understanding of pushing electrons that his book provides. I highly recommend this book if you want to learn how the flow of electrons in a reaction leads from reactants-to-products. Well done, Mr. Weeks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36H6R9HH1GT01"
+                },
+                "Date": "on December 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "needed this for o chem and this is the 1995 version and yet its the EXACT same as all the newer versions. good price"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XM7P04LB293"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Cheap and Effective"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Pushing-Electrons-Students-Organic-Chemistry/product-reviews/003011652X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,286,935",
+    "Timestamp": "2015-05-24 15:26:25.494395",
+    "itemurl": "http://www.amazon.com/Pushing-Electrons-Students-Organic-Chemistry/dp/003011652X"
+}

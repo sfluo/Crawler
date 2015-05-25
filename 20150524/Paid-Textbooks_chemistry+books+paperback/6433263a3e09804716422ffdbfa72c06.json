@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.47",
+    "Name": [
+        "Spectrum: A Communicative Course in English (Workbook 1)"
+    ],
+    "OfferPrice": "$13.57",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXACQD9QTQ58K"
+                },
+                "Date": "on June 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've been teaching with this system since the end of the 90s, it's a wonderful system to teach people to speak English FAST.  Too bad it's getting outdated and they never upgraded it.  Still, it's the best method I've ever used, and I've been teaching English since the beginning of the 80s."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10FCFYBWIMXLK"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This workbook, and the associated Student Book, is wonderful. I've been teaching English to Japanese in Japan since the mid-eighties. I've used other books, all of which were disappointing in one way or another. This book engages adult students and does not insult them with kiddie stuff. The workbook has an appropriate balance of listening, speaking, and writing. The voices on the tape are natural and give the students good listening experience."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectrum-Communicative-Course-English-Workbook/product-reviews/0138299463/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,794,004",
+    "Timestamp": "2015-05-24 15:38:56.055391",
+    "itemurl": "http://www.amazon.com/Spectrum-Communicative-Course-English-Workbook/dp/0138299463"
+}

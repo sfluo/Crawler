@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "A Pedestrian Approach to Quantum Field Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.15",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZJC0BB3FTMBS"
+                },
+                "Date": "on December 1, 2014",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "A very good and clear introduction to QFT. Though familiarity with QM notation is vital, though not technically assumed as the assumptions are given up front. Very good on both physics and mathematics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A379WZZKJKV2N9"
+                },
+                "Date": "on May 2, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IOLE5QFE15WK"
+                },
+                "Date": "on December 5, 2014",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "Great undergraduate level text. If I were teaching a QFT course for students with a couple of semesters of ordinary quantum mechanics under their belt, this is probably the book that I'd base the course on."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Pedestrian-Approach-Quantum-Theory-Physics/product-reviews/0486780228/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#277,936",
+    "Timestamp": "2015-05-24 12:33:24.392517",
+    "itemurl": "http://www.amazon.com/Pedestrian-Approach-Quantum-Theory-Physics/dp/0486780228"
+}

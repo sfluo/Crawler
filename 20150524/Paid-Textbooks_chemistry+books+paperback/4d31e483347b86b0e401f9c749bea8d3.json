@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.99",
+    "Name": [
+        "Introduction to Lattice Dynamics (Cambridge Topics in Mineral Physics and Chemistry)"
+    ],
+    "OfferPrice": "$68.80",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 22, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I read this book just when I was starting my PhD in Condensed matter physics and it paved the way to more advanced treatments. I returned to it several times during my doctoral years and it constantly refreshed my  thoughts on this sometimes abstruse topic with clear explanantions and  great diagrams. Thoroughly recommended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a great text if you need a more advanced treatment of vibrations/phonons in crystalline materials. The author does a great job of walking the reader through the harmonic approximation and its outcomes. The chapter on the dynamical matrix is very clear and informative. I also think the chapter on the effects of anharmonicity is very good. The only thing that I don't like about this book is its not self-contained. The reader will need to have either Kittel or  Ashcroft & Mermin on hand to clarify some of the equations. This is because the author uses the sentenced \"It can be shown....\" which indicates that he is only giving you the final result. I found this at times to be confusing. Additionally some of the variables in the equations are not discussed or described. Just as an opinion, this text would be greatly improved if examples of computer calculations(with code) were included."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DXC8NIWAGUAN"
+                },
+                "Date": "on June 3, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a terrific introduction to lattice dynamics.  It is highly readable but very substantive.  It's a great place to start learning this topic, and for many it may have all that one needs to know about the field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OZJRRD8J6QAK"
+                },
+                "Date": "on March 27, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "An excellent introduction to lattice dynamics. Most suitable for graduate students and academics with an interest in solid-state physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14MAHKORHJFF9"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "exact item and fast shipping"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Lattice-Dynamics-Cambridge-Chemistry/product-reviews/0521398940/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#769,396",
+    "Timestamp": "2015-05-24 15:23:58.792984",
+    "itemurl": "http://www.amazon.com/Introduction-Lattice-Dynamics-Cambridge-Chemistry/dp/0521398940"
+}

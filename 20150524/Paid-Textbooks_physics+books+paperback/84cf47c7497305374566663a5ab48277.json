@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38M5I299UG8BB"
+                },
+                "Date": "on October 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I used this textbook as part of a College Algebra Based 2-Semester (4hr/4hr) sequence.  I had never taken Physics in high school due to taking a different science for my final one in high school, so I went in there with not much to work with.  Having said that though, this book is amazing, it has clear cut examples, formulas and descriptions and 100+ problems in every chapter to get plenty of practice.  The online homework supplement however is horrid, but the book itself is great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QX3OIMZN8GXI"
+                },
+                "Date": "on June 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Arrived very quickly. It was a good textbook, very informative and straight forward. Does not use very complex math to explain the concepts presented. Provided a good reintroduction to Physics for me after not having taken it since high school physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35E1GACSVXTGD"
+                },
+                "Date": "on October 19, 2009",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "Good reference text in addition to being a classroom Physics book.  Something you'll keep even after you return all your other books for the money at the end of the semester."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A202OWH4MXLTGB"
+                },
+                "Date": "on January 24, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I am currently taking Physics I and this is the textbook that is required. I absolutely hate this textbook. The explanations are never clear and uses so much jargon. I hope that I can pass Physics this semester with this awful excuse of a textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IA7X1OSBNFUM"
+                },
+                "Date": "on September 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "\ud83d\udc4c\ud83d\udc4d"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CRXECC4QB2NQ"
+                },
+                "Date": "on May 14, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28UEHGPQCWRR6"
+                },
+                "Date": "on October 20, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The content of this book is pretty crappy, blah, who likes physics, but if it's what you need for class then so be it. It's very hard to read, but a great book once you get your copy. Not too helpful with anything, but, its a book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Alan-Giambattista/product-reviews/0070172447/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#1,373,736",
+    "Timestamp": "2015-05-24 12:36:44.488146",
+    "itemurl": "http://www.amazon.com/Physics-Alan-Giambattista/dp/0070172447"
+}

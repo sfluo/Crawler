@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Statistical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.26",
+    "Reviews": {
+        "AverageStarRating": "3.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMQNY3Y4VLMNZ"
+                },
+                "Date": "on September 10, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MGWN066NOFDZ"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Not a very informative book.  It doesn't not give enough information in the chapters to help you answer the questions at the end of each chapter.  Also, the author references several (a lot) equations from previous chapter rather than just rewriting them.  It makes the book difficult to follow because you have to keep flipping pages to previous chapters for the referenced equations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 11, 2004",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I recommend this book to any one interested in the subject.  Wannier really pulls of a understandable approach to Statistical physics.  You do need the proper backround, and a williness to read it.  Otherwise it is very good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13TSKWQHVRWJZ"
+                },
+                "Date": "on July 10, 2001",
+                "Helpfulness": 0.09090909090909091,
+                "StarRating": "2",
+                "Text": "I was looking for something beyond an undergraduate treatment when I came upon this book, and thought that for ... dollars, it was a good deal.  The table of contents is really impressive, but reading the book is a horror.  If you've taught a course in statistical mechanics, it is probably okay as a reference, but otherwise stay away!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 10, 1998",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "3",
+                "Text": "Wannier was a great physicist, and a reading of the Index of this book promises a lot. Alas, the author can't write. The book fails. It is a pity!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Physics-Dover-Books/product-reviews/048665401X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#717,302",
+    "Timestamp": "2015-05-24 12:42:42.360475",
+    "itemurl": "http://www.amazon.com/Statistical-Physics-Dover-Books/dp/048665401X"
+}

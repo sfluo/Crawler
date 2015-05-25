@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Marswalk One: First Steps on a New Planet (Springer Praxis Books)"
+    ],
+    "OfferPrice": "$69.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEOLYKNEUFKS2"
+                },
+                "Date": "on June 27, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2015SO548RSUQ"
+                },
+                "Date": "on March 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book is rich in historical and technical detail and also with social and political analysis. Writing it must have been a huge job. I imagine that it would make a great reference text for members of a team actually tasked with making a journey to Mars possible. It seriously grapples with what has happened, gone right and gone wrong with our spacefaring so far. Its history of the development of pressure suits for various extravehicular tasks, eg surface travel on the moon, and the effect on them and other machinery of abrasive dust is a case in point. Mission designers will need to think about all the stuff in this book. It is closer to a technical manual than an adventure story, lacks the passion of Buzz Aldrin's \"Mission to Mars\" (National Geographic) and certainly the wit of Mary Roach's \"Packing for Mars\" (W.W. Norton & Co), but my 3-star rating is a personal score. I recognise that it will be hugely valued by some readers. If you have a committed interest in travel to Mars you should have this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L5XMIVAI9AFL"
+                },
+                "Date": "on April 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Marswalk-One-Planet-Springer-Praxis/product-reviews/1852337923/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,379,922",
+    "Timestamp": "2015-05-24 13:33:07.178643",
+    "itemurl": "http://www.amazon.com/Marswalk-One-Planet-Springer-Praxis/dp/1852337923"
+}

@@ -1,0 +1,171 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Quantum Chance: Nonlocality, Teleportation and Other Quantum Marvels"
+    ],
+    "OfferPrice": "$17.02",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WULHOCMBT87E"
+                },
+                "Date": "on October 7, 2014",
+                "Helpfulness": 0.9743589743589743,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FQ20MGVCDLQI"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M692N2TM1WR5"
+                },
+                "Date": "on November 23, 2014",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GB4WEW3WWEAR"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is miraculous. It manages to explain what Bell's inequalities are fully and comprehensively without using a single equation. Its trick is spreading the explanation well over 30 pages of very clear prose. It is written for lay readers who have already read something about quantum physics but who want to more deeply understand what entanglement is all about. I am a physician by trade and my mathematics is at high school level only. Yet I can honestly say I enjoy this book thoroughly. The book has an authoritative feel as the author is an engineer who has performed experiments to confirm quantum entanglement and is involved in producing quantum random number generators and quantum cryptography. These, together with quantum teleportation, are discussed, albeit rather briefly. For instance, only four pages are devoted on cryptography. Another highlight of the book is the philosophical implication of non-locality and entanglement this truly is very fascinating. Five stars!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GK6ADT70NLHB"
+                },
+                "Date": "on March 28, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Reading this short but dense book was a struggle for me\u2014perhaps because it is so ``audio-talking\u2019\u2019 while I\u2019m more visual and mathematical.  I was confused from the beginning because he didn\u2019t talk about the historical context of the presentation:  where did this particular Bell Game come from? (e.g., the ``bounded by 3\u2019\u2019 inequality is unusual and not in Wikipedia). What makes Gisin\u2019s tests different from most other tests (like Zeilinger\u2019s)?  I think he should have introduced some background material before elaborating on the details of his Bell test. Early Bell discussions were for electron spins but for practical reasons then switched to light polarizations. I wasn\u2019t familiar with his ``time-bin encoded quantum information\u2019\u2019 (but I now know it is something worth knowing and he claims it to be better for long distances).  I was expecting to understand traditional polarization experiments, so his time-bin test threw me for the first half of the book.  Maybe others will have an easier time than I did (especially since most of the reviews were very positive).  He has few figures, and his Figure 5.1 with tilted polarizations was irrelevant didn\u2019t pertain to his time bin testing. And his term ``anti-parallel\u2019\u2019 only applies to spins (it seems that the book has a few editing problems).  It wasn\u2019t clear what the crystals in Bob and Alice\u2019s boxes did (store correlation data?). He is strongly against local hidden variables but didn\u2019t say much about Bohm\u2019s non-local hidden variables or mechanisms. And he didn\u2019t appear to know about Aharonov or Penrose or Cramer/Kastner for quantum time-reversible information versus classical time-forward information. I would think that stressing the grand mystery of non-local correlations should go along with some possible mechanisms."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8CCB25T9O612"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great book. Can be picked up by a person at any level of understanding in physics and still be interesting and insightful. Hard to find a book like this"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EVS1JCWHEYUS"
+                },
+                "Date": "on February 17, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PV2ENAEYXQ0G"
+                },
+                "Date": "on April 2, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The author is both a theorist, and he does experiments, the best way to do science. He shows the human free will is essential to make sense of nonlocal Bell's quantum mechanics. Yet he shies away from declaring himself a dualist. There are two fundamental entities, affecting each other, matter and mind (not clear in detail yet). It's not a \"gap\" in our knowledge, it's an antinomy. There is a difference between \"gaps\" and Kant's antinomies. Antinomies are infinities (both in time and space), and the (quantum) Chance, on which quantum mechanics is based, and the free will. They appear more and more beyond our understanding. Mankind will eventually fill the gaps, like between apes and humans etc. - yet, why are we so different from the animals that we want to understand the universe? There is no evolutionary advantage in that. I wish Gisin acknowledge all that... Yet, I loved this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6KBULX03ISIS"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SFM8WBNZG9C"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SFM8WBNZG9C"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29PB7O30J7E20"
+                },
+                "Date": "on March 29, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "On time and as described."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IKVJLSQPMCFN"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 0.47058823529411764,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DTW1HFM30QDQ"
+                },
+                "Date": "on October 1, 2014",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12GK4A7M5JVAT"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "5",
+                "Text": "This book is the best book for people who are interested in Quantum Physics and Engineering!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WSM5QOOROPML"
+                },
+                "Date": "on November 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Ready to be wrapped and put under the tree. :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6897QRHAE2O6"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "The one of the best book that I read"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Chance-Nonlocality-Teleportation-Marvels/product-reviews/3319054724/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "17"
+    },
+    "Salesrank": "#25,521",
+    "Timestamp": "2015-05-24 13:29:33.974894",
+    "itemurl": "http://www.amazon.com/Quantum-Chance-Nonlocality-Teleportation-Marvels/dp/3319054724"
+}

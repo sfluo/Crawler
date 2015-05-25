@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.20",
+    "Name": [
+        "Student Workbook for Physics for Scientists and Engineers: A Strategic Approach, Vol. 4 (Chs 25-36)"
+    ],
+    "OfferPrice": "$32.42",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QO8SSZLAONGE"
+                },
+                "Date": "on March 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UK6FGL7RXXWP"
+                },
+                "Date": "on February 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PT1TWHNGJA4C"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Half the problems in it are just in the book..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/product-reviews/0321753119/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#422,937",
+    "Timestamp": "2015-05-24 13:37:00.341880",
+    "itemurl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/dp/0321753119"
+}

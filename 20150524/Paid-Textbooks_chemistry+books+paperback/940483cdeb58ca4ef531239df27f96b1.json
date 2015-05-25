@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$150.00",
+    "Name": [
+        "Principles of Nuclear Magnetic Resonance in One and Two Dimensions (International Series of Monographs on Ch)"
+    ],
+    "OfferPrice": "$120.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25KUGNQA3BR7R"
+                },
+                "Date": "on January 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 9, 2000",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "The long and incredibly productive career of Richard Ernst could be said to have written most of this book.  It is difficult to overstate his constribution to the field of NMR spectroscopy.  In this seminal work, Dr. Ernst along with his co-authors and  collaborators Bodenhausen and Wokaun draw on a vast base of knowledge to describe NMR spectroscopy in a clear understandable fashion for the newest student.  Yet, this volume is packed with detail to satisfy even the most strigent graduate exam.  The first chapter is an introduction to operator formalism which provides the theoretical framework for the discussion NMR experiments in 1- and 2- dimensions.  The subsequent chapter on 1-D FT spectroscopy contains a depth of information lacking in many other treatments. This is followed by a clear discussion of multi-quantum transitions which are explored in full in the chapters on 2-D spectroscopy.  The fourth chapter on the formation of 2-D spectra is the most complete I've seen to date. It should be since Ernst and his lab did much to shape the nature of 2-D spectroscopy.  This is followed by three chapters elaborating on different aspects and areas of application of 2-D NMR spectroscopy.  Finally chapter 8 is dedicated to NMR imaging which was changed in no small part by Dr. Ernst's contributions.  This book should be on the shelf of any professional or student whose business is to know NMR spectrscopy.  Physicists, spin-engineers, and physical chemists need this book if they are to study the fundamentals of NMR spectroscopy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Resonance-Dimensions-International-Monographs/product-reviews/0198556470/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#881,009",
+    "Timestamp": "2015-05-24 15:38:48.509823",
+    "itemurl": "http://www.amazon.com/Principles-Resonance-Dimensions-International-Monographs/dp/0198556470"
+}

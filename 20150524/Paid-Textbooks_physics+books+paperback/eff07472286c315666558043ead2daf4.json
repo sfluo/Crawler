@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Ferrohydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$19.95",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DLYTTGPQVM8O"
+                },
+                "Date": "on August 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I cannot recommend this book more highly.  Difficult aspects are presented thoroughly for what often seems a cryptic field of study for those new to the science.  Nearly all aspects of particle interaction are detailed from magnetic repulsion to quasi-stable equilibriums.  Also detailed in the text is an excellent overview of Earnshaw's Theorem as applied to magnetostatics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AF860XI185OJX"
+                },
+                "Date": "on November 5, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book of Rosensweig is one of the best classical introduction in English on the ferrofluids hydrodynamical behaviour, if not still the easiest to read. It is written in a very clear way and introduces  to a fascinating subject, giving the essential informations to be able to follow the evolution of that domain. At least, after readibg it, one has most of the necessary background to do so. While other books are more detailled on specific topics or up to date, Rosensweig remains the great pedagogical introduction, so that most of the actual research can still be linked to this great book. The book suffers from only one weak point: a lot of research is now actually devoted to domains which were in their infancy in 1985. The book does not describe those of course but remains of invaluable help to understand thoroughly the basis needed to move forward"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUJTH5CRK8BRL"
+                },
+                "Date": "on September 27, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the starting point and best resource for anyone at all interested in ferrofluids.  The text is rich with background theory, synthesis techniques and novel applications.  Many of the topics and applications are more relevant today than when the text was written due to advancements in new materials especially in the areas of nanotechnology and biomedical engineering.  You won't find a better resource for the price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXD5ZDE29HX0D"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you got to read this review, you already know what this book is about: A great introduction to the physics of magnetic fluids. I'm instead going to talk about this paper back edition. It is good enough to read through, even tough I think some images are a bit off. I don't think its enough to refuse the book, tough. If you need its content, just get it. It's really worth it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YMJ8O0XTJI7L"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Been waiting for this to get reprint for a long time. A classic. Glad it doesn't cost >$200 anymore."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AYR4O8YY6FYE"
+                },
+                "Date": "on August 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is indeed an excellent book.  However, it was actually written in 1985.  Thus it lacks mention of computer software used nowadays.  Other books, including Magnetic Actuators and Sensors written in 2014, describe finite element computation of magnetic fields for problems of magnetic particles etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FBI7WQ76XFJ3"
+                },
+                "Date": "on September 8, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Book is very small, so it is not that comfortable to read. But good quality otherwise."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ferrohydrodynamics-Dover-Books-Physics-Rosensweig/product-reviews/0486678342/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#178,556",
+    "Timestamp": "2015-05-24 13:09:25.725536",
+    "itemurl": "http://www.amazon.com/Ferrohydrodynamics-Dover-Books-Physics-Rosensweig/dp/0486678342"
+}

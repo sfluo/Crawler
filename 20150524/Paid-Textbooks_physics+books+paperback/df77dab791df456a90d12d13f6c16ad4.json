@@ -1,0 +1,153 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Quantum Theory of Many-Particle Systems (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$22.96",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33ZVG72PT4S3S"
+                },
+                "Date": "on January 14, 2005",
+                "Helpfulness": 0.9642857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on January 3, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A108HV6T3PQVEC"
+                },
+                "Date": "on December 12, 2004",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XEH6F11C9LK0"
+                },
+                "Date": "on October 13, 2003",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC46G5WVP3UV"
+                },
+                "Date": "on February 3, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V62TS4P6MZHQ"
+                },
+                "Date": "on May 31, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J3V77UQN21GS"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I recently bought the Kindle edition. The content offers clear explanations of many-body physics and the techniques involved, but the copyediting is horrible. It is quite a pain in reading the symbols and equations (e.g. \\psi and \\psi^dagger have different sizes because \\psi^dagger is an imbedded picture). If there is a separate rating for copyediting or formatting, i would have it as 1 star."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APG2M9OZJBCKG"
+                },
+                "Date": "on February 3, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very clear exposition of S-Matrix theory.  Unfortunately, it is hard to find all the pieces in any one text; even for just these few points, it is worth picking up the text just for those few sections that clearly derive the formalism."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DRAGRTPLOJME"
+                },
+                "Date": "on February 13, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is exactly what I was looking for. It is a great book in QFT. I like the amazon's service too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V0UENQ18YDPA"
+                },
+                "Date": "on February 12, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "This is a classical book referenced by many papers. But it is not easy to read. The notations are out-of-date"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D20WMZ39KQ0L"
+                },
+                "Date": "on April 11, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book is a clever and classical textbook for physics graduates who wish to go beyond the one particle quantum mechanics. Its many problems helps establishing the concepts of field theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3II4CGOM515GT"
+                },
+                "Date": "on December 9, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Very consistent and easy to learn book. I like this book much more than famous one by Abrikosov,Gorkov, Dzyaloshinskii."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LN3OWWCJBIJB"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Classic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 18, 2001",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "5",
+                "Text": "Do you want to learn basics in many-body physics? This book will provide your needs!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 5, 2000",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "3",
+                "Text": "This book is especially suitable for junior grads and senior undergrads who want to know the diagramatic techniques of Green's function method."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Many-Particle-Systems-Physics/product-reviews/0486428273/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "15"
+    },
+    "Salesrank": "#492,058",
+    "Timestamp": "2015-05-24 12:43:03.422964",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Many-Particle-Systems-Physics/dp/0486428273"
+}

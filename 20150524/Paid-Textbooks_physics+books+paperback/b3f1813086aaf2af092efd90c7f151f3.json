@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Many Worlds Interpretation of Quantum Mechanics (Princeton Series in Physics)"
+    ],
+    "OfferPrice": "$42.50",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 11, 1998",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WF2L1J1XAMEU"
+                },
+                "Date": "on January 26, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Interpretation-Quantum-Mechanics-Princeton-Physics/product-reviews/069161895X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,553,682",
+    "Timestamp": "2015-05-24 13:42:21.401596",
+    "itemurl": "http://www.amazon.com/Interpretation-Quantum-Mechanics-Princeton-Physics/dp/069161895X"
+}

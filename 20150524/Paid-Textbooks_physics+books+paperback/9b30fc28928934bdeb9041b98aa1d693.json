@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$13.95",
+    "Name": [
+        "Atomic Spectra and Atomic Structure (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$8.38",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 31, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Updated classic paperback text that covers a broad area from Balmer series to Nuclear Spin. Written without alot of complex mathematics, this  is a good introduction to Atomic Spectra for specialists in other fields. I loved the coverage on quantum numbers and alkaline-earth elements."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16VYFS475BTEZ"
+                },
+                "Date": "on June 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "Unfortunately, unless you can get ahold of an older, unmarked copy, you may be disappointed by the \"new\" book sold through Amazon.  Spectra are cut off, along with the legends.  The pages look like they were photocopied, poorly, in some cases and the text on several pages is blackened by photocopied handwriting within the book.  Strange, as Dover is typically very conscientious.  I found another older copy and must say, I really do enjoy this book.  It reads well and Herzberg describes many aspects of atomic spectroscopy and how structure is related quite brilliantly.  I can highly recommend the book, but not this particular printing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU"
+                },
+                "Date": "on January 24, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K9BWD13SPQ8A"
+                },
+                "Date": "on July 12, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "It is a very good book but the pages are not so good because are copies, anyway is not difficult to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q1RYY93FSM6D"
+                },
+                "Date": "on July 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Atomic Spectra and Atomic Structure is a very good option in this research field, once it presentes a relatively deep information related to concepts that are necessary to understand some spectometric phenomena.."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atomic-Spectra-Structure-Dover-Physics/product-reviews/0486601153/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#537,487",
+    "Timestamp": "2015-05-24 12:36:42.577767",
+    "itemurl": "http://www.amazon.com/Atomic-Spectra-Structure-Dover-Physics/dp/0486601153"
+}

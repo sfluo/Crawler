@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Atkins' Molecules"
+    ],
+    "OfferPrice": "$41.70",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 21, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "P.W. Atkins's Molecules is probably one of the best general interest books written about organic chemistry.  The 2nd edition is much expanded from the 1st, with more molecules and a much slicker presentation.  Though the book is written for non-chemists, it's also useful for people in the field, who perhaps know the chemistry, but not the applications (if you walk into any chemist's office, look at his or her bookshelves, and can find a general interest book, chances are it's this one).  Maybe the only thing bad I can say about the 2nd edition is that, unlike the 1st edition, it doesn't include the molecular line structures that organic chemists normally use, opting instead for the more colorful, but less useful, RasMol depictions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABN5K7K1TM1QA"
+                },
+                "Date": "on February 5, 2004",
+                "Helpfulness": 0.9310344827586207,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XI252QZQHO3W"
+                },
+                "Date": "on June 14, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I already had the 1st release of this book. In the 2nd release, Atkins expanded the Chemistry in our world. The book is very understandable even if you do not have a chemical background (however if you know something about chemistry, you will get more from the book). Higly reccomended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UP4AV1A8Y6XH"
+                },
+                "Date": "on February 17, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28OJCDUBGYKP2"
+                },
+                "Date": "on January 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASR9QMJ82DQDM"
+                },
+                "Date": "on November 5, 2003",
+                "Helpfulness": 0.018867924528301886,
+                "StarRating": "1",
+                "Text": "Dr. Atkins, I use Dr. loosely, should stop writing books.  He assume the reader knows to much.  Also, Dr. Atkins should stay in his own realm of chemistry, Physical chemistry and not try to intrude into other areas.  Avoid this book like the plague.  Atkins writes only to write them and get a fat check.  The content is sub-par."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atkins-Molecules-Peter/product-reviews/0521535360/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#978,691",
+    "Timestamp": "2015-05-24 15:38:42.649194",
+    "itemurl": "http://www.amazon.com/Atkins-Molecules-Peter/dp/0521535360"
+}

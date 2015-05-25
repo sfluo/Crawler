@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.00",
+    "Name": [
+        "The Feynman Lectures on Physics, Vol. II: The New Millennium Edition: Mainly Electromagnetism and Matter (Volume 2)"
+    ],
+    "OfferPrice": "$38.00",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38LHFVUN3VCP7"
+                },
+                "Date": "on June 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This series of books covers everything an undergraduate would learn when taking a physics course! I was so excited to see how complete these books are. Although you do need a background in mathematics (which I have) due to the fact that Calculus and probability is used."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22K3ABIJ4FV98"
+                },
+                "Date": "on December 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I wish I had these books at the start of college! Feynman has an explicit way of making a difficult subject perfectly clear. He uses parallels, meaning he will use common every day objects to explain physics problem. Then, he will apply the actual physics. I highly recommend this to anyone and everyone who loves and enjoys physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI1QLB0H5GLEG"
+                },
+                "Date": "on March 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It's a good alternative to the confusing required text for my Electromagnetics class (Fundamentals of Applied Electromagnetics 6th Edition)... If you can read it before the semester begins I would recommend it, because I haven't been able to read the whole thing but I've loved what I've read so far!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TOY5RJTTC5MC"
+                },
+                "Date": "on April 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Easy to read, not a whole lot of math. Recommended for anyone taking an electromagnetics course. Highly recommended for college students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APICB37CWSPQO"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great buy for the physics buff."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OHKXVMMRQFB"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "The ultimate"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M8RH6UKV5ZQT"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "It was a gift to my husband. He enjoyed vol 1.  He is looking forward to reading  his present Vol. 2."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-Electromagnetism/product-reviews/0465024947/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#226,403",
+    "Timestamp": "2015-05-24 12:41:55.309707",
+    "itemurl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-Electromagnetism/dp/0465024947"
+}

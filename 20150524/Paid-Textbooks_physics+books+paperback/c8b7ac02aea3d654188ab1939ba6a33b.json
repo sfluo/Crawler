@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "Spinors and Space-Time: Volume 1, Two-Spinor Calculus and Relativistic Fields (Cambridge Monographs on Mathematical Physics)"
+    ],
+    "OfferPrice": "$75.06",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8SDOCQWS4B4I"
+                },
+                "Date": "on April 16, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHOGD76H4I7QU"
+                },
+                "Date": "on February 11, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "One of the most complete deep textbooks (set Vols. I & II) on Einstein's Theory of Relativity, written by probably the leading scientist in the field."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spinors-Space-Time-Two-Spinor-Relativistic-Mathematical/product-reviews/0521337070/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#949,862",
+    "Timestamp": "2015-05-24 13:32:09.548427",
+    "itemurl": "http://www.amazon.com/Spinors-Space-Time-Two-Spinor-Relativistic-Mathematical/dp/0521337070"
+}

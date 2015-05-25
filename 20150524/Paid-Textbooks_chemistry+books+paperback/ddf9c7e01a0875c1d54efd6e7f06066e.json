@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Radiochemistry and Nuclear Chemistry  ; Theory and Applications"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YME7PLDNSGR"
+                },
+                "Date": "on December 18, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J1X5BCKWZ17K"
+                },
+                "Date": "on May 14, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "this book gives you a good state of art on most of radiochemistry-engineering topic related to the nuclear field. For the prices it sales its a very good deal."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFKXVGMX79JV8"
+                },
+                "Date": "on June 10, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Overall, this book is decent for a graduate level radiochemistry class.  It has a lot of problems, although some of the answers seem to be at odds with those that we and our instructor got.  I have used this for a reference book in addition to the Freidlander book, but this one is perhaps a bit easier to read and understand.  There are lots of tabels and figures reproduced in this book, so this book is quite helpful if you're wanting to calculate the probability of certain processes (e.g. what will happen if my gamma ray of a certain energy interacts with matter)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4GMR5U0VAOL"
+                },
+                "Date": "on July 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Its a nice overview. Easy to read. It has no references more recent than about the year 2000. Some strange omissions, such as no discussions of Currie Limit and MDA."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y68GV0H3FYOM"
+                },
+                "Date": "on February 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Used as a text book for an introduction to radiochem course, so far it has been an extremely helpful and thorough text."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Radiochemistry-Nuclear-Chemistry-Theory-Applications/product-reviews/0750623004/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#3,551,810",
+    "Timestamp": "2015-05-24 15:37:57.123184",
+    "itemurl": "http://www.amazon.com/Radiochemistry-Nuclear-Chemistry-Theory-Applications/dp/0750623004"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Theory of Atmospheric Radiative Transfer"
+    ],
+    "OfferPrice": "$98.78",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38WG9K67YKPX5"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "It's not a great book for actual learning, and the homework problems have very little to do with what was discussed in the chapters. The only way I would recommend this book is if you are an expert in atmospheric radiative transfer and want to use it as a refernce."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atmospheric-Radiative-Transfer-Manfred-Wendisch/product-reviews/3527408363/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#944,652",
+    "Timestamp": "2015-05-24 15:30:31.650250",
+    "itemurl": "http://www.amazon.com/Atmospheric-Radiative-Transfer-Manfred-Wendisch/dp/3527408363"
+}

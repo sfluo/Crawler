@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Non-Equilibrium Thermodynamics and its Statistical Foundations (Monographs on the Physics & Chemistry of Materials)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 7, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book indeed is characterized by an unusual and very rare selection of topics. It is fairly mathematically rigorous, and not intendeed for a beginner. A reasonable mastery of graduate level theoretical physics is required, and I personally believe that the mathematical rigor in this book is absolutely necessary, and is by all means not a downside. This book is a 'must-have' for anyone interested in quantum transport."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RFMTGR1FOC1I"
+                },
+                "Date": "on May 16, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 22, 1999",
+                "Helpfulness": 0.6,
+                "StarRating": "2",
+                "Text": "Being an expert in a given field is one thing. Being able to express your expertise in a book that will appeal to people is quite another thing. Obviously, few people share Kreuzer's knowledge of non-equilibrium  thermodynamics. This book underscores that statement rather well: only  specialists in mathematical physics will be able to read and grasp its  subject matter. This is most unfortunate, since Kreuzer's choice of things  to include in the book is excellent. Extensive and rigorous expositions  about key phenomena like Benard convection are coupled to a careful and  even more rigorous treatment of the statistical foundations of N.E.T. Given  the importance of topics like these, it really is unfortunate that only a  handful of people will actually learn something from this well-intended  book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Non-Equilibrium-Thermodynamics-Statistical-Foundations-Monographs/product-reviews/0198513755/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#5,412,485",
+    "Timestamp": "2015-05-24 15:29:52.183492",
+    "itemurl": "http://www.amazon.com/Non-Equilibrium-Thermodynamics-Statistical-Foundations-Monographs/dp/0198513755"
+}

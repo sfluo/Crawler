@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecular Symmetry and Group Theory"
+    ],
+    "OfferPrice": "$91.20",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A377KYEG3PN193"
+                },
+                "Date": "on October 8, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "this small book on symmetry and group theory is easy to understand and packed with examples. it is a small book (only about 300 pages) but everything in it is relevant and to the point. the writing is easy to grasp and the back includes character tables for all the common symmetry groups. buy it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 27, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The strength of this book is its many examples.  Carter takes the concepts and applies them to simple inorganic or organic compounds.  Very helpful to students.  The end of chapter problems are nice as well.  A great text and one that I would recommend to students as well as faculty."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 28, 1998",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "5",
+                "Text": "This is a text set apart from the pack.  It clearly states what other books attempt to describe.  There need to be more texts on the market like this.  Dr. Carter has taken a subject that has historically been elusive, and presented it in a comprehensive, READABLE volume.  This text is helping me through my thesis in chemistry.  It is highly practical, easily read, and heavily referenced, all of the qualities, I believe, that make up an excellent text!  Excellent work!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIRDSIJT8NIFI"
+                },
+                "Date": "on September 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book sets out to teach the beginner (junior/senior level undergrad or first year grad student) about the basics of group theory, symmetry, and bonding. It does so very well and also provides many references to more advanced texts, so that the chemist continuing on in inorganic chemistry will have the tools to be successful. There are definitely better books out there for a reference text for more serious chemists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K3AE936GZ3NZ"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I like the book for what it is. Style wise, it seems to jump around. I used this book to supplement an undergrad inorganic course. So, I used this as a secondary reference if the textbook didn't provide an adequate explanation. This book wasn't that much help. It seemed to have very logical easy to understand explanations at the beginning of a topic then BAM! you have no idea what you just read. It felt like we were hearing half of the story. So, I like the goal, I liked some explanations. I think improved writing/explanations would be in order."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20GKSV87FXHZW"
+                },
+                "Date": "on September 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The chapters are well written, with images and illustrations abundant. The challenging end of the chapter problems enhance learning. I would recommend this book to someone who has had a short introduction to group theory already, but wants to dive deeper into the world of molecular symmetry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LSX4Z91QJVT1"
+                },
+                "Date": "on December 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The best book I've come across for group theory.  Ideas are clearly explained, lots of examples, and wording isn't too technical that it's unclear as to what is being read. Cotton was so confusing that I always defaulted to this one. Highly Recommended by Chemistry Graduate student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS99ZYJ9G5AWR"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I used this book for a class at university.  It is a good guide for learning molecular symmetry.  The textbook isn't super big, and makes for an easier read than many textbooks I have read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y8VFWQORD8JS"
+                },
+                "Date": "on May 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was required for one my classes, and this book delivered in terms of explaining somewhat elusive concepts in a clear and concise manner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY6PJB0HTHQ9O"
+                },
+                "Date": "on December 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Much better than Cotton's group theory book. This book was easier for me to understand than his book. Definitely worth it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Symmetry-Theory-Robert-Carter/product-reviews/0471149551/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#536,078",
+    "Timestamp": "2015-05-24 15:21:22.721950",
+    "itemurl": "http://www.amazon.com/Molecular-Symmetry-Theory-Robert-Carter/dp/0471149551"
+}

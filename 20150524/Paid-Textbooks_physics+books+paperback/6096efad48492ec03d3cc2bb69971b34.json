@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Mathematical Tools for Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.90",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A329Z94PQ8SZSK"
+                },
+                "Date": "on July 24, 2011",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ3CYY1X21OYR"
+                },
+                "Date": "on August 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25UJK687M1XKL"
+                },
+                "Date": "on November 5, 2010",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A389L037YWPCF0"
+                },
+                "Date": "on June 15, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NUQDEFLNE2H0"
+                },
+                "Date": "on January 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book after downloading part of the online version, the part dealing with Tensors. I found Nearing's description the best I have seen. Finally I have a 'feel' for what tensors are. I have a Masters in Physics from years back and some things were a bit fuzzy. I have found Nearing's other sections equally descriptive. Any book which can impart understanding is a jewell and this is one I enjoy reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHEMS9RWM1VPQ"
+                },
+                "Date": "on January 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was truly a boon during undergrad years - I would recommend to anyone wanting to learn more about mathematical physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W4R77YYKNLQG"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book!  I like the approach and depth of presentation"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TVMJC258SP4U"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "good book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NEU0MP2MM4IA"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This book does not teach for understanding. Coming from a mathematical background, I find that this text \"teaches to the test\", showing you how to do basic calculations without any theory explanation. The tone is somewhat informal, which at times can come off as sarcastic. If the idea is to give undergraduate students a halfway-working knowledge on a very broad range of numerical topics, then I suppose this text is doing its job; but in my eyes, a text that aims to do only that is pretty pitiful."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Tools-Physics-Dover-Books/product-reviews/048648212X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#635,652",
+    "Timestamp": "2015-05-24 12:27:16.580862",
+    "itemurl": "http://www.amazon.com/Mathematical-Tools-Physics-Dover-Books/dp/048648212X"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Study Guide/Solutions Manual to accompany General, Organic & Biochemistry"
+    ],
+    "OfferPrice": "$5.99",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NNCC3L0PP09F"
+                },
+                "Date": "on May 15, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "I purchased this book for a class thinking it would have all answers to the problems in the main text book, it doesn't.  It only has the odd numbered problems, which are also in the back of the main text book.  The main text book also has great end-of-chapter summaries and plenty of practice problems.  This solutions manual doesn't have anything that the text book doesn't already have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E0184C3SFQIU"
+                },
+                "Date": "on February 13, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I love this book.  Talk about a great compliment to the book, it has extra practice problems and outlines all the section.  It's really helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M18B5BDUWYCF"
+                },
+                "Date": "on August 23, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you need extra review for the corresponding textbook, this review book was helpful, straightforward, and free of errors in the answer key."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-accompany-General-Biochemistry/product-reviews/007322684X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,670,244",
+    "Timestamp": "2015-05-24 15:36:51.232778",
+    "itemurl": "http://www.amazon.com/Student-Solutions-accompany-General-Biochemistry/dp/007322684X"
+}

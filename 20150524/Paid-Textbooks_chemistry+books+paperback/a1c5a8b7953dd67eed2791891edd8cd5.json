@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$96.95",
+    "Name": [
+        "High-Resolution NMR Techniques in Organic Chemistry, Volume 27, Second Edition (Tetrahedron Organic Chemistry)"
+    ],
+    "OfferPrice": "$70.88",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31BSZ1OREH59W"
+                },
+                "Date": "on September 1, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The book was received in mint condition. It is an excellent book for graduate students and also for te3ching NMR spectroscopy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXYB9XXFGF3UA"
+                },
+                "Date": "on July 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Awesome and practical book on NMR techniques! My only issue is is the physical construction of the book. Within several days -and without any rough handling- the binding is coming loose and pages are falling out in clumps.  Maybe I received a lemon copy... the printing on my pages also seems lower on the page than appropriate/normal."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GWC8ILLQAHRV"
+                },
+                "Date": "on February 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the best textbooks on advanced NMR techniques that currently exist on the market. A very good buy, well organized text and interesting chapters. However, I would definitely NOT recommend this book to users without intorductory (both chemical, physical and mathematical) knowledge of NMR."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EXY5MQD29TMI"
+                },
+                "Date": "on December 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I concur with an earlier review.  The content of the book is very, very good and it is very well written but the physical binding is atrocious.  Pages are falling out on first reading."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/High-Resolution-Techniques-Organic-Chemistry-Tetrahedron/product-reviews/0080548180/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#941,703",
+    "Timestamp": "2015-05-24 15:22:25.626685",
+    "itemurl": "http://www.amazon.com/High-Resolution-Techniques-Organic-Chemistry-Tetrahedron/dp/0080548180"
+}

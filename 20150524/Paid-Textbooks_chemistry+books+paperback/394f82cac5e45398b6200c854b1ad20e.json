@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.95",
+    "Name": [
+        "Chemical Bonding in Solids (Topics in Inorganic Chemistry)"
+    ],
+    "OfferPrice": "$89.92",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 21, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The author attempts to show that there is an interconnection between all the various model concepts which are used by chemistists to explain the structure and properties of solids.  The first time I read this book I  found it to be a rather garbled collection of facts which did not seem to  fit together the way I and hoped for given the reputation of the the late  Prof. Burdett.  However, by the time I had finished the book I went back  and re-read large parts of it I found that the book is more then just a  loose collection of ideas. He really is trying to tie all of this stuff  together.  I am not completely convinced by the author's view that the  metallic bond is a useless concept (there goes all that useful physics  based on the free electron gas) nor do I think the author has fully  explored all sides of the question.  A better bridge between free electron  and pseudopotential theory and tight binding theory should have been built  and thus the book does not fully link the parts of solids state science  which fall under the ``metallic bond'' to the molecular orbital picture.  The presentation lacks any hard proof or mathimatical derivation which  would have been nice in the case of the method of moments.  As an aside the  origional papers published in 1985 JACS by the author and Stephen Lee which  outline the general theory are not accessable to the genreral chemistry  audience and something in between the hard math of 1985 and the no math of  this book would have been nice-those interested in more detail should look  in Solid State Physics Vol. 35).  So for those who wish for a book which  gives more physics behind some of these loose concepts this book is not it.  Often the book oversimplifies and does not explore topics in more then a  superficial way. After I have said all this I will say I liked the book.  For a general chemistry audience it is informative and thought provoking.  This is not as much a theory text as a philisophical treatise by a man who  contributed alot to the way chemists think about solids."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Bonding-Solids-Inorganic-Chemistry/product-reviews/0195089928/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,955,850",
+    "Timestamp": "2015-05-24 15:24:40.411535",
+    "itemurl": "http://www.amazon.com/Chemical-Bonding-Solids-Inorganic-Chemistry/dp/0195089928"
+}

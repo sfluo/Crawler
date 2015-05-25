@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.00",
+    "Name": [
+        "Renormalization Methods: A Guide For Beginners"
+    ],
+    "OfferPrice": "$44.40",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PMNV35ZVAWEG"
+                },
+                "Date": "on October 15, 2008",
+                "Helpfulness": 0.8918918918918919,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E9V0LE5XJHRA"
+                },
+                "Date": "on January 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the best physics texts I have ever read. In almost every case, the term's \"Introduction\" or \"Elementary\" or \"Beginner\" in the title of a book are a lie, but not this time. You will need some mathematical background (Linear Alg, Diff Eq, Fourier Transforms, etc.) and it would be advisable to have heard of a partition function before, but the combination of readability and fascinating subject matter can't be beat. If you're a little curious about what all this renormalization jazz is about, or have hit a wall in understanding your cryptic QFT text's explanation of the RG group, give this one a go. From what I've seen so far, the statistical mechanic viewpoint of renormalization is 100x more pedagogical than the particle physicists viewpoint."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M5X391OQIA2A"
+                },
+                "Date": "on August 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The renormalization group approach is one of the cornerstones of statistical and theoretical physics. Its impact in these areas has been huge and as a consequence it has also permeated into other fields, such economics, neuroscience or sociology, as the method has been able to approach rather difficult problems. But in spite of its relevance there are few textbooks where you can find a reasonable introduction (a real one) to the method without being previously an expert. This book is an excellent example and I am enjoying it very much. Very recommendable, including all standard examples (space renormalization, percolation, ising model) together with some non-standard, very pedagogical ones. It goes into the deep methods in a rather smooth sequence."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIEUY8024JOOB"
+                },
+                "Date": "on August 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EX8BEB0HFM9D"
+                },
+                "Date": "on November 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Very nice introductory book, but really bad quality of printing... lots of misprints and missing words everywhere..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Renormalization-Methods-William-David-McComb/product-reviews/0199236526/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#480,176",
+    "Timestamp": "2015-05-24 15:37:06.630346",
+    "itemurl": "http://www.amazon.com/Renormalization-Methods-William-David-McComb/dp/0199236526"
+}

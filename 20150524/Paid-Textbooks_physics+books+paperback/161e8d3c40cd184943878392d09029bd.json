@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$98.60",
+    "Name": [
+        "Essential College Physics, Volume 1"
+    ],
+    "OfferPrice": "$77.02",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BLC39QHX8LD"
+                },
+                "Date": "on March 29, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is perfect for MCAT because it gives great, simple explanations and doesn't spend a lot of time on things you don't need.  Both the examples and problems were very helpful and compared to other textbooks, it's a good bargain as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA2RWQETLNXP7"
+                },
+                "Date": "on March 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2G1UEUCKBCKSX"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This is a review of the pearson physics lab mastering. I hate it. some of the questions that are asked for your homework have the wrong answer. So if you really care about your grade, and the computer says you have the wrong answer you spend hours trying to figure out why your correct answer is correct. I've used pearson for other math related courses and the same problems keep coming up. It wastes my time and infuriates me and because of pearsons mess ups it affects my homework grade. pearson mathlab is the devil... that is all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22HZ7WPUQ1UB4"
+                },
+                "Date": "on March 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Its a book that came in new condition. Nothing more to say other than that my class required it and it served its purpose well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHUEPBK633JGC"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this book is very helpful in class and for the physics homework that i have to do  for my class"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RNNFHPAESZSP"
+                },
+                "Date": "on December 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "I hate physics. Good luck to anyone that tries to learn it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIWX2X57P06I9"
+                },
+                "Date": "on February 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Item as described"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17VPLJMQRJBR2"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great product"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VSLPXHP5W2JX"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JO0WXCR80747"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23GGWSSGR4I5I"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Came used, but was pretty good in condition. Text was pretty clear and materials hit the point. Good book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-College-Physics-Andrew-Rex/product-reviews/0321611160/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#105,330",
+    "Timestamp": "2015-05-24 13:02:24.338657",
+    "itemurl": "http://www.amazon.com/Essential-College-Physics-Andrew-Rex/dp/0321611160"
+}

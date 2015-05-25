@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$399.00",
+    "Name": [
+        "Phenolic Resins: Chemistry, Applications, Standardization, Safety and Ecology"
+    ],
+    "OfferPrice": "$303.55",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OISF6ID21KQU"
+                },
+                "Date": "on September 30, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "The good is a good refresher from a chemistry point of view and its an easy read for the most part however, especially the wood application section of the book does not go far enough into depth"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HQ8UW5IUUL4C"
+                },
+                "Date": "on June 11, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was in excellent condition, and was received very quickly for an international service.  Well done."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Phenolic-Resins-Chemistry-Applications-Standardization/product-reviews/3642084842/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,892,732",
+    "Timestamp": "2015-05-24 15:21:16.897652",
+    "itemurl": "http://www.amazon.com/Phenolic-Resins-Chemistry-Applications-Standardization/dp/3642084842"
+}

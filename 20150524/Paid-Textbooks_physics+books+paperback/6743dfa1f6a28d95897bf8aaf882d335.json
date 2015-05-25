@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Making Physics Fun: Key Concepts, Classroom Activities, and Everyday Examples, Grades K\u00968"
+    ],
+    "OfferPrice": "$11.76",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V23E6VES2OV6"
+                },
+                "Date": "on July 10, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I started reading this book and I cannot seem to put it down. It gives great demonstrations and gives lots of real life examples. I really have enjoyed what I have read so far."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Making-Physics-Fun-Classroom-Activities/product-reviews/1629147443/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,104,830",
+    "Timestamp": "2015-05-24 13:11:55.285828",
+    "itemurl": "http://www.amazon.com/Making-Physics-Fun-Classroom-Activities/dp/1629147443"
+}

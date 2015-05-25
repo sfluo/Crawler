@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Spectroscopic Methods in Organic Chemistry"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 20, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I frequently used this book as a graduate student and was very helpful in interpretation of spectral data. I still use it and will recommend it to anyone who wants a good reference for chemical shift data and related NMR, IR, UV data."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N0D3X6VS0T00"
+                },
+                "Date": "on July 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is best to learn and use text as a guide for teaching text on spectroscopy. Its contents are clear and precise."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectroscopic-Methods-Organic-Chemistry-Hesse/product-reviews/1588904881/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,378,325",
+    "Timestamp": "2015-05-24 15:17:57.463577",
+    "itemurl": "http://www.amazon.com/Spectroscopic-Methods-Organic-Chemistry-Hesse/dp/1588904881"
+}

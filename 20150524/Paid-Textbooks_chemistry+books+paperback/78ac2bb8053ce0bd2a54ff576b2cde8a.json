@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$73.00",
+    "Name": [
+        "Surface Analysis: The Principal Techniques"
+    ],
+    "OfferPrice": "$58.10",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VFM6BSMERHSJ"
+                },
+                "Date": "on April 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great, quick and dirty review of the principles and theories of many of the modern surface analysis techniques available today. The sections on Auger and ESCA were well written, however, feel the SIMS chapters need to be developed to incorporate the quantitative methods emerging for SIMS."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AC4KGI5B3GQIF"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent buy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23WR3H3S7GPC8"
+                },
+                "Date": "on September 3, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Surface-Analysis-Techniques-John-Vickerman/product-reviews/0470017643/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#742,578",
+    "Timestamp": "2015-05-24 15:30:17.288381",
+    "itemurl": "http://www.amazon.com/Surface-Analysis-Techniques-John-Vickerman/dp/0470017643"
+}

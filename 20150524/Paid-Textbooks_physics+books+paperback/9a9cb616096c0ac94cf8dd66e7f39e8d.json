@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$98.60",
+    "Name": [
+        "Essential College Physics, Volume 2"
+    ],
+    "OfferPrice": "$77.02",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JO0WXCR80747"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LF6WF0H95JSA"
+                },
+                "Date": "on November 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Makes the perfect birthday or Christmas gift for the person you loathe."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-College-Physics-Andrew-Rex/product-reviews/0321611179/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#116,631",
+    "Timestamp": "2015-05-24 13:18:12.972732",
+    "itemurl": "http://www.amazon.com/Essential-College-Physics-Andrew-Rex/dp/0321611179"
+}

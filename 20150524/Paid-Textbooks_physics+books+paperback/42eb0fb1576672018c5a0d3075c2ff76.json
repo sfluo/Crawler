@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Foundations of Potential Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.45",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQC0L8DD3U0JR"
+                },
+                "Date": "on May 5, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10MKUECF39B9U"
+                },
+                "Date": "on April 11, 2000",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "A beautiful presentation which I much enjoyed in grad school.  Now I need to return to the subject, but I can't find it in my lib.  So I'm ordering another copy and looking forward to reading it again!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Foundations-Potential-Theory-Dover-Physics/product-reviews/0486601447/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#279,844",
+    "Timestamp": "2015-05-24 12:26:35.771796",
+    "itemurl": "http://www.amazon.com/Foundations-Potential-Theory-Dover-Physics/dp/0486601447"
+}

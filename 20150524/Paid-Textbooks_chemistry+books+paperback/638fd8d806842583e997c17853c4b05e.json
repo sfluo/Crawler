@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Elementary Chemical Thermodynamics (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$11.34",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on December 9, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on August 29, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWTUIVDUZHA73"
+                },
+                "Date": "on January 5, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The late Berkeley chemist Bruce Mahan was an excellent physical chemist, teacher, and author of elementary chemistry books.  This book is a classic and should be studied by every student majoring in the chemical sciences."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Chemical-Thermodynamics-Dover-Chemistry/product-reviews/0486450546/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#701,418",
+    "Timestamp": "2015-05-24 15:15:24.966629",
+    "itemurl": "http://www.amazon.com/Elementary-Chemical-Thermodynamics-Dover-Chemistry/dp/0486450546"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Road from Los Alamos (Masters of Modern Physics)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on March 1, 2005",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Road-Alamos-Masters-Modern-Physics/product-reviews/0671740121/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#972,155",
+    "Timestamp": "2015-05-24 13:27:18.594600",
+    "itemurl": "http://www.amazon.com/Road-Alamos-Masters-Modern-Physics/dp/0671740121"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Methods of Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.46",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L7HR6HVHJQIB"
+                },
+                "Date": "on March 4, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on January 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2S1MATQUCJ0S2"
+                },
+                "Date": "on July 26, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is great. It did improve my overall understanding of thermodynamics. In fact, it goes really in details and made me question the subtle things that I did in my thermodynamics course. The mathematical proves are detailed and clear and do not require any advanced mathematics. In addition, there is a math chapter in the beginning of the book that covers the * non regular* math that the author will use. But, to be honest, the math chapter is not very straight forward, at least not for me. It did make me read from a lot of resources to understand what is going on. However, I can not admit but its use, I learned some mathematics and revised a lot of old math to understand that chapter. This book is not a very easy read, so be prepared for a lot of hard work ! However, it is REALLY worth it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABXTA7U4PIREH"
+                },
+                "Date": "on April 6, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Did you already take a thermo class? Then this book is for you. It helps reinforce key concepts without focusing too much on the process and mechanics of doing thermo problems. It's an excellent second-time-through book, showing how powerful thermodynamics can be.  Reiss makes thermo seem easy, and I always put the book down feeling a bit smarter for having learned something new."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5XS3Q60OG0U8"
+                },
+                "Date": "on October 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Methods-Thermodynamics-Dover-Books-Physics/product-reviews/0486694453/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,420,038",
+    "Timestamp": "2015-05-24 13:32:19.875667",
+    "itemurl": "http://www.amazon.com/Methods-Thermodynamics-Dover-Books-Physics/dp/0486694453"
+}

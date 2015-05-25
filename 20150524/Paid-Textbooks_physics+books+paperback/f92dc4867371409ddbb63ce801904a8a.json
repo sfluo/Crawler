@@ -1,0 +1,540 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Quantum Physics: A Beginner's Guide (Beginner's Guides)"
+    ],
+    "OfferPrice": "$12.81",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BPFPVOWCTKDJ"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 0.9768339768339769,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MJ2EJAWAVVFZ"
+                },
+                "Date": "on May 31, 2007",
+                "Helpfulness": 0.9761904761904762,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L3D6C22JCFYA"
+                },
+                "Date": "on February 28, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QURT94H95QB8"
+                },
+                "Date": "on June 22, 2007",
+                "Helpfulness": 0.8767123287671232,
+                "StarRating": "3",
+                "Text": "Focuses mainly on quantum effects and applications. A relatively small book, it's a pretty easy read, though it does get somewhat technical at times. Simplified math is typically put in as optional sidebars. It is written in a fairly straight forward way. I felt it tended to \"jump around\" a bit, on occasion mentioning an unexplained term or fact, which might or might not be expounded on later, though this was rather minor. It has one chapter on underlying reality interpretations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26J1Y7H2Z4OO5"
+                },
+                "Date": "on May 25, 2011",
+                "Helpfulness": 0.90625,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11BJE21G325H8"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": "For someone with no official scientific scholarship, such as myself, this book is a wonderful review of Quantum Physics, in a nutshel. This books has mathemetical tools to go further, but the common folk may bypass this algebra burden and go on to the theory without losing track. I recommend it to everyone who seeks a basic understanding of the matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XJGAHCYP8KPR"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 0.896551724137931,
+                "StarRating": "4",
+                "Text": "This is a very good basic book, however, not as simplified as I had hoped. I'm in a study group studying it so we are able to help each other get through it but at times I still feel lost.  I would, however, recommend it to someone who knows a little about Quantum Physics and wants some additional basic information. I'm not finished with it yet so possibly as we go along it will get easier. I think what I really needed was 'Quantum Physics for Dummies' in order to get real basic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FXOW2Z1CM4CU"
+                },
+                "Date": "on May 2, 2012",
+                "Helpfulness": 0.875,
+                "StarRating": "1",
+                "Text": "I doubt that a scientist who understands quantum physics can explain it to a beginner.  Not this author to this beginner, anyway.  I made it through the first chapter without much trouble, but then I started bogging down.  First of all, there were contradictions.  Examples:  (a) In the glossary, an isotope is said to be a nucleus, but in the text, it is said to have a nucleus.  (b) In the glossary, an ion is said to be either positively or negatively charged; in the text, it is said to be only positively charged.  Also, the author introduced terms without explaining them clearly, so when he used them again and again, I was more and more confused.  Example:  In Chapter 4, \"bands\" are said to contain \"energy levels that are not shown individually.\"  Now what does that mean?  Then chapter 5 starts discussing bands to beat the band.  At this point I gave up, only a little more than halfway through the book.  The author stated that the main aim of the book is \"to understand how quantum physics explains many natural phenomena.\"  I sort of understand that it does, but certainly not how it does.  The best I can do is to say that it all has something to do with the behavior of particles and waves.  I selected this book because of the favorable reviews.  Unfortunately, I did not read enough of the reviews.  I agree with the reviewers who said that beginners need to look elsewhere to obtain a comfortable understanding of quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32DHITBGQ91B9"
+                },
+                "Date": "on May 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book due to my interest in quantum physics after hearing about 'passion from a distance' which is Bell's theorum.  The intelligence is passed on very simply but I have found that I need to read the book in short spurts in order to take in the information.  As yet I have not finished the book but feel sure I shall learn from it.  I must add that I didnt do physics at college so am a complete novice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11QS71RUZOF81"
+                },
+                "Date": "on November 10, 2010",
+                "Helpfulness": 0.7837837837837838,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W3EJKHGYC9VQ"
+                },
+                "Date": "on December 10, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Like most introductory books in this area, it really helps to have some prior background.  It makes some small leaps in places that will leave true beginners feeling a little lost.  As an introduction, I'd rate this book lower than \"The Quantum World ...\" by Kenneth Ford, but it would make a nice companion to it because this book goes into additional depth in specific areas such as conductors, insulators, semiconductors and superconductors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A41O55V0X8LNK"
+                },
+                "Date": "on May 16, 2013",
+                "Helpfulness": 0.875,
+                "StarRating": "1",
+                "Text": "To be honest, I only got through about fifty pages of this book.  I find physics fascinating and wanted a better grasp of quantum physics, but this might be the most boring book I've ever attempted to read.  The author's bio reveals that he's written bestselling TEXTBOOKS, which might explain why this book is so dry.  I was hoping for simple, clear, Dawkins-like explanations, but this book gives the opposite.  Furthermore, it would be better titled \"A Moron's Guide,\" since that's what the author seems to think of his readers.  The entire introduction is one long reassurance that the book will include almost no math, and that what little math it does show will be only the simplest algebra, and it will be isolated in little side boxes so you can skip it if you prefer.  If an explanation requires more difficult math, the author assures us, you will simply have to take his word for it.  After all that, the very first equation in the book contains a TYPO.  Yes, a typo.  I checked and double-checked it, and my math skills go far beyond basic algebra, so I can say it with certainty.  The most impressive thing about this book was that the author took a topic I normally find delightful and managed to make it torturous."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAHPJEK9J5C0D"
+                },
+                "Date": "on June 17, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I really appreciate how the book is written in simplistic terms that most will be able to understand.  It has truly explained the reasons for certain reactions in my world.  It's easy to understand and remember."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HC2WLMEEF8I2"
+                },
+                "Date": "on September 24, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KWICY353WR75"
+                },
+                "Date": "on November 29, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Ok so I have zero background in physics or Math.  I'm 40 and pretty high up in the technology field so I'm a pretty smart man.  I wanted to learn more about Quantum Physics and decided to get this book.  I'm still reading it but as of now I would say that anyone that doesn't have a general background into Classical Physics should start their first.  For the most part this book isn't too terribly hard to follow but as with most subjects as diverse as this there's just too much information to cover in the short chapters.  This book will give you a general overview of things but no real in-depth insight.  The first chapter goes through the units of measure used frequently throughout the book and if you have a hard time grasping those concepts (as I did) you are going to feel lost quite a bit in the later chapters.  I've found over the years that most people who do understand these subjects have no clue how to translate that knowledge to the average person.  If you're like me and you want a more detailed understanding of things from the bottom up you'll want do a little more research.  I give the book a great rating but I would strongly recommend that if you are truly a beginner in the world of physics that you start with classical physics first and then step into the realm of Quantum Physics.  If you already have a good understanding of things like gravity, magnetism, and electricity and are looking for a good starting point for quantum physics then this isn't a bad starting point."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FSRP0GZ3NFFH"
+                },
+                "Date": "on January 7, 2008",
+                "Helpfulness": 0.7058823529411765,
+                "StarRating": "3",
+                "Text": "I like how it breaks things down into subcategories, it's kind of like an overview of physics. If you want to know what quantum physics covers and not get into too much detail about the subject this is the book for you. In this sense it is a beginner's guide. It doesn't break things down into simpler ways of understanding but covers very basic ideas of quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ESAIYZPVHSTV"
+                },
+                "Date": "on October 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "I consider myself a beginner and trying to understand the basics of Quantum Physics.  Unfortunately it was , at my level, not a Beginner's Guide.  It may be a very good read for many academics but over my head."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWU6PWM3Y4CBK"
+                },
+                "Date": "on December 29, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've read a number of beginners' books, most with mixed experiences.  As an engineer, I'm not afraid of math, but am unable to do much of what is needed to quantum physics.  I enjoyed this book very much.  There are other books that provide deeper understanding for the layperson, but this is as advertised; a beginner's book.  It covers all important aspects with enough explanation to follow along.  It also provides good ties into the practical applications of each idea.  It packs a lot of punch for a book its size.  Money well spent!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LEWOQLTSUM46"
+                },
+                "Date": "on September 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I listened to the audio version of this book while driving my car. I have some knowledge of quantum mechanics so in that sense the book was less advanced than I was. Quantum mechanics, though, is such an unusual subject with some very unexpected outcomes that the book highlighted many examples in the real world where quantum physics had an impact. The book did not teach me much about quantum mechanics except how tunneling worked but did leave me with a sense of awe about its many unexpected ramifications."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1015Z1MF6F9PZ"
+                },
+                "Date": "on July 6, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I perused this book at Fry's and came home to get it on kindle. It was not available so I wish I had gotten it when I saw it. It is an easy read for one who is not prepared for the complex math of quantum physics yet wants to understand the concepts. There are boxes containing some of the less intimidating math if you are interested or you may skip them if not. I believe this would be an excellent introduction for anyone interested in the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21UFD1TY787DZ"
+                },
+                "Date": "on October 3, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Not as smoothly written as I had hoped, and has some editing mistakes, but still offers good information. Sometimes a little hard to follow - the author expects the reader to already be familiar with some quantum concepts, which are not intuitive to most of us common people.... Never the less, I do recommend this book. It explains such topics as semiconductors and superconductors that are quite interesting to technically-minded people."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ19HJADWTIGZ"
+                },
+                "Date": "on June 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3INE2TUJS46AW"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a good, concise beginner's guide.  However, I got lost about half-way through and put the book on the shelf.  As much as I would like to, I simply don't understand this stuff.  But, it's good to know such science exists.  Apparently, the theories can only be mathematically proven, not directly observed.  I don't get it!  The problem is not the book, but my brain!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CNXODC516SLJ"
+                },
+                "Date": "on June 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I'm not a scientist. In fact I have never done science lessons, so for me even if it is supposed to be simple, I can make sense to this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XF2Z0JTJZDFA"
+                },
+                "Date": "on May 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It looks like some math symbols could not print correctly on my Samsung Galaxy Note 2!  This looks like a problem."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6XEESJXPC5RJ"
+                },
+                "Date": "on April 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Amazingly lucid description of very abstract concepts. Uses math as needed but not on an overwhelming way. Focuses on intuitive explanations and honest about what we cannot know."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YVPBJ6LFLXWP"
+                },
+                "Date": "on December 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A very good introduction to those, like me, develop a sudden interest in Quantum Physics and want to learn the subject in broad outline from a semi technical source that will not be unduly heavy going!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S89MLYAGW2Q9"
+                },
+                "Date": "on June 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I enjoyed this book.  It is written in a style that is quite easily readable (if you already have some working knowledge and fluency in physics), and Alistair Rae provides some very amusing anecdotes about the physicists he speaks of.  I felt that the author skipped around a lot, especially in his explanation of the standard model, and I had to repeatedly go back and review to make sense of some threads of thought.  However, one big plus is the questions that Rae provides at the back of the book, which helped me check my understanding.  Overall this book was well worth reading, but don't expect this single book to suffice as an overview of quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X37POCAJ3EX4"
+                },
+                "Date": "on December 14, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Gotta start some where, might as well be the beginning. Worth reading if you are intrested in learning about Quantum Physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y7SD9X8BDWGA"
+                },
+                "Date": "on January 31, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "For the layman, this is a very good read.  It wanders around with a few topics, which is why it gets only four stars.  However, if you have a background in college physics and you want to get a better conceptual understanding of quantum mechanics, this is a good read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FDWO3Y2B7XT0"
+                },
+                "Date": "on November 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Dr. Rae writes in a very simple, straight forward manner, making a potentially difficult subject easy to comprehend....and enjoy! I highly recommend this work for beginners and more experienced folks who would like a great review."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CYSK76Z9PS64"
+                },
+                "Date": "on February 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I thought I might be a bit more engrossed in this book, and I am to a point,  It still can be a bit over my head, but then we are talking about physics.  I am glad to have it in my library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LLER9NV7VUGR"
+                },
+                "Date": "on December 12, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm sure this could be understood by most people. However, my mind does not wrap around physics. I'm sure I can master it eventually. Good for anyone who wants to understand physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZPP54F3WGZOT"
+                },
+                "Date": "on December 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Rae makes a valiant attempt to bring the concepts of quantum physics a little nearer the understanding of the ordinary man. Set forth in clear, understandable prose."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ELQUXHY4SEJR"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's written by a British man. They have a different way of phrasing things than Americans do. It tends to loose me at times. I was also surprised that he wrongly labeled carbon dioxide as a greenhouse gas. Carbon monoxide is deadly, which is what results from burning fossel fuels. Carbon dioxide is what we exhale, plants absorbe and give off oxygen. He based an entire therory on the wrong chemical, which brings into question other therories he stated. I would not recommend this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31Q3WYEVAI90B"
+                },
+                "Date": "on August 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have no previous exposure to Quantum physics. Wonderfully written for the beginners; when I finish reading may be I will have some idea about the new physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F6F092XVL8LB"
+                },
+                "Date": "on October 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book gives a really good overview over most aspects of modern quantum theory. I am giving five stars, because it is very informative and easy to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JHQ1EGOFJY0O"
+                },
+                "Date": "on January 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book; great price and it's easy to understand. Just like new. I love ordering books from Amazon. Some of the books I'm saving to read when I retire."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EC3SMO05P2V9"
+                },
+                "Date": "on October 5, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The quality was fine, the book was just like new. It was received on time, and in good conditions. When I have the chance, I'll buy to them again."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UA10XIYIGJFN"
+                },
+                "Date": "on August 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Well written and makes a complex subject (relatively) easy to understand. It proved to be perfect for my 12-year-old grandson."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CAGC07S2IQJM"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "a nice book to read and very easy to read. Simple and a lot of example to see. a a a a"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22LZYD00ITEM0"
+                },
+                "Date": "on October 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "The print is too small and grey 'insted blac.difficult to read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5DWCG9RSOT7W"
+                },
+                "Date": "on October 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "very esoteric and not well-written for the layman"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16M2J4F6QXOAE"
+                },
+                "Date": "on April 30, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Must-have book for persons who loves math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BB24FX15KQ2X"
+                },
+                "Date": "on May 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Got for a gift and the receiver loves it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13FIQ9UHCLDDA"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good reading materials for physics idiots"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TXYYJZ42IH2E"
+                },
+                "Date": "on March 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Oh, to have been born with a math mind,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6AQJKPRW1P"
+                },
+                "Date": "on September 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good book and service"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AVSXYWWQNNKO"
+                },
+                "Date": "on March 1, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "I know quantum physics isn't the easiest subject matter to dumb down, but there were too many assumptions made in the book about the reader's understanding of math and science. wouldn't recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EKYVJCT5AK6O"
+                },
+                "Date": "on October 30, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Like many of my intelligent-seeming purchases, this is for a friend.  I did find myself thumbing through this book, however, and found that the layout seems quite straightforward.  While I doubt that this book's spine will ever be excercized beyond it's paperback capacity, I have taken the proverbial horse to the science-flavored water."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWYWH613XLTEB"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "Pages were missing"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A359P4W7G74BYX"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good introduction"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BLRSYPGE8QLS"
+                },
+                "Date": "on August 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KA4U5Q3IA6MG"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "Like the way Michio Kaku explains quantum science for laymen, this book does the same thru common sense and illustrations...for those of us who learn through observation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14LSFT3PFBIOZ"
+                },
+                "Date": "on March 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SEVXBN55I9HM"
+                },
+                "Date": "on May 27, 2007",
+                "Helpfulness": 0.375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A66TFUQMPFWF0"
+                },
+                "Date": "on September 17, 2008",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "Though the book is Ok, after reading Isaacs Asimov \"Understanding Phisics\" I expected more clarity from this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1I9XME7ZAZPC0"
+                },
+                "Date": "on December 4, 2009",
+                "Helpfulness": 0.07692307692307693,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Physics-Beginners-Guide-Guides/product-reviews/1851683690/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "58"
+    },
+    "Salesrank": "#43,744",
+    "Timestamp": "2015-05-24 12:24:46.373322",
+    "itemurl": "http://www.amazon.com/Quantum-Physics-Beginners-Guide-Guides/dp/1851683690"
+}

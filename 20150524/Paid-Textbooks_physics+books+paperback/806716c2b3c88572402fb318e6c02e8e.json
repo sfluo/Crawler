@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Quirky Quantum Concepts: Physical, Conceptual, Geometric, and Pictorial Physics that Didn't Fit in Your Textbook (Undergraduate Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$47.49",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYI7566VPC77G"
+                },
+                "Date": "on April 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quirky-Quantum-Concepts-Conceptual-Undergraduate/product-reviews/1461493048/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,036,870",
+    "Timestamp": "2015-05-24 13:38:07.681705",
+    "itemurl": "http://www.amazon.com/Quirky-Quantum-Concepts-Conceptual-Undergraduate/dp/1461493048"
+}

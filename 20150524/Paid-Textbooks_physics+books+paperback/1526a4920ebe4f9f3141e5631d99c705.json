@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Biomedical Applications for Introductory Physics"
+    ],
+    "OfferPrice": "$68.33",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YK9MKRC2YGAK"
+                },
+                "Date": "on October 12, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KCW3VU1B0U4O"
+                },
+                "Date": "on February 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Nice book with lots of examples"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37Q55ZK70LLS9"
+                },
+                "Date": "on October 26, 2003",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book has a good content structure for anyone who want to study biomedical applications of physics. For biophysics and first year medical students, this book used in conjunction with a standard calculus or algebra physics book, will be a big help on a better understanding and application of Physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Biomedical-Applications-Introductory-Physics-Tuszynski/product-reviews/0471412953/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,128,030",
+    "Timestamp": "2015-05-24 13:39:49.283850",
+    "itemurl": "http://www.amazon.com/Biomedical-Applications-Introductory-Physics-Tuszynski/dp/0471412953"
+}

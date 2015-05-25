@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$375.00",
+    "Name": [
+        "Handbook of Radiotherapy Physics: Theory and Practice"
+    ],
+    "OfferPrice": "$338.79",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A240X5RZCR2X4O"
+                },
+                "Date": "on June 8, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Great overview of all radiation physics. A very good review for therapists, dosimetrists and the like. Recommend it highly especially the 3 chapters on radiobio."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Handbook-Radiotherapy-Physics-Theory-Practice/product-reviews/0750308605/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,526,981",
+    "Timestamp": "2015-05-24 15:47:27.499719",
+    "itemurl": "http://www.amazon.com/Handbook-Radiotherapy-Physics-Theory-Practice/dp/0750308605"
+}

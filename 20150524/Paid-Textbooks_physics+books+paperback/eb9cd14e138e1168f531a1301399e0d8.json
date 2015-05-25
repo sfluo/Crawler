@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Essential University Physics Volume 2"
+    ],
+    "OfferPrice": "$8.95",
+    "Reviews": {
+        "AverageStarRating": "3.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3121CONSNM6XU"
+                },
+                "Date": "on August 19, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I took summer courses in introductory physics over the summer, and the two volumes of this book were the prescribed textbooks. Never have I found it as easy to learn material from a textbook as with these two books. Most everything is explained in a clear manner (even if some figures are a little confusing), and mathematical justification is given for most of the claims in the book. It's also good about making sure you get the right idea of what's being learned right off the bat, introducing vectors and light calculus usage early. Honestly, I think these books even helped my understanding of Calculus grow, and I've already taken several upper division math courses. I would highly recommend these volumes (or, if they ever come together in one book, that) to anyone looking to learn introductory physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7J0S0XSX5GF9"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I was totally excited when it arrived and it made me remember my college days. Totally excited to read and try the problems again."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23WR3H3S7GPC8"
+                },
+                "Date": "on November 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good physics book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFLS5NDC6KVSA"
+                },
+                "Date": "on December 10, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "Horrible book.  Very boring to read, they just do derivations of equations most of the time instead of actually explaining the concepts.  So if you have conceptual questions for your exams, the book's pretty much a waste.  You are better off reading online notes than this book.  Don't buy it unless your professor does problems from the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEPL5QZUY412N"
+                },
+                "Date": "on February 17, 2009",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "each chapter packs in a ton of information but gives very little explanation.  more examples would be very helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K1GOD5QVN0B2"
+                },
+                "Date": "on September 12, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": "I've taken physics 1 with a different book (University Physics 11th Ed.) and had a A. Now in physics 2 I'm having a hard time because of this new book. The previous book was easy to understand, had plenty of examples and was entertaining to read for a physics book. I have to use that book to understand the class material. I have nothing good to say about this book, however. From page one it starts sentence after sentence of worthless facts and poorly explained ideas. Many people in my class feel that we will be switching back to the other book and the book store is stocking the other book for next semester instead of this one. I'm sure Wolfson can teach physics in person but for a writer he kinda sucks. Don't bother writing another edition, we aren't going to use it at NMT."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23XA2ZGOQ4YG5"
+                },
+                "Date": "on September 24, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Took long to arrive and condition was satisfactory, but if that doesn't matter to you then no complaints!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-University-Physics-Richard-Wolfson/product-reviews/0805338381/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#558,877",
+    "Timestamp": "2015-05-24 13:30:50.041665",
+    "itemurl": "http://www.amazon.com/Essential-University-Physics-Richard-Wolfson/dp/0805338381"
+}

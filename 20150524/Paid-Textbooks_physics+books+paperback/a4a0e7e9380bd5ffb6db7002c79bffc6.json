@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.00",
+    "Name": [
+        "Nuclear Physics: A Course Given by Enrico Fermi at the University of Chicago"
+    ],
+    "OfferPrice": "$32.19",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 26, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "These are the notes  of the Fermi lectures on nuclear physics at Chicago. As a book on nuclear physics they are, of course, too dated. However, I strongly recommend this book for he who wants to see a great master solving problems of various kinds. Besides the usual topics of alpha and beta-decays, nuclear models, scattering, etc, there are beautiful treatments of passage of radiation through matter, origin of cosmic rays and action of the Earth's magnetic field on incoming charged particles. The book is a monumental collection of very good exercises of quantum mechanics, electrodynamics, relativity, etc. In this sense , it will never become obsolete."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G99GILLAYXIV"
+                },
+                "Date": "on October 16, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As I'm very interested in geometries of the nucleus, I ordered a copy of this notes of a lecture given by Enrico Fermi summarized by some of his students. It introduces into shell-, gas-, and liquid drop-theory of nuclei. It gets really complicated in the interaction of different radiations with matter. But I learned what a well is, how to apply QM to the nucleus. All kind of decays are explained in detail with respect to the experiment. The book also covers the theory of mesons, which are the particles of the strong-force interaction. The last chapter is about cosmic rays."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O7YPC7TZLGQH"
+                },
+                "Date": "on May 24, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DJRKVBY2UNZK"
+                },
+                "Date": "on May 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is a wonderful book . Enrico Fermi at his best. I was pleased to find a copy at a good price. I would Recommend it to students or anyone who enjoys Physics. Shipping was good . came in a timely manner . All Good Thanks a Lot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22O8FF8G8VATB"
+                },
+                "Date": "on April 27, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "perhaps the most valuable book ever bought by me and I am certainly going to come one day to new mexico since I am a nuclear physicist."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Physics-Course-University-Chicago/product-reviews/0226243656/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#846,409",
+    "Timestamp": "2015-05-24 13:33:56.077189",
+    "itemurl": "http://www.amazon.com/Nuclear-Physics-Course-University-Chicago/dp/0226243656"
+}

@@ -1,0 +1,144 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.00",
+    "Name": [
+        "Schaum's Outline of Physical Chemistry (2nd Edition)"
+    ],
+    "OfferPrice": "$15.98",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MGFWM0A7XYR4"
+                },
+                "Date": "on April 5, 2005",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "For as cheap as it is, this is a great value.  It reviews every concept in physical chemistry very well.  Obviously it won't replace your textbook, but it will at least cover subjects that maybe your textbook omits.  The outline was last updated in 1989, but, honestly, physical chemistry has not changed in at least the last twenty or thirty years.  Conceptually, all of physical chemistry has remained the same, so I would not say that this book is obsolete."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CUD53PIRET7"
+                },
+                "Date": "on March 30, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SD28D0DDK4ZY"
+                },
+                "Date": "on March 12, 2009",
+                "Helpfulness": 0.875,
+                "StarRating": "2",
+                "Text": "I found this book is too technical to be useful. I want to like it, but to be honest, I can't say it has ever helped me understand a topic I was having trouble with. It is all math, math, and more math. That may be what physical chemistry is all about, but the problem is the math does not do a better job of teaching you than textbook math does. If you need more help than your textbook provides, this doesn't have it. The short paragraphs that introduce you to concepts use the most technical words they possibly can, so I feel like I am reading a math book or my own Atkins' texbook. If you need help with physical chemistry and do not have a strong math background, this is not the book for you, even if it is cheap."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NG3IWQSNNMHD"
+                },
+                "Date": "on March 2, 2003",
+                "Helpfulness": 0.76,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 6, 2000",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "5",
+                "Text": "This book is a fabulous supplement to any physical chemistry text.  It even includes reviews on quantum and solid state.  I found this book especially helpful as i am a physics major taking p.chem with little chemistry background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13TKZOPBWIN1B"
+                },
+                "Date": "on March 13, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "I'm currently taking Physical Chemistry II at Cornell University, which is basically Thermodynamics and all of the related subfields. Although I am usually highly satisfied with the content that Schaum's Outlines brings to the table, in this arena they've seemed to fail at making things easier to grasp, and ultimately triumphed at confusing me beyond belief. There is no mention of the partition function, and other than the VDW equation of state, there is no discussion about the Redlich-Kwong EOS nor the Peng-Robinson EOS which we were required to know as well. If you want a review book, I would not suggest purchasing this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KZDWACVLWD6R"
+                },
+                "Date": "on September 21, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I have found the book to be fairly helpful. This book covers a lot of things not covered in class and I feel it depends on the course and who and how they are teaching it will be a factor in whether the book is helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANL3VD20L4PN4"
+                },
+                "Date": "on January 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The book is great for presenting many solved problems in the field.  However, I was disappointed in not seeing many (if any) derivations of equations.  I have come to expect good, insightful derivations from reading other Schaum series like \"Vector Analysis\" and \"Theoretical Physics\"  --- 2 of my favorites.  I would recommend this book for college level p-chem students who want practice with the concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGIP654GV0JOC"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "an ok book. I thought i was going to need a lot of extra help in pchem but since i have the solutions manual to my text book I barley used this outline book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XJOM22SOR8WO"
+                },
+                "Date": "on February 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great. this product was just great. great was the product and I think the service was great as well! I  am very happy with this product."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UWGC1YIM1P4S"
+                },
+                "Date": "on January 20, 2005",
+                "Helpfulness": 0.625,
+                "StarRating": "1",
+                "Text": "The examples are from a different planet! The text is very general in the important concepts and too detailed in the obscure stuff; this is definintley not intended for someone new to PCHEM. Stick to you textbook, like Atkins, which probably has better explanations and problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U0NL0BHR977S"
+                },
+                "Date": "on January 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "has a lot of helpful problems and it really helps understanding the problems. I got me a good grade in the course"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGDKD4YHQKSSB"
+                },
+                "Date": "on January 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJBQYIWC9O6F"
+                },
+                "Date": "on July 9, 2008",
+                "Helpfulness": 0.13333333333333333,
+                "StarRating": "1",
+                "Text": "I bought this book because I had a deficiency in physical chemistry owing to a bad teacher at my undergraduate study i chemistry.  This book although cheap is garbage and is not useful at all.  so do not buy it.  If you are outside the USA don't buy books published in america because mostly they are for commercial purpose and not intended to teach you."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Schaums-Outline-Physical-Chemistry-2nd/product-reviews/0070417156/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "14"
+    },
+    "Salesrank": "#337,284",
+    "Timestamp": "2015-05-24 15:14:09.542261",
+    "itemurl": "http://www.amazon.com/Schaums-Outline-Physical-Chemistry-2nd/dp/0070417156"
+}

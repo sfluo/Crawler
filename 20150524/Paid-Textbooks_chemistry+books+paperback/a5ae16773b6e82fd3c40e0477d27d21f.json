@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "Science at the Nanoscale: An Introductory Textbook"
+    ],
+    "OfferPrice": "$41.62",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28TV50PMCQP1M"
+                },
+                "Date": "on May 19, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-at-Nanoscale-Introductory-Textbook/product-reviews/9814241032/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,513,028",
+    "Timestamp": "2015-05-24 15:53:35.970348",
+    "itemurl": "http://www.amazon.com/Science-at-Nanoscale-Introductory-Textbook/dp/9814241032"
+}

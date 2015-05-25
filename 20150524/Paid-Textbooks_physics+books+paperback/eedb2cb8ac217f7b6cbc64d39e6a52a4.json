@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$28.95",
+    "Name": [
+        "Hydrodynamic and Hydromagnetic Stability (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$20.91",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L5QDP2821ECJ"
+                },
+                "Date": "on July 21, 2000",
+                "Helpfulness": 0.9130434782608695,
+                "StarRating": "5",
+                "Text": "This is one of the standard monographs on hydrodynamic instabilities, considered a classic.  It was published by Oxford UP in 1961 and is kept in print (at a bargain price) by Dover.  It is still very usable, easy to  read, and an excellent introduction, although on some points it is out of  date.  For Rayleigh-Benard convection, a reader would do well to consult  more recent books like Drazin & Reid, Swinney & Gollub,  Koschmieder, and Getling.  However, nobody covers the linear theory better  than Chandrasekhar."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 7, 2000",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "I first read this book just to better understand a small point in a fluid dynamics paper I was reading, but quickly realized it is an encyclopaedic masterpiece, and found myself reading more and more.  Chandasekhar's  explanations are clear, easily readable, and complete, and should be a  model for other writers.  Anyone working on fluids should own this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 7, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I first read this book just to better understand a small point in a fluid dynamics paper I was reading, but quickly realized it is an encyclopaedic masterpiece, and found myself reading more and more.  Chandasekhar's  explanations are clear, easily readable, and complete, and should be a  model for other writers.  Anyone working on fluids should own this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OPNO0EG5XTON"
+                },
+                "Date": "on December 5, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K1JZ3AQMTH5J"
+                },
+                "Date": "on October 26, 2005",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hydrodynamic-Hydromagnetic-Stability-International-Monographs/product-reviews/048664071X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#72,151",
+    "Timestamp": "2015-05-24 12:57:07.246787",
+    "itemurl": "http://www.amazon.com/Hydrodynamic-Hydromagnetic-Stability-International-Monographs/dp/048664071X"
+}

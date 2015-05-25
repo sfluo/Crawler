@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Optical Processes in Semiconductors (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.11",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J5FVO3TJL6VZ"
+                },
+                "Date": "on May 20, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book for me is a \"book of revealing semiconductor secrets\" which includes good in-depth details of fundamental semiconductors that majority of semiconductor books, published in last 10-15 years do not include. Since it was written over 30 years or so back, it includes basic stuff, which is what  your advisor or lecturer at university \"expects\" you to know or understand without a problem (of course in reality nothing is easy unless one knows about it and this book, I feel, does provides those basic answers :o)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Q0XY5AB0G9LZ"
+                },
+                "Date": "on October 29, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "great price, clean page, no scratch or any dirty spots, very good condition. It's almost a new one-- if you don't care about the slightly abraded spine. Anyway, enough for reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ITN0MZCWK7DH"
+                },
+                "Date": "on November 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Optical-Processes-Semiconductors-Dover-Physics/product-reviews/0486602753/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#350,024",
+    "Timestamp": "2015-05-24 12:27:22.853205",
+    "itemurl": "http://www.amazon.com/Optical-Processes-Semiconductors-Dover-Physics/dp/0486602753"
+}

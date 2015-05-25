@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$75.20",
+    "Name": [
+        "Active Learning Guide for College Physics"
+    ],
+    "OfferPrice": "$70.99",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4NXJAPMOF5AY"
+                },
+                "Date": "on February 23, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "I don't even know where to begin to use this book. It is not helpful as I am struggling with this class. There is no solution manual to help me learn the problems either. We are not using it in class but my professor suggested we could work for practice. It may be useful as a fire starter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38UY5SE83MYZY"
+                },
+                "Date": "on March 4, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Eugenia's such a great teacher!! This book, along with Eugenia's College Physics book allow teachers to form lesson plans whereby students discover their own physics instead of mindlessly learning formulas."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KWQCC11VCOIL"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KEJL2G2IKX7R"
+                },
+                "Date": "on March 11, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is an amazing resource for any introductory physics course.  It should be treated like a 'workbook' - student work, ideas, and approaches should be discussed along the way - ideally in an active learning classroom environment.  When used this way it has tremendous strength in helping students build the tools and skills they need to tackle even advanced introductory problems from fundamental principles with strong conceptual understanding.  For any teacher, even culling a handful of activities to supplement your current materials will already be very useful - that is how I make use of it even in a large lecture classroom."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NOFOPZ56K2RF"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good book. Don't like physics, but like the book for what it is."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Active-Learning-Guide-College-Physics/product-reviews/032186445X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#492,689",
+    "Timestamp": "2015-05-24 13:19:11.013128",
+    "itemurl": "http://www.amazon.com/Active-Learning-Guide-College-Physics/dp/032186445X"
+}

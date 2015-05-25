@@ -1,0 +1,801 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.00",
+    "Name": [
+        "The Physics of Immortality: Modern Cosmology, God and the Resurrection of the Dead"
+    ],
+    "OfferPrice": "$16.70",
+    "Reviews": {
+        "AverageStarRating": "3.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 23, 2002",
+                "Helpfulness": 0.8557692307692307,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QO76RZO5FHMG"
+                },
+                "Date": "on October 4, 2006",
+                "Helpfulness": 0.7972972972972973,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P5D41S1XT04O"
+                },
+                "Date": "on June 4, 2008",
+                "Helpfulness": 0.813953488372093,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHVCTHEIBQUPP"
+                },
+                "Date": "on December 21, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PVHHO66MGB12"
+                },
+                "Date": "on December 31, 2001",
+                "Helpfulness": 0.7843137254901961,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZO6QURC02B4X"
+                },
+                "Date": "on May 12, 2001",
+                "Helpfulness": 0.7755102040816326,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AETGETA12G6J4"
+                },
+                "Date": "on August 5, 2005",
+                "Helpfulness": 0.7878787878787878,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NWRCLU6OWNZ0"
+                },
+                "Date": "on December 29, 1999",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q22AXECHPSTU"
+                },
+                "Date": "on August 8, 2001",
+                "Helpfulness": 0.76,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXEPX9CPXK3QR"
+                },
+                "Date": "on October 21, 1997",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38BO7URGG3US5"
+                },
+                "Date": "on April 22, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BNT0RJQT8D7E"
+                },
+                "Date": "on July 8, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 14, 1997",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A225IM8G33ICFG"
+                },
+                "Date": "on January 12, 2000",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "3",
+                "Text": "I found it to be nearly unreadable, but that is probably due more to my lack of an adequate scientific background than Tipler's prose. My interest was resparked by a related published work.  For those who are flustered by  the density of even the pre-requisites before taking a stab at this might  want to try Michael Shermer's, \"Why People Believe Weird Things\"  (Freeman Press, 1997)--specifically, Chapter 16, titled, \"Dr. Tipler  Meets Dr. Pangloss\" which provides a pretty decent (as well as a  pretty skeptical) overview of Tipler's core theories."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26STF328GXJTD"
+                },
+                "Date": "on March 21, 1999",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OJW07GQRNJUT"
+                },
+                "Date": "on April 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OBC3EKAH9BLO"
+                },
+                "Date": "on February 1, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18FWHWSETTT0N"
+                },
+                "Date": "on November 27, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEGLLY9CXWXX3"
+                },
+                "Date": "on October 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 15, 1998",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 22, 2002",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 17, 1996",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": "Upon seeing this book, I knew I had to read it. The premise itself was enough to ensure the purchase. However, once I started on my journey from cover to cover, I soon became perplexed at some of the intricacies of modern physics. Tippler states in the beginning of the book that anyone who has had a high school education will be able to make it through this book. Well, I was still in the process of receiving a high school education when I started reading this book, but I still feel that the layperson would be unable to comprehend some of the more difficult subject matter (antimatter, nanotechnology, et cetera). The original idea behind the book was enough to keep me going for 150 pages, but after that, the bottom fell out of the whole thing. To this day there are parts I cannot make heads or tails of. This is NOT a book for a layperson, but because of the controversial subject matter, I do recommended it to anyone who has had a couple of college-level physics courses or aced an AP Physics class in high school. Otherwise, don't make the mistake I did in taking Tippler's word"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IUJHWI35YDAT"
+                },
+                "Date": "on January 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33EV2WZYQCTDQ"
+                },
+                "Date": "on April 6, 2005",
+                "Helpfulness": 0.6785714285714286,
+                "StarRating": "2",
+                "Text": "I ran across this book at a local library and it picqued my interest.  Tipler's theory of immortality, in a nutshell, is the following: 1) the planet earth...and all its living creatures are doomed as the sun will engulf the earth in ~1 billion years. 2) Man will make self-learning and self-replicating machines (can Windows XP do that?) that will colonize, over millions of years, our galaxay and, eventually, the entire universe. 3) These machines will be capable of individual thoughts, emotions, etc and are essentially \"alive.\" 4) As the universe begins to collapse, the machines will be able to manipulate this collapse and prevent total destruction of the universe. 5) All the knowledge possessed by these machines will eventually coalesce into one \"super being\" at the center of the collapsing universe...this super being is the \"omega point.\" 6) The omega point, via its \"all knowledge of all things\" will be able make emulations (exact duplicates) of all biospheres, including earth.  Within these emulations, individual humans (you and me!) will be emulated.  Thus we will again be \"alive\" as these \"beings\" in these emulations will be unable to tell if they're real or virtual....PRESTO...immortality for all.  The book (theory) reeks of circular logic and assumptions.  It's an interesting theory, but it's just that, an interesting theory by a theoretical physicist.  PS: Tipler denies the resurection of Christ and in  the last chapter admits to being an aetheist.  (I wonder if he's a God-fearing aetheist?)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 7, 2003",
+                "Helpfulness": 0.6923076923076923,
+                "StarRating": "4",
+                "Text": "This book is quite good... but only for a Physicist I'm afraid.  If you're looking for a \"proof\" of God, you won't find it in this book unless you're highly into Einstein's Physics.  You have to realize that the author has a different paradigm than a majority of humanity.  To a cosmologist, this is an intriguing and plausible hypothesis.  To the average reader, it's undecypherable.  To a clergyman, it's blasphemy.  That being said, the book is not entirely wasted on the average reader.  Tipler's ideas on embracing AI as a natural evolutionary development rather than fearing AI's dominance are rather intriguing to say the least.  In general, however, most people buy this book to find proof of God, which unless you're a Physicist, you won't find."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on March 5, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIIMLZ6DFA7M1"
+                },
+                "Date": "on November 11, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Dr. Tipler's book on the reality of life after death is curious, to say the least.  He writes as a professor of mathematical physics who is trying to make mathematical theory intelligible to the average person.  He is not that successful.  Those thinking, from the title, that this work is an attempt on the part of a Christian believer to prove what the Bible says as about immortality, will not find comfort unless they are ready to redefine some terms and concepts.  Tipler spends the greater part of the book setting out his case from the view of theoretical physics.  He has an appendix to the book which is written for \"the scientist,\" but without some familiarity with physics the book may be hard to follow; especially, his material on quantum cosmology.  Chapters 9 through 11 are easier to follow and have greater interest to the non-technical reader.  Tipler's thesis seems to have grown out of Pierre Teilhard de Chardain's book, \"The Phenomenon of Man,\" in which he sees the human race as moving to an Omega Point in its evolutionary development. Tipler sees God as the Omega Point toward which humanity is moving, in which the whole of humanity is given new existence, having been regenerated from the data of their existence which has survived \"in space\" following the demise of the original body.  Man will not be the original of himself but will be an exact recreation of himself, created out of the extant data of his original existence.  The book does not make a claim of presenting absolute proof of the author's thesis, but is a presentation of what may be possible in terms of theoretical physics.  Possibilities of what  \"may be\" make up \"the stuff\" of theoretical physics.  The book is well worth the reading.  Maurice III"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15EGZT1M0NCZ7"
+                },
+                "Date": "on November 10, 1998",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 17, 1997",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DTVM8X6H5ZLW"
+                },
+                "Date": "on July 28, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "1",
+                "Text": "While the mathematical speculation and logic in the beginning of this book is interesting, the idea that future humans would have any desire or reason to create machine emulations of all humans is unbelievable and unsupported by the book. I also have to agree with a previous reviewer: I fail to see how a programmed emulation of myself has anything to do with my immortality. How can a machine emulation be considered a resurrection of an individual? And why would anyone have a reason to create this emulation in the first place?  Sadly, I am afraid this book argues for mortality rather than immortality."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACA1XD8WF8EL4"
+                },
+                "Date": "on January 21, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMYX34SQLKXNN"
+                },
+                "Date": "on March 8, 1998",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N0MCEPMT2VR4"
+                },
+                "Date": "on March 21, 2002",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This guy is out there. Considered a brilliant modern astro-physicist Tipler offers some radical ideas such as the universal constructors using human DNA to build and seed the universe with human beings to form a universal consciousness that will become God."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 12, 2000",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": "Before I praise Tipler's adventuresome theory, I have three quibbles. 1) He begins by saying he'll prove ... and ends by rejecting what he had 'proved' and placed his Omega Point theory on the shelf until there is  experimental evidence for it (requiring gadzillions to build that super  accelerator in Texas). 2) Tipler does not allow for the myriad intelligent  life forms out there?  Are they to be resurrected, too, in a separate  Heaven?  And what will our computer simulations do when confronting such  beings?  Go away? 3) Is God a part of or outside His/Her creation?  And  what was He/She doing before the Big Bang, and after, or is there no  beginning, but an endless round of creations? Perhaps these conundrums were  not within the purview of this title, or, more likely, they were covered  and I missed them in all three of my readings.  Yes, I'm now reading it for  the 4th time in the hope I'm nearing the point of understanding it all.  (Tipler has little understandfing of the laymen's understanding, else he  wouldn't have said all the reader would need was a decent high school  education.  Mine must have been indecent, indeed.)  Having said all that, I  am in awe of his scientific chutzpah. (I can only imagine how he must be  treated by his colleagues at scientific conferences!) One also wonders what  Our Heavenly Father was up to during the 12 or so billion years before  planet Earth became inhabitable, or what He/She and Jesus will be doing  during the 100-billion or more years after the earth disappears into the  Sun's red maw? If heat death is the Universe's destiny, how pray tell will  our Creator will occupy Him/Herself ever after? Of course if this is just  one of an infinite number of Universes (and probably not the original one),  He/She was remain occupied forevermore.  Such a scenario of course  eliminates the Omega Point and my ressurrection.  So for purely selfish  reasons I prefer to go along with Tipler.  But I wish he had accounted for  an endless series of Big Bangs.  Does each Genesis create a new Omega Point  and another round of resurrections? Be that as it may, Tipler has recruited  me to join the Deists.  Don't let the Bastards beat you down, Frank."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 15, 1998",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "Tipler's imagination borders are probably further away than most people's. He nevertheless anticipates vigorous objection while explaining his theory, which indicates that he's not out of touch with reality. Most reviews ignore the fact that Tipler included an appendix to his general text. In this appendix he argues his contemplation. Any serious objection should really falsify the math in the appendix, because this is his research with which he verified his ideas. Not many scientists dare to go to such extremes out of fear to be excommunicated. Tipler had the guts to do so, because he probably thought history produces at least as many sceptics as visionaires. I think his choice is admirable, because mortals usually have no access to the kind of information scientists have. I myself thouroughly enjoyed reading this book (3 times) and ended up with an entirely different view on life and future. Expirienced men like Tipler take into account that new findings will damage their hypothesis. Nevertheless the expression of  his views is very much worth reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 8, 1999",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": "I am a science scholar and have read numerous literary works that explain to me the universe, but never once have I encountered as much knowledge as I did while reading The Physics of Immortality. The book told me more about  what I didn't know than I ever knew existed. It gives a prediction of our  future in every area of major study. The book overflows with knowledge and  plans that I have never even heard of. It is a masterpeice of hard work and  ideologies that we should all be aware of."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4MB63IEMD43O"
+                },
+                "Date": "on December 24, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EDF8YR4Z6L8A"
+                },
+                "Date": "on September 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "It has some entertainment value if you like science fiction, but it's of course utter nonsense and pathetic wishful thinking."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H31U0PWIWZ4P"
+                },
+                "Date": "on December 27, 2004",
+                "Helpfulness": 0.6153846153846154,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 30, 2001",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Most of the physics in here was accurate, with a few blunders, but not so serious.  Few more discoveries have been made since his book came out.  Now there is a theory of a parallel universe much like ours.  Many ideas about physics that I haven't known was covered here so whether or not you agree with the conclusion, it is still very informative."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R68FSCH3NCOM"
+                },
+                "Date": "on May 14, 2003",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22IBZXWTEUM3T"
+                },
+                "Date": "on October 23, 2001",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "\"Fun to read\" says one of the reviewers; and with that assessment I heartily agree.  It's a wonderfully entertaining book for the intellectually qualified, but it is not for the semi-literate--not for the pop culture.  I was reminded of Nabakov's PALE FIRE, one of the most exquisitely funny books you can find about the academic literary scene; but you have to be familiar with that scene before you can recognize what Nabakov was poking fun at.  This book would be good entertinment for post-graduate students in physics on a rainy weekend, if they have the necessary background in the humanities, philosophy and comparative religion.  Tipler seems to be doing here what he agreed with Barrow not to do, go into the ideological ramifications of the Omega Point.  And he does it with sly Jewish humor.  Great fun."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 18, 1996",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJADA1TL1QL9"
+                },
+                "Date": "on February 10, 2002",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ESKPQLUE3T5M"
+                },
+                "Date": "on April 17, 2004",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 23, 1999",
+                "Helpfulness": 0.6,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 20, 1996",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ3BLYFN0T0RF"
+                },
+                "Date": "on November 13, 2001",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A622QZLQUOIW"
+                },
+                "Date": "on August 7, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I found this book such a fascinating read that I don't mind if is complete bunk as science. The author offers several testable predictions, some of which I believe have by now proven false. However, I greatly admire the author's imagination. He made me want the theory to be true, weird as it is. Apparently, I do \"have a taste for well educated lunatics making weird arguments,\" to quote one reviewer."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XBT4LRNOTMK6"
+                },
+                "Date": "on July 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7UMC95YCRGTS"
+                },
+                "Date": "on September 20, 2003",
+                "Helpfulness": 0.5925925925925926,
+                "StarRating": "5",
+                "Text": "Highly mentation-boggling work that left me gaping between the patent absurdities strewn through the text at the lurking consequences, not yet science, but potentially profound, of modern physics. In fact, I had no idea what to do with this book except enjoy it and found the account in action of the Omega Point theory, even if this take is wrong,from Barrow and Tippler's book on the Anthropic principle, to be awesome, almost sublime. At times the smoke seems to be coming out of Tippler's ears, a top physics brain overheating, but the experience is worth it. Better than science fiction (assuming it is not such). Have fun with this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 19, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "It would be difficult to have a sufficiently deep and comprehensive background in general relativity, particle physics and information theory to be able to evaluate the merits of Dr. Tipler's arguments.  One of the things that makes this book so impressive is his complete mastery of all these areas, when mastery of a single one would be a real achievement for any one person.  Even if I am not in a position to cogently critique the theory presented, I will tell you that many people will find reading this book a tremendously powerful experience, especially if you would like to believe (as I would) that death is not permanent."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4V1BR8MT3LYR"
+                },
+                "Date": "on January 8, 2002",
+                "Helpfulness": 0.5294117647058824,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 15, 1997",
+                "Helpfulness": 0.5294117647058824,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 21, 1997",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "Do NOT read this book, even if to disprove it, it is simply not worth the effort.  This is such a waste of paper it is disgusting.  I tried to follow the physics but it seems that Tipler is just throwing formulas down for no other reason than to confuse the reader into agreeing with him.  (Oooh, look at these complex formulas, Tipler MUST be on to something here!) There are absurdities abound.  I do not know how the Times and other respectable book reviewers came to give this book such a high rating - no sane person who reads this book could come out with such glowing praise for stupidity.  His point on animals not getting into heaven (p249) is one that I will never forget, it is so mind-bogglingly ridiculous"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 14, 1999",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R5Z3758WQLJ9"
+                },
+                "Date": "on November 17, 2001",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU9JM1V72S0LY"
+                },
+                "Date": "on May 25, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The Bible's tenets are not based on magic or fanciful desires.  The Creator of the laws of science is obviously an expert in their use.  If more scientists began looking in the right direction (by using the Bible as a road map), we would see far more progress in discovering the mysteries of the universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 6, 1999",
+                "Helpfulness": 0.5238095238095238,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QN5CBNT6EARE"
+                },
+                "Date": "on February 19, 2004",
+                "Helpfulness": 0.5434782608695652,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 9, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 26, 1998",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "This is the perfect book for those looking for a deeper perception of god,  something more than what any religion can offer. if you have the sense and  desire to evolve past the herds then this is a book for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 29, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1P90JWUS0TP02"
+                },
+                "Date": "on January 16, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": "This book may stretch plausibility a little but it has some good practical suggestions for colonising the universe in the future.  Sending a 100g universal constructor and computer together with Earthly genetic material at 0.9c to neighbouring star systems and beyond is appealing, but a little further in the future than anticipated in the book.  What are the chances that a von Neuman probe as described will survive such a journey to a neighbouring star through the interstellar medium?  Every (atomic) particle it encounters will appear as a cosmic ray, let alone small specks of dust!  Something more is needed to solve this problem.  I believe also that Dr Tippler's contention that there are no other living species out there is probably incorrect, and he therefore falls into the human-centric theories and assertions of old. Nevertheless, a good read, with its main contribution being speculative means of survival and proliferation in a future universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYFM7WH9YAQA"
+                },
+                "Date": "on September 25, 2006",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PZ1JF6G8M3SI"
+                },
+                "Date": "on March 12, 2001",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV4AP7RTDXFB7"
+                },
+                "Date": "on April 9, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "This books titlie makes you think that Frank has proven there is a God and that we will all be resurrected.  First of all Frank redefines what God is and that the resurrection (which he states he does not beleive over and over again) is a computer simulation. He bases these redefinitions on philosphers inputs and well chosen sentences from well known religions.  Of course after hand picking his own definitions, he can mathmatically come to any conclusion he likes. Even physical laws he dismisses when convenient for his results."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AF3I1DOEIJ2C0"
+                },
+                "Date": "on December 3, 1999",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "I have always been fascinated with physics but not really up to speed with all the math involved. I thought \"The Physics of Immortality\" was a great book for the average person to read and understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQJMLHT4ZECJ7"
+                },
+                "Date": "on February 18, 2000",
+                "Helpfulness": 0.375,
+                "StarRating": "1",
+                "Text": "When an author comes out with a new theory, it is nice to actually support it with something that causes the reader to consider their idea. This book was filled with premises that \"support\" the author's conclusion  that themselves were hard to swallow. Buy this book if you are in need of a  good laugh... but if you are offended by pseudoscience as I am, steer  clear."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CXE62MVM9EOD"
+                },
+                "Date": "on March 27, 2000",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 26, 1997",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "1",
+                "Text": "In a day when science has allowed for the manipulation of our environment to a greater extent than dreamed possible a hundred years ago, it's only natural that the average person turn to science to answer questions once reserved for theologians and philosophers. If \"Physics of Immortality\" is any indication of what  this wrenching produces, its safe to say that science's complacency has become far more unfounded than most of what science has \"refuted.\" This is a horribly reasoned book written by a oppurtunistic, naive human-calculator meant to exploit the fears and growing faith in science of the average person to fill up his own wallet. The pretentious product of this greed he calls the \"Omega Point theory\" is undecipharable garbage using obscure physics formulas meant to glaze over the eyes of the average idiot. I was also angered by his inabilily to comprehend contemporary philosophy. Since he hasn't the understanding of Nietzsche or Heidegger to compete with their arguments in a professional way, he dismisses their arguments because of their misuse by Nazism. Tipler, through this book,  is a discrace to physics and to science in general."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 18, 1999",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "3",
+                "Text": "Tipler has justified the existence of the eternal world (as if it needed justification).  This scientific work he has brewed up is like a comforting blanket to all those who refuse to believe in the higher power that  manifests itself on planes we can only glimpse at through other known  conscious.  Now all you geeky 'intellectuals' who know everything can  justify a belief in something other than sci-fi futurisms.  Try and live  upward and drive hate and competition out of your lives and focus on the  oneness of this beauty called life."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L57WV17ZZDHJ"
+                },
+                "Date": "on May 6, 2004",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "5",
+                "Text": "The title of this book grabbed me and I had to read it - I am sooo glad I did.  This is one of the best books I have every read.  Anyone who is interested in science and religion should definately read this book.  It may be a difficult read for non-scientific people, but it would be well worth it.  Tipler presents some of the most mind-blowing theories I have ever encountered, and what's more, he is very convincing in making us believe that his prophecies may come true.  This book could turn any scientific-atheist into a believer.  This book is Science asking for Religion's hand in marraige, and it leaves the reader hoping and praying that Religion will say \"yes\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J11PEC96LWR"
+                },
+                "Date": "on August 6, 2007",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "1",
+                "Text": "A collection of poorly edited lines of arguement that go off at a tangent to each other.  The relationships between the different ideas are barely demonstrated and proven properly before the synthesized new idea is used as a launching-pad for another discussion on another 'breath-taking' idea.  He does not address many of the fundamental issues of religion.  He also does not elucidate his definition of 'God', which handicaps my understanding of his point of view, and therefore, the intention of the whole book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 4, 1998",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "1",
+                "Text": "Everyone is entitled to their own personal philosophy.  And if you have a scientific background, you will probably want to incorporate that into your world view.  Tipler tried that.  It may work for him, but I labored through his book and came away unenlightened and disappointed.  I felt light I discovered that a highly respected teacher has gone a little senile."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 23, 1999",
+                "Helpfulness": 0.25,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E33B936SI3WE"
+                },
+                "Date": "on March 1, 2006",
+                "Helpfulness": 0.125,
+                "StarRating": "4",
+                "Text": "Even though the book is controversial and presents ideas and theories that will appear far-fetched and unproven, it is still worth reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34V7JVPFPKSW"
+                },
+                "Date": "on February 14, 2001",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DPL0N2OTZ8JD"
+                },
+                "Date": "on March 25, 2005",
+                "Helpfulness": 0.37037037037037035,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JFWIL95U3ZCK"
+                },
+                "Date": "on November 27, 2001",
+                "Helpfulness": 0.1875,
+                "StarRating": "1",
+                "Text": "One of the silliest books ever written by an otherwise competent scientist"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PZPX2D5PA6XJ"
+                },
+                "Date": "on March 9, 2005",
+                "Helpfulness": 0.25,
+                "StarRating": "2",
+                "Text": "From a creationist point of view Frank Tipler's speculations and predictions don't deserve much of a commentary. He reduces life, God and eternal life to the limited observations we can make and to the virtually unlimited speculations he is able to put forward. The critical reader should be able to distinguish present observations (none of which contradicts the Bible) from extrapolations about the unobserved past and future. After that first operation, the critical reader will be able to notice that Frank Tipler is a master of the art of extrapolation, imagination and speculation. He is also a victim of a confusion of categories. For him God is a naturalistic Omega Point, where all mater, time, space, energy and iunformation converge and colapse. My advice to Tipler is: don't bet your life on your fallible (as well as unsubstantiated and in many instances simply wrong) speculations. Jesus Christ is the Alpha, Omega without whom the origins, purpose and end of this Universe lose their possibility. The biblical creationist model of creation, fall, Flood, Babel, dispersion and rapid speciation, although it is as amazing as anything can be, is much more sound and coherent from a theological, philosophical, scientific and historical point of view. We should not try to find a place for God in our reason. Instead, we should try to find a place in God for our reason. He his THE REASON (LOGOS)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV2JYHXE07T5R"
+                },
+                "Date": "on February 20, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QF3BCT8LRU1X"
+                },
+                "Date": "on August 19, 2001",
+                "Helpfulness": 0.15,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CJAHAHQGQ7NR"
+                },
+                "Date": "on June 18, 2005",
+                "Helpfulness": 0.23529411764705882,
+                "StarRating": "1",
+                "Text": "Tipler says many times \"as I have proved\".  Huh? What the f is he talking about?  There is no proof in this stinking pile of filth.  He's got an abundance of physics in the back of the book-I'd like to hear from a physicist if any of that crap makes any sense, but I don't think it should matter.  I am intelligent enough to understand basic physics concepts, and Tipler just doesn't make any sense.  His writing is so bad that anyone who reads this entire thing will have wasted a colossal ammount of time.  The more books you read, the sooner you know when to stop reading, put the book down, and read a work of fiction instead, which can play with such ideas without boring you to death."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20AB8O2GMKDBQ"
+                },
+                "Date": "on September 20, 2005",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": "while I appreciate what Tipler was attempting to accomplish, he fails miserabley both from a theological and a scientific perspective.  skip this one!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22N3B2R557S46"
+                },
+                "Date": "on April 19, 2002",
+                "Helpfulness": 0.10344827586206896,
+                "StarRating": "1",
+                "Text": "This guy is seriously messed up.  I laughed so hard reading this book -- to think he actually believes that one day we will send out probes the size of our hands to replicate themselves and everything on earth throughout various corners of the Universe!  What a nut!  As if we are even going to last the next 100 years on this planet..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FJBGVAE8P9S4"
+                },
+                "Date": "on September 5, 2001",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Immortality-Modern-Cosmology-Resurrection/product-reviews/0385467990/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "87"
+    },
+    "Salesrank": "#457,325",
+    "Timestamp": "2015-05-24 12:58:12.639349",
+    "itemurl": "http://www.amazon.com/Physics-Immortality-Modern-Cosmology-Resurrection/dp/0385467990"
+}

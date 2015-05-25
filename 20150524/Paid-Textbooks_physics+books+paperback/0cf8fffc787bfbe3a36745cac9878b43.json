@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$27.95",
+    "Name": [
+        "Physics in the Nineteenth Century"
+    ],
+    "OfferPrice": "$25.06",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 10, 1997",
+                "Helpfulness": 0.8125,
+                "StarRating": "5",
+                "Text": "It usually scares the bleep out of me when a physicist attempts history.  Purrington is a  major exception.  PHYSICS IN THE NINETEENTH CENTURY perfectly fills a void in the history of physics, and the intellectual growth of America and Europe.  It's a compulsive read-read it  straight through without putting it down once.  I know of no better book dealing with the intellectual 'threads' of the growth of physics. Purringtons' writing is clear, crisp, and to the point.  A good book has exactly the right number of words.  This book has exactly the right number."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Nineteenth-Century-Robert-Purrington/product-reviews/0813524423/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,030,415",
+    "Timestamp": "2015-05-24 13:36:14.841784",
+    "itemurl": "http://www.amazon.com/Physics-Nineteenth-Century-Robert-Purrington/dp/0813524423"
+}

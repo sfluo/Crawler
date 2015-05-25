@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$44.99",
+    "Name": [
+        "Tourists in Space: A Practical Guide (Springer Praxis Books / Space Exploration)"
+    ],
+    "OfferPrice": "$33.74",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22PXS7DYJFWAM"
+                },
+                "Date": "on August 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent update to the author's first edition. The contents have completely been revised to reflect the changes in the commercial spaceflight industry. Very helpful are the Suborbital and Orbital Ground School Manuals - the first in the industry. Extremely thorough and authoritative. A must-read for anyone contemplating buying a ticket or are just interested in how space tourists will be trained. Great job."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Tourists-Space-Practical-Springer-Exploration/product-reviews/3319050370/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,651,241",
+    "Timestamp": "2015-05-24 13:28:11.726101",
+    "itemurl": "http://www.amazon.com/Tourists-Space-Practical-Springer-Exploration/dp/3319050370"
+}

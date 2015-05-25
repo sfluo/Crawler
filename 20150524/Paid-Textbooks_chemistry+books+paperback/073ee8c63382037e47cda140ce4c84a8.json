@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "Self Assembly: The Science of Things That Put Themselves Together"
+    ],
+    "OfferPrice": "$57.30",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MWES5Z5ZBFZB"
+                },
+                "Date": "on April 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YKT33GAE0HT2"
+                },
+                "Date": "on April 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y8V6D2RRNM5W"
+                },
+                "Date": "on February 3, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I did enjoy reading this book, and it was very helpful as an introduction to self-assembly.  As the previous reviewer stated, it covers a large number of topics related to self-assembly.  However, there is limited coverage of the Physics involved, mostly focusing on things from a more conceptual level (good, but I was hoping for more)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Self-Assembly-Science-Themselves-Together/product-reviews/1584886870/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,752,087",
+    "Timestamp": "2015-05-24 15:42:21.223728",
+    "itemurl": "http://www.amazon.com/Self-Assembly-Science-Themselves-Together/dp/1584886870"
+}

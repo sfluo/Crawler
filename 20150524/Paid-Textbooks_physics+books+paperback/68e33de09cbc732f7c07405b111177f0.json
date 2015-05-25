@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$94.99",
+    "Name": [
+        "The Physics of Low-dimensional Semiconductors: An Introduction"
+    ],
+    "OfferPrice": "$74.55",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3590XQQ2DWOM7"
+                },
+                "Date": "on March 16, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 13, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTR5SHZOLVLF"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Solid state physics is a complicated and vast subject to understand. This book covers basic concepts regarding to the solid state physics side of semiconductors, without burdening the students of too much math. Straight-forward and easy to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ZQ3RMOOJKXV"
+                },
+                "Date": "on December 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "These guys write in a way that's *helpful*, as opposed to many other writers who simply write it to have it there, but not make the subject any clearer. I learned more from this book than from my Solid State class. They also mention practical things that are actually done in industry, which is cool."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQNX2AAAKFQ8P"
+                },
+                "Date": "on July 11, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31TF08NDRJ09M"
+                },
+                "Date": "on April 6, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A339CEOUVEZVSG"
+                },
+                "Date": "on April 1, 2003",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "i read this book and it seems to be very readable. it explains the physics behind the quantum heterostructures in a lucid and tractable manner. i recommend this volume before reading the treatise by weisbach & vinter. those who want to start research on quantum structures will find this book as an invaluable resource. its comprehensive and almost exhaustive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A384XLP3L0BOJP"
+                },
+                "Date": "on March 23, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "As a graduate student working on semiconductor devices, this book is an incredible reference. Davies only assumes about an undergraduate familiarity with the subject, making the text a great \"bridge\" from core textbooks to research papers. There have been many occasions when, upon not understanding a paper, reading a section in this book made everything clear."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARZ33NJYH8A7D"
+                },
+                "Date": "on May 24, 2001",
+                "Helpfulness": 0.4,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HXV2N5A7XYGP"
+                },
+                "Date": "on February 9, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Possibly with strong background in Quantum Mechanics and Advanced Mathematics - the book is readable.  Otherwise, the authors incomplete explanations make the book entirely incomprehensible."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Low-dimensional-Semiconductors-Introduction/product-reviews/052148491X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#775,264",
+    "Timestamp": "2015-05-24 13:33:53.909713",
+    "itemurl": "http://www.amazon.com/Physics-Low-dimensional-Semiconductors-Introduction/dp/052148491X"
+}

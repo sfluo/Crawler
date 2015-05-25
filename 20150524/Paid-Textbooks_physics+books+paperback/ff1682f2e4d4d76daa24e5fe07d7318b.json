@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Problems in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.36",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A73J651L45FTI"
+                },
+                "Date": "on April 14, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Professors Kogan and Galitskiy offer an excellent collection of problems spanning the whole gamut of mathematical and intuitive skills that are required to gain strong competency in quantum mechanics.  Anyone who wishes to move forward into quantum field theory would be well-advised to master all of these problems before proceeding.  Also, check out Galitskiy Jr.'s course on quantum physics available through [...]!  It's a great introduction to the techniques required in this volume, and oming from one of the author's sons, puts additional authenticity into the learning process!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on March 25, 2013",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A155NO79V40PJ8"
+                },
+                "Date": "on March 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Excellent choice tasks, but only for classical quantum mechanics. Within this period of I almost have no complaints. Perhaps tasks are a little difficult for the average student."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Quantum-Mechanics-Dover-Physics/product-reviews/0486480887/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#185,805",
+    "Timestamp": "2015-05-24 12:37:42.237193",
+    "itemurl": "http://www.amazon.com/Problems-Quantum-Mechanics-Dover-Physics/dp/0486480887"
+}

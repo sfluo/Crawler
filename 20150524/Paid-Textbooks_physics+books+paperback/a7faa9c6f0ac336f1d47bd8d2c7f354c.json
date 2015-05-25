@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "The Large Scale Structure of Space-Time (Cambridge Monographs on Mathematical Physics)"
+    ],
+    "OfferPrice": "$94.36",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on January 18, 2002",
+                "Helpfulness": 0.975609756097561,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K7YJTZ0QHNCM"
+                },
+                "Date": "on April 25, 2000",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "The early seventies saw a revolution in cosmology; for the first time, modern mathematical methods were applied to the discipline, with intriguing results.  This book was (along with Penrose's articles) the seminal work in global general relativity.  Often overlooked is that the first half of  Hawking & Ellis is devoted to traditional GR via the tensor calculus,  and the q-form conception.  However, trying to learn GR with this volume is  not recommended (instead, cf. D'Inverno).  The meat-and-potatoes of the  book is the discussion of gravitational collapse, and the singularity  theorems.  They provide us with intuitively good reasons for believing in  some very strange phenomenon.  If you're interested in the frontiers of  modern science, and have the appropriate mathematical background, this book  cannot be recommended too highly.  The little yellow book stands supreme in  the hierarchy of works of modern physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 17, 1998",
+                "Helpfulness": 0.8125,
+                "StarRating": "5",
+                "Text": "This book of Stephen Hawking is the more elegant one on modern General Relativity and is my favorite book. It covers in brilliant form the gravitational collapse of a star, the theory of black holes, the space-time singularities, the causal structure of space-time, and in its end the initial singularity of the universe, popularly known as the Big Bang. The  book is highly mathematical, and is pressuposed that the reader have studied basic abstract algebra and point set topology. But, for the readers highly interested in these subjects(as I am), this is not a obstacle. All theoretical physicists interested in modern General Relativity should have this book, a testimony of the Genius of Stephen Hawking. Definitively, a magnific book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21V14B8V9WX1P"
+                },
+                "Date": "on October 21, 1999",
+                "Helpfulness": 0.35106382978723405,
+                "StarRating": "3",
+                "Text": "Don't be mislead by Hawking's popular works, this is a book by a mathematician written for mathematicians.  Unless you studied mathematics to at least graduate level (you need to understand vector calculus, vector  spaces and tensors to get anywhere) you are unlikely to get much from this  book.  Even then to read it at anything other than the most superficial  level is very hard work.  However even at the superficial level it gives  one insights into some interesting aspects of general relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 21, 2002",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "I think that this book has great depth, and is one of the best Stephen Hawking books I have read.  My favourite remains 'A Brief History of Time', but still this book is extremely excellent.  My compliments to the chef."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Structure-Space-Time-Cambridge-Monographs-Mathematical/product-reviews/0521099064/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#547,037",
+    "Timestamp": "2015-05-24 13:00:02.370842",
+    "itemurl": "http://www.amazon.com/Structure-Space-Time-Cambridge-Monographs-Mathematical/dp/0521099064"
+}

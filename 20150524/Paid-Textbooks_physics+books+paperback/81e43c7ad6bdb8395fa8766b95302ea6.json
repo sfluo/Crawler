@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Lectures on Complex Networks (Oxford Master Series in Physics, Computational, and Theoretical Physics)"
+    ],
+    "OfferPrice": "$30.44",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KITH6YSY2Z1L"
+                },
+                "Date": "on April 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "best purchase ever! so cheap for this fantastic book :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NC2AXR5GW75B"
+                },
+                "Date": "on October 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great introduction to a fascinating topic"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lectures-Complex-Networks-Computational-Theoretical/product-reviews/0199548935/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#719,467",
+    "Timestamp": "2015-05-24 13:50:50.376483",
+    "itemurl": "http://www.amazon.com/Lectures-Complex-Networks-Computational-Theoretical/dp/0199548935"
+}

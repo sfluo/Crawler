@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.99",
+    "Name": [
+        "The Physics of Stargates: Parallel Universes, Time Travel, and the Enigma of Wormhole Physics"
+    ],
+    "OfferPrice": "$16.14",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9RTH5KF174B9"
+                },
+                "Date": "on December 29, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30UERG155L7B9"
+                },
+                "Date": "on December 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKRNHR5NLEE5O"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28BPGOGA7CSK7"
+                },
+                "Date": "on July 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Stargates-Parallel-Universes-Wormhole/product-reviews/0984150005/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#971,715",
+    "Timestamp": "2015-05-24 13:17:35.091855",
+    "itemurl": "http://www.amazon.com/Physics-Stargates-Parallel-Universes-Wormhole/dp/0984150005"
+}

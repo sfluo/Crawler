@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Particles, Bubbles And Drops: Their Motion, Heat And Mass Transfer"
+    ],
+    "OfferPrice": "$82.30",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FO0ZXC9400WQ"
+                },
+                "Date": "on September 25, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "2",
+                "Text": "This book just presents lots of general information about research topics. There is no useful information for anyone carrying out postgraduate research."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Particles-Bubbles-Drops-Motion-Transfer/product-reviews/9812566481/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,020,476",
+    "Timestamp": "2015-05-24 15:55:42.237735",
+    "itemurl": "http://www.amazon.com/Particles-Bubbles-Drops-Motion-Transfer/dp/9812566481"
+}

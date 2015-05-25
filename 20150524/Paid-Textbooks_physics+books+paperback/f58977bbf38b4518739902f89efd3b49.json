@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$41.00",
+    "Name": [
+        "Lectures on Quantum Mechanics for Mathematics Students (Student Mathematical Library)"
+    ],
+    "OfferPrice": "$26.96",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IIUWBR8W81SU"
+                },
+                "Date": "on April 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I was excited to learn about Quantum Mechanics and this book does an okay job at explaining the material.  The lectures I had during class didn't really reflect what was going on in the book either so that was definitely part of the problem, but still the book could definitely have been better."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lectures-Mechanics-Mathematics-Students-Mathematical/product-reviews/082184699X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#470,463",
+    "Timestamp": "2015-05-24 13:48:04.730919",
+    "itemurl": "http://www.amazon.com/Lectures-Mechanics-Mathematics-Students-Mathematical/dp/082184699X"
+}

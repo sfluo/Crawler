@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.99",
+    "Name": [
+        "Barron's AP Physics C, 3rd Edition"
+    ],
+    "OfferPrice": "$15.74",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B4V1GRPJ299Y"
+                },
+                "Date": "on May 11, 2013",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "3",
+                "Text": "There are many typos and just plain wrong sections in the book. For example, in the Rotation 1 section, the book often uses 1/2 (one half) instead of l/2 (length divided by 2) when dealing with the radius of rotation. Also, in the very beginnging, the book incorrectly states that v^2=vo^2+2a(x-xo)^2 when it should be ...+2a(x-xo). If you are going to use this book, you should mainly use it for the practice problems it offers. Else, take what you read with a grain a salt."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATDEVRNN44565"
+                },
+                "Date": "on February 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My son has used Barron's study guides before with great success. he is teaching himself Physics C and has two different test prep books for teaching himself. He did this with Physics B and got a 5 and 800 on the subject test.  Barron's books tend to be tougher than other test prep books which makes them a good, \"final\" prep book before the test.  I would recommend for anyone with high score goals."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AWZHSLL5FZG7"
+                },
+                "Date": "on November 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear book, excellent derivations of each formula you will need for AP Physics C E&M; and Mechanics.  It can work for independent study (for me it did) or as a supplement to a class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OGOTBPUNOIP5"
+                },
+                "Date": "on May 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Absolutely fantastic. It actually predicted a lot of the exact questions on the test. Thank you for literally helping me learn Physics in the week leading up to the AP test."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22AOFO0D1QOIU"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OXGKYYMQY8KK"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I like it because it does the job it is suppose to do: make me pass my test. In this regard, it is OK, I guess"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A320OEDASEBGME"
+                },
+                "Date": "on April 18, 2013",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "2",
+                "Text": "I have had fine luck with most of the book, but there is one section that bothers me. On page 548-549, the book derives and solves a differential equation for the current in an RL circuit. The book derives the differential equation by an application of Kirchhoff's loop rule, which states that the closed loop integral of E dot dl is 0. However, when dealing with inductance, Kirchhoff's rule does NOT hold anymore, due to the changing magnetic flux. The book implies that there is a potential difference across an inductor in circuit. This is impossible, for an inductor is nothing but a coil of wire with negligible resistance. Due to the mathematical details, the differential equation actually comes out the same using either the false or the proper setup. Many textbooks have this wrong. Faraday's Law tells us that the closed loop integral of E dot dl is proportional to the change in the magnetic flux through the loop over time. No magnetic flux change? We have Kirchhoff's rule. But do not be mislead by the misinformation and nonsensical implications that a coil of wire could drop the voltage in a circuit. Taking into account the changing magnetic flux through the circuit, we see that the electric field in around the closed loop is no longer conservative."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JDI4RH2YYHTU"
+                },
+                "Date": "on October 22, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1028IG71L1S08"
+                },
+                "Date": "on March 2, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQKJSCZ859GOL"
+                },
+                "Date": "on March 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "My son is taking the class and found that the book was not geared to the the class he is taking.  The practice questions were not has helpful as he would like."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AC29S792KI772"
+                },
+                "Date": "on January 26, 2013",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Barrons-AP-Physics-C-3rd/product-reviews/0764147072/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#31,187",
+    "Timestamp": "2015-05-24 12:26:02.525041",
+    "itemurl": "http://www.amazon.com/Barrons-AP-Physics-C-3rd/dp/0764147072"
+}

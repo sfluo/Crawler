@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Fundamentals of Crystallography (International Union of Crystallography Texts on Crystallography)"
+    ],
+    "OfferPrice": "$25.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QW9OGDM1IZQM"
+                },
+                "Date": "on April 17, 2001",
+                "Helpfulness": 0.375,
+                "StarRating": "4",
+                "Text": "This is the only advanced general survey of topics in xray crystallography. Chapters are written by different authors, and the book feels pasted together. It is now seriously out of date."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Crystallography-International-Union-Texts/product-reviews/0198555784/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,109,837",
+    "Timestamp": "2015-05-24 15:29:15.431179",
+    "itemurl": "http://www.amazon.com/Fundamentals-Crystallography-International-Union-Texts/dp/0198555784"
+}

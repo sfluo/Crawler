@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$58.60",
+    "Name": [
+        "Problem Solving for Conceptual Physics"
+    ],
+    "OfferPrice": "$47.26",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3535JQXYAKDDI"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "What's the use? I'm returning it. Not good as a practice book without the answers and the are not available. Don't waste your money."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BQR6B3BW1967"
+                },
+                "Date": "on September 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5MWWBADA8V1W"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "It does not help at all"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JON8UVO3BKWK"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great price!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GAFA6ACSVQW0"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Was in good shape. Not disappointed"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MHK19QSCV8SY"
+                },
+                "Date": "on March 4, 2012",
+                "Helpfulness": 0.1,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problem-Solving-Conceptual-Physics-Hewitt/product-reviews/032166258X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#728,314",
+    "Timestamp": "2015-05-24 12:39:12.264639",
+    "itemurl": "http://www.amazon.com/Problem-Solving-Conceptual-Physics-Hewitt/dp/032166258X"
+}

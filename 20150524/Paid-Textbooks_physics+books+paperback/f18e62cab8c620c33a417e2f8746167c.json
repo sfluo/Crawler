@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "5 Steps to a 5 AP Physics C, 2014-2015 Edition (5 Steps to a 5 on the Advanced Placement Examinations Series)"
+    ],
+    "OfferPrice": "$16.33",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2POSUP8YB0KZY"
+                },
+                "Date": "on December 14, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23P7Q3VFN06CO"
+                },
+                "Date": "on February 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A46PPDCGYECLA"
+                },
+                "Date": "on May 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Love the pruning shears!  They are lightweight and SHARP. I want all my gardening friends to have them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BTDD7QVZZ1RJ"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A366SKRWWT3LYS"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Useless, buy Barron's"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A57ANDCDMSX7H"
+                },
+                "Date": "on September 25, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Box was not beat up and easy to open."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-2014-2015-Advanced-Placement-Examinations/product-reviews/0071802096/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#87,787",
+    "Timestamp": "2015-05-24 12:50:05.507749",
+    "itemurl": "http://www.amazon.com/Physics-2014-2015-Advanced-Placement-Examinations/dp/0071802096"
+}

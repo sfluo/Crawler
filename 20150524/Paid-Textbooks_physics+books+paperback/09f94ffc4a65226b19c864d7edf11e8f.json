@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Astrophysics: The Stars (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$7.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22FVIDYKHTOLS"
+                },
+                "Date": "on April 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGV0RUQJHFW3S"
+                },
+                "Date": "on September 6, 2007",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OLJO5L2UMGBA"
+                },
+                "Date": "on September 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book gives a great insight on how astrophysics works and gives great detail on forumlas and how they are used."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H8DI1HZF6JUJ"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It's pretty plodding and not particularly mathematically elegant. The author does little to stimulate any excitement into what should be an extraordinary exciting field. It's more like a collection of obscure experimental observations. I don't think it does a good job of preparing you for a graduate course in Astrophysics. It's fairly out of date."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N0RA8N4HPE4Q"
+                },
+                "Date": "on May 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Wonderful!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK73Y669AMPVS"
+                },
+                "Date": "on July 7, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "I didn't realize this was published in 1964. Very out of date"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Astrophysics-Stars-Dover-Physics/product-reviews/0486607712/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#93,300",
+    "Timestamp": "2015-05-24 12:30:25.991831",
+    "itemurl": "http://www.amazon.com/Introduction-Astrophysics-Stars-Dover-Physics/dp/0486607712"
+}

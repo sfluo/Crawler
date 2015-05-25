@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.00",
+    "Name": [
+        "Basic Notions Of Condensed Matter Physics (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$65.01",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3590XQQ2DWOM7"
+                },
+                "Date": "on January 1, 2002",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25JS8USYGFQO3"
+                },
+                "Date": "on April 8, 2001",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "In fact, although it was been published almost  twenty years ago, But most ideas in it were very  classical and very sightful to Condense Matter  So you caould see that many papers in the publication  in fact cites this book . It's a very guide to the matter  world !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DA45D2JU7CZW"
+                },
+                "Date": "on November 2, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Notions-Condensed-Physics-Advanced-Classics/product-reviews/0201328305/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,550,828",
+    "Timestamp": "2015-05-24 13:27:36.513511",
+    "itemurl": "http://www.amazon.com/Notions-Condensed-Physics-Advanced-Classics/dp/0201328305"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$80.00",
+    "Name": [
+        "Modern Classical Optics (Oxford Master Series in Atomic, Optical and Laser Physics)"
+    ],
+    "OfferPrice": "$64.60",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QUC51QJS7FJ"
+                },
+                "Date": "on February 9, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Born and Wolf is a classic, but tough sledding at times. If it is a common topic in optics, you probably will prefer reading about it here instead. This book has a nice conversational tone, gives insight, and is reasonably detailed (but not exhaustive). It includes a lot of practical advice in small-type paragraphs in margins throughout the book (for example, the chapter on thin films notes that the refractive index can often vary with deposition method, etc.)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on August 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Classical-Optics-Optical-Physics/product-reviews/019859965X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,546,324",
+    "Timestamp": "2015-05-24 13:38:30.688414",
+    "itemurl": "http://www.amazon.com/Modern-Classical-Optics-Optical-Physics/dp/019859965X"
+}

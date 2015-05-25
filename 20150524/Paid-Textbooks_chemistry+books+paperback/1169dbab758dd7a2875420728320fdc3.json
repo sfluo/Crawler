@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Maple V Programming Guide: for Release 5"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NDIL3UYIQMSJ"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I highly recommend this book for all those students who wishes to learn maple programming. The material is very well presented and organized and it has plenty of examples and exercises."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Maple-Programming-Guide-Waterloo-Incorporated/product-reviews/0387983988/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,539,211",
+    "Timestamp": "2015-05-24 15:53:44.260823",
+    "itemurl": "http://www.amazon.com/Maple-Programming-Guide-Waterloo-Incorporated/dp/0387983988"
+}

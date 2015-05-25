@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$87.50",
+    "Name": [
+        "Problem Book in Relativity and Gravitation"
+    ],
+    "OfferPrice": "$75.67",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11D8Q21GBTY6H"
+                },
+                "Date": "on January 28, 2010",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "The \"Problem Book\" is a remarkable resource for learning GR as well as physics in curved spaces and some aspects of cosmology. Targeted to advanced undergraduate and graduate students, it constitutes an essential test in convincing yourself that you know how to think like a relativist -- that you have actually understood GR -- rather than ground through some (by now more or less standardized) math and learnt some calculational techniques. There's nothing else like it. Written by masters of classical relativity, the Problem Book is far more than a very interesting set of problems that illuminate many aspects of spacetime physics. While that in itself is a major accomplishment, a key value of the book lies in the terse disciplined elegance of the solutions. Want to know if GR is something you might want to get into? Dig into the Problem Book -- if you are delighted by what you find, welcome to the club."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANFCPJFRQDZBR"
+                },
+                "Date": "on May 26, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This is a capital book for all the Physics students, it give a good overview of the theory through a huge set of problems of the main parts in the theory. Good exercices and understandable solutions, that will make you  easier the way to understand General relativity. I think this book has the  key to fully understand  Einstein gravitation. A good choose !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IWM618HLFLR3"
+                },
+                "Date": "on February 24, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've owned the book for a number of years and find I keep referring to it for solutions and methods time and again.  Like quantum theory there are relatively few problems with exact solutions in GR and this book has many of the classics worked out in detail.  The authors are from the peak of the golden age of GR and share their honed talents with the rest of us.  This resource is a must have for anyone who works out problems in GR."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZWI4LZKA6UW"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39PF1FAAYVCUF"
+                },
+                "Date": "on April 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V"
+                },
+                "Date": "on September 10, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I found it very helpful for my General Relativity course. There is really nothing else like this out there ... and for those of us that learn best by example, this book is a bargain."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZS6GBRRL6A1Q"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Very useful for seeing how problems are worked out and providing lots of examples of exactly how the math is done."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problem-Book-Relativity-Gravitation-Lightman/product-reviews/069108162X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#115,764",
+    "Timestamp": "2015-05-24 13:37:37.953400",
+    "itemurl": "http://www.amazon.com/Problem-Book-Relativity-Gravitation-Lightman/dp/069108162X"
+}

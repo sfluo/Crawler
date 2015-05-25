@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Quantum Mechanics of One- and Two-Electron Atoms (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.12",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TPRXNGM0UBZP"
+                },
+                "Date": "on September 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAOLQLA127684"
+                },
+                "Date": "on July 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VUZCU2NICTL1"
+                },
+                "Date": "on April 9, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was used in my thesis. Really happy to have a copy for reference purposes. Part of a company library. Only signed out once."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Two-Electron-Atoms-Physics/product-reviews/0486466671/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,203,259",
+    "Timestamp": "2015-05-24 13:29:17.681624",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Two-Electron-Atoms-Physics/dp/0486466671"
+}

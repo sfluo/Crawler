@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Fundamentals of Physics, Chapters 12-20 (Part 2)"
+    ],
+    "OfferPrice": "$75.24",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XSWJ6EKUPY6G"
+                },
+                "Date": "on December 30, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Physics-Chapters-12-20-Part/product-reviews/0470547928/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#821,081",
+    "Timestamp": "2015-05-24 13:50:25.845248",
+    "itemurl": "http://www.amazon.com/Fundamentals-Physics-Chapters-12-20-Part/dp/0470547928"
+}

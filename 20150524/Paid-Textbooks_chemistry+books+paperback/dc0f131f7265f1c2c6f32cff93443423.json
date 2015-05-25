@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Radioactive Substances (Great Minds Paperback Series)"
+    ],
+    "OfferPrice": "$14.99",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on February 8, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Marie Curie's Radioactive Substances provides an intriguing description and first hand account of the lab research which led to her discovery of radium - and her eventual death. Curie's own words, charts, and calculations tells of her work with radium and the advance of a scientific wonder."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Radioactive-Substances-Great-Minds-Paperback/product-reviews/1573929573/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,297,215",
+    "Timestamp": "2015-05-24 15:45:40.751448",
+    "itemurl": "http://www.amazon.com/Radioactive-Substances-Great-Minds-Paperback/dp/1573929573"
+}

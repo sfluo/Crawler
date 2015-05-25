@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$178.00",
+    "Name": [
+        "Physics by Inquiry: An Introduction to Physics and the Physical Sciences (2 Volume Set)"
+    ],
+    "OfferPrice": "$169.10",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOIBJFRQLX1LK"
+                },
+                "Date": "on January 18, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LKV5JBWKR5WN"
+                },
+                "Date": "on February 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was purchased for a college class my son was in.  It was as described.  There is nothing else to say."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP8JCCU6LBNDO"
+                },
+                "Date": "on March 22, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I like paying 1/2 or less at Amazon than the bookstore for new books! (the bookkstore used are 2X as much!)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Inquiry-Introduction-Physical-Sciences/product-reviews/0471548707/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#878,827",
+    "Timestamp": "2015-05-24 12:41:12.583940",
+    "itemurl": "http://www.amazon.com/Physics-Inquiry-Introduction-Physical-Sciences/dp/0471548707"
+}

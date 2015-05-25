@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Boundary and Eigenvalue Problems in Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.65",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 19, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The problem with books on mathematical methods for physics is that they look more like a collection of recipes than like a coherent text. This was not true of the older classics, like Sommerfeld's \"Partial Differential Equations of Physics\". Fortunately, there is this beautiful book by Hans Sagan, now on Dover catalogue, to follow that tradition. A highlight is his treatment of the Sturm-Liouville problem. Having previously introduced variational methods, he shows that there is a \"Lagrangian\" whose \"Euler-Lagrange equations\" are just the Sturm-Liouville equations. In so doing, he has all the arsenal of approximation methods of variational calculus at his disposal to apply in the so-called special functions. As a beautiful example he estimates the position of the zeros of Bessel functions. The reader will find many other mathematical gems in this fine text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK99V5JOX5D1J"
+                },
+                "Date": "on May 18, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on September 11, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a beautifully written book!  This is a great place to start and perhaps end one's study of boundary and eigenvalue problems.  The first chapter even provides one of the best treatments of first variation I have seen in print.  The vibrating string, heat conduction, PDEs, Fourier series,special functions, self-adjoint operators, it is all there and written in an easy to understand format.  Some may find the notation a little dated but that is little price to pay for such a treasure of knowledge.  Read and enjoy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A281291BAZVLJF"
+                },
+                "Date": "on June 27, 2000",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "I bought Sagan's book while a senior, and used it for a text while a second year professional and a third year graduate student in mathematics. The course led to a series of courses in theoretical mechanics, and  untimately, a doctorate in control theory. The course taught from this  book, and the following course in mechanics provided a strong foundation  for a career. I continue to have my students read Sagan's book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Boundary-Eigenvalue-Problems-Mathematical-Physics/product-reviews/0486661326/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#154,835",
+    "Timestamp": "2015-05-24 12:44:10.230544",
+    "itemurl": "http://www.amazon.com/Boundary-Eigenvalue-Problems-Mathematical-Physics/dp/0486661326"
+}

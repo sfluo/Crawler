@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics and Chemistry of Interfaces (Physics Textbook)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26Q2WBO6SCC2P"
+                },
+                "Date": "on December 17, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE2KUJDW0NI0D"
+                },
+                "Date": "on February 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent text-book for surface scientists and students. It has a lot of useful examples and broad definition of all the fundamental surface forces. It is particular useful for researchers and scholars who is working with nano-world."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Chemistry-Interfaces-Textbook/product-reviews/3527406298/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,742,969",
+    "Timestamp": "2015-05-24 15:32:47.073077",
+    "itemurl": "http://www.amazon.com/Physics-Chemistry-Interfaces-Textbook/dp/3527406298"
+}

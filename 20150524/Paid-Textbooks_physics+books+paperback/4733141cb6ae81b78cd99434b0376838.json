@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$48.60",
+    "Name": [
+        "Physics for Scientists and Engineers: A Strategic Approach, Vol. 3 (Chs 20-24) (3rd Edition)"
+    ],
+    "OfferPrice": "$46.18",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q0T2VA38TOKX"
+                },
+                "Date": "on January 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "It was the assigned textbook for my Physics course. However, that doesn't refute the fact this book is great. It is easy to understand, to follow, and to practice physics with. I like the book very much. But still it is a textbook which means there are so many problems to solve and practice with, meaning that it will be boring for people who purchase it for self study :P."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EMUE0WVI34FH"
+                },
+                "Date": "on August 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My son passed the course. Tough, Intense but worth it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IJCHI8RBRCX2"
+                },
+                "Date": "on March 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very useful"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/product-reviews/0321753178/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#343,500",
+    "Timestamp": "2015-05-24 12:58:10.431241",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0321753178"
+}

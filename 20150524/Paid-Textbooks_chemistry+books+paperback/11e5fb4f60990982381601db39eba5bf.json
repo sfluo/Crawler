@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Solid State Ionics for Batteries"
+    ],
+    "OfferPrice": "$179.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SPZWOG0IO91B"
+                },
+                "Date": "on December 9, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "There doesn't seem to be any content in the book that Dr. Tatsumisago didn't already publish. I'm glad I didn't buy it; I got it on interlibrary loan instead."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Solid-State-Ionics-Batteries-Minami/product-reviews/4431546855/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,939,014",
+    "Timestamp": "2015-05-24 15:39:09.007942",
+    "itemurl": "http://www.amazon.com/Solid-State-Ionics-Batteries-Minami/dp/4431546855"
+}

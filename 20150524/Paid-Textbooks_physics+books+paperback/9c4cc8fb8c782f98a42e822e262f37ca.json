@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.00",
+    "Name": [
+        "Schaum's Outline of Beginning Physics I: Mechanics and Heat (Schaum's)"
+    ],
+    "OfferPrice": "$17.05",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y011VHGE69NC"
+                },
+                "Date": "on May 4, 2008",
+                "Helpfulness": 0.967741935483871,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RAFEWT9NJ4N3"
+                },
+                "Date": "on August 31, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OVXAYW75B2WN"
+                },
+                "Date": "on November 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is more than an outline, it is a well written college physics text. I am on the lookout for any more books written by this author."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W3MOYKQ3FXLH"
+                },
+                "Date": "on July 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GXLCOFQG23XR"
+                },
+                "Date": "on November 8, 2011",
+                "Helpfulness": 0.625,
+                "StarRating": "4",
+                "Text": "I've been preparing to take the GRE Physics, and I wanted a couple of general books to help me review. As a book for refreshing, it did a decent job, but I wish it had been calculus based instead of algebra based. Otherwise this is a very useful book, and I'll be using it instead as a reference when I tutor my high school physics student. Fairly thorough, and it did teach me a thing or two I didn't know."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QKPI3LX3AB0Q"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book for high school to engineering..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A279QFOQE3J30Q"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O78NMYC194C9"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Schaums-Outline-Beginning-Physics-Mechanics/product-reviews/0070256535/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#70,695",
+    "Timestamp": "2015-05-24 12:58:33.546196",
+    "itemurl": "http://www.amazon.com/Schaums-Outline-Beginning-Physics-Mechanics/dp/0070256535"
+}

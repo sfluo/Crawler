@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Neutrons, Nuclei and Matter: An Exploration of the Physics of Slow Neutrons (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$39.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12L1ZVNDMGCKO"
+                },
+                "Date": "on December 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good modern introduction to Nuclear Physics.  Still an important subject for this centry."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Neutrons-Nuclei-Matter-Exploration-Physics/product-reviews/0486482383/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#742,293",
+    "Timestamp": "2015-05-24 12:55:37.618644",
+    "itemurl": "http://www.amazon.com/Neutrons-Nuclei-Matter-Exploration-Physics/dp/0486482383"
+}

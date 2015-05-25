@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Gravitational Curvature: An Introduction to Einstein's Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.45",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on December 22, 2003",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF"
+                },
+                "Date": "on September 12, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2182KWVV28150"
+                },
+                "Date": "on October 27, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I found this an excellent quick read filling in some of the essentials of gravitational theory given that I already know Riemannian Geometry quite well.  I do not consider it to be a textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A348P1P4UCZLNG"
+                },
+                "Date": "on January 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I was happy with every aspect of our dealings. Thank you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 27, 2000",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "3",
+                "Text": "This is an original piece of work, but not one that I would recommend.  Lack of organization and rigor are the major faults here.  Much better as an intro is Foster & Nightengales' GR book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Gravitational-Curvature-Introduction-Einsteins-Physics/product-reviews/0486481212/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,384,133",
+    "Timestamp": "2015-05-24 12:44:08.109758",
+    "itemurl": "http://www.amazon.com/Gravitational-Curvature-Introduction-Einsteins-Physics/dp/0486481212"
+}

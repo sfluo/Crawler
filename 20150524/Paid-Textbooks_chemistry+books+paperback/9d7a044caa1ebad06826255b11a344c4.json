@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecular Electronics: Commercial Insights, Chemistry, Devices, Architecture and Programming"
+    ],
+    "OfferPrice": "$70.00",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SAQV356DDQ4"
+                },
+                "Date": "on June 16, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 27, 2003",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is great!  Everyone should buy it!  It combines both corporate and scientific information!  This is a must-buy!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Electronics-Commercial-Architecture-Programming/product-reviews/9812383417/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#5,910,995",
+    "Timestamp": "2015-05-24 15:32:37.576755",
+    "itemurl": "http://www.amazon.com/Molecular-Electronics-Commercial-Architecture-Programming/dp/9812383417"
+}

@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.00",
+    "Name": [
+        "The Feynman Lectures on Physics, Vol. I: The New Millennium Edition: Mainly Mechanics, Radiation, and Heat (Volume 1)"
+    ],
+    "OfferPrice": "$37.98",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13OFOB1394G31"
+                },
+                "Date": "on December 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FGSKBDB48J9T"
+                },
+                "Date": "on January 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NXM4XTUO4DI7"
+                },
+                "Date": "on September 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VDFQUFX1TOSU"
+                },
+                "Date": "on July 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "all books by feynmann are both fun to read and very informative,  he lets you know when a difficult topic is difficult - some authors write in such a way that even the difficult material is easy.  feynmann tells it like it is.  This goes for all of his  books"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZ2YP96F0LZ0"
+                },
+                "Date": "on February 3, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This is a wonderful book containing the first 52 lectures on physics given by the famous Richard Feynman. It is very accessible to those who are not expert in the subject, entertaining, and inspiring, as any true classic. The lectures are each up to 10 pages long and masterfully organized in ascending difficulty. A joy to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KIK3TUSGQ9E2"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought this book as supplemental material for a Physics class. At the end of the semester, I sold my textbook, but wouldn't dream of doing so with this book. It's an excellent addition to my library, and reading his lectures, you can see why Feynman is so respected among physicists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C1A2SD4V0SVV"
+                },
+                "Date": "on February 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've been giving copies of the Fynman lectures to physics student for decades.  They are a wonderful introduction to modern physics and easy to read and unerstand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3204UN4ZI7MAS"
+                },
+                "Date": "on November 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It arrived as expected. For my personal review, the letter is too small.  The book is of great quality not only in the printing but also in the content."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OHKXVMMRQFB"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you want to learn physics then you should start here and learn from the best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20WJGN4G6C30D"
+                },
+                "Date": "on September 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good, only wish they have kindle version"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APICB37CWSPQO"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great for the physics buff."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BZCVQDTW5V4J"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A great book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TA0XU64A9GB7"
+                },
+                "Date": "on May 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "It has been many years since I need the basic math that the author uses as his starting place.  My math is fo rusty that I do not know if I will be able to follow his lectures.  But that is the point: stretch my capabilities."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-Millennium/product-reviews/0465024939/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#110,907",
+    "Timestamp": "2015-05-24 12:46:12.938133",
+    "itemurl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-Millennium/dp/0465024939"
+}

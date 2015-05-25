@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Chemistry by Levine"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE81NAE20PLP1"
+                },
+                "Date": "on July 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the best books on the subject. It is is very didactic. This is a Quantum Chemistry book. I have seen Physicists coming here to depreciate this book, because they think this is a book for them. This is not. Physicists, go Cohen, Griffths, and other Quantum Mechanics books. This one is for Chemists who want to deal theoretically with atoms and molecules, and to prepare Chemists for the next step, which is programming, for what they can be prepared posteriorly through Szabo and Ostlund, Modern Quantum Chemistry excellent book. This Levine book is brilliant."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EWRSR9JSYPCD"
+                },
+                "Date": "on March 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This classic is up to date.  A good reference book and textbook with many good homework problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Chemistry-Levine/product-reviews/8120348176/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#544,088",
+    "Timestamp": "2015-05-24 15:16:38.312946",
+    "itemurl": "http://www.amazon.com/Quantum-Chemistry-Levine/dp/8120348176"
+}

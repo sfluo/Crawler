@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$68.95",
+    "Name": [
+        "Understanding Nanomaterials"
+    ],
+    "OfferPrice": "$57.06",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TKOIDTGYO4QX"
+                },
+                "Date": "on March 3, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Johal's book gives a basic overview of the common electrostatic forces and interactions  which are important at the nanoscale and it covers a lot of the common techniques used to characterize and study nanomaterials--spectroscopy, SPR, ellipsometry, light scattering, electron microscopy, etc.  The book is not too technical and should be quite accessible to the undergraduate reader, providing him/her with a good starting point upon which to pursue further in-depth study and/or research."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33NA29HZKIZKI"
+                },
+                "Date": "on July 4, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MPKNFYREF81T"
+                },
+                "Date": "on June 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I really enjoyed reading this book, and use it as my pocket guide to nanomaterials. It breaks down the concepts in a very clear and easy to understand level, making it great for quick review.  I also like to recommend this book to anyone who is new to the field because it describes nanomaterials in a non-intimidating way. In addition I personally really liked the exercises in the book.  I find that it is a great way to refresh my memory on concepts that I have not used in some time. Overall, highly recommend to students, and folks who need the quick refresher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E931Q1E8DZDG"
+                },
+                "Date": "on May 22, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "\"I believe the textbook will serve students well in their goal to gain a greater understanding of why nanoscaled systems are of great interest, how they are fabricated, and how they are characterized using a wide variety of analytical instrumentation very commonly found in university and industrial settings.\" Professor Marcus D. Lay, University of Georgia"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Nanomaterials-Malkiat-S-Johal/product-reviews/1420073109/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,291,425",
+    "Timestamp": "2015-05-24 15:28:54.194032",
+    "itemurl": "http://www.amazon.com/Understanding-Nanomaterials-Malkiat-S-Johal/dp/1420073109"
+}

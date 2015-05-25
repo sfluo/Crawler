@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Color of Nature: An Exploratorium Book"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 4, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Paul Dogerty makes learning the \"whys\" and \"hows\" of colors fun. He presents the scientific principles of how we see what we see in an easy-to-grasp manner that is both interesting and comprehensible. In addition, the photographs that accompany the text, which alone are worth the price of the book, serve to admirably highlight the processes Dogerty seeks verbally to illustrate. Together, art and words combine to emphasize the wonder and beauty of the world in which we live"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATRDMKICXK3PL"
+                },
+                "Date": "on January 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I am pleased with this book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 14, 1998",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "5",
+                "Text": "\"The Color of Nature\" is a very good book. The photography is wonderful, and there is nice text to go along with it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Color-Nature-Exploratorium-Book/product-reviews/0811813576/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#793,960",
+    "Timestamp": "2015-05-24 13:38:35.020629",
+    "itemurl": "http://www.amazon.com/Color-Nature-Exploratorium-Book/dp/0811813576"
+}

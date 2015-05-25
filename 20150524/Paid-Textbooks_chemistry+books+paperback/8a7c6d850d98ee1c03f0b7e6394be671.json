@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics and Chemistry at Oxide Surfaces"
+    ],
+    "OfferPrice": "$69.99",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C1DUX6UZWMZK"
+                },
+                "Date": "on September 23, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "best explanation of reactions at oxide surfaces that I have ever read - details acid/base reactions and hydroxyl group locations on surface"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Chemistry-at-Oxide-Surfaces/product-reviews/0521018579/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,592,622",
+    "Timestamp": "2015-05-24 15:27:20.257474",
+    "itemurl": "http://www.amazon.com/Physics-Chemistry-at-Oxide-Surfaces/dp/0521018579"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.20",
+    "Name": [
+        "Student Workbook for Physics for Scientists and Engineers: A Strategic Approach, Vol. 1 (Chs 1-15)"
+    ],
+    "OfferPrice": "$36.44",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATRA0G2UI841R"
+                },
+                "Date": "on November 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Don't buy this product unless you like to do a lot of drawing and writing. I ordered this and was very disappointed in that it did not pertain to the type of work that we were doing in solving problems! My instructor had told me that the solutions manual is better suited for working problems and I have to agree!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/product-reviews/0321753143/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#645,241",
+    "Timestamp": "2015-05-24 13:25:45.544563",
+    "itemurl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/dp/0321753143"
+}

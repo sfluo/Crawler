@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Ham and Shortwave Radio for the Electronics Hobbyist"
+    ],
+    "OfferPrice": "$19.26",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11IDFO51Q96ZS"
+                },
+                "Date": "on December 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent book.  Very thourough and detailed.  Must have book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACAO0ZI2AUY58"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good information about the entire radio spectrum.  Excellent data on antenna's , types of communication techniques and information on SWL and how to get your Ham licence"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACIKFFEH28RYK"
+                },
+                "Date": "on January 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good book but very limited on SWLing. Good on radio histrory and HAM radio."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G62BPQJNN918"
+                },
+                "Date": "on February 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent introduction to radio"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LS40E7D4TQS6"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "good book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ham-Shortwave-Radio-Electronics-Hobbyist/product-reviews/0071832912/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#172,751",
+    "Timestamp": "2015-05-24 13:29:44.741974",
+    "itemurl": "http://www.amazon.com/Ham-Shortwave-Radio-Electronics-Hobbyist/dp/0071832912"
+}

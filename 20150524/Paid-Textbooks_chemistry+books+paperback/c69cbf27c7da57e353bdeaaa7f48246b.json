@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Atomic Absorption and Emission Spectroscopy (Analytical Chemistry by Open Learning)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A286CC672O3S0H"
+                },
+                "Date": "on March 24, 2000",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "An excellent book to self-learn the basic principles of atomic spectroscopy such as flame AAS/AES and plasma spectroscopy (ICP/DCP/MIP). It also includes the basic instrumentation and fundamental principle of all major atomic spectroscopy techniques.  It is a must read book for  technician or junior analytical chemist to learn the very basic but  essential technical knowledge of AAS and ICP."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Absorption-Emission-Spectroscopy-Analytical-Chemistry/product-reviews/0471913855/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,018,522",
+    "Timestamp": "2015-05-24 15:34:10.200693",
+    "itemurl": "http://www.amazon.com/Absorption-Emission-Spectroscopy-Analytical-Chemistry/dp/0471913855"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Quantum Mechanics of Particles and Wave Fields (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.16",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N3JQKNU9EMSP"
+                },
+                "Date": "on January 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A206N3DO7QR4GT"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I read the first chapter and looked over the problems in several of the chapters. In the first chapter, the author is using an analogy between geometric optics and quantum mechanics which I found to be very interesting although difficult to follow. Some of the problems are mathematically fun while others, e.g. such as constructing the periodic chart for the elements can be solved with a little research. Professor March's idea of the fundamental length is an interesting concept. Studying this book may not be the most efficient way to learn quantum mechanics, but if you are willing to put in the time, you will be rewarded."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Particles-Fields-Physics/product-reviews/048644578X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,988,741",
+    "Timestamp": "2015-05-24 13:22:46.574391",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Particles-Fields-Physics/dp/048644578X"
+}

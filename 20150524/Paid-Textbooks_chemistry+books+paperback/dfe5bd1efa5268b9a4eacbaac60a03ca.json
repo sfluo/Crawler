@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$225.95",
+    "Name": [
+        "Nuclear Reactor Analysis"
+    ],
+    "OfferPrice": "$189.60",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ST40B0UAMTBX"
+                },
+                "Date": "on May 14, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 20, 1998",
+                "Helpfulness": 0.96,
+                "StarRating": "5",
+                "Text": "A good, solid, book for a undergraduate student in nuclear engineering or anyone with a physical sciences background who is interested in learning  more about nuclear power operations and analysis. Very clear text with plenty of information on topics (i.e., reactor design) that often confuse students.  -Mike Walker Thorsvedtt"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACSISIXQFI5XY"
+                },
+                "Date": "on September 29, 2005",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "This is a great introductory textbook for Nuclear Reactor Analysis/ One-Speed diffusion model/Multigroup Diffusion method and core design. It was published a while ago - in 1976, but remains to be one of the best textbook on the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7TA873ZSVB6T"
+                },
+                "Date": "on February 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HY6CNYVSA7O0"
+                },
+                "Date": "on February 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "I got this book for a class and it was the professor's first time teaching. He couldn't help us much so we were forced to learn from this book on our own. It was almost impossible for us(about 5 students) to learn from this book. I ended up buying LaMarsh's \"Introduction to nuclear reactor theory\". It was the same info and much easier to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z1OUV592WQJA"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SZYXG3N214G5"
+                },
+                "Date": "on August 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22L9WS4ZAMVMJ"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19APF08MDN2D8"
+                },
+                "Date": "on March 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My prof teaches directly from it, so that makes I a pretty good reference in class. Not always the easiest to understand, but is any engineering book that way?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JTY3O6XMZU9U"
+                },
+                "Date": "on July 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25MSDCW82PSA6"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Met expectations"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OLJ4ROJQ0GX"
+                },
+                "Date": "on March 12, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Everything went right and smooth with my order. I got the book on Amazon way cheaper than in a library... Good value!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Reactor-Analysis-James-Duderstadt/product-reviews/0471223638/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#137,546",
+    "Timestamp": "2015-05-24 15:31:50.200178",
+    "itemurl": "http://www.amazon.com/Nuclear-Reactor-Analysis-James-Duderstadt/dp/0471223638"
+}

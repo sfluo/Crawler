@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Microwave Spectroscopy (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.85",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR"
+                },
+                "Date": "on June 5, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The classic text if you are at all interested in the fundamentals behind molecular spectra, and the microwave region in particular. Beautifully written, crystal clear."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/product-reviews/048661798X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#914,725",
+    "Timestamp": "2015-05-24 12:55:27.727315",
+    "itemurl": "http://www.amazon.com/Microwave-Spectroscopy-Dover-Books-Physics/dp/048661798X"
+}

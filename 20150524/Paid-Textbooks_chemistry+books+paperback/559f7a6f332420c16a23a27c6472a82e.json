@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.00",
+    "Name": [
+        "The Elements: Their Origin, Abundance, and Distribution"
+    ],
+    "OfferPrice": "$62.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QU4SEIDHY4U9"
+                },
+                "Date": "on September 26, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14R86XDLX34EK"
+                },
+                "Date": "on August 29, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FH7L2BZ4ZW3W"
+                },
+                "Date": "on April 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elements-Their-Origin-Abundance-Distribution/product-reviews/019855298X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,591,854",
+    "Timestamp": "2015-05-24 15:41:07.092524",
+    "itemurl": "http://www.amazon.com/Elements-Their-Origin-Abundance-Distribution/dp/019855298X"
+}

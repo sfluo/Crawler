@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$68.00",
+    "Name": [
+        "Molecular Theory of Water and Aqueous Solutions <br> Part II: The Role of Water in Protein Folding, Self-Assembly and Molecular Recognition"
+    ],
+    "OfferPrice": "$39.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EWCQI495C81O"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In this book author focused on very important \u201cdriving forces\u201d \u2013 on the hydrophobic interaction, or on role of the solvent-induced interaction in conformation of macromolecule. This book is addressed to the physicists, who have an interest to the structural biology. It contains a lot of concepts of protein folding, but author with ease and grace shows how using simple models and having a strict statistical physical approach, it is possible to explain such a complicated process as protein folding. I, as a teacher of \"Statistical Physics of Macromolecules\", using the material in this book, significantly upgraded my lectures that benefited students. Moreover, using some of the concepts in this book I am developing the idea that hydrophilic, rather hydrophobic interactions are more important in biological processes such as protein folding"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Theory-Water-Aqueous-Solutions/product-reviews/9814350540/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,886,800",
+    "Timestamp": "2015-05-24 15:48:37.699615",
+    "itemurl": "http://www.amazon.com/Molecular-Theory-Water-Aqueous-Solutions/dp/9814350540"
+}

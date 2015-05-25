@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Physics (Oxford World's Classics)"
+    ],
+    "OfferPrice": "$10.36",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N2N4FAMBPLQM"
+                },
+                "Date": "on April 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SMUB9ASL5L9Y"
+                },
+                "Date": "on March 10, 2012",
+                "Helpfulness": 0.6470588235294118,
+                "StarRating": "4",
+                "Text": "Whew, this was one hell of a slough. While it's not strictly speaking a hard book to read, it deals with so many huge, uber-abstract ideas one after the other that it just leaves you exhausted. In some ways it feels more like a Compendium than a strict philosophical text. Aristotle examines every phenomenon that he can think of, Being, Space, Motion, Matter, Time, Infinity, Magnitude, etc. in an attempt to pin down and rationally account for how the universe as he understands it works. It's unrelentingly dense, and obviously quite dated, but at the same time it manages to be pretty enjoyable. It's not so much a straight forward philosophical text as it is a sort of compendium of problems that philosophers have spent the past several millenniums taking a stab at. You might say that it's a work of proto-philosophy, its more concerned with creating a system where these sorts of questions can be fully articulated and worked on than it is in fully solving any of them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JBDLHSQ81Q18"
+                },
+                "Date": "on August 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Exactly what I wanted. New condition"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AJMNCWM19MG6"
+                },
+                "Date": "on October 15, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Since this is the edition that is in print, but there is no reason to believe that it is substantively different from the 1999 edition, I note here that you can read my review of the 1999 edition if you are considering buying this one."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Oxford-Worlds-Classics-Aristotle/product-reviews/0199540284/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#110,790",
+    "Timestamp": "2015-05-24 13:00:22.571736",
+    "itemurl": "http://www.amazon.com/Physics-Oxford-Worlds-Classics-Aristotle/dp/0199540284"
+}

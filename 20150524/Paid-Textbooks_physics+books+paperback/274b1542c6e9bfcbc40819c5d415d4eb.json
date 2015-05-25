@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "New Foundations for Classical Mechanics (Fundamental Theories of Physics)"
+    ],
+    "OfferPrice": "$81.75",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU2ISQQW6U3AA"
+                },
+                "Date": "on December 1, 2005",
+                "Helpfulness": 0.9767441860465116,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MF6S8FHFOHE6"
+                },
+                "Date": "on September 12, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R2ZYFNC19EXK"
+                },
+                "Date": "on June 27, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QVFQ0FG4XZY4"
+                },
+                "Date": "on June 13, 2005",
+                "Helpfulness": 0.8064516129032258,
+                "StarRating": "3",
+                "Text": "While I found this a reasonably well-written text, I judge a book based upon how well it stands on its own - that is, can I read the book, work through the exercises, and acquire a grasp of the topic.  While this is a much clearer and more accessible intro to geometric algebra than Hestene's \"Clifford Algebra to Geometric Calculus\", it is more the type of book which would accompany a class in GA, where the instructor fills-in the gaps, rather than a stand-alone text.  The worked exercises are relatively few, and are typically of the nature:  start with this, magic, more magic, resulting answer.  It lacks sufficient explanation, is not self-contained, but this can be partially overcome with additional resources."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADZM5DUHTGHQM"
+                },
+                "Date": "on July 27, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGBCZVYWRE8Q2"
+                },
+                "Date": "on August 6, 2000",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "5",
+                "Text": "A briliantly pedagogical introduction to Clifford Algebra as a unified  algebraic language for Newtonian Mechanics in three dimensions. The book is  full of applications and nonstandard approaches which simply cannot be  found anywhere else. This is essential reading for anyone interested in  Clifford Algebras or who wants a deeper appreciation for classical  mechanics. This is a lot of book..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B6111X2D9SLI"
+                },
+                "Date": "on December 29, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ASJKSU4MXXD5"
+                },
+                "Date": "on October 22, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A271DBHBSCCRJL"
+                },
+                "Date": "on April 30, 2000",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "The entirely new approach to the mathematical treatment of familiar Physics situations. A very useful tool for a Physisist."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Foundations-Classical-Mechanics-Fundamental-Theories/product-reviews/0792355148/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#838,854",
+    "Timestamp": "2015-05-24 13:40:06.171961",
+    "itemurl": "http://www.amazon.com/Foundations-Classical-Mechanics-Fundamental-Theories/dp/0792355148"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "College Physics Volume 2"
+    ],
+    "OfferPrice": "$163.74",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LZSLF818WPIO"
+                },
+                "Date": "on February 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book was not in perfect condition but that's expected when you are renting a textbook I think. Overall, it was a good choice to rent."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-2-Alan-Giambattista/product-reviews/0077437837/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#392,858",
+    "Timestamp": "2015-05-24 13:39:15.265625",
+    "itemurl": "http://www.amazon.com/College-Physics-2-Alan-Giambattista/dp/0077437837"
+}

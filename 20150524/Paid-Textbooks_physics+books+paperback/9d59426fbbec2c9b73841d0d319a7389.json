@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$25.79",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19E95129G38R6"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This classic is still regarded by many physicists to be the best textbook on quantum mechanics.  A must have for the bookshelf of every physicist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HMETBN0J6TXN"
+                },
+                "Date": "on February 22, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "One of the best and well written books in quantum mechanics. It's  classics in deed!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY2UYHDDVAEOY"
+                },
+                "Date": "on February 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Dover-Books-Physics/product-reviews/048678455X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#458,738",
+    "Timestamp": "2015-05-24 12:36:52.999986",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Dover-Books-Physics/dp/048678455X"
+}

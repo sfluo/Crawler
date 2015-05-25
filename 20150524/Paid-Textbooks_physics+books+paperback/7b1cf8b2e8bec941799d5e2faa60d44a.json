@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$81.00",
+    "Name": [
+        "Mathematical Methods For Physics (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$69.67",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVE6PU766MPVP"
+                },
+                "Date": "on August 15, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A174BNSXL4J1S0"
+                },
+                "Date": "on July 26, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O5T95W4GQVOM"
+                },
+                "Date": "on October 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book emphasizes on the relation between different areas of physics by method of maths. Unlike other maths book I have used, it is easy to be learned by oneself and it can provide all the knowledge of maths using in physics so that when studying physics, you can concentrate on the physical idea instead of being trapped in solving maths problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Methods-Physics-Advanced-Classics/product-reviews/0738201251/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,630,852",
+    "Timestamp": "2015-05-24 13:29:37.656425",
+    "itemurl": "http://www.amazon.com/Mathematical-Methods-Physics-Advanced-Classics/dp/0738201251"
+}

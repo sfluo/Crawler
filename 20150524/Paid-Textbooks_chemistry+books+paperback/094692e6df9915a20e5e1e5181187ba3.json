@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Chemistry and Molecular Spectroscopy"
+    ],
+    "OfferPrice": "$35.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KFY6MUAPKJWL"
+                },
+                "Date": "on February 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I haven't read very far yet (haven't gotten past the first chapter), but so far the author seems to put ideas together cohesively and go from the ground up. This is refreshing because it allows you to build a conceptual foundation if you're a beginner or solidify your conceptual foundation if you're not."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Chemistry-Molecular-Spectroscopy-Clifford/product-reviews/0137473125/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,073,468",
+    "Timestamp": "2015-05-24 15:26:34.991731",
+    "itemurl": "http://www.amazon.com/Quantum-Chemistry-Molecular-Spectroscopy-Clifford/dp/0137473125"
+}

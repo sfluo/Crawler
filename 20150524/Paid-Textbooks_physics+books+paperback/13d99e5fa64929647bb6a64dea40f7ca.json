@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$37.95",
+    "Name": [
+        "The Physics Companion"
+    ],
+    "OfferPrice": "$33.96",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JUHXK5NWA4YF"
+                },
+                "Date": "on December 13, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book fulfills everything that the Editorial Review states....I consider it more important to learn 'physics' then more and more Algebra...by studying the Diagrams you can get a feel for the 'physics'...After I read something, I close my eyes and try to imagine the 'physics' involved in the topic rather then trying to memorize formulas....This approach will be of enormous help when you try to solve an array of other Physics Problems..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO9WLC3UJEUFR"
+                },
+                "Date": "on November 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is exactly what I was looking for! I wanted short chapters, with important formulas and ideas to help me study for the Physics GRE. This book seems perfect for that."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A279MFRCE0CLRU"
+                },
+                "Date": "on May 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great for double checking yourself on some basic formulas/concepts.  Good reference book, but not detailed enough to learn the subjects."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMIXHRW9V1F1D"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": "This book has some nice overview of many topics in physics... I did not read the book fully but it seems a bit too short or succinct in the explanation of concepts and some topics are just missing... other books such as the \"Physics: A Student Companion\" by Kirkby seems much better to me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ENDWBRHRDHIJ"
+                },
+                "Date": "on June 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "These companion books are great. I love reading ahead and finding new things before I learn them in class. Like a book of detailed tidbits. Great reference, great way to wet the toes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAB2SF8JRZ8QY"
+                },
+                "Date": "on January 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book for reference. I like it a lot due to the fact that it is very well detailed with examples for each topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349Y1F9JF1QPO"
+                },
+                "Date": "on November 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book to use as a reminder of basic concepts , I used it when studying for the GRE an it did help."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Companion-Anthony-C-Fischer-Cripps/product-reviews/0750309539/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#1,019,609",
+    "Timestamp": "2015-05-24 13:11:24.677386",
+    "itemurl": "http://www.amazon.com/Physics-Companion-Anthony-C-Fischer-Cripps/dp/0750309539"
+}

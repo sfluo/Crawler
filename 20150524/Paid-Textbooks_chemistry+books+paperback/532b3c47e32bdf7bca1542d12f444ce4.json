@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.00",
+    "Name": [
+        "Of Poles and Zeros: Fundamentals of Digital Seismology (Modern Approaches in Geophysics)"
+    ],
+    "OfferPrice": "$34.74",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BAQJC7S4B99Y"
+                },
+                "Date": "on October 25, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GSZA7SHP3X2C"
+                },
+                "Date": "on April 14, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Am going to skip over the general contents (you can see the index for yourselves) and just say that this book covers all the things that you wondered about that didn't seem to be covered in larger texts. The material is easy to follow and yet covers a huge array of critical information and analytical techniques, from correcting for anti-aliasing filters in digitisers to a whole treatise on removing instrument responses. Can't recommend this highly enough if you're getting into seismology. An essential reference book and a steal at $40 or less."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ENM8WHIC1HYU"
+                },
+                "Date": "on November 8, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a must have book if you want to learn instrument in seismology. It will give you a clear idea of what is poles and zeros, which confused me for a long time."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Poles-Zeros-Fundamentals-Seismology-Approaches/product-reviews/0792368355/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,573,767",
+    "Timestamp": "2015-05-24 15:29:09.475690",
+    "itemurl": "http://www.amazon.com/Poles-Zeros-Fundamentals-Seismology-Approaches/dp/0792368355"
+}

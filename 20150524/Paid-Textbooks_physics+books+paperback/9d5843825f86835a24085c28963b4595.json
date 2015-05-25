@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "Weak Interactions and Modern Particle Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.62",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KQ6QQYAY5XW2"
+                },
+                "Date": "on April 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Probably one need to learn some QFT before come to this book, to the level that one can understand literally what the action of standard model means. I feel it is quite useful in understanding the logics of the design of standard model, and some of the low energy effective actions. A little easier to understand compared to his Lie algebra."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on June 3, 2009",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Interactions-Modern-Particle-Theory-Physics/product-reviews/0486469042/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#283,415",
+    "Timestamp": "2015-05-24 12:40:56.099616",
+    "itemurl": "http://www.amazon.com/Interactions-Modern-Particle-Theory-Physics/dp/0486469042"
+}

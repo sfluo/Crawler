@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$13.95",
+    "Name": [
+        "Almost All About Waves (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$12.72",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OWPGOU32GE6R"
+                },
+                "Date": "on June 10, 2008",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A332MJOIHGI5XF"
+                },
+                "Date": "on December 10, 1998",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "5",
+                "Text": "This is an excellent book that discusses the physics of waves with a minimum of math.  A very readable introduction to waves.  Sadly, at the time of this writing, this book is out of print.  However, if you can find  a copy it is worth reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG9GCG38F7QR0"
+                },
+                "Date": "on April 8, 2008",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW"
+                },
+                "Date": "on December 25, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": "Deeply disappointing. I have a strong math background, and a modest physics one. I was hoping to learn some of the physics intuitively, and did not. It just isn't in here. Unclear in many places.  All about wave coupling asnd how it affects power transmission."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13JM0YAFM1J0S"
+                },
+                "Date": "on March 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I only found this book after I had done some study of E&M;, but in simple, heuristic terms it explains many diverse wave phenomenon without relying solely on mathematics.  I wish I had found it sooner and I do think it's appropriate for a beginner.  Sure -- there's some equations in the book, but they are generally not vector calc -- just some differential equations and complex numbers (phasors) -- and they are always well described in the text.  This book is a gem and I'm shocked to see some less-than-stellar reviews.  ...I came here to order a two more copies as gifts to colleagues.  I think the title is a bit tongue in cheek, though, so perhaps that's why some are disappointed.  The discussion of forward- and backward-coupled modes is absolutely brilliant and I've not found a clearer English explanation of this phenomenon, if it's mentioned at all in texts.  Pierce was a giant in this field (read his wikipedia entry) and this monograph shows his deep insight.  I cannot recommend this book highly enough, especially considering the price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHCRJTD3ZV4B5"
+                },
+                "Date": "on August 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Correct title, delivered on time in promised condition for a good price.  Hard to beat the content in any title published in the intervening decades. Glad to add this title to my historical science collection!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Almost-About-Waves-Dover-Physics/product-reviews/0486453022/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#967,763",
+    "Timestamp": "2015-05-24 12:39:26.296863",
+    "itemurl": "http://www.amazon.com/Almost-About-Waves-Dover-Physics/dp/0486453022"
+}

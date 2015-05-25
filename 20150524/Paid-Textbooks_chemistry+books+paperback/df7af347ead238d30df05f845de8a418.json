@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.99",
+    "Name": [
+        "Gases, Liquids and Solids: And Other States of Matter"
+    ],
+    "OfferPrice": "$74.16",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 20, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Very clear explanations and derivations of subjects such as Boltzmann distributions, critial points, thermal expansion, viscosity, etc. The maths isn't too hard, either!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 31, 1997",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Gases-Liquids-Solids-States-Matter/product-reviews/0521406676/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,979,550",
+    "Timestamp": "2015-05-24 15:44:08.593916",
+    "itemurl": "http://www.amazon.com/Gases-Liquids-Solids-States-Matter/dp/0521406676"
+}

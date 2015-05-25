@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Organic Spectroscopic Structure Determination: A Problem-Based Learning Approach"
+    ],
+    "OfferPrice": "$39.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G9LJ4P2JKMSF"
+                },
+                "Date": "on April 10, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is an excellent but intermediate/advanced text.  I started to use problems from this text for sophomore organic class for chemistry majors.  It provides a much needed gap between basic text books that seem to leave students a long way off from where they need to be in order to function in a contemporary organic research lab.  This book offers only a minimal description of spectroscopic methods so it would not serve as a stand alone text for beginners but it provides a clear formalism for solving structures of fairly complex unknowns.  The problems build in complexity guiding the reader through different strategies for combining spectroscopic methods in order to solve organic structures.  There should be more 2-D spectra and it presents spectral data in tabular form (like you would find in the scientific literature) as opposed to real spectra.  It would not substitute for an introductory text but is an excellent program for the undergraduate student preparing for a career in chemistry, graduate students or professional interested in honing their structure solving skills.  The concise compilation of spectroscopic data is excellent."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W40VEKAOAJG0"
+                },
+                "Date": "on March 26, 2008",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVY9BW3MC8EZU"
+                },
+                "Date": "on June 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2617WC6NCG678"
+                },
+                "Date": "on September 25, 2012",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book is pretty useless without a teacher, but that's exactly what's expected in this class. That is, you need to learn how to read a spectrograph on your own. There is at least plenty of practice."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Organic-Spectroscopic-Structure-Determination-Problem-Based/product-reviews/0195314700/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,388,046",
+    "Timestamp": "2015-05-24 15:42:35.248191",
+    "itemurl": "http://www.amazon.com/Organic-Spectroscopic-Structure-Determination-Problem-Based/dp/0195314700"
+}

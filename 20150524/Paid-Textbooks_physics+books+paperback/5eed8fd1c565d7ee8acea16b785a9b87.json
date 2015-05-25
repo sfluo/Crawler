@@ -1,0 +1,1278 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Quantum: Einstein, Bohr, and the Great Debate about the Nature of Reality"
+    ],
+    "OfferPrice": "$16.82",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UKE70FQVYXXR"
+                },
+                "Date": "on June 11, 2009",
+                "Helpfulness": 0.9764705882352941,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H7Y5XKPGT0OS"
+                },
+                "Date": "on December 11, 2008",
+                "Helpfulness": 0.9387755102040817,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KFR6QBGHALIR"
+                },
+                "Date": "on May 2, 2009",
+                "Helpfulness": 0.9454545454545454,
+                "StarRating": "5",
+                "Text": "Kumar's book on the history of early twentieth century physics and atomic theory skips from page to page, fleshing out scientific expanations with vivid descriptions of the key protagonists. It is a real skill to make sophisticated scientific theories accessible to the lay person, but Kumar's use of metaphor helps bring the most intangible concepts to life.  This is a modern classic, but more important, a really fun read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7HXF84CCR1XD"
+                },
+                "Date": "on July 3, 2010",
+                "Helpfulness": 0.9310344827586207,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D02NYQHOZ9WN"
+                },
+                "Date": "on November 3, 2011",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACEXWBDOIIG2H"
+                },
+                "Date": "on January 29, 2010",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SXAO3MWOPIB5"
+                },
+                "Date": "on June 4, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NQI8TDWH31I3"
+                },
+                "Date": "on August 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASOVCYG0IFRWW"
+                },
+                "Date": "on September 10, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACEXWBDOIIG2H"
+                },
+                "Date": "on July 7, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DT7ZMAONAHR2"
+                },
+                "Date": "on December 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C7JDP9PUMNMR"
+                },
+                "Date": "on January 5, 2011",
+                "Helpfulness": 0.7361111111111112,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFWUQVW6JWDNB"
+                },
+                "Date": "on November 2, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A213KVDNAA40RB"
+                },
+                "Date": "on July 16, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VXVH4P85N73K"
+                },
+                "Date": "on June 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AGEX7AQVK7F2"
+                },
+                "Date": "on December 20, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MBE00S238EXD"
+                },
+                "Date": "on July 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Modern Education have been conducted in a way that the philosophical ideas behind the great theories discussed in Physics have been kept away from the standard curriculum at universitats. This book belongs to the few one I have found to be interested (I'm speaking as a Theoretical Physicist) because it not only develops the historical frame in which the theory was created (the base of the theory), but also the debates, the ideas that came first and evolved in the way. All of this discussed in a way that keeps you in the book for hours without you even knowing it. Even if you are an already mastered in the area of the Quantum Physics, or if you are starting it, this book will help you understand many of the \u00a8why\u00a8 we are always asking. This book can make an excellent supplementary lecture for any student in quantum theory, because it fills the gaps that modern textbooks leave to the students that do not understand why is necessary the change in the classical theory, and how it is made. Quantum Theory is not a complete theory, it still have many holes and weak points upon which the theory is develop, for those interested in research the base of the theory, this book can help you refresh your mind from all the heavy reading and give you a clearer perspective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUSK6CEDEVAWA"
+                },
+                "Date": "on January 12, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Brilliant. Everything a science book should be. Easily the best explanation of difficult quantum concepts that I've read. Kumar really makes an effort to help you really understand the science instead of the all-too-common \"scientists believe\" handwaving from the likes of Stephen Hawking. Plus, the historical context is a real treat, and perfectly complents the technical stuff. If you've ever wanted to get your head around \"wave-particle duality\" or understand jokes about Sch...moreBrilliant. Everything a science book should be. Easily the best explanation of difficult quantum concepts that I've read. Kumar really makes an effort to help you really understand the science instead of the all-too-common \"scientists believe\" handwaving from the likes of Stephen Hawking. Plus, the historical context is a real treat, and perfectly complents the technical stuff. If you've ever wanted to get your head around \"wave-particle duality\" or understand jokes about Schroedinger's Cat, then this is the book to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YNX1N7AA76SP"
+                },
+                "Date": "on July 13, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20BPF23VSGJ1X"
+                },
+                "Date": "on March 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10TLB4XZRQSLZ"
+                },
+                "Date": "on August 17, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36FNE1DH4NG9O"
+                },
+                "Date": "on March 20, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The practical success of quantum mechanics has enabled today's information-based economy in much the same way as the harnessing of steam did for the industrial revolution. The pioneers for both were few in number and whose long shadows were quickly covered by practitioners' incremental improvements accumulated to far reaching and long lasting impact on society's material culture. But quantum mechanics contains a paradox that is profoundly intellectual and with disturbing metaphysical aspects that are still not resolved to this day. This well written book details quantum mechanic's early history and background, from Max Plank's almost accidental discovery of an analytical method that explained what were then considered minor details in physics, including the birth of theoretical physics that coincided with the collapse of classical physic's explanation of the material universe as then understood, and, not least, the clash of two giants, Einstein and Bohr and their differing worldviews, as the paradox appeared and deepened when evolving analytical and manipulative skills became more powerful. Fast paced and much like a mystery with several levels of narrative. One of the most notable is the fact that the cast of characters and their work was extremely small, unknown and unheralded until Einstein became an international celebrity. Another is the power of imagination, long before science was spelled with a capital S, through the famous thought experiments made famous by Einstein, that brought understanding based on mathematical reasoning and without needing experimental proof. The players' egos, foibles, follies and insightful flashes also are part of the story, and how they sorted themselves into two camps reflecting the two opposing world views that provide the crux of the paradox. Einstein profoundly and deeply believed in the independent existence of the material universe, while Bohr held just as profoundly and deeply that there is no absolute reality beyond what can be conjured by observation. This highly readable book covers not just some physicists' quibbles, but the vista to our understanding of the universe as we comprehend it, from the unimaginably physically small realm of quantum mechanics to the seemingly limitless vastness of the cosmos."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIJSQ8P9K5XN1"
+                },
+                "Date": "on February 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGTP42XXCV7RO"
+                },
+                "Date": "on October 14, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1II7KMGC9SZGZ"
+                },
+                "Date": "on May 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Trying to understand, as a non-physicist, the theories of twentieth century physics is a challenging task, even after high and college physics courses have provided an introduction to the terms and concepts.  This book is not only readable but enjoyable.  The secret to its success is its historical approach, presentation of the principal characters as interesting human beings, and the understandable language.  The subject matter is the non-intuitive quantum physics.  The text requires concentration from the reader, but rewards with a drama that contains the lives of famous and important scientists and the concepts and theories that are part of our lives, whether we want them or not.  If you have the desire to understand what is being debated about the nature of \"reality\" in the scientific and philosophic worlds, this is probably the best single book on the subject.  The author is to be congratulated on the effort and success of this enterprise."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX7USAYIIN3OX"
+                },
+                "Date": "on March 8, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MO4F119XHD3L"
+                },
+                "Date": "on November 10, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHL35XZ3OND2Z"
+                },
+                "Date": "on April 3, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A133T07WO5KYX3"
+                },
+                "Date": "on November 22, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9EGKS20ONRHW"
+                },
+                "Date": "on April 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have really enjoyed reading the book. I am educated as a theoretical physicist and I have done some scientific work in quantum physics. However, after many years that I am not doing science any more, this book brought back happy memories on why I have chosen to study physics in the first place. It is now my favourite book both on the history of discovery of quantum mechanics and on the question of interpretation. The lives nad works of famous scientists are given in vivid detail that greatly helps to understand the scientific developments, and at the same time makes this book a great read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZTLY1634UPCW"
+                },
+                "Date": "on June 30, 2010",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q20XNE8T7WBZ"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is by far the best of three books I ordered to get some sort of understanding of quantum physics. A genius approach, beginning with Planck and his creation of the word \"quanta.\" By following the lives and thought of each of the great thinkers in this field, I was able to get a deeper and deeper grasp of the issues. Finally, the unfinished argument between Einstein and Bohr came to the front as the uniting thread. I'm stone dumb on math, but this was a great read, even for a mathaphobe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37JPIUEOKFZ7C"
+                },
+                "Date": "on October 8, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Have been slowly drawn into non-fiction through my sons interest in science. Downloaded the Kindle sample of this and had to buy the whole thing. It is as engaging as any fictional book but you are learning as you read. Could use some more illustrations, both verbal and graphical, of some concepts to get through some of the more esoteric parts but otherwise does a great job of melding the how the thinking came about technically and socially."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LORDRM583SF8"
+                },
+                "Date": "on April 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A thorough examination of the famous disagreement between Einstein and Bohr over the nature of reality and how to interpret quantum physics, this book recounts stories of many of the pioneers .  However it does not seek to explain quantum physics nor the experiments in depth."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A74FZ8F0HGC7O"
+                },
+                "Date": "on September 22, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "It is one of the best books I have ever read.  The book is truthful, well written, and reflects a likable character. It is very well researched and documented.  I like the subjective part of the literature. The timeline, notes and bibliography serve as a great reference.  The book raises profound questions about the nature of reality. It is a great book to read for anybody. For all `scientifically inclined' this is a `must read.' Harry, Virginia, USA"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PE0SH451RRWA"
+                },
+                "Date": "on March 20, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very enlightening look at the philosophical debate behind the science of the quantum. The personal devils that men like Bohr and Einstein wrestled with and that science still wrestles with are gripping. I had to finish this one. Not only was it enthralling but I came away with a much firmer understanding of quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI14TWQNCC9A5"
+                },
+                "Date": "on June 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APKM98AXE82K9"
+                },
+                "Date": "on May 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFVROUVTT63XM"
+                },
+                "Date": "on August 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A355XYP6R8WMMN"
+                },
+                "Date": "on January 11, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3936N0IDZ4XPK"
+                },
+                "Date": "on November 5, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GZ933T1EYSQM"
+                },
+                "Date": "on July 6, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VLXB7H9UYCLT"
+                },
+                "Date": "on November 6, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "\"Does the moon exist only when you look at it ?\" asked Einstein.  This forms the central philosophical battle that Manjit Kumar's book traces through the history of the quantum from 1900 until today.  On one side is Einstein, the cultural icon who also happens to be perhaps the greatest Physicist of all time and on the other side is Bohr, a physics icon who among the inner circle may be of equal stature.  Einstein could not believe in a world without the realism that seems to be true in the macro world but Bohr felt nature is as the quantum describes it - probabilistic, non deterministic and most importantly dependent on an observer.  Joining them in battle are the great physicists of the 20th century whose names live immortalized as constants, measures, principles and equations.  Kumar mixes in equal parts biography making this an interesting read beyond the science.  Although much has been learned since 1900 and so much of our man-made material lives are a result of the understanding these individuals gained from the quantum world we still cannot really answer Einstein's question.  We are all made of quantum stuff and believe in our reality and determinism but all that we are made of does not seem to follow these rules.  A wonderful journey through a mind boggling world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A233X04MSJ8K38"
+                },
+                "Date": "on July 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADYNX51YCZOIY"
+                },
+                "Date": "on April 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'll make this short. There are so many books out there on quantum physics. As I layman, I find this topic deeply engrossing, so I've read 6 or 7 books and will surely read more on this. This is one of the better ones I've come across. The author weaves a fascinating account of the major scientists at quantum's core, and the cooperation and rivalry amongst them: Planck, Bohr, Shrodinger, Einstein, Heisenberg, Pauli, and quite a few others. The genius of these men is awe-inspiring and humbling. Each development in quantum is covered, who worked with whom, the brilliant speeches and symposiums, and the countless one on one talks into the night, which sometimes pitted genius against genius as each seemed to have his own deeply felt inherent insight and direction. Those great years were peppered with amazing breakthroughs. I just love reading the nicely told and exciting stories of  how each important breakthrough came about. And then, of course, the ensuing debates about what the experiments really showed. After all, classical physics can lead one awfully astray in the strange world of the quantum! I highly recommend this book, and can't wait to finish it so I can read it again!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23RKDO59M7O03"
+                },
+                "Date": "on July 22, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Quantum is an excellent book, highly recommended to anyone interested in an historical account of the development of the ideas behind Quantum Mechanics.  A nice combination of biography and the history of the ideas.  Readable, too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JZ1LA3IQIOIJ"
+                },
+                "Date": "on August 21, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CUGR96I4UCM"
+                },
+                "Date": "on September 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you like learning about physics and the history of physics discoveries you will love this book. Manjit goes into account after account relating the discoveries and interactions among the likes of Einstein, Bohr, Born, Pauli, Heisenberg (the real one not the Breaking Bad guy) Planck, Bohm, in short just about anyone who had something to say about physics in the 20th century. At the center of the book's theme is the tension between Bohr and his team's Copenhagen Interpretation where the Quantum is all and Einstein's lingering feelings that there is something more at work that would allow complete understanding of the mechanics of the micro-atomic world. It will leave your head spinning in a good way - but I'm not really sure if the spin is up or down. If only I could measure it with accuracy :-) Thanks for a great book Manjit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWRP4K6VNO3CQ"
+                },
+                "Date": "on July 5, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A masterful balance of theory and history, Quantum is an engaging dip into one of the most fascinating streams of modern scientific discovery.  The book includes simple, carefully calibrated explanations of the most important theories but does not get bogged down by them.  The real story here is the colorful pioneers who explore the mind-boggling terrain that is the quantum world.  The author fills his account with insightful portraits, revealing encounters, and one or two hilarious anecdotes which both humanize the major players and illuminate their astonishing genius.  His style is accessible but never fritters.  In fact, I think this material could be adapted for a marvelous course by \"The Teaching Company.\"  I think I'll tell them about it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYDY6WIUGRQ3D"
+                },
+                "Date": "on September 2, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABG1BHN8BO2V"
+                },
+                "Date": "on February 27, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Amazingly well written. The author brings life to his subject, not only listing the scientists and their major contributions, but going in to details of their personal life, philosophy, what led them to the ideas, etc. Although considered non-technical, I liked how this book still mentioned the equations, which is very helpful for those actually studying science. Kumar's descriptions of Ernest Rutherford, Neils Bohr, etc, made me feel like I really knew them--not just their technical sides, but as funny people with flaws who were striving--no, desperately grasping--to understand the world around them. As others have said, this is the best book on the subject that I have read. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RZ4G1B5NB2GX"
+                },
+                "Date": "on January 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Here is a brilliant portrayal of what may be the most dramatic debate of the 20th century, with repercussions that continue today. With the creation of quantum mechanics in the 1920s, two of the best physicists of the day, Einstein and Bohr, began a lifelong debate about the nature of reality as suggested by the new physics. Kumar captures this conflict in all its human drama with all its sidemen. Although occasionally too technical for most readers, the emphasis here is more on the human conflict than the details of physics, which makes for a captivating, compelling story. I know of no book that covers this ground better. I cannot recommend it highly enough."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A301QDUGDPSS2Y"
+                },
+                "Date": "on June 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've read a number of books on quantum mechanics, and some are good while some stink. This one shines, and it's totally deserving of its 5 star rating. This is the first I've ever read that presents a thorough history of the development of quantum physics. I had never heard of half of the great scientists who contributed to this awesome achievement. The book is very easy to read, and Kumar explains each step in the process in both a comprehensible and very interesting manner. Kumar deserves the plaudits of all amateur scientists for writing the best book on physics I've ever read. Read this one first. Then the rest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27QIRCQ3UDBG6"
+                },
+                "Date": "on January 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book without reservations . The author has done a very good job in describing the mains and the breaks in the establishment of quantum physics and quantum mechanics. The narrative is outstanding, covering thoughtfully an extraordinary discovery thread while providing a very enjoyable reading of the intertwine of the scientists involved, their personal lives, their historical experiences and their key contributions to the atomic physics developments early in the last century. The book has the mettle to become a classical and can be strongly recommended to anyone interested in the subject matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U59RN392D8NU"
+                },
+                "Date": "on July 21, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I1J1K5Y8Q7PY"
+                },
+                "Date": "on February 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the best books I have read on the history of quantum mechanics. Manjit Kumar explained quantum mechanics in an understandable way. But this is not the strength of the book. Kumar explored the personalities of the physicists and their relevant personal histories. He also explained Einstein's problems with quantum mechanics and I was surprised by what I read. The writing style was simple which is a good thing since the subject matter is so complex. But this is a book foremost about personalities and I strongly recommend it for anyone interested in the history of physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21OCTLQQOTXII"
+                },
+                "Date": "on June 2, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is exceptionally written.  The explanations of the concepts are very clear and thorough and concise, without being dumbed down.  He really does an outstanding job of bringing the characters to life, and, even as a scientist, giving me a new found respect for the scientists involved in quantum mechanics.  This is the rare nonfiction that will keep you up late at night, reading \"just one more chapter\" before turning in.  Highly recommended to both those with a scientific background and those just interested in learning scientific history."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21T5FGC5PU27Q"
+                },
+                "Date": "on December 24, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I highly recommend Quantum to anyone who loves physics, particulary, the period in the history of physics that was dominated by giants such as Bohr, Einstein, Born, Heisenberg, Dirac and other great thinkers. Manit Kumar is a terrific narrator, taking what could be a very dry, pedantic topic and breathing life into it. Much has changed since Einstein and Bohr's time, the foundation laid down by these scientists made it possible to explain phenomenon such as black holes, mesons, quarks, string theory, and more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYB17T8808IY6"
+                },
+                "Date": "on June 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've always had an interest in physics but do not have the background  (or time) to read the original works by the great early 20th century physicists. I needed a condensed, layman's guide to the theories that shaped the modern world, and this book is it. The science comes alive with clear and understandable descriptions, but even more interesting perhaps are the fascinating personal histories of the brilliant men and women who thought about the nature of matter and reality.  A very enjoyable journey."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q25U6N5JL45G"
+                },
+                "Date": "on July 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RSQWVCDQH9FG"
+                },
+                "Date": "on January 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book about intellectual giants, their adventurous process of discovery, and their role in the political turmoil of the times. The narrative interweaves accounts of strange atomic discoveries with the equally strange personal and public lives of their inventors. Einstein's role as a Jewish scientist in Germany (when Germany had a large anti-semitic contingent) is also interesting to read about. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6COVGCX4L1XV"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Physicists are real human beings and while their thinking is so above ours, Mr. Kumar tells us that the way they come up with their best thoughts is very much like the way we do.  They plod for a while, become obsessed with solving a problem and then when they are not thinking about it, suddenly a connection is made through a simple analogy.  The result?  Relativity and Quantum Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYZ9M4MXOIAYD"
+                },
+                "Date": "on July 31, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a fascinating history of the development of the quantum theory of atomic structure, with the successes, failures, and controversies between the proponents and detractors of the deterministic and probabalistic views.  And you don't have to be a rocket scientist to understand it and to come away with an appreciation of the observational or mathematical viewpoints of reality."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NW9J6G11PID4"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Good book on a complex topic. This is told as a proper historic investigation, with the science (while covered) being second. A great look into the minds and attitudes of the people involved. You still get to learn the science, but this book really shows how scinetific investigation and advancement happens. As a scientist, I find this perspective refreshing and very truthful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKKXJ4LGTXKAF"
+                },
+                "Date": "on August 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Quantum is a well written and documented view of a scientific revolution and how the \"players' in the field interact, argue and strive to gain their colleagues approval of their perceptions of how nature works. While some knowledge of physics is helpful, the layman can easily follow the human interactions and gloss over the details of \"thought experiments\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A069150829IRKLAB3U9O"
+                },
+                "Date": "on December 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31RGA9PWLZKC4"
+                },
+                "Date": "on November 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Well worth reading. I have studied these issues superficially in my youth but never understood them. Now I do (not). Seriously, this a great telling of a story essentially of the divine."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQRW3O94JUV8F"
+                },
+                "Date": "on August 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Takes a long time to get to the crux of the matter. Learned a few more interesting details about the main characters in the story of quantum physics, but the book takes a long time in getting to the topic of the title."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWGSFED9V7AZW"
+                },
+                "Date": "on August 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The historical figures really come alive, along with their ideas.  I only found the last few chapters to be a bit complicated to follow, physics-wise."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GCS415YOOJL2"
+                },
+                "Date": "on July 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YDQ2LRTJ0XP6"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The subject has always fascinated me and being Danish and knowing that the Dansk scientist Niels Bohr and Albert Einstein debated this subject 100 years ago. I have to say that all the formulas were a bit over my head. I had really bought the book for historical reasons but got bogged down i the technical. I have a knowledge from long ago about the understanding of Quantum physics related to consciousness via the VEDAS. Anyway I enjoyed it and it made me look for more information on Wikipedia, so it is  worth reading even for the lay person."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A357JAI4OQTAY5"
+                },
+                "Date": "on March 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The best thing I liked about this book is that it covers the main historical points adequately, without spending a lot of time diverging into historical events that had less of an impact to QM.  Most of the material in the book centers around Einstein and Bohr, and some of their colleagues which were also major players."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EYVVT60E3T61"
+                },
+                "Date": "on October 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is a very readable acccount of the thinking and discoveries that led to Quantum mechanics. It connects the people and events along the way to the remarkable concept of quantum behavior. You feel you are watching an encounter and struggle with ideas that challenge the limits of the human mind."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY6YTGR63MSTR"
+                },
+                "Date": "on October 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is more than just understanding quantum physics: it gets to the personalities, the conflicts, and the backgroud of the international development of mathematical thinking. You'll love it. Written with insight, emotion, and understanding of the historic human drama. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RYPGN40DM1TS"
+                },
+                "Date": "on September 2, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book to help answer the question of what is the nature of reality. It has inspired a great number of new ideas in my own mind. In the debate I side with the loser, Albert Einstein, and believe that cause and effect are present even on the sub-atomic level."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TV0JOQWGV8XR"
+                },
+                "Date": "on June 8, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The Author presents the development of modern physics in a dramatic, almost detective like fasion. The personalities, relations and history are depicted in a very lively and engaging way. All this with accessible explanations of physics. Simply wonderful book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11NPJZMJBROL0"
+                },
+                "Date": "on May 7, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a fascinating book about the development of modern physics, written in such a compelling way that I literally begun putting off other activities in order to return to the book...and find out what happened next.  The science is equally gripping."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DTI9SOLHU3V0"
+                },
+                "Date": "on December 1, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PXBBB7WLKFIW"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the best book on this subject. The history of modern physics, told by the lifes of two of the most fascinating minds of all time: einstein and bohr. A must read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10X6E4VZW24LX"
+                },
+                "Date": "on November 9, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20LJXSTJI0OMK"
+                },
+                "Date": "on December 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ464LOKQCJPY"
+                },
+                "Date": "on July 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Beautifully written, described and imagined by the author.  I came away with a deeper understanding of the Quantum Vs Traditional Physics debate."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGL3901L0YE9A"
+                },
+                "Date": "on August 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Einstein-Podolski-Rosen Paradox gave me a lot to think about. This great debate is not yet over. Entanglement is not completely understood."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A64CGTBA8AXPQ"
+                },
+                "Date": "on June 24, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I have read many books about the history and basics of quantum theory. I think this book ranks among the very best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WS12DJQYAZ65"
+                },
+                "Date": "on August 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19DDVFMO8E5NL"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A well written and entertaining book to learn about the history and personalities that forged modern physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37MN3E24VWHX0"
+                },
+                "Date": "on December 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you can put this book down after opening the first page, you didn't get it.As Pauli would say it , \"you're not even wrong\".All the major players in this account would adopt Mr. Kumar as a son for he understand and seems to love each one totally without taking sides.From the beginning to the very his great heart and superb mind abound on every page, The Solvay Conferences of 1927 and 1930 were the ultimate Ring Fights of the century, The two HeavyWeight Physics Boxers of the world fighting it out with breathtaking moves, each swing described round by round with in your face vividness by Mr. Kumar. Bohr and Einstein go at it and we have the best ring side seats because of this incredible book. What's at stake? Nothing less than the fundamental nature of reality."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D6Y0A30FSD3N"
+                },
+                "Date": "on July 17, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WGXJMV34TNWG"
+                },
+                "Date": "on December 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A very good coverage of a momentous period in physics, and how true genius (and true scientists) handled great dispute without recourse to hatred, character assassination, or throwing ones toys our of the pram - so unlike those climate scientists of today that brook no criticism. This book enunciates how true scientists should behave, where evidence, experimentation (thought  or practical),  intelligent discourse, and most importantly of all peer review (as opposed to journalistic mumblings and political comment) are the stock in trade. Should be compulsory reading for anyone doing undergraduate science as part of their scientific methods and logic subjects."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M4491CON6D36"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T6DU975U4BVP"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS5IL21BUX09Z"
+                },
+                "Date": "on September 13, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8XKZONP2VOOQ"
+                },
+                "Date": "on February 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Tells the story in a detective novel like way, of the debate at the beginning of the Quantum Mechanics Theory rise to glory.  Great insight into all the famous names of modern physics: Bohr, Heisenberg, Einstein . .  the list goes on and on. What was particularly interesting was the depiction of the debates and personal biases of these great Physicists.  This is very readable for non science people.  Being a physics major in college, I LOVED it . . .  no math required."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25KQUHJJ4X4ZM"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RHCVJPNYS5ZE"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I would have to read this book at least twice again to be sure I had even a modest grasp of the subject matter. It covers the whole field of relativity and quantum mechanics. A better knowledge of mathematics and physics would have helped. It emphasizes how much more there is to be learned."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WN1TJ4V8RQQX"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A book that delves deeply into the competition that marked the early years of modern physics and the way that our current understanding of how the universe works evolved. While acknowledging the genius of the men who changed the view of Everything, the book allows some insight into the men themselves, what motivated them, the politics of science at the rarefied height occuppied by the Giants of the Age."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CICQYYMQDLSD"
+                },
+                "Date": "on November 18, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LRLXSED49EW8"
+                },
+                "Date": "on March 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very well presented! A riveting history of physics through the eyes of giants. Best book I've read on the subject since \"The Making of the Atomic Bomb\" by Richard Rhodes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGYR6GZGELJ3Z"
+                },
+                "Date": "on December 7, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have read a lot of books on quantum physics; some easy to understand, some not so easy.  What I liked about this one is that Kumar shows the development of the idea of quantum physics step by step.  He traces an understandable history of the idea; he gives the reader information about the major players and where each person fits into the historical timeline.  But more than anything else, he makes the debate very clear.  One side (Einstein and Schroedinger) wants to preserve the real world behind the physics that they feel the theory needs to refer to or represent.  The other side in the debate (Bohr and Heisenberg) says that it doesn't matter if there is a reality behind the physics.  This account makes the philosophical question \"what is truth?\" come alive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10TLB4XZRQSLZ"
+                },
+                "Date": "on August 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11ILK8PRT7SFZ"
+                },
+                "Date": "on December 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Excellent book, providing insight into the development of quantum theory whilst also drawing you into the little known personal struggles of the most famous scientific characters of the 20th century. A little unclear about the finer points of the theory to the layman but that's maybe beyond the scope of this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AUR621T1RELW"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a good history of the development of Quantum Theories and those who were involved from when it began.  It presents many of the lesser known scientists and provides many insights into Quantum Theory and what it really means in the world of physics and human reality."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38TQMAZDGZ8Z0"
+                },
+                "Date": "on June 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is basically, the History of Quantum Mechanics, up until Niels Bohr and Albert Einstein die.  It also explains the concepts in easy to understand terms, with out going to in depth, which is great for those who would tend to read a book like this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGVSIUYQ82LTI"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Really enjoyed it, the writer style is fun and easy to understand, great historical presition, learn a lot abou the mind of grat phisysist like Einstein and Bhor, the last part got too philosophical for my taste."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W7M3HVCYNNE0"
+                },
+                "Date": "on December 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J2X2RBRDPCLG"
+                },
+                "Date": "on February 24, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "...of course in my opinion, that is. Although novice that I am - in the science world - this book sets forth the life and times of a group of the most renowned physicists the world had ever seen before or arguably since, with clarity and precision. In particular, the 1920s - which is primarily the focal point of this revolution - where recent discoveries had caused great debate among the greatest minds of the day, a great number with great minds - who were even popularly embellished with scientific stardom. After all, for example, the fact that light can be considered matter or a wave depending upon whether or not it is measured by an observer, tears at the very fabric of our classical understanding of Newtonian physics and the nature of the universe to shreds. That these physicists were so successful in bravely and tirelessly pursuing scientific truth in the face of newly found increasingly complex obstacles, is testament to their stark brilliance and the power of the human spirit. Of course, I'm referring to Plank, Einstein, Schrodinger, Born, Heisenberg and Bohr, among many other physicists and mathemeticians. A fascinatingly concise and coherent book - highly recommend this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PUP1UFQU8QLT"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An interesting look at the greatest minds of the 19th and 20th century. The layman will find the story recounted by Manjit Kumar more than compelling and wish he were at the Solvay conference of 1927."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HQGJ4UFLMFFX"
+                },
+                "Date": "on April 10, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "A great read and provided insights for me, even after I had already read \"Schrodinger's Cat\" and other fine books on quantum theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CH3LS4BIUPYH"
+                },
+                "Date": "on March 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Enjoyed the book. Comprehensive overview. Could have included progress up to Feynman. Some coverage of manhattan project would have rounded up the issues nicely."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CYKGW3TPZV3M"
+                },
+                "Date": "on August 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I LOVED THIS BOOK. IT GIVES YOU GREAT BIOGRAPHIES  ON EINSTEIN, BOHR AND ALL THE OTHER GENIUSES THAT BROUGHT QUANTUM PHYSICS TO LIGHT."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SNUIHPDKX275"
+                },
+                "Date": "on January 22, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AA2FQZSTOTZ4"
+                },
+                "Date": "on August 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An engrossing story about the interplay among the scientists, their personalities and the ideas they developed and debated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KUZNHWXCQU2V"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "as advertised"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1472Z54ECYT2P"
+                },
+                "Date": "on May 22, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK0F8E82W0S7B"
+                },
+                "Date": "on May 19, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "If like me, you've always been a student of physics and things quantum, this book is a great introduction to the history of one of the great golden ages of discovery.  Well written in a way that is easy to read but also has enough science and math to fascinate.  The debates between Einstein and Bohr are fun to read about (and have not quite been resolved even to this day, as you will see by the end of the book).  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LT8G4JCMSSLR"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I found this book an easy read (unlike many books on the topic!). It focuses on who's who in the quantum world, their relationships, and surrounding circumstances. This puts in perspective many parts of the developing theories. I suspect it relies on a background general knowledge of quantum landscape even though it is definitely written for the layman. A good well written book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MK6C4WZVGAT8"
+                },
+                "Date": "on April 4, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Kumar does an outstanding job of taking you on the journey through the development of quantum mechanics and immersing you, in layman's terms, in the ideas, dialogs, and conflicts between the great minds of the 20th century."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQFESXOJICZ8A"
+                },
+                "Date": "on March 22, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "An extremely easy readable story of the discovery of the structure of atom; this book reads like a novel and I could not put it down until I finished reading it. I would have taken up physics as my major if I had this book 55 years ago, instead of biochemistry! Although I read this book in my Kindle, I bought a paperback to give to my grandson, who is a high school junior. This book is a must read for anyone with less understanding of physics but an appetite to really understand the fundamental reality of Being. I commend the author for writing this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H8PLWKKCNST2"
+                },
+                "Date": "on July 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Enjoyed this and learned a bit of basic science and history."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT75U3J65T9XK"
+                },
+                "Date": "on September 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A must for those interested in Quantum mechanics' history."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VTEXCQU6RG3H"
+                },
+                "Date": "on February 12, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A wonderful story of the European scientists who made a series of new discoveries during some violent times. Now we are beginning to feel the results of some of the basic research. It is easier to understand the ideas when you know a little bit about the people and their interactions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22J26RPRXM187"
+                },
+                "Date": "on September 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I will recommend this product to any one interested."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO33R0PA20MH2"
+                },
+                "Date": "on April 17, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "One of the best historical and philosophical summaries of the confrontation which occurred between the Giants and pr\u00e9cursors of modern physics for its clarity and depth  . The understanding and in depth knowledge of the author is unique In this type of book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PHTQZAR7RVVA"
+                },
+                "Date": "on May 21, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book kept me interested all along, because the author has thoroughly investigated the connections between the actors and the chronological sequence."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DV9WQJI6U1Z3"
+                },
+                "Date": "on February 3, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Great book - loving it. How a bunch of guys changed the world just by thinking about it... Nobel prizes, bending space and time and warping reality ..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FANZX4N433NR"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "An interesting summary of twentieth century physics. . . Readable to the layman and gives a great understanding of quantum theory. . . ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F1G53BYWFG9W"
+                },
+                "Date": "on December 28, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Very well written, clear and yet deep explanations of all the problems. I have enjoyed it till the last page."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A382EATGL22O7U"
+                },
+                "Date": "on June 6, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "No need to be familiar with quantum physics to enjoy this book. A very good history of the GIANTS in science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PGWEOR9AE1B3"
+                },
+                "Date": "on August 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very interesting book!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W1WXMD5IZQOY"
+                },
+                "Date": "on December 1, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book is engaging and well written, although there are a few instances of what appear to be poor editing:  an occasional paragraph that seems out of place, or at least in need of a segue.  The choice of figures seems haphazard at times.  Perhaps the thing I missed the most was a more explicit presentation of the science (formulae) discussed.  Read the Kindle edition: no complaints."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKDP25YBYH5UF"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The reason I call it Chocolate for the intellect is that I have read many books and journal articles on Quantum Physics over the years (and have always found both the subject and history fascinating). But this book brings a whole new dimension to the topic. So no matter how much I've read or understand about these ideas, Kumar has assembled both public records and private correspondence to paint a picture of the development of the ideas and the personalities of the scientists that turn it into a tour de force of genius. He brings these scientists to life as real people whose life histories and fortuitous events played a role in how and when they had the brilliant insights that led to a revolution in how we understand reality. So no matter that some of the stories and events are familiar to me. So is chocolate. But I keep enjoying it each time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGH22LH74Z4OE"
+                },
+                "Date": "on May 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26EVA4VDQVI3"
+                },
+                "Date": "on July 28, 2011",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUMTRI10SJ3CS"
+                },
+                "Date": "on February 7, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent book. Would've been much better if it had an audible version that was Whisper-sync'd to the Kindle version."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22MJN318D9ABE"
+                },
+                "Date": "on August 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Well documented, well written, interesting but perhaps too much detail."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GGEU1J1NK6C9"
+                },
+                "Date": "on December 20, 2011",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "3",
+                "Text": "I find that the writer knows his science - or seems to, from this layperson's point of view.  The narrative, however, seems to lack a certain tension.  I read it (I haven't finished the book yet) for the glimpse it gives of these great thinkers as human beings, but I find I'm not as intensely interested in the book as I thought I would be.  But, as an introduction to the movers of 19th century physics I find it interesting enough. Perhaps the narrative flow needed more editorial tightening."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21MSBEF656AT0"
+                },
+                "Date": "on July 17, 2014",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABVQJXVP9MSQR"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Is not good for students never"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FNZYP0LUFDJ7"
+                },
+                "Date": "on July 8, 2011",
+                "Helpfulness": 0.03508771929824561,
+                "StarRating": "1",
+                "Text": "imagine jumping through half of the volume in an audio cd because of crack sound after crack sound without end.anybody can record a cd at home better than blackstone audio.i only heard a small part of the audiobook,the rest were full of crack sound so i had to jump to the next part.another great material ruined at the alter of a recording company."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Einstein-Debate-Nature-Reality/product-reviews/0393339882/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "140"
+    },
+    "Salesrank": "#44,639",
+    "Timestamp": "2015-05-24 13:35:52.623462",
+    "itemurl": "http://www.amazon.com/Quantum-Einstein-Debate-Nature-Reality/dp/0393339882"
+}

@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Physics for Men: The Science Behind Being a Guy"
+    ],
+    "OfferPrice": "$10.08",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GBIIYLV4BCT3"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "not sure what the audience for this is, other then it being a gag gift.  Not very funny, very dry with lots of math.  And the physics isn't accurate either  so will annoy people who actually know physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WH6DE730VTSV"
+                },
+                "Date": "on May 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Saw this book and started reading it and couldn't put it down. VERY funny. And a must read for guys. (The ladies may not agree. 'Probably' will not agree.) A GREAT gift."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXDSZ1TZLIKTQ"
+                },
+                "Date": "on December 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "We bought this for my brother-in-law, a high level nuclear physicist, and I plan to buy it for husband.  The parts we read were hysterical!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38RQU6D21CD68"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I thought it HILARIOUS!!  Buy a used copy for a few bucks...its worth the laughs!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18BZC5VLTH6KK"
+                },
+                "Date": "on April 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Physicist here. Got this book as a gift. I found it very entertaining. The math and physics are meant to be funny. I see the reviewer who wrote that things are not accurate. That person seems to have missed the point. As for accuracy, it all makes sense, physical principles applied to humorous situations. Even my non-physics friends laugh at it. Highly recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G39U3KWGRQIC"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Minimal use and looks like new.  The price could not be beat either. They sent a bookmark as well.  Great buy"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G6OQEY70AM33"
+                },
+                "Date": "on December 4, 2012",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "To the non-physicists out there - this will be a rough read.  When they describe the physics of being a man - they weren't joking. There's actual equations in here. Crazy right? A potentially in depth and interesting book if you enjoy physics but I imagine annoying for someone who has never taken a physics class."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Men-Science-Behind-Being/product-reviews/1440512795/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#983,722",
+    "Timestamp": "2015-05-24 13:13:57.849446",
+    "itemurl": "http://www.amazon.com/Physics-Men-Science-Behind-Being/dp/1440512795"
+}

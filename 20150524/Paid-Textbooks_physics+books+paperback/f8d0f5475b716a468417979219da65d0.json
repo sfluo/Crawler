@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$36.00",
+    "Name": [
+        "The Feynman Lectures on Physics, Vol. III: The New Millennium Edition: Quantum Mechanics (Volume 3)"
+    ],
+    "OfferPrice": "$32.19",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LDR4JRREV4QK"
+                },
+                "Date": "on July 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VDFQUFX1TOSU"
+                },
+                "Date": "on July 21, 2013",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "all books by feynmann are both fun to read and very informative,  he lets you know when a difficult topic is difficult - some authors write in such a way that even the difficult material is easy.  feynmann tells it like it is.  This goes for all of his  books"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IKTL3ELD06Q1"
+                },
+                "Date": "on July 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Expecting me to leave feedback on this 3 book lecture would be expecting me to finish a three year college course in a few months. Obviously not going to happen. I will say that the 75 pages that I read so far are excellent, clearly defining the subject matter and follow a comprehensive learning curve. So far I like the course big time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EIHXX33F9INO"
+                },
+                "Date": "on January 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The Feynman lectures are classics.  What happened was that he gave lectures, and the students put together their notes.  Feynman had one of the clearest understandings of physics of anyone in the 20th century, and it shows in this book.  This is well worth reading, if you are interested in the subject.  It's like a dessert tray, for me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OHKXVMMRQFB"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The absolute very best"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-III/product-reviews/0465025013/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#92,563",
+    "Timestamp": "2015-05-24 12:41:52.738173",
+    "itemurl": "http://www.amazon.com/Feynman-Lectures-Physics-Vol-III/dp/0465025013"
+}

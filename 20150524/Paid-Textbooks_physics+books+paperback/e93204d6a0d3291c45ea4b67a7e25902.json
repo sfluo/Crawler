@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Random Vibrations: Theory and Practice (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.52",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on January 7, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4HFZ778JQIWM"
+                },
+                "Date": "on February 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a mechanical engineer, I had very little experience with random processes other than sampling distributions for experiments. The text builds up from the fundamentals of probability to introduce the fundamentals of random vibration. The preliminary material is essential to understanding the actual random vibrations material later. The author makes an effort to present the material in a concise and readable manner. One of few texts I own that I can read all the way through. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7SVOGF0Z2TK"
+                },
+                "Date": "on November 21, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "It's a good problem solving book but not much on theory. However if you have background of probability of statistics, this can be a good reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EBTI42UOU5U"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "In my opinion, the best book on the subject"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R5CCFB4RYEWE"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A GOOD REFERNCE BOOK"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Random-Vibrations-Theory-Practice-Physics/product-reviews/0486450155/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#751,756",
+    "Timestamp": "2015-05-24 12:43:34.294435",
+    "itemurl": "http://www.amazon.com/Random-Vibrations-Theory-Practice-Physics/dp/0486450155"
+}

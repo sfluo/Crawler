@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$7.99",
+    "Name": [
+        "The Adventures of Mr. Tompkins and the Atom"
+    ],
+    "OfferPrice": "$7.19",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P1DO4BVYOZ4W"
+                },
+                "Date": "on May 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Adventures-Mr-Tompkins-Atom/product-reviews/147757588X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,357,860",
+    "Timestamp": "2015-05-24 15:43:44.931503",
+    "itemurl": "http://www.amazon.com/Adventures-Mr-Tompkins-Atom/dp/147757588X"
+}

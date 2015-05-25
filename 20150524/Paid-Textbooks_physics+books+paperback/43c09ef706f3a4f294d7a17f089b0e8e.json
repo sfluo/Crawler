@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Foundations of Statistical Mechanics: A Deductive Treatment (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.52",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14SIAMVCW9G3H"
+                },
+                "Date": "on October 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A carefully reasoned development of a subject of fundamental importance. The value of the work, which first appeared in 1970, seems to have been largely overlooked until fairly recently. Has been found to be at some points to have been well ahead of its time."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Foundations-Statistical-Mechanics-Deductive-Treatment/product-reviews/0486438708/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,034,361",
+    "Timestamp": "2015-05-24 13:31:04.492931",
+    "itemurl": "http://www.amazon.com/Foundations-Statistical-Mechanics-Deductive-Treatment/dp/0486438708"
+}

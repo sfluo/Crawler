@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Who's Who in Fluorescence 2003"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 21, 2004",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent initiative which no doubt will benefit our community of researchers tremendously."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Whos-Fluorescence-2003-Chris-Geddes/product-reviews/0306476894/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#14,910,214",
+    "Timestamp": "2015-05-24 15:56:24.054931",
+    "itemurl": "http://www.amazon.com/Whos-Fluorescence-2003-Chris-Geddes/dp/0306476894"
+}

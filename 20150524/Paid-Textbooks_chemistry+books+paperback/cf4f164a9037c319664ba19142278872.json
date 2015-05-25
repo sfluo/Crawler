@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Mathematical Theory of Symmetry in Solids: Representation Theory for Point Groups and Space Groups (Oxford Classic Texts in the Physical Sciences)"
+    ],
+    "OfferPrice": "$78.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VL98SU8JSOEA"
+                },
+                "Date": "on July 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This was just what we wanted.  We had already been using a library's copy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Theory-Symmetry-Solids-Representation/product-reviews/0199582580/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,227,453",
+    "Timestamp": "2015-05-24 15:42:01.522732",
+    "itemurl": "http://www.amazon.com/Mathematical-Theory-Symmetry-Solids-Representation/dp/0199582580"
+}

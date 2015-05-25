@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$162.00",
+    "Name": [
+        "College Physics: A Strategic Approach Volume 2 (Chs. 17-30) (2nd Edition)"
+    ],
+    "OfferPrice": "$146.12",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30ZHC0AUR04LF"
+                },
+                "Date": "on April 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "While this book was required for a course I took, I still think I would purchase/rent a different text for the same class if I had to do it over. It explained things well enough, but I've read better physics text books. I was constantly referring to my older texts and also Physics Work Books (supplementary to course work) in order to fully understand a given concept. Science writing doesn't have to be difficult to digest, and this book was on the verge of being vague and not offering enough detail to answer all of my questions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A176GQ0M0CZPMU"
+                },
+                "Date": "on January 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATUMZIX4EUD8J"
+                },
+                "Date": "on September 10, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Overall, the product came in perfect condition and in a timely manner. However, I would not have bought this product if I had known the student workbook was included. But otherwise, I was very satisfied."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATU0S85VZGRQE"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Everything I needed for Physics II was put inside this book. It was a great textbook to have for Physics II as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZKS33CLFTTS8"
+                },
+                "Date": "on February 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "As described, thanks!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-Strategic-Approach-17-30/product-reviews/0321611152/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#549,527",
+    "Timestamp": "2015-05-24 13:40:50.213053",
+    "itemurl": "http://www.amazon.com/College-Physics-Strategic-Approach-17-30/dp/0321611152"
+}

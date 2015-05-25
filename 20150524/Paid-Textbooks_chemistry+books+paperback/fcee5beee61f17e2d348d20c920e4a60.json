@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Thermodynamics"
+    ],
+    "OfferPrice": "$68.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P9LDEKKJQDGG"
+                },
+                "Date": "on December 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Patrick-Jacobs/product-reviews/184816971X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,369,134",
+    "Timestamp": "2015-05-24 15:42:33.340502",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Patrick-Jacobs/dp/184816971X"
+}

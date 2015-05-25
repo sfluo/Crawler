@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$67.50",
+    "Name": [
+        "Physics for the Inquiring Mind: The Methods, Nature, and Philosophy of Physical Science"
+    ],
+    "OfferPrice": "$64.13",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 17, 1999",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "Perhaps more for those who have already studied physics, although of interest to anyone with an inquiring mind. This book provides an invaluable way of looking at the physical world and forming logical arguments to  arrive at the theories we learn in a physics degree. Included is a  wonderful look at the ancient Greek studies of astronomy, from measuring  the Earth to getting some idea of how far away the sun is. Written before  the Feynman Lectures, and in some ways better, since it deals with the  fundamentals in a more concrete fashion. Definitely needs a reprint, hungry  minds are being starved! And I want my own copy!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2322WZJFFPZDA"
+                },
+                "Date": "on May 8, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXB1UK3YVP0HU"
+                },
+                "Date": "on September 10, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Physics for the Inquiring Mind is an impressively comprehensive and richly illustrated narrative on the evolution of physics, the history of physical theories and experiments, and the pioneers who contributed to the field. A professor made it assigned reading when I was in college back in 1980. I've never forgotten what a thrilling and informative read it was. I am glad there are still copies available, and I recommend it for anyone who is interested in this fascinating subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 19, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I read this book as a child in Poland in the early 70s. It has always had a special place in my heart. It is the best physics book I ever had a pleasure to read (I am not a physisist). Truly inspiring."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 28, 1999",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": "This book made me love physics! Buy it and read it"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Inquiring-Mind-Philosophy-Physical/product-reviews/0691151156/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,731,581",
+    "Timestamp": "2015-05-24 13:47:50.538623",
+    "itemurl": "http://www.amazon.com/Physics-Inquiring-Mind-Philosophy-Physical/dp/0691151156"
+}

@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$98.50",
+    "Name": [
+        "Principles of Molecular Photochemistry: An Introduction"
+    ],
+    "OfferPrice": "$78.31",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A8E1DDHCHUS8"
+                },
+                "Date": "on January 23, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A8E1DDHCHUS8"
+                },
+                "Date": "on January 18, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R7YKS9KQ6KO8"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ3CSO3D7OCCA"
+                },
+                "Date": "on March 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Useful book, has a few typos and errors. To be expected. Good Price with nice information. Diagrams are helpful and theory is well explained."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PH6TB24DNFKG"
+                },
+                "Date": "on January 12, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PH6TB24DNFKG"
+                },
+                "Date": "on January 23, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A186OSXC7LHJDB"
+                },
+                "Date": "on February 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an excellent book of a team of prominent scientists. The book considers both basics of the science and recent achivements in modern photochemistry. I strobgly recommend it to the readers."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Molecular-Photochemistry-Nicholas-Turro/product-reviews/1891389572/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#1,135,833",
+    "Timestamp": "2015-05-24 15:36:09.711115",
+    "itemurl": "http://www.amazon.com/Principles-Molecular-Photochemistry-Nicholas-Turro/dp/1891389572"
+}

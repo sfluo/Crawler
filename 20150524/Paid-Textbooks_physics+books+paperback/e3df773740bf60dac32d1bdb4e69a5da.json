@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$97.00",
+    "Name": [
+        "Physics of Solar Cells: From Basic Principles to Advanced Concepts"
+    ],
+    "OfferPrice": "$77.52",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MWES5Z5ZBFZB"
+                },
+                "Date": "on June 13, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PH9WVZNXZHV3"
+                },
+                "Date": "on June 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book explains the most important concepts in an elegant way and derives all important equations step by step that is very easy to follow. Very practical and useful for both students and engineers in PV field. This is an excellent and well written classical textbook as well as reference book for anyone who is interested in PV cells. A must have book for PV engineers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OJWYGTZ2MPT2"
+                },
+                "Date": "on October 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent, thorough explanation of the physics underlying the performance and limits of solar cells. This is the best text on the subject I have found to date."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O4PX4BGLYXYX"
+                },
+                "Date": "on February 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have Japanese translation of this text .  I want to check some misprints or inaccurate parts in the Japanese text."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Solar-Cells-Principles-Advanced/product-reviews/3527408576/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#530,452",
+    "Timestamp": "2015-05-24 13:24:48.183808",
+    "itemurl": "http://www.amazon.com/Physics-Solar-Cells-Principles-Advanced/dp/3527408576"
+}

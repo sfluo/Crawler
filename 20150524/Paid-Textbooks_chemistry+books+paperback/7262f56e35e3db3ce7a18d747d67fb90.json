@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "A Dictionary of Concepts in NMR (Oxford Science Publications)"
+    ],
+    "OfferPrice": "$84.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JYUHYP9ZY25I"
+                },
+                "Date": "on September 13, 2001",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great general reference book on NMR. Vastly superior to \"The Handbook of Nuclear Magnetic Resonance\" by Ray Freeman. Save your money and buy this book instead. Every person that uses NMR should have this book. This book also provides a general review of the mathematics used in NMR."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dictionary-Concepts-Oxford-Science-Publications/product-reviews/019854765X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,307,458",
+    "Timestamp": "2015-05-24 15:42:29.299407",
+    "itemurl": "http://www.amazon.com/Dictionary-Concepts-Oxford-Science-Publications/dp/019854765X"
+}

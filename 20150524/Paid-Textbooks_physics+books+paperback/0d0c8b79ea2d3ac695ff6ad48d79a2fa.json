@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.95",
+    "Name": [
+        "The Handy Physics Answer Book (The Handy Answer Book Series)"
+    ],
+    "OfferPrice": "$14.84",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23B5ZBN15PEBQ"
+                },
+                "Date": "on January 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Vert interesting. Easy to read for people of any age. My kids, ages 9 and 10 love it. My husband and I, ages 43 and 38, are reading it for fun"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJPCJVWWUKWGB"
+                },
+                "Date": "on January 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM2J7K7JJBRZ6"
+                },
+                "Date": "on August 9, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is makes a good introduction to the laws of physics. If you expect more than an introduction you will be disappointed, it is not a collage course book. If you get the book for its designed purpose you should be happy with your purchase. I look forward to reading the other books in the series as I get them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHMIFV3ZVP11L"
+                },
+                "Date": "on December 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent produce and great services!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K8JL3DE4X7EO"
+                },
+                "Date": "on May 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great purchase at a great price!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALUD6AX5RPWGX"
+                },
+                "Date": "on November 3, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "My sister put me on to this book.  I'm not very interested in physics, but this book made me want to read more like it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Handy-Physics-Answer-Book/product-reviews/1578593050/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#819,552",
+    "Timestamp": "2015-05-24 12:28:28.014763",
+    "itemurl": "http://www.amazon.com/Handy-Physics-Answer-Book/dp/1578593050"
+}

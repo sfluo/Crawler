@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$71.00",
+    "Name": [
+        "Intermediate Quantum Mechanics: Third Edition (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$63.90",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 19, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The \"Intermediate\" of the title means that you are supposed to  have learned your basic QM in a book such as Griffiths' \"Introduction  to Quantum Mechanics\" . Bethe's text then leads you to those parts of  QM most successful in applications, especially in atomic structure. The  treatment of perturbation theory is very clean, simple and effective. The  semi-classical theory of radiation is excellently described and then, in  perhaps the best part of the book, is used to review Einstein's derivation  of Planck's equilibrium distribution of radiation, explaining the need for  spontaneous emmission and motivating the treatment of quantum  electrodynamics, outlined at the end of the text. This is a great book.  What else could one expect from Hans Bethe, the man who discovered how the  Sun produces its energy?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on January 30, 2003",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on September 25, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a graduate student I found myself pouring over Bethe's papers on inelastic scattering as written in the original German.  That was pretty tough going!  Happily, one of my fellow students introduced me to Bethe and Jackiw, which covered this same material in English.  So for people who want to understand how electrons lose energy to individual atoms (i.e. characteristic energy losses) this book is extremely useful.  For electron microscopists such as myself Bethe's work is essential for learning how to compute the cross sections used in both energy dispersive x-ray spectroscopy (EDXS) and electron energy loss spectroscopy (EELS)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y7A8F738CUY6"
+                },
+                "Date": "on April 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 2, 2004",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Intermediate-Quantum-Mechanics-Advanced-Classics/product-reviews/0201328313/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#2,077,442",
+    "Timestamp": "2015-05-24 13:31:37.608454",
+    "itemurl": "http://www.amazon.com/Intermediate-Quantum-Mechanics-Advanced-Classics/dp/0201328313"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Problems and Solutions in Quantum Chemistry and Physics (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$17.63",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GZKBAOXPN622"
+                },
+                "Date": "on May 19, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": "This collection of numerous problems in both old atomic theory as well as (slightly) more modern theory is a great review to students who may have taken introductory QM classes and need a refresher, or as a supplement to  those students currently learning QM.  The topics covered are varied and  problems include complete solutions.  Overall a good volume to include in  any early theorist's collection."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W5TPXQYRLOCM"
+                },
+                "Date": "on May 24, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2G229P7FLNC5G"
+                },
+                "Date": "on May 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Its been covered that its a good Quantum problems book, but I really can't read it.  I knew it was old, but it looks like it was done on a type-writer.  Can't fault them though, Caveat Emptor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZI7H0F6ABW8V"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Solutions-Quantum-Chemistry-Physics/product-reviews/048665236X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#976,295",
+    "Timestamp": "2015-05-24 12:44:16.656792",
+    "itemurl": "http://www.amazon.com/Problems-Solutions-Quantum-Chemistry-Physics/dp/048665236X"
+}

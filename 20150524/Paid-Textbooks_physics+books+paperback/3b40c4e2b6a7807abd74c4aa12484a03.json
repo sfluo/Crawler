@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$63.80",
+    "Name": [
+        "Student Study Guide for University Physics Volumes 2 and 3 (Chs.21-44)"
+    ],
+    "OfferPrice": "$50.37",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4TTHVGL1VWFU"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The companion study guide to University Physics is so concise, so boiled-down simple that it can act as a replacement to the textbook in courses with a good professor who delivers detailed lectures and to students who take solid notes in those courses. There aren't any tedious derivations here, just a list of key concepts and formulae followed by sample problems. A crucial homework companion, a more crucial test prep companion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12S5PHL54AIB5"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This is an adequate book. It explains things clearly & has numerous problems. I used it for self study as a refresher & found it below the level that I was looking for. Perhaps if you are totally new to the material then it might be a better choice. Not bad, but I would suggest a more rigorous text if you have any prior exposure to physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11W74V6F6ZH3K"
+                },
+                "Date": "on January 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. Useful for studying. It's a great study took to accompany the textbook. Not required, but still pretty useful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JGROZJDV5D8W"
+                },
+                "Date": "on January 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "I thought it would explain some of the difficult exercises in each chapter. Seems like a waste to purchase."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DUJ6Y6U0IETN"
+                },
+                "Date": "on January 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Really helped"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-University-Physics-Volumes-Chs-21-44/product-reviews/0321696697/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#352,391",
+    "Timestamp": "2015-05-24 13:35:39.588152",
+    "itemurl": "http://www.amazon.com/Student-University-Physics-Volumes-Chs-21-44/dp/0321696697"
+}

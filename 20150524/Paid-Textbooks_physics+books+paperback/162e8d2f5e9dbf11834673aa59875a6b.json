@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Speakable and Unspeakable in Quantum Mechanics (Collected papers on quantum philosophy)"
+    ],
+    "OfferPrice": "$10.44",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 8, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Many people tend to treat the quantum formalism as sacred or untouchable. Not too many seem to question the relevancy of the undefined concepts of 'measurement', 'observer' and 'system' on which which QM stands. Can we  really call a theory 'fundamental' when it rests upon undefined concepts?  Reading this book is a pure pleasure mostly because it treats QM in a very  simple and uncomplicated way. Some lines written in this book are almost  poetic. This is a book for people really interested in foundations of QM  and for those prepared to let go of quantum doctrines."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N3N439PRGV3I"
+                },
+                "Date": "on November 22, 2002",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on February 12, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SFAUH5IHPERT"
+                },
+                "Date": "on August 8, 2002",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30ANOFS1VK1NU"
+                },
+                "Date": "on January 23, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Bell dispatches a number of quantum myths, most courteously and most irrevocably--in particular, regarding what quantum experiments require us to conclude about the world. E.g. #1 indeterminism; #2 nature (Schrodinger evolution) stops and sits on her hands when a \"measurement\" is made; #3 Bohr got the better of Einstein. Another interesting point of Bell: Bohm = many-worlds minus absurdity. I felt the urge to stand up and cheer certain passages. Also, a nice brain-teaser on Lorentz vs. Einstein relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on April 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VDO9R6YMEXIM"
+                },
+                "Date": "on June 3, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "John Bell's work was extremely valuable in sharpening our understanding of quantum mechanics, particularly the impossibility of local deterministic causality - you can't have both locality and hidden variables that determine quantum outcomes. This selection of Bell's writings has some technical material but there are also papers accessible to the non-specialist. For example, his \"Six possible worlds of quantum mechanics\" explores thoughts and interpretations from Bohr (Copenhagen), Einstein, de Broglie and Bohm (hidden variables), Everett (many worlds) and others. Highly recommended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZYL0HNUR5XH"
+                },
+                "Date": "on December 9, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is necessary for even the casual investigator of QM philosophy.  Ideas once considered heresy are largely accepted now, but there are still competing interpretations.  It is by no means settled.  But the author shows how to think beyond just mechanically exploring the QM equations and consider the underlying implications."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36J5D1VLHW4C0"
+                },
+                "Date": "on April 9, 2001",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12KL1QCSUI1D3"
+                },
+                "Date": "on February 8, 2006",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G6CLQ811QCM0"
+                },
+                "Date": "on August 12, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "If you are interested in quantum entanglement, hidden variables and the Einstein-Podolsky-Rosenberg paradox, this is the book for you. Pretty clear, even for those with only an introduction to quantum mechanics behind their belt."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SB82PMLFPA2"
+                },
+                "Date": "on July 10, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This is some provocative work from a man who is not satisfied with the copenhagen interpretation of Quantum Mechanics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Speakable-Unspeakable-Mechanics-Collected-philosophy/product-reviews/0521368693/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#956,025",
+    "Timestamp": "2015-05-24 13:27:55.692727",
+    "itemurl": "http://www.amazon.com/Speakable-Unspeakable-Mechanics-Collected-philosophy/dp/0521368693"
+}

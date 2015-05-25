@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$61.00",
+    "Name": [
+        "Analytical Chemistry in Archaeology (Cambridge Manuals in Archaeology)"
+    ],
+    "OfferPrice": "$49.08",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YE9SIX7NVBE4"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Analytical-Chemistry-Archaeology-Cambridge-Manuals/product-reviews/0521655722/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,064,156",
+    "Timestamp": "2015-05-24 15:19:56.339204",
+    "itemurl": "http://www.amazon.com/Analytical-Chemistry-Archaeology-Cambridge-Manuals/dp/0521655722"
+}

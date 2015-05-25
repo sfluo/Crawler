@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Nuclear Muse:  Literature, Physics, and the First Atomic Bombs (Science and Literature)"
+    ],
+    "OfferPrice": "$24.95",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 31, 2001",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B2DON4Z45J28"
+                },
+                "Date": "on July 21, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 8, 2001",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NOZB6VZCTOI4"
+                },
+                "Date": "on August 13, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CM3MQ0KUO8J7"
+                },
+                "Date": "on August 29, 2001",
+                "Helpfulness": 0.375,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Muse-Literature-Physics-Science/product-reviews/0299168549/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#2,327,331",
+    "Timestamp": "2015-05-24 13:15:17.370935",
+    "itemurl": "http://www.amazon.com/Nuclear-Muse-Literature-Physics-Science/dp/0299168549"
+}

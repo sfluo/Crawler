@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "The Geometry of Kerr Black Holes (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349KPQKG94JLX"
+                },
+                "Date": "on April 5, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NCESLO69JCK4"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometry-Black-Holes-Dover-Physics/product-reviews/0486493423/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#558,792",
+    "Timestamp": "2015-05-24 12:36:57.140724",
+    "itemurl": "http://www.amazon.com/Geometry-Black-Holes-Dover-Physics/dp/0486493423"
+}

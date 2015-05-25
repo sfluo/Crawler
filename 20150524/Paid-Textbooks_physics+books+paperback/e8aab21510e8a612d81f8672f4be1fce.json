@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Cosmic Coincidences"
+    ],
+    "OfferPrice": "$14.99",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CM8UN6XE2HEJ"
+                },
+                "Date": "on June 20, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "This is possibly the best book I have read about Cosmology. This is my fourth Gribbin book, the other three being of his \"Insearch of ...\" series. And I definitely found this to be his best. First of all  the book deals with an area which is somewhat different from most other  books on Cosmology. The author's argument about why dark matter is  necessary to make the universe closed, and how it relates to the  requirements of existence certain particles to complete the particle  physics equations is superb. The book gives a plethora of information about  what could possibly constitute the dark matter of the universe. It talks  about particles with bizarre characteristics like quark nuggets, axions  etc. The book also includes a lot of speculations like existence of  \"shadow matter\" which appears too bizarre to be real. And last  but not the least, the book tackles the sensitive issue of \"Anthropic  Cosmology\"  which stresses on the fact that the universe is  taylor-made for man. This is really intriguing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35SBVEY0HQM33"
+                },
+                "Date": "on August 26, 2005",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C217T6VWIE3"
+                },
+                "Date": "on November 14, 2005",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PY0QFXQ1GWMZ"
+                },
+                "Date": "on May 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I bought this book, copyright 2015, hoping it would be a current assessment of modern cosmology. There are many passages referencing being written in 1988 or so. Not being a professional cosmologist, I cannot tell if the text is updated for current thinking. I enjoyed the book, but I think there are technically richer ones, like Chaisson's Epic of Evolution."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Cosmic-Coincidences-John-Gribbin/product-reviews/1511915811/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#189,344",
+    "Timestamp": "2015-05-24 13:42:12.800452",
+    "itemurl": "http://www.amazon.com/Cosmic-Coincidences-John-Gribbin/dp/1511915811"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "Basic Linear Geostatistics"
+    ],
+    "OfferPrice": "$68.75",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26CBQR4K4YJIQ"
+                },
+                "Date": "on May 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KFVDTGE2YNL9"
+                },
+                "Date": "on January 30, 2001",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book treats some stuffs in geostatistics including basic stochastic theory, variogram, and various kriging techniques. Though this is an introductory textbook of geostatistics, it's theoretical approach and explanation are clear, creative, and easy to understanding for students who are new to this area. I would like to recommend this book for all of students who have an interest in geostatistics and for experts too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAY0GQRWXA56X"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A surprisingly clear and lucid account that covers all of the essentials in a sometimes opaque subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KFVDTGE2YNL9"
+                },
+                "Date": "on January 30, 2001",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "This book treats some stuffs in geostatistics including basic stochastic theory, variogram, and various kriging techniques. Though this is an introductory textbook of geostatistics, it's theoretical approach and explanation are clear, creative, and easy to understanding for students who are new to this area. I would like to recommend this book for all of students who have an interest in geostatistics and for experts too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KFBJ5HY3SDD0"
+                },
+                "Date": "on January 28, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "It is a very good text book for bachelor degree level, but, the book could be better if the pictures were designed again with powered tools. There is very good examples, but a primitive picture make it look not so good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C80UZLTZDQ9X"
+                },
+                "Date": "on April 25, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Between 1965 and 1970 Professor Georges Matheron's most gifted disciples stripped the variance off the distance-weighted average and called what was left a kriged estimate to honor D G Krige. Infinite sets of kriged estimates and zero kriging variances are aberrations in applied statistics. Geostatistical software converted Bre-X's bogus grades and Busang's barren rock into a massive phantom gold resource. It makes no sense to dismiss Fisher's F-test. It should have been applied to the variance of the set and the first variance term of the ordered set. Geostatistical software converted Bre-X's bogus grades and Busang's barren rock into a massive phantom. It did so before Bre-X's boss salter went missing!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Linear-Geostatistics-Margaret-Armstrong/product-reviews/3540618457/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#497,639",
+    "Timestamp": "2015-05-24 15:40:15.628598",
+    "itemurl": "http://www.amazon.com/Basic-Linear-Geostatistics-Margaret-Armstrong/dp/3540618457"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Communicating Science: A Practical Guide"
+    ],
+    "OfferPrice": "$37.56",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TZRDRW4S8DDF"
+                },
+                "Date": "on October 30, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Communicating-Science-Practical-Pierre-Laszlo/product-reviews/3540319190/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,714,866",
+    "Timestamp": "2015-05-24 15:48:10.804681",
+    "itemurl": "http://www.amazon.com/Communicating-Science-Practical-Pierre-Laszlo/dp/3540319190"
+}

@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Newtonian Mechanics (The M.I.T. Introductory Physics Series)"
+    ],
+    "OfferPrice": "$41.13",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 29, 2001",
+                "Helpfulness": 0.9846153846153847,
+                "StarRating": "5",
+                "Text": "I worked through French's challenging problem sets in Newtonian Mechanics while I was in the military and found out that I could \"do physics.\"  I immediately returned to school to earn my physics degree.  A lot of authors mention in their prefaces that the best way to learn physics is to do problems.  I agree.  Reading the text of this book is easy for anyone who desires enough to do it.  Working the problems (always the tougher and less convenient half) will pay dividends in confidence and deeper understanding.  This book--like the rest in the MIT physics series written by French--has all of the answers to the problems in the back of the book that allows independent study.  The book is well-motivated and gives a lot in return but asks a lot of the student in his or her maturity and perseverence."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M5QT70L9BAG8"
+                },
+                "Date": "on April 16, 2000",
+                "Helpfulness": 0.9512195121951219,
+                "StarRating": "5",
+                "Text": "I think it's THE book of mechanics for Physics' students. Itcovers from basic mechanics (kinematics, newton laws...) to sometopics of classical mechanics. It has many clear demonstrations that are not found in other books for engineers (like Resnick, Tippler...) and contains excellent examples. It has a high level but is very easy to understand. French style, that combines history, original observations, clearity and high-level topics makes you love Mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 6, 2002",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VTPPUNPXD8PX"
+                },
+                "Date": "on August 10, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A352QMKNICFRVO"
+                },
+                "Date": "on May 25, 2007",
+                "Helpfulness": 0.7391304347826086,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6FAMR4Y33DVZ"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book. A must read for Physics & engineering majors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28FS92O3CJSUO"
+                },
+                "Date": "on November 7, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "I must say I wasn't aware fo the existence oif this book until I read their Quantum Physics title. This book is great to beginners in Physics and Engineering, especially if you choose to use it with another author like Halliday, Resnick & Krane, or Serway."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Newtonian-Mechanics-M-I-T-Introductory-Physics/product-reviews/0393099709/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#195,940",
+    "Timestamp": "2015-05-24 13:07:19.594862",
+    "itemurl": "http://www.amazon.com/Newtonian-Mechanics-M-I-T-Introductory-Physics/dp/0393099709"
+}

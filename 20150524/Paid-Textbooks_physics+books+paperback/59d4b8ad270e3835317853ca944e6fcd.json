@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.40",
+    "Name": [
+        "Practice Book for Conceptual Physical Science Explorations"
+    ],
+    "OfferPrice": "$57.38",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10OMFXGTE59LX"
+                },
+                "Date": "on February 24, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "The book arrived next day air, as ordered. It is very easy to use and correlates with the textbook. It does NOT contain answers, nor does it show calculations/rationales for problems which was my intended reason for ordering it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ASUGTE0I1CCR"
+                },
+                "Date": "on January 23, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The item arrived fast. It was just as described and at an affordable price. Book is simple to follow and great for classwork."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practice-Conceptual-Physical-Science-Explorations/product-reviews/0321602188/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#885,262",
+    "Timestamp": "2015-05-24 13:48:24.270931",
+    "itemurl": "http://www.amazon.com/Practice-Conceptual-Physical-Science-Explorations/dp/0321602188"
+}

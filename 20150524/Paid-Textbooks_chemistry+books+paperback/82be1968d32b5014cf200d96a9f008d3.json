@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$66.95",
+    "Name": [
+        "Introduction to Quantum Mechanics: in Chemistry, Materials Science, and Biology (Complementary Science)"
+    ],
+    "OfferPrice": "$45.17",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OYTH6JL8P3O3"
+                },
+                "Date": "on May 6, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LL7ZUSJ5XS6P"
+                },
+                "Date": "on December 1, 2004",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Quantum-Mechanics-Chemistry-Complementary/product-reviews/0121060519/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,262,349",
+    "Timestamp": "2015-05-24 15:31:10.371042",
+    "itemurl": "http://www.amazon.com/Introduction-Quantum-Mechanics-Chemistry-Complementary/dp/0121060519"
+}

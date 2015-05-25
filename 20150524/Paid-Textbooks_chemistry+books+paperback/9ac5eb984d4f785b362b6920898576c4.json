@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Soft Matter: The stuff that dreams are made of"
+    ],
+    "OfferPrice": "$18.33",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SFMGMTQGWUHX"
+                },
+                "Date": "on March 11, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RBGDY1P3C28K"
+                },
+                "Date": "on June 8, 2011",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "3",
+                "Text": "Well I will be the first to admit that physics is not my preferred genre, I found this book relate-able  and readable. It made understanding the soft matter of cement and why it needs water in order to harden understandable and simple for those who have no background in science or physics. It was not filled with lofty theories and computations that make similar textbooks boring and uninteresting to the novice. I also gained insight to how closely things in this world are similar."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Soft-Matter-stuff-that-dreams/product-reviews/9400705840/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,321,013",
+    "Timestamp": "2015-05-24 15:28:58.192543",
+    "itemurl": "http://www.amazon.com/Soft-Matter-stuff-that-dreams/dp/9400705840"
+}

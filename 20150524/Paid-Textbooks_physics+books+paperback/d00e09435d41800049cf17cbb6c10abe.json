@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Mathematical Methods for Physics and Engineering: A Comprehensive Guide"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MSMFHIGGRCWV"
+                },
+                "Date": "on September 20, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book a few years ago when I was studying physics in University, I've now switched to engineering and I still use this book regularly.  I wouldn't think it a very good book for a text, but it is a wonderful reference book.  The entries are short(generally a couple of pages) but in depth with references to other sections to lean more.  The book is full of examples and uses straight-forward explanations of techniques and their physical interpretation.  I highly recommend this title for anyone looking for a good quick math reference."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Comprehensive/product-reviews/0521890675/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#768,798",
+    "Timestamp": "2015-05-24 13:30:52.046854",
+    "itemurl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Comprehensive/dp/0521890675"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$171.00",
+    "Name": [
+        "A Complete Introduction to Modern NMR Spectroscopy"
+    ],
+    "OfferPrice": "$120.19",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C5IYL8SZLUIW"
+                },
+                "Date": "on February 26, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "A valuable refernce for any organic chemist in the early years of a career in industry or as a graduate student. Aviods being bogged down in quantum theory and explains NMR in a clear concise manner. I have read the first 1/3 and couldn't be more pleased. I would also recommend Andrew Derome as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARCESR8XR995J"
+                },
+                "Date": "on February 16, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Macomber's book does not presume a rigorous  practical or theoretical background in NMR for the reader. It is an invaluable first step for students and self-teachers of NMR. It is an excellent gateway to more intensive or mathematical texts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Complete-Introduction-Modern-NMR-Spectroscopy/product-reviews/0471157368/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,830,245",
+    "Timestamp": "2015-05-24 15:43:58.474621",
+    "itemurl": "http://www.amazon.com/Complete-Introduction-Modern-NMR-Spectroscopy/dp/0471157368"
+}

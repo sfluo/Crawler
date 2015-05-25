@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Light (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$49.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GSH7K70QCS3I"
+                },
+                "Date": "on July 13, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Light-Dover-Books-Physics-Ditchburn/product-reviews/0486666670/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,600,033",
+    "Timestamp": "2015-05-24 13:24:30.493917",
+    "itemurl": "http://www.amazon.com/Light-Dover-Books-Physics-Ditchburn/dp/0486666670"
+}

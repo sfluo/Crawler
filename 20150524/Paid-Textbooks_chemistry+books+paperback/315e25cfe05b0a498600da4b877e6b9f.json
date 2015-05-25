@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "AIChE Equipment Testing Procedure - Trayed and Packed Columns: A Guide to Performance Evaluation"
+    ],
+    "OfferPrice": "$51.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19U3UFBVHS5MG"
+                },
+                "Date": "on June 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/AIChE-Equipment-Testing-Procedure-Performance/product-reviews/1118627717/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,283,435",
+    "Timestamp": "2015-05-24 15:51:46.495019",
+    "itemurl": "http://www.amazon.com/AIChE-Equipment-Testing-Procedure-Performance/dp/1118627717"
+}

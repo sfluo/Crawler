@@ -1,0 +1,594 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Age of Entanglement: When Quantum Physics Was Reborn"
+    ],
+    "OfferPrice": "$17.00",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADGNW8S9A9ZG1"
+                },
+                "Date": "on November 30, 2008",
+                "Helpfulness": 0.8412698412698413,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UIXU97JYCPZG"
+                },
+                "Date": "on June 6, 2009",
+                "Helpfulness": 0.8367346938775511,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW7D7BQULTAB"
+                },
+                "Date": "on November 18, 2008",
+                "Helpfulness": 0.8636363636363636,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on September 9, 2010",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD9DRTA3N35EQ"
+                },
+                "Date": "on January 8, 2010",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IBBKB1N1RHQB"
+                },
+                "Date": "on January 7, 2009",
+                "Helpfulness": 0.8260869565217391,
+                "StarRating": "5",
+                "Text": "Kudos to Louisa Gilder for tackling an important topic in such a creative and wonderful manner. The author has done what very few seem capable of doing - making quantum physics understandable and enjoyable for the non-scientist and layperson. There are quite a few books that attempt to tackle the subject of entanglement, but Gilder's book stands above the pack. It's a tour de force. She does a terrific job of presenting the dynamics of scientific discovery with extraordinary flair. It is as if the reader is a fly on the wall during the many important discoveries and debates that have fueled the accumulation of scientific knowledge. Many of the great minds that have contributed to the advance of quantum physics over the past century come to life in Gilder's book. We see the humanness that exists along side the genius. There is a wonderful complexity to scientific discovery that is not well appreciated by the masses. Gilder's book illuminates that complexity in splendid fashion. This book is a treasure. I congratulate the author on her fine accomplishment, and enthusiastically encourage readers to purchase a copy of The Age of Entanglement. It's the kind of book that is difficult to put down and you don't want to end. Five stars for the book and one more star for the incredible effort that it took to produce it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34MIFFGKD2E1H"
+                },
+                "Date": "on February 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19K9YVH1SE353"
+                },
+                "Date": "on May 29, 2009",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E50HHYCSD1HO"
+                },
+                "Date": "on January 4, 2010",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABRT39B5MW35C"
+                },
+                "Date": "on March 3, 2009",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHUEZAMFMKLND"
+                },
+                "Date": "on January 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABQWEL10KO46C"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MTF17UI0UTL7"
+                },
+                "Date": "on February 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGD2DDIY9LG6B"
+                },
+                "Date": "on April 24, 2009",
+                "Helpfulness": 0.6976744186046512,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOGN1F0Q3HW86"
+                },
+                "Date": "on January 21, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11OP8Q7RN3GBM"
+                },
+                "Date": "on September 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KBLMZGBX2CNV"
+                },
+                "Date": "on February 11, 2009",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LV0ZI9VGF0VV"
+                },
+                "Date": "on March 21, 2009",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A282092JW5Q1OK"
+                },
+                "Date": "on June 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Entanglement has vexed some of the greatest minds of the 20th century and this is what I loved about this book. Books on physics (other than text books) tend to either be histories focused on an individual or books focus on a subject matter without history. I really enjoyed how the author unraveled the subject over time through the individuals making the discoveries creating a interesting timeline. It did start a little slow but got very intersting later."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on February 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYSOKVKFFU4VX"
+                },
+                "Date": "on May 26, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XDJEU676Z4DE"
+                },
+                "Date": "on May 3, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I loved Gilder's putting me in the conversations between physics' greats.  I was there to witness how surely these wonderful minds brought us understandings of the magic of quantum mechanics.  It was fun to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZJINTUNLR0AR"
+                },
+                "Date": "on June 8, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A828YCM0DMR2X"
+                },
+                "Date": "on December 23, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FZT4AEV95B4A"
+                },
+                "Date": "on September 8, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A lively and entertaining history of the development and extension of quantum theory where history definitely takes precedence over science.  Though the sub-title is \"When Quantum Physics was Reborn,\" referring to John Bell and his famous essay on Bertlmann's socks, the book in scope really encompasses the full development of quantum theory, starting with Planck, lingering long with Einstein and Bohr, as is fitting, and the geniuses who were drawn to them and their ideas: Born, de Broglie, Ehrenfest, Heisenberg, Pauli, Dirac, Schoenberg, and the rest.  The book's intermezzo lingers a little too long on Oppenheimer and Feynman, with much ado about HUAC and bongo playing and not enough about their science, but recovers its impetus with Bell and the modern experimentalists, leading to the triumph of the standard model with Weinberg, Salaam and Gell-Mann.  Unfortunately, the end is not as happy as the beginning, because it leaves us in the modern morass, with nothing more inspiring than purported practical applications like quantum computing and cryptography--not nearly so inspiring as the thrilling pace of discovery and development of the 1920s and 70s.  In all, an exciting history experience, but not a great deal of hard science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RCEFHLIPRX9O"
+                },
+                "Date": "on January 29, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "My first post on a book (I don't know and am unrelated to the author)... This is an attempt to do something quite remarkable-- the reconstruction from reputable primary and secondary sources of could-well-have-happened-this-way conversations among renowned physicists during a fascinating and astonishing period of scientific discovery.  But what I found uncommon, and perhaps unique, is Ms. Guilder's amazing coupling of lucid scientific explanations with a literary flair that is quite poetic. The post-WWII part of the book is more fragmented and less novelistic, perhaps due to the historical material (and the fact that Guilder was 6-8 years into the project), but if you are a scientific romantic interested in immersing yourself in the socially messy, 'entangled' world of brilliant people uncovering mind-boggling physicial truths, this is your book. Though stretched thin toward the end, five stars for the brilliant language, startling material and amazingly ambitious and satisfying approach to a fascinating topic. I borrowed, and now will buy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MCH1K8QRJQ55"
+                },
+                "Date": "on August 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The first ~2/3 of the book is a history of the early development of quantum mechanics and the arguments among its founders over its interpretation.  The classic arguments, especially between Einstein and Bohr, are presented in a form that I believe will be understandable to those without a knowledge of the mathematics of Quantum Theory.  The author clearly sides with those who opposed the interpretation that came to be known as the Copenhagen Interpretation.  The author takes some historical license (which she acknowledges) to present the ideas of the principle characters in an entertaining way.  The personalities of the individuals are fleshed out.  The last third focuses on Bell's inequality, its experimental tests, and the development of entanglement as a vibrant area of modern physics, now known as quantum information theory.  This is the rebirth of the title.  I found the discussion of quantum information theory the weakest part of the book -- it was too compressed.  If this is your interest, this book will likely not satisfy except in terms of providing historical background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZT2CBKZL2BUA"
+                },
+                "Date": "on March 2, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YDGZDPFNQZA0"
+                },
+                "Date": "on April 21, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASD5TG3Y4G626"
+                },
+                "Date": "on November 9, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JJXEGA5VE23F"
+                },
+                "Date": "on December 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IUOTEMX1CUDS"
+                },
+                "Date": "on June 19, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I'll not repeat what the editorial reviews say about this truly impressive piece of research and writing.  Suffice it to say--who among us would expect a history of quantum physics to be readable, enjoyable, and informative (you need not worry about the math, Gilder gives you the basic understanding)all at once?  The author's focus on the personalities and their clashes and cooperation makes this a very human story, at the same time it traces the last century and more in physics.  As a historian of science and engineering (and military history) myself, I am doubly impressed not just with this wonderful production, but with the fact that it came from someone just starting out.  I look forward to many fine works by Louisa Gilder in the years to come.  Bravo!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACYNPRYH8MHUO"
+                },
+                "Date": "on July 17, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I loved the feeling of really getting to know the physicists. Louisa takes quite a bit of artistic license in putting words in their mouths, but she very effectively brings the amazing characters & genius' of the 'golden age' of physics to life. I would have liked a little more explanation of the nuts & bolts of quantum theory, but that's probably cause I don't understand it as well as I would like... altogether a very rewarding read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JJXEGA5VE23F"
+                },
+                "Date": "on December 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A273IZZ1I5MBCD"
+                },
+                "Date": "on June 15, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The book is fun to read but I did find the author's decision to attempt to 'recreate' conversations between the key players somewhat forced. I think it succeeds when it sticks to history, less when it ventures into historical fiction. Nonetheless  to be commended for bringing to life a pivotal period of debate and discovery in quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D8M3FHWYCQXZ"
+                },
+                "Date": "on June 17, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": "Nice, even impressive try, but the reader get sometimes the impression that personnal details related to the actors' daily lives get in the way of a clearer presentation of the science and its progress."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JDOP7ASUNSER"
+                },
+                "Date": "on August 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "A good first half that fails to lift itself to make any distinctive mark in the second. The scientific issues behind Entanglement are quite inadequately explained. That said, the book does bring up the philosophical issues behind various quantum explanations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20UK8H60DBRKW"
+                },
+                "Date": "on December 9, 2008",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "This is a wonderful book, particularly if, like me, you've been traumatized by successive exposure to other books purporting to explain quantum physics to the layman. The more you read them, it seems, the less you understand. Just cracking open some of these things will drop your IQ five percentage points. Louisa Gilder's book is entirely different: it opens up the world of 20th century physics like never before, making all those iconic figures - from Einstein to Schr\u00f6dinger to Niels Bohr --  into human beings. Written with the grace and beauty of an accomplished novelist, Entanglement gave me hope - first that I might begin to \"get\" this stuff, but more importantly, that the newest discoveries of science might just be brining meaning back into the world. A true joy to read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QQXWKW140SCR"
+                },
+                "Date": "on May 5, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ83XJBVR0KX8"
+                },
+                "Date": "on December 11, 2008",
+                "Helpfulness": 0.6470588235294118,
+                "StarRating": "2",
+                "Text": "Gilder has clearly saturated herself in this material. But she has mixed up fact and fiction. In one instance the has a dialogue between three people only two of whom were actually there. She has, for example, taken interviews of mine and added fictional gloss which distorts the context of these interviews. This is a wonderful subject without Gilder's inventions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJWQB1L6T7BFV"
+                },
+                "Date": "on October 15, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was a great way to put the history and the science together, and provide a most stimulating and encouraging invitation to dive into the wonderful world of Quantum Computing! QBits, here I come!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HKFPL8YOWXXQ"
+                },
+                "Date": "on August 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Very extensive book, it is a biography of every physicist, telling his life and work, and the interaction between them. It is very interesting, but I found it a little too long."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARL7SW85MQ2DS"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Strong but overdone on history, weak on physical explanations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OW0DR6OTTKQT"
+                },
+                "Date": "on May 23, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent presentation of a complex subject: highly recommend"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZSBNXR5FJPQ0"
+                },
+                "Date": "on June 15, 2009",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L1KC5CTPF9UD"
+                },
+                "Date": "on May 26, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FZBKUCHLWR11"
+                },
+                "Date": "on November 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Super well done"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IHXZB3XXCFQL"
+                },
+                "Date": "on January 22, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10TLB4XZRQSLZ"
+                },
+                "Date": "on July 29, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I am glad I got this book from the library and not by buying it, because the first paragraph is wrong!  It says entanglement persists \"as long as they don't subsequently interact with anything else.\"  Though interaction with other things scrambles entanglement so that it may be impossible to detect, it does not wipe it out, it just spreads it out.  This is demonstrated by the EPR effect, mentioned in the second paragraph, where it produces an effect that, from a classical point of view, looks like action at a distance.  (We know that it is not really action at a distance, because the Schrodinger equation and its relativistic generalizations are local.)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38JKONR3APBGK"
+                },
+                "Date": "on January 3, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QXY7IAURQFTE"
+                },
+                "Date": "on July 27, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "While I agree with the comments of most readers who have offered opinions regarding the author's explication of the development of the theory of entanglement, science and the public's understanding would be better served without the imaginings about facial expressions, tone of voice, asides about who was sleeping with whose wife, beach scenes of schroedinger with two blond 14 year olds, editorial comments about einstein's 'insensitivity' to others, and other rather infantile and hackneyed descriptions of the interactions and thoughts of these giants of 20th century quantum theory.  They are unnecessary and quite simply get in the way of the science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BNP25ZMH4FSF"
+                },
+                "Date": "on May 26, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This author,  Louisa Gilder, describes not only the science of quantum mechanics, but the truly human story behind its dicovery.  Definitely recommended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RCWC7EL8L3Y2"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Awesome!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RRXDMIUJZ1U2"
+                },
+                "Date": "on December 23, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "The subject of this book is extremely interesting and the technique of \"reconstructing\" conversations certainly adds a strong dose of personality, but ultimately I think the author does a poor job of putting everything into context. She tries to set up a story of a group of intrepid thinkers crusading against entrenched and fearful defenders of the status quo. There are elements of that, but the primary complaint against much of the work described is more \"So what, we know what the results are going to be\" than \"You'll cause big problems and be heretics\". In the end, the results came out as people expected and she even quotes Bell on why he shouldn't win the Nobel prize (p294) \"..it is a beautiful experiment, very beautifully done, but it's a null experiment and you don't get the Nobel Prize for a null experiment.\" In other words, the results didn't force anyone to change their minds about anything fundamental. It's just about impossible to make a case that this represents \"when quantum physics was reborn\". An even more significant flaw is lack of clarity on what some of the principles were looking for. Einstein's problems with quantum mechanics were primarily two things: 1) the statistical nature of the output (God doesn't play dice) and 2) the non-locality (spooky action at a distance). Bell's work and the eventual experimental results made it clear that you might be able to find some trick to get around one of these things, but you had no hope of getting rid of both at the same time. It is almost certain that Einstein would have been very distressed with this, but I think the book is written in a way that suggests that the results are a vindication of Einstein's concerns.  Overall I would say that the book presents some interesting history (although there are certainly much better histories of pre-1950 physics), but significantly overstates the importance the the book's main themes in 20th century physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LSL1X78UMIWM"
+                },
+                "Date": "on February 7, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I loved this book! Have been reading popular science books on quantum mechanics for decades. This book helps fill those key bits too often missing in so many books on this topic: the \"people story\" behind the science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K225TUAJG7UW"
+                },
+                "Date": "on May 21, 2009",
+                "Helpfulness": 0.5789473684210527,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16ZXD91MDTM4J"
+                },
+                "Date": "on February 8, 2009",
+                "Helpfulness": 0.5294117647058824,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWBH8P35KAPYU"
+                },
+                "Date": "on September 8, 2009",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "A very good book on the history of entanglement and quantum physics in general. I would recommend it to everyone who likes fundamental questions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17W94UUANQ0T9"
+                },
+                "Date": "on March 22, 2010",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "I finally finished Entanglement by Louisa Guilder -- I have to say it was tough reading and I didn't particularly enjoy it.  I'm struggling with my Mother's wisdom, if you don't have anything nice to say, don't say anything.  And the deeper I dig into the concept of \"Spooky Action at a Distance\" the more problems I find with the way \"Entanglement\" was written.  The introduction, where she introduces Entanglement, is the best chapter.  The rest of the story, far too heavily dramaticized and fictionalized for \"Non-Fiction\" while a truly novel approach, left me flat, and in worst cases bewildered. She argues that if you don't believe the dialogue occurred she has the letters as evidence to prove that it did.  Since I don't aim to rewrite the book we will have to trust her research on this...but I remain skeptical.  And clearly she did a tremendous amount of research -- but I suspect that she was writing as she was researching -- so the word sophomoric comes to mind.  I don't think she really ever had the story in her head, nor did she or does she possess an overarching understanding of quantum mechanics.  There were too many opportunities to tie the story of Entanglement back into mainstream Quantum Mechanics and what was going on in the rest of the field, not just this group of outlaws trying to understand the gaping hole in the mainstream thought.  Too long, too difficult to pull the physics out of the verbal history however a very compelling subject -- so it's hard to tear her down for trying to tackle it.  I suspect her editors are to blame.  I predict that the next book Guilder writes will be a home run...Entanglement was just her warm up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LI2WLIWBK1V5"
+                },
+                "Date": "on October 7, 2010",
+                "Helpfulness": 0.4375,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PB6T5R7TIMUT"
+                },
+                "Date": "on December 11, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Husband requested this specific book after reading another physics book recommended it,  but hasn't read it yet.  Hope he likes it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARLMGIGY4MR9Q"
+                },
+                "Date": "on June 26, 2009",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AL3D3MP9AQRE"
+                },
+                "Date": "on March 8, 2009",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "Professor Max Born was supposed to come to India and my grandfather Professor B. Venkateshachar made all the arrangements. It did not work out. However, Professor Born did come to Bangalore and had a small Tea Party in our house in Bangalore."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16RCV4DTYSKT4"
+                },
+                "Date": "on March 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Unless your life revolves around physics then I wouldn't choose this book for enjoyment.  I had to buy it for a class."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Age-Entanglement-Quantum-Physics-Reborn/product-reviews/1400095263/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "64"
+    },
+    "Salesrank": "#319,610",
+    "Timestamp": "2015-05-24 13:50:38.171296",
+    "itemurl": "http://www.amazon.com/Age-Entanglement-Quantum-Physics-Reborn/dp/1400095263"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$64.00",
+    "Name": [
+        "Problems and Solutions for Mcquarrie's Quantum Chemistry"
+    ],
+    "OfferPrice": "$55.48",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UH6S26H3AAL3"
+                },
+                "Date": "on March 11, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "Detailed, answers every question in at the end of each chapter. Very helpful. I did not give it five starts because it there are some questions that leave unanswered questions. But for the most part this is a great study helper."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATG6BIBFE9JN2"
+                },
+                "Date": "on October 10, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25CRAVDVXCQRK"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E2YIT3NIVEJT"
+                },
+                "Date": "on September 24, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is really helpful and really great for studying! I purchased it and have been using it ever since."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1676RH4D09RBK"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "It is a very useful book to beginners learning Quantum Chemistry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWEGKBEKVN0K6"
+                },
+                "Date": "on July 12, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "This book is a wonderful tool to improve the learning of quantum chemistry. There are several interesting discussions and helpful chapters dealing with math concepts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Solutions-Mcquarries-Quantum-Chemistry/product-reviews/1891389521/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#461,133",
+    "Timestamp": "2015-05-24 15:13:22.599937",
+    "itemurl": "http://www.amazon.com/Problems-Solutions-Mcquarries-Quantum-Chemistry/dp/1891389521"
+}

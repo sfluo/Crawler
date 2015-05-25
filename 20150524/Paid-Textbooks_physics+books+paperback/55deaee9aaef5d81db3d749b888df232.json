@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$53.95",
+    "Name": [
+        "Problem Solving for Kirkpatrick/Francis' Physics: A Conceptual World View, 7th"
+    ],
+    "OfferPrice": "$44.93",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N9T88PV3D1SE"
+                },
+                "Date": "on April 3, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "1",
+                "Text": "I did not find this book useful at all.  As with the text book, only the odd numbered problems have answers and much of the step-by-step work is not shown.  VERY disappointing. Don't waste your money."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U6TBV5O55H6U"
+                },
+                "Date": "on March 10, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I bought this book for my son's third year in college. The book was the cheapest price ever! It came in very great shape. I have bought alot of items from Amazon and have been really satisfied."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problem-Solving-Kirkpatrick-Francis-Physics/product-reviews/0495828246/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#657,567",
+    "Timestamp": "2015-05-24 13:36:43.253534",
+    "itemurl": "http://www.amazon.com/Problem-Solving-Kirkpatrick-Francis-Physics/dp/0495828246"
+}

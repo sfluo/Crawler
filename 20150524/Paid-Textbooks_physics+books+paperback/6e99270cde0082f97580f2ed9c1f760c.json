@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$56.00",
+    "Name": [
+        "Atomic physics: An exploration through problems and solutions"
+    ],
+    "OfferPrice": "$48.06",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A346JEGIXJBEVZ"
+                },
+                "Date": "on March 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Lots of valuable nuggets in this book. Particularly useful for grad students and above doing experimental research in atomic physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A95I1LC52QU3X"
+                },
+                "Date": "on June 6, 2011",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANNQEJ6SXS2RY"
+                },
+                "Date": "on March 21, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Any time you want to get a quick introduction to a new subject in atomic physics, this book is the perfect place to start. Especially if you're an experimentalist. Do note that this book is written for those who have finished the basic undergraduate curriculum (quantum, E&M;, etc.). One of the nice things about the text is that each problem and solution is self-contained so that if you want to learn, say, about frequency combs, you can just skip ahead to read and work on the problem on frequency combs.  Great reference!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JDABHFW64SQL"
+                },
+                "Date": "on April 3, 2011",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "1",
+                "Text": "The title says it all.  Its full of hand-waving arguments and formulas pulled from thin air.  One learns nothing by reading this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atomic-physics-exploration-problems-solutions/product-reviews/0199532419/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#692,447",
+    "Timestamp": "2015-05-24 13:32:32.607942",
+    "itemurl": "http://www.amazon.com/Atomic-physics-exploration-problems-solutions/dp/0199532419"
+}

@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Barron's AP Physics C"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIWMJRWEUO1DF"
+                },
+                "Date": "on May 8, 2010",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PFX53QMCUBKT"
+                },
+                "Date": "on May 21, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book had everything I needed and more to score a 5 on both sections of the test. It has wonderful explanations of all the topics and goes well in-depth so that you're not missing any information or practice by the time the AP test rolls around."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38UMAAXHSU2S8"
+                },
+                "Date": "on September 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I'm a senior in high school and I bought this book along with the princeton review one. I use both for extra practice problems and test prep for class tests. Also this is the first year physics c is offered at my school, so if there's something my teacher can't explain, these books can. I didn't notice major errors or typos, but the way the material is described can be a little confusing at times. The practice problems are great prep for the \"weird\" problems on the ap exam. 4 out of 5 because the material is presented as crisply as Princeton review, but the practice tests are useful for both the class and the ap exam."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ11807J41F9J"
+                },
+                "Date": "on May 10, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I believe this book is good for people who know very basic ideas of Physics C topics.  If you know the topics pretty well, but just need a refresher, don't buy this book.  The explanations in this book are more detailed than my textbook (Tipler's Physics for Scientists and Engineers).  For example, I just wanted to review Simple Harmonic Motion and the various equations that go with it. I found myself more confused with the book going into many different equations for k-effective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E0HARDLZ9UMT"
+                },
+                "Date": "on August 24, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KUVS76Z6IXSF"
+                },
+                "Date": "on June 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I really liked it. It was a good review of the things I needed to know, and it accurately reflects the AP test."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IZQVJNFQNRGV"
+                },
+                "Date": "on November 15, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Item arrived earlier than promised. It was in excellent condition & exactly what I needed. Promises kept. Thanks soooooo much."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Barrons-Physics-Robert-Pelcovits-Ph-D/product-reviews/0764137107/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#775,447",
+    "Timestamp": "2015-05-24 12:46:52.501681",
+    "itemurl": "http://www.amazon.com/Barrons-Physics-Robert-Pelcovits-Ph-D/dp/0764137107"
+}

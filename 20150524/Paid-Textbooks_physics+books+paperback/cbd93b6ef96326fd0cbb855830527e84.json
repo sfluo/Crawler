@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Six Core Theories of Modern Physics (Bradford Books)"
+    ],
+    "OfferPrice": "$25.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A198CCH4NNLI2E"
+                },
+                "Date": "on January 23, 2006",
+                "Helpfulness": 0.9,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17XXYVK2F4KL2"
+                },
+                "Date": "on April 21, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "While it's pleasant having an overview of physics in one place I am unhappy with the lack of care in writing the text. For example, the section on functional calculus frequently changes notation during an explanation. Also, much more emphasis should have been placed on the fact that the differentiation of functionals produces functional DENSITY derivatives. However, with some effort, I DID succeed in understanding this section. Needs greater clarity of presentation, perhaps with more diagrams."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NLPEJE02M5RH"
+                },
+                "Date": "on June 10, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANW29XZD8XW5F"
+                },
+                "Date": "on April 21, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 6, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This is a concise and elegant summary of the fundamentals of the six core theories of physics. It even includes a convenient math review. Although the author might have the \"beginning graduate student\" in mind, now at the  end of my Ph.D. training in applied physics at Harvard, I still had a great  time reading it!."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theories-Modern-Physics-Bradford-Books/product-reviews/0262691884/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,376,171",
+    "Timestamp": "2015-05-24 13:40:31.535064",
+    "itemurl": "http://www.amazon.com/Theories-Modern-Physics-Bradford-Books/dp/0262691884"
+}

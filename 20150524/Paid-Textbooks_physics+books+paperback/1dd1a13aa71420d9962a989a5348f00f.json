@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Physics Power Pack (Regents Power Packs)"
+    ],
+    "OfferPrice": "$15.13",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AORFUA0VLWRYN"
+                },
+                "Date": "on January 17, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book explains Physics in a more step by step way as compared to other Physics books.  My daughter finds it really helps in studying for class tests and for the NYS Regents."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS1JR9UZF7ROR"
+                },
+                "Date": "on November 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book helps so much. It has practice tests and examples. Convenient to carry around. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATMNRHR71FT6O"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Cleat"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Power-Pack-Regents-Packs/product-reviews/0764197355/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#223,450",
+    "Timestamp": "2015-05-24 12:27:31.203024",
+    "itemurl": "http://www.amazon.com/Physics-Power-Pack-Regents-Packs/dp/0764197355"
+}

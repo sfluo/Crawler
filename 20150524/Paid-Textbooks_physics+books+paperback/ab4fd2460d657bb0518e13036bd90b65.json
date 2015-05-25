@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Story of Electricity: With 20 Easy-to-Perform Experiments (Dover Children's Science Books)"
+    ],
+    "OfferPrice": "$14.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24LTCE64ZIBWH"
+                },
+                "Date": "on February 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This is a very good book. It had plenty of details and a lot of information. It is definitely worth the price. I recommend this book for all ages."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Story-Electricity-Easy---Perform-Experiments/product-reviews/0486255816/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,297,263",
+    "Timestamp": "2015-05-24 13:33:09.615141",
+    "itemurl": "http://www.amazon.com/Story-Electricity-Easy---Perform-Experiments/dp/0486255816"
+}

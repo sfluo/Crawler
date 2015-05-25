@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Eight Lectures on Theoretical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$10.76",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A82O8VAR4924F"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Planck's insights into physics are illuminating and breathtaking.  His review of statistical thermodynamics makes it appear to be a completely different science that what is taught by the same name today, and he makes it a useful tool."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RXEZ2XX8SOHI"
+                },
+                "Date": "on March 26, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Eight-Lectures-Theoretical-Physics-Dover/product-reviews/0486697304/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#969,007",
+    "Timestamp": "2015-05-24 12:57:24.143093",
+    "itemurl": "http://www.amazon.com/Eight-Lectures-Theoretical-Physics-Dover/dp/0486697304"
+}

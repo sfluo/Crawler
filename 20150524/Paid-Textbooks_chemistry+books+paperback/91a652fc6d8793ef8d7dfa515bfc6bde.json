@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Computer Simulation Methods in Theoretical Physics"
+    ],
+    "OfferPrice": "$71.67",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K9L0SWHHXOAH"
+                },
+                "Date": "on May 17, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Heerman's book is very different from most simulation books: it short. This is achieved by only giving brief explanations of the ideas and methods. It covers most aspects of basic (and not so basic) Molecular  Dynamics and Monte Carlo, and since it's so short you can always read it  all and then choose what you want to do. It makes simulation look really  easy, and includes all the fortran code you need to prove it.  Integration  methods are explained in a particular way that makes them really easy to  use. If you want an overview of the methods and/or are in a hurry read this  book. Otherwise go to Allen's or Rapaport's.  If you are a beginner I  suggest Haile's book, but then come back to this one, you won't regret it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Computer-Simulation-Methods-Theoretical-Physics/product-reviews/3540522107/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,876,914",
+    "Timestamp": "2015-05-24 15:52:01.586823",
+    "itemurl": "http://www.amazon.com/Computer-Simulation-Methods-Theoretical-Physics/dp/3540522107"
+}

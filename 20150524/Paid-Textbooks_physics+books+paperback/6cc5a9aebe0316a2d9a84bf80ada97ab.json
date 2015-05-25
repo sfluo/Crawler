@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$139.00",
+    "Name": [
+        "Clifford Algebra to Geometric Calculus: A Unified Language for Mathematics and Physics (Fundamental Theories of Physics)"
+    ],
+    "OfferPrice": "$111.20",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S481K1D74S5O"
+                },
+                "Date": "on January 6, 2003",
+                "Helpfulness": 0.9878048780487805,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F6TWGHUTEWDT"
+                },
+                "Date": "on January 9, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OPMXCQN4ZMIR"
+                },
+                "Date": "on September 23, 2005",
+                "Helpfulness": 0.5625,
+                "StarRating": "5",
+                "Text": "i have been working a few years in geometric calculus and i believe this book should be in every house of every geometrist and every person that is intersted in geometric concepts with physics applications"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Clifford-Algebra-Geometric-Calculus-Mathematics/product-reviews/9027725616/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#936,907",
+    "Timestamp": "2015-05-24 13:38:04.797069",
+    "itemurl": "http://www.amazon.com/Clifford-Algebra-Geometric-Calculus-Mathematics/dp/9027725616"
+}

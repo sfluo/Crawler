@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Dimensional Analysis: Examples of the Use of Symmetry (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$8.95",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE"
+                },
+                "Date": "on March 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EDJZ9PHHQSPM"
+                },
+                "Date": "on August 3, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "found it very hard to understand - in the end I bought another book, which is much better. (Dimensional Analysis and Intelligent Experimentation.)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dimensional-Analysis-Examples-Symmetry-Physics/product-reviews/0486446050/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#632,449",
+    "Timestamp": "2015-05-24 13:22:29.196263",
+    "itemurl": "http://www.amazon.com/Dimensional-Analysis-Examples-Symmetry-Physics/dp/0486446050"
+}

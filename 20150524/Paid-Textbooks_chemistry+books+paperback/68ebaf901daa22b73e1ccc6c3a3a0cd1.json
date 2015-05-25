@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$170.00",
+    "Name": [
+        "Nuclear Physics for Applications"
+    ],
+    "OfferPrice": "$125.44",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21YQVJ2RP82B5"
+                },
+                "Date": "on September 17, 2009",
+                "Helpfulness": 0.125,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Physics-Applications-Stanley-Prussin/product-reviews/3527407006/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,914,360",
+    "Timestamp": "2015-05-24 15:43:01.264645",
+    "itemurl": "http://www.amazon.com/Nuclear-Physics-Applications-Stanley-Prussin/dp/3527407006"
+}

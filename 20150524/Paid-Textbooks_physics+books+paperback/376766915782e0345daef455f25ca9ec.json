@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "Introduction to Space Physics (Cambridge Atmospheric & Space Science)"
+    ],
+    "OfferPrice": "$86.53",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CU9Z0AOL8KVD"
+                },
+                "Date": "on May 1, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "This is a very comprehensive book. It is excellent if you are beginer who knows basic electricity and magnetism, but have not dealt with space plasmas."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG84GB8KBNRQO"
+                },
+                "Date": "on December 6, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book has everything that anyone could ever want as a reference for anything related to Space physics.  Love the graphics and easy to  understand text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D76KRRSV6ULD"
+                },
+                "Date": "on November 14, 2009",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is an excellant introduction to the field of Space Physics. Unfortunately, it has not been updated since its original publication. It would be nice to have the results of the extensive research that has been done since then incorporated into a new edition of this book. Even so, I have not come across any other books published since then that are nearly as good. When I bought my copy ten years ago, I would certainly have given it 5 stars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LV1KMTR803CU"
+                },
+                "Date": "on March 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Book is very poorly written. Each chapter is by a different author and thus there is a wide range of writing styles. The problems at the end of each chapter are poorly written too. If you want to learn plasma and space physics get a different book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQATU1U92K98U"
+                },
+                "Date": "on December 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Its coverage is quite good but may be dated dut to recent space missions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AENMIO1RABV1E"
+                },
+                "Date": "on October 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As advertised"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11IA036E4SPAP"
+                },
+                "Date": "on July 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I like it.  Its kinda huge and heavy though.... Which might be a lame thin to complain about form a text book. but you know.  whatever."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A138BHV5NZ3Y7O"
+                },
+                "Date": "on February 23, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "When I'm in the mood for a little exploration of stellar structure or maybe some light magnetohydrodynamics, this is the first thing I grab off the shelf.  It's kept me interested and not at all wanting to gouge my eyeballs out for weeks!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Physics-Cambridge-Atmospheric-Science/product-reviews/0521457149/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#920,822",
+    "Timestamp": "2015-05-24 13:37:19.520464",
+    "itemurl": "http://www.amazon.com/Introduction-Physics-Cambridge-Atmospheric-Science/dp/0521457149"
+}

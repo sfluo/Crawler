@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.60",
+    "Name": [
+        "Study Guide for Chemistry: A Molecular Approach"
+    ],
+    "OfferPrice": "$70.73",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7LNIHVH7U681"
+                },
+                "Date": "on September 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C4V2F9K1OM6V"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Study guide helps to clarify the different topics. Helps focus in on the important areas. Would recommend to all chemistry students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KSH3O6LGSO2K"
+                },
+                "Date": "on September 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Study-Guide-Chemistry-Molecular-Approach/product-reviews/0321813626/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#131,266",
+    "Timestamp": "2015-05-24 15:14:12.500294",
+    "itemurl": "http://www.amazon.com/Study-Guide-Chemistry-Molecular-Approach/dp/0321813626"
+}

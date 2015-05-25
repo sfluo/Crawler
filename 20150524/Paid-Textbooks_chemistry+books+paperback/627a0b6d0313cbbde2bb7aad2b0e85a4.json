@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.80",
+    "Name": [
+        "Student Solutions Manual for Physical Chemistry for the Life Sciences"
+    ],
+    "OfferPrice": "$67.31",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EP2U9MHUZR6J"
+                },
+                "Date": "on April 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Soooo if you're planning on buying this book to supplement you on your physical chemistry homework, you should probably be aware that the solutions is written about as well as the book. mainly poor.  The questions on concepts are not contained in this manual (even though the book states that they are when it states \"numbers in red indicate that the solution to the problem is given in the student solutions manual\").  They use derivations of equations without discussing where they came from, they drop negatives, and if you type the numbers they give you directly into your calculator there is a solid chance your answer will be wrong.  This manual follows the book perfectly, mainly worthless."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Physical-Chemistry-Sciences/product-reviews/080538278X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,662,075",
+    "Timestamp": "2015-05-24 15:22:42.875564",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Physical-Chemistry-Sciences/dp/080538278X"
+}

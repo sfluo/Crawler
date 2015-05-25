@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Elements of Chemical Thermodynamics: Second Edition (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$12.95",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FUNBX78X5XY9"
+                },
+                "Date": "on December 16, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on March 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JSA20CVG4OKN"
+                },
+                "Date": "on July 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Written by the legendary teacher L.K. Nash, this is the best introduction to thermodynamics you can buy, and Dover Publications make the book affordable.  The author explains all confusing concepts (like entropy) with such clarity and detail that you will understand them forever.  A large set of problems at the end will test your knowledge.  I attended Prof. Nash's course 50 years ago, and it was fun!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A97BT66QQ3BJF"
+                },
+                "Date": "on February 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's a very good book.  It goes a little more in-depth than the thermodynamics you might learn in a Physical Chemistry class.  It is written quite well and isn't too confusing.  It's good for anyone looking to learn/refresh the basics and begin expanding your horizons on the field a little."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elements-Chemical-Thermodynamics-Second-Chemistry/product-reviews/0486446123/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#523,326",
+    "Timestamp": "2015-05-24 15:13:51.927520",
+    "itemurl": "http://www.amazon.com/Elements-Chemical-Thermodynamics-Second-Chemistry/dp/0486446123"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Computational Chemistry and Molecular Modeling: Principles and Applications"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19B7QZ0XACOEZ"
+                },
+                "Date": "on June 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I ordered this book thinking it was going to be in the nice binding with high quality pages that I am used to.  The MAIN problem I have with springer is you can type in an ISBN number for a text that you have held in your hands and are satisfied with (I checked it out from the university library and knew the quality should have been good based on the ISBN#) but when I got it, the quality of the pages and binding was completely trash.  It's analogous to getting one of those international copies of books that were printed on s***ty recycled paper and crappy binding to sell in third world countries where everyone is broke.  I wish there was a way to tell which version of the book they are selling because it's totally hit or miss with ANY of springers books.  You might luck out and get the quality version or you might be unlucky as I was and get the stupid reprint/international version of the text.  I should have known when I saw that the price had been reduced by about $30.  I doubt I ever buy another book form springer again since this happened more than once.  Not to mention the cover was already pealing off when it got here and is supposedly in \"NEW\" condition...."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Computational-Chemistry-Molecular-Modeling-Applications/product-reviews/3642095984/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,733,129",
+    "Timestamp": "2015-05-24 15:21:07.567380",
+    "itemurl": "http://www.amazon.com/Computational-Chemistry-Molecular-Modeling-Applications/dp/3642095984"
+}

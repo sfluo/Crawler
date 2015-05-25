@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Maple V: Learning Guide"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 4, 1999",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "The book talks about the basic operations that can be performed in Maple. The positive point is the compactness of the expression rather than eloberation with too many examples ... and an index to help. Will be a good  reference too."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Maple-Learning-Guide-Waterloo-Incorporated/product-reviews/038798397X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,481,050",
+    "Timestamp": "2015-05-24 15:52:21.871624",
+    "itemurl": "http://www.amazon.com/Maple-Learning-Guide-Waterloo-Incorporated/dp/038798397X"
+}

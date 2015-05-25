@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Noise and Fluctuations: An Introduction (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$9.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on September 1, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Noise-Fluctuations-Introduction-Dover-Physics/product-reviews/0486450295/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,219,881",
+    "Timestamp": "2015-05-24 12:55:42.299763",
+    "itemurl": "http://www.amazon.com/Noise-Fluctuations-Introduction-Dover-Physics/dp/0486450295"
+}

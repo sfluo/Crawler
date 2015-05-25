@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.95",
+    "Name": [
+        "Physics in Biology and Medicine, Fourth Edition (Complementary Science)"
+    ],
+    "OfferPrice": "$66.83",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ICKRBPWKM0TV"
+                },
+                "Date": "on August 22, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "PHYSICS IN BIOLOGY AND MEDICINE, by Professor Paul Davidovits, is an expository masterpiece of admirable didactic value, which has gained additional attractiveness through the myriad of improvements made in the third edition. Reading PHYSICS IN BIOLOGY AND MEDICINE, Third Edition,I have been  thoroughly impressed by Professor Davidovits scholarly depth and persuasive sincerity. Moreover, his uncanny ability to communicate difficult concepts in surprisingly accessible and yet technically accurate language is certainly rare. The book reviewed here can be profitably employed as a faithful companion to the regular text adopted  by any instructor, for a one-year course of general physics to biology and premed students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35XPLUSQHPIDO"
+                },
+                "Date": "on February 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The Book is  well written, Very clear and presents a great variety of interesting topics on the proposed subject. It provides the reader with a pleasant moment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD8GRXVN3AHTT"
+                },
+                "Date": "on October 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I rented this book but it is in new condition and it I use it all the time for my physics class."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Biology-Medicine-Complementary-Science/product-reviews/0123865131/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#341,112",
+    "Timestamp": "2015-05-24 13:23:12.338048",
+    "itemurl": "http://www.amazon.com/Physics-Biology-Medicine-Complementary-Science/dp/0123865131"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "A Beginner's Guide to Mass Spectral Interpretation"
+    ],
+    "OfferPrice": "$77.27",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q2IW63R7FMAG"
+                },
+                "Date": "on August 26, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "Terrence Lee's book title, \"A beginners guide to Mass Spectral Interpretation\" is quite accurate. It is an excellent source of information for the mass spec novice. It is well written and he also stresses pitfalls students routinely make in analysis. I would recommend this book to any beginner,(undergraduate, graduate or whomever), it makes climbing the learning curve easier. Three thumbs up!."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ICX0DEBOTINR"
+                },
+                "Date": "on January 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Purchased for our analytical lab as it is a good reference book for new employees using MS.  We recommend using and reading it before taking a more formal course"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B3YLUFQRNSIT"
+                },
+                "Date": "on April 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I ordered this book for my boss. He is very impressed with it. Very informative information. Great reading, Over my head."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Beginners-Guide-Mass-Spectral-Interpretation/product-reviews/0471976296/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,599,899",
+    "Timestamp": "2015-05-24 15:42:15.435934",
+    "itemurl": "http://www.amazon.com/Beginners-Guide-Mass-Spectral-Interpretation/dp/0471976296"
+}

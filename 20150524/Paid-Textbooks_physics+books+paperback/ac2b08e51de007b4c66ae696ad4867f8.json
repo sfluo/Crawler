@@ -1,0 +1,693 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$9.95",
+    "Name": [
+        "Introducing Quantum Theory: A Graphic Guide to Science's Most Puzzling Discovery"
+    ],
+    "OfferPrice": "$9.72",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA5PTFN09G3UE"
+                },
+                "Date": "on March 27, 2000",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OEECMCM2T4KQ"
+                },
+                "Date": "on January 26, 2005",
+                "Helpfulness": 0.9493670886075949,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MJMYLRTZ76ZX"
+                },
+                "Date": "on March 10, 2004",
+                "Helpfulness": 0.95,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YIKXWKCVFXWF"
+                },
+                "Date": "on June 17, 2008",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30PU8NF7U1CQ3"
+                },
+                "Date": "on May 10, 2013",
+                "Helpfulness": 0.9,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14DK20X9UUFM6"
+                },
+                "Date": "on February 13, 2004",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "As an engineer, I have a good understanding of classical physics.  However, I never understood the quantum world until this book came my way.  The way the ideas are presented (from a historical and evolutionary perspective) plus the illustrations make this complex topic understandable.  I found a pleasure to read the book several times just to refresh the new concepts.  After reading this book I feel I understand concepts that I could not grasp before.  I have 3 other books about the subject but none of them come close to this one.  Quite a gem of a book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A57L74GHKJ1GE"
+                },
+                "Date": "on June 17, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This was certainly a fun book to read.  The illustation and simple language made the book interesting, if not completely understandable.  HOWEVER, if you're looking for a comprehensive explaination of one of the  most perplexing scientific schools of thought, this is not your book.  It  only whet my whistle before I read \"Alice in Quantumland\" and  \"In Search of Schrodinger's Cat.\""
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FYFIOX4A45NQ"
+                },
+                "Date": "on September 9, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1493ZQTQ2ET"
+                },
+                "Date": "on August 17, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A245OCPA95YWDA"
+                },
+                "Date": "on July 26, 2000",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXY6VP7X1V3GA"
+                },
+                "Date": "on October 30, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PWPNZVMNX3PA"
+                },
+                "Date": "on December 11, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "I can say off the bat that I had trouble with this book. Although I learned about Schrodinger, Bohr, Heisenberg, Einstein, Newton, Plank, Dirac, Born as well as their theories, I found it to be a demanding subject  for anyone. Although the book is an introduction, I would gather the book  presumes you have some previous knowledge of (probably findamental)  algebra, chemistry, thermodynamics and a solid foundation of QED.  Seriously, its a good book and well written, and made hard conecpts a  little bit easier to understand. Math has never been my subject so you may  have better luck with it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33B29RE5W1PI"
+                },
+                "Date": "on October 7, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I1J1K5Y8Q7PY"
+                },
+                "Date": "on August 31, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Let\u2019s be clear. You will not understand quantum theory any better after reading the book than before you read it. It\u2019s not you, it\u2019s quantum theory. Quantum theory is completely counter-intuitive. This is where this book excels. The authors, J.P. McEvoy and Oscar Zarate, are very clear about what is physical reality and what is a mathematical construct. Of course, the mathematical constructs produce testable hypotheses which have proven that quantum theory works. The book provides an overview of the development of the theory and delves a little into the personalities of the people involved. Some of the math gets complicated but that can be easily skipped over. The real fun of the story is in how scientists built on the works of each other. Part of the fun is in all the graphics, several of which explain the experiments. I found the book an innovative way of explaining the subject and recommend it for anyone interested in quantum mechanics or the history of science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21M16HI647EH9"
+                },
+                "Date": "on August 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I love this book.  I'm just starting on my journey to study quantum physics, and this book is helpful, engaging and funny.  It gives a very nice macro picture of what quantum physics is about.  After reading it, I have a renewed sense of wonder about the natural world and how mathematics describes the natural world.  This book also gives background on the history of science and how major discoveries fit together.  I will recommend this book to anyone who wants to know more about quantum physics and is also somewhat intimidated by it (who isn't).  I wish this book had been part of my high school physics curriculum...I would have loved physics had it been taught this way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2S1RMGWBWHKBF"
+                },
+                "Date": "on June 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I really enjoyed this book and I think I learned a lot.  I'm most interested in the philosophical aspects of quantum mechanics, especially wavefunction collapse and the mind-body problem, and I found that this book was not very philosophical.  There were only a couple pages on Schrodinger's cat and a couple pages on the slits & interference experiment.  For those sensitive to this sort of thing, there's a biographical page on Schrodinger which is R-rated.  (Well, maybe PG-13.  Whatever.)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33H7ZVP3PGCXR"
+                },
+                "Date": "on September 10, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "I own and studied quite some books on this topic. Among them the real works with math and all. This one little Introducing book sums it all up. It's fun, it's understandable, and a very good introduction. The concepts are so deep, that the book explains more than you initially assume. It is a good overview to read once again after a deep study in some specialized topic. Even interesting and necessary to have for a physicist therefore, as well as for any interested newcomer. This is definitely a musth-have!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21OBYW0N5ENS7"
+                },
+                "Date": "on September 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P6UTK7GFYG2P"
+                },
+                "Date": "on January 15, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GJT2BVWL01YH"
+                },
+                "Date": "on September 3, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The principal value of this book is to provide to the layman an interesting and understandable historical review of the development of quantum theory.  The important contributors are presented in a combination of photographs and cartoons, which provides the reader with a good \"feel\" for the essence of what has transpired, if not the mathematical and technical details necessary for a more rigorous approach."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q25U6N5JL45G"
+                },
+                "Date": "on September 2, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I had to do quantum physics as part of my science degree and reluctantly participated. Forty years on, I found this book hard to put down, reading it twice in a row to digest the magnificence of the men and their discoveries nearly a century ago now. With clear graphics and wording, this is one of the best little books I have read. I wish I had access to it forty years ago."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APO7ZB89LPWIG"
+                },
+                "Date": "on August 10, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Gave me much more information than I needed or wanted, despite the cartoony look it gave great detail on experiments and the conclusions about quantum theory drawn form them but a lot of the maths went right over my head. I think I'll come back to this when I have a greater understanding of the topic, not the first book you want to pick up on the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 27, 2000",
+                "Helpfulness": 0.6818181818181818,
+                "StarRating": "2",
+                "Text": "I'm afraid I disagree with the other reviewers. The book was not well written. The illustrations were of marginal value -- I guess it's always nice to know what these guys look like. Most troublesome to me, however,  was the manner in which the explanations were utterly substandard. If you  are looking to understand the material -- as opposed to merely becoming  familiar with the names and faces of those whose work you want to  understand -- you're much, much better off the the Gribbon or the David  Albert book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASW77A8J0I068"
+                },
+                "Date": "on June 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KQ06BYIZGG4A"
+                },
+                "Date": "on September 3, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SLA0SXRQV8M0"
+                },
+                "Date": "on October 19, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD0J5KK4WQXNS"
+                },
+                "Date": "on March 20, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0T0PY5IMEFX"
+                },
+                "Date": "on June 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3INN916E4VION"
+                },
+                "Date": "on June 14, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This one is in my top 5 of the Introducing... series.  I'm not exactly a math/physics whiz, so it was nice to read something that gave me what I believe to be a good introduction to Quantum Theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23XZIMJS6CWXQ"
+                },
+                "Date": "on July 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "For  a beginner, I feel like they left out way too many details for me to really understand what's going on. Trying to be too simple I guess."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10P5LYBOSE58I"
+                },
+                "Date": "on March 4, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3422B0T8S12ZR"
+                },
+                "Date": "on June 8, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E667W6PZBZCO"
+                },
+                "Date": "on February 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I\u2019ve read several books that discuss various aspects of quantum physics from different points of view.  They all left me with the feeling of \u201cyes, but\u201d.  I have some formal education in classical physics, and am trying to familiarize myself with the very intriguing subject of quantum mechanics.  I always felt like I was trying to assemble a picture-puzzle with all of the pieces face down.  It shouldn\u2019t be this hard.  After reading this book, the big picture is finally coming into focus.  I now know exactly what it is that I didn\u2019t understand.  I can\u2019t accept some of the assertions made by quantum theories, but at least I now know how and why we\u2019ve gotten to this point.  Historically speaking, it\u2019s about time for another Newton/Einstein to show up and reveal the next surprise behind the curtain."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WRM9KG2ZSLNK"
+                },
+                "Date": "on December 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Im a college student who went through Chemistry II and got a solid A without really understanding anything other than how to plug numbers into equations. I honestly had no idea whatsoever what the equations meant. In fact, I didn't even realize that quantum physics essentially was chemistry until I read this book. The way the author introduces and explains the work undertaken to tease out each of the wonderful laws of quantum theory is fantastic. He truly makes it fun and exciting to unravel the mystery of the tiny particles/waves/strings that make up our universe... I simply couldn't put the book down until I finished! I would absolutely recommend this book to anyone who wants to know more about chemistry and quantum theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SNG0MSZB6EYY"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Clear and informative exposition of the historical development of the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UECP0UGNV5ID"
+                },
+                "Date": "on February 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OZEU5Z6S4ALX"
+                },
+                "Date": "on May 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book could be so much better. The primary problem is one of terminology and concepts. Don\u2019t think for a minute that this book is for beginners, it\u2019s not. You will find yourself constantly looking for explanations of concepts. In this case the internet is your friend and you will be looking up things constantly. I\u2019m not saying this is a bad book, I\u2019m saying be prepared to say \u201cWhat does that mean exactly\u201d many, many times."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GSPLYHQYNYX3"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANIWBW9DG8W3S"
+                },
+                "Date": "on December 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was a really great book!  I loved the detailed illustrations, which really brought out the meaning of the text.  Although it may look like a comic book to some, this book is suitable for physics lovers of all ages, and really for anyone who's curious as to how quantum theory came to be and what it all means.  I highly recommend this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XXIV5LU6VOXG"
+                },
+                "Date": "on November 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TQ4LDJ3F5WRJ"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KALRLCS6OFCG"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The book is interesting, with cute illustrations. The problem is that the reader must have a good grasp of Quantum Theory to begin with. I have taught high-school Physics for many years, and am familiar with some of the theory. Yet I had trouble understanding much of the text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L4J65FFTXDJG"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As a 50 years out of school Physicist I found this book a lot of fun. It crams a lot of facts into a very enjoyable form. I have recommended it to friends who wanted a explanation fo quantum theory and they found it readable. It's a better explanation than I could give."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IMYLSGPZUPCG"
+                },
+                "Date": "on November 2, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Readers should have a little background in physics and some algebra to understand the subject as it is presented in this book.  It is a difficult and abstract subject to begin with, but I think the author does a fine job.  The illustrations are pretty good, too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OUFJ0NWBA9VO"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought this as a Father's Day gift for my brilliant dad, but now I don't want to give him the book because it's too enjoyable for me to flip through. Quantum theory is no easy subject, and this animated book makes it very understandable and enjoyable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22FVIDYKHTOLS"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Possibly even for physicists.  I don't know.  But I found it easy to follow, and just a great, short introduction to quantum theory.  It also gave a lot of context, which I thought was wonderful and made a tough subject a little simpler."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z4TZZF5BS8EH"
+                },
+                "Date": "on August 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A pretty good non-mathematical introduction to quantum theory. The illustrations help the reader to connect the facts and to understand (just the surface) of quantum effects. The historical approach helped the story along. Well done."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3A5HHRB6I9F15"
+                },
+                "Date": "on July 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I finally know the evolution of Quantum physics and am able to understand it more.  This is a step-by-step book explaining the evolution and havoc with physics in defining Quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARRYDJNE01795"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Although a good summary, it is too brief.  For someone without a background in physics, it functions more as a conversation starter that requires someone knowledgeable to fill in the gaps."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z1257IL0D3UY"
+                },
+                "Date": "on July 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An interesting introduction to this strange world of particle physics. I am not a physicist, but I read extensively. There was nothing new here, but the presentation was very useful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HK6RBJS83FKX"
+                },
+                "Date": "on June 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A great book to get a good understanding of Quantum mechanics easily. Even the difficult concepts have been explained simply with  the aid of cartoon-like pictures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2756XZGZ9MU2V"
+                },
+                "Date": "on August 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "a lot of fun. a really good introduction with graphics to make it fun. Enough information, and enough fun that I keep re-reading it trying to understand more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KONTG7DCI2CP"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NG2W8FAAITD4"
+                },
+                "Date": "on June 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An interesting quick read for younger readers to get them interested in the subject and wanting to learn more. I liked it so much I read it twice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YCFA3T6QXNMJ"
+                },
+                "Date": "on March 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The product was precisely what was expected - nothing particularly good, or bad, or out of the ordinary. I really enjoy the content, thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UA10XIYIGJFN"
+                },
+                "Date": "on October 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book explains the quantum theory in a relatively simple way. It's a good beginning for a science-minded child (or curious adult)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21HZ80VFGKTBX"
+                },
+                "Date": "on August 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "The captions in the drawings/cartoons are too small to read on a Kindle.  Makes it very difficult to assimilate the information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C47OV96YX0CK"
+                },
+                "Date": "on March 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Quantum Theory is pretty puzzling, even with this book, which I haven't finished yet, but this book CAN explain things."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V6TD0YWIWFU2"
+                },
+                "Date": "on January 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My son asked for this book for Christmas and amazon made it easy to find and purchase.  He was absolutely thrilled."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P6AYXIXSDBIP"
+                },
+                "Date": "on June 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Perfect condition, I once owned this book, then gave it away by accident. I'm so glad to have it again, thank you!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YJCXISHF76GF"
+                },
+                "Date": "on November 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very well done. It makes a story out of this amazing discovery that was hard to put down until I got to the end."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AC398RFTOHLMX"
+                },
+                "Date": "on March 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "book as described, mailed on time , and would proably order again. The book was suggested reading by a friend"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JT830Z2WB099"
+                },
+                "Date": "on March 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Wonderful way to explain Quantum theory to lay people, it's actually understandable to Math lacking people."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B8IAIGEHPW28"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Should not be ordered in Kindle edition-you can't see the illustrations- which, I learned, were crucial."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CYKGW3TPZV3M"
+                },
+                "Date": "on August 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "FOR ME, I FOUND IT HARD TO READ AND IT DID NOT SIMPLIFY IT AS MUCH AS I WAS HOPING IT WOULD."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWQ6BRAWNDI37"
+                },
+                "Date": "on January 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Loved it. Got it on time and the book is in perfect shape. i cant wait to start class !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWK9L39H12JR6"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Having gained an engineering education, this book provided me with a deeper understanding of what I learned at colledge."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YCZZBPV5HCO7"
+                },
+                "Date": "on July 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A really womderfull book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG3XVRR3P49K5"
+                },
+                "Date": "on June 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear and enlightened"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1824WHNE8I188"
+                },
+                "Date": "on September 25, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BQMV9YN9G6NX"
+                },
+                "Date": "on July 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "excellent"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P1YNGNQZG60"
+                },
+                "Date": "on April 8, 1999",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "This is a fun way to learn the historical development of quantum mechanic"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BGSUGNHNRJZF"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "A very simple guide - Too comic book reading"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A48C8M5OM9ETJ"
+                },
+                "Date": "on November 22, 2014",
+                "Helpfulness": 0.18181818181818182,
+                "StarRating": "2",
+                "Text": "Good at teaching Quantum Theory. My big question is Where is the money? I thought this book would provide some (inside) information in making a lot of money to escape a dead end job. It did not. That is why I am giving it a two star review."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introducing-Quantum-Theory-Sciences-Discovery/product-reviews/1840468505/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "75"
+    },
+    "Salesrank": "#41,047",
+    "Timestamp": "2015-05-24 13:15:32.320571",
+    "itemurl": "http://www.amazon.com/Introducing-Quantum-Theory-Sciences-Discovery/dp/1840468505"
+}

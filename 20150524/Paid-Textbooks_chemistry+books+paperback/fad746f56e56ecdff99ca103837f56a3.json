@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Inside NAND Flash Memories"
+    ],
+    "OfferPrice": "$229.00",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CYN3NDPP6MLU"
+                },
+                "Date": "on October 7, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book is somewhat useful, but is confusing and just plain wrong in places, including diagrams showing bit assignments for MLC.  There aren't really any alternatives, however."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Inside-NAND-Flash-Memories-Micheloni/product-reviews/9400798342/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,544,346",
+    "Timestamp": "2015-05-24 15:56:17.427995",
+    "itemurl": "http://www.amazon.com/Inside-NAND-Flash-Memories-Micheloni/dp/9400798342"
+}

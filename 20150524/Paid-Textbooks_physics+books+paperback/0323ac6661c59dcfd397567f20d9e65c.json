@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "The Physics of Quantum Mechanics"
+    ],
+    "OfferPrice": "$47.45",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LI1Z6QHZ3EG4"
+                },
+                "Date": "on February 10, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Quantum-Mechanics-James-Binney/product-reviews/0199688575/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#397,636",
+    "Timestamp": "2015-05-24 13:01:28.372497",
+    "itemurl": "http://www.amazon.com/Physics-Quantum-Mechanics-James-Binney/dp/0199688575"
+}

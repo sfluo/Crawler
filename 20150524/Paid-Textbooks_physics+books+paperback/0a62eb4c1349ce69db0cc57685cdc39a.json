@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$36.95",
+    "Name": [
+        "Fluid Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$23.92",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AUOLUITGX41O"
+                },
+                "Date": "on January 29, 2006",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 1, 1998",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": "This book has been used by several universities and adopted as the course text for several years by the US Naval Academy. It is written to strengthen student's background in applied math, and has many clever example problems. The degree of difficulty is slightly greater than most other texts on the subject but it is justified in that the aim is to improve student's math prowess."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26RTX2SGI1IMF"
+                },
+                "Date": "on March 22, 2000",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "5",
+                "Text": "Clear yet rigorous approach to a complex topic. This book provides a strong foundation for the equations of fluid motion that is quite approachable. It organizes well Navier Stokes to other equations such as  Euler's and Bernoulli's. A useful text for undergraduate engineering  students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on December 27, 2012",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQOJWL780F4O6"
+                },
+                "Date": "on August 15, 2009",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA3TSTILQFNVF"
+                },
+                "Date": "on February 10, 2011",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A377U09ES64SZC"
+                },
+                "Date": "on June 13, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UPBTA1CSU0DA"
+                },
+                "Date": "on November 1, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "An excellent introduction to Fluid  Mechanics clearly written and well illustrated. The book balances theory and practice elegantly. It should be the first reference for anyone interested in this subject. Very didactic. I would really like to see a new edition of this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ENAFM70OZAVR"
+                },
+                "Date": "on April 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Provided reliable and accurate information that assisted with design. Understanding of basic theories and facts were presented with good clarity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32L2KUDTHMK1D"
+                },
+                "Date": "on October 19, 2011",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "I was astonished when I received the book. It's totally a new book. Sure I'm content with this book before I decided to buy it. Five star!!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fluid-Mechanics-Dover-Books-Physics/product-reviews/0486683567/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#322,483",
+    "Timestamp": "2015-05-24 12:32:21.876026",
+    "itemurl": "http://www.amazon.com/Fluid-Mechanics-Dover-Books-Physics/dp/0486683567"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$50.00",
+    "Name": [
+        "IB Physics Course Book: Oxford IB Diploma Program"
+    ],
+    "OfferPrice": "$47.50",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARZRXYJBDILN1"
+                },
+                "Date": "on November 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is good book for a general high school physics curriculum. I bought it AP Physics 1 for that it is too elementary. One should look for another book for that purpose. However, the book is beautiful, nice illustrations and good instruction, all can be found in it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/IB-Physics-Course-Book-Diploma/product-reviews/0198390041/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,469,941",
+    "Timestamp": "2015-05-24 13:29:39.376114",
+    "itemurl": "http://www.amazon.com/IB-Physics-Course-Book-Diploma/dp/0198390041"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Applications of Group Theory in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.63",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29FGQO6O2LR7Q"
+                },
+                "Date": "on April 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applications-Theory-Quantum-Mechanics-Physics/product-reviews/048647223X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,489,609",
+    "Timestamp": "2015-05-24 12:49:23.966052",
+    "itemurl": "http://www.amazon.com/Applications-Theory-Quantum-Mechanics-Physics/dp/048647223X"
+}

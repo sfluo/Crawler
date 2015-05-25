@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Experimental Techniques In Condensed Matter Physics At Low Temperatures (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$65.00",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 24, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "With contributions by faculty, graduate students, and postdocs at Cornell, this book is a collection of very practical recipes written in a language easily accessible to a senior undergraduate or a beginning graduate student. If you are planning a novel experiment, building a new setup, or troubleshooting or adapting an existing piece of equipment, this book is an invaluable tool. It covers most of the little details which nobody mentions in respectable PRL articles but without the understanding of which nothing will work and your boss will not be happy. The book also has most of the important material property tables which you'd be scrambling to collect from all over. This book should be a reference to any low-temperature experimentalist, ahead of all other texts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OZN6JIVLLE0M"
+                },
+                "Date": "on November 20, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "helpful in so many ways for an experimentalist in low temperature physics. Contributions by students at Cornell University that outlines in some detail the many tricks of the trade."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D22T0RVTFRL8"
+                },
+                "Date": "on November 16, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": "This book is horrible, atrocious and very unorganized. Useless in todays cryogenics methods...The book is not uptodate anymore and it is basically a bad collection of different books and information that was hastily put together. Stay away if you try to do an experiment with high accuracy and reliability."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Experimental-Techniques-Condensed-Temperatures-Advanced/product-reviews/0201360780/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,646,495",
+    "Timestamp": "2015-05-24 13:29:52.499146",
+    "itemurl": "http://www.amazon.com/Experimental-Techniques-Condensed-Temperatures-Advanced/dp/0201360780"
+}

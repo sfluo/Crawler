@@ -1,0 +1,198 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$63.95",
+    "Name": [
+        "Crystallography Made Crystal Clear, Third Edition: A Guide for Users of Macromolecular Models (Complementary Science)"
+    ],
+    "OfferPrice": "$57.74",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 26, 2000",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OEV295Y4XJFD"
+                },
+                "Date": "on July 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Buy \"Biomolecular Crystallography\" instead. This book tries to condense too much information on too few pages. I didn't understand everything in \"Biomolecular Crystallography\", but the sections that I did understand, are very well written. It's more expensive, but it's a better book, for those that really want to understand crystallography beyond various tutorials on the internet and \"Crystallography Made Crystal Clear\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on June 14, 2004",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": "This is the best introduction to crystallography I have ever come across. Which is quite an achievement because it's a rather complicated subject to study. In crystallography it's very common to find books which deal with either a totally descriptive approach or a totally mathematical approach. Rhodes' book bridges the gap between the two and gives the reader the right dose of jargon and explanation. He illustrates every point with plenty of figures as well as real life computer models of proteins. Before I came across this book, I was struggling and failing to understand Isomorphous Replacement, MAD, Solvent Flattening, Maps and Models, as well as the iterative refining of models. I think no other book comes even close to this book in explaining all these concepts in a simple format. This, I think is as clear as it can get without becoming oversimplified. A must have for all researchers and students whose work is connected to crystallography in any way; this would include crystallographers themselves, biochemists and molecular biologists and computational chemists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21LPICTWFKBMC"
+                },
+                "Date": "on February 16, 2009",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3445YHK2QUE3A"
+                },
+                "Date": "on June 4, 2003",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FGSKBDB48J9T"
+                },
+                "Date": "on January 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1INIELREQ8EO1"
+                },
+                "Date": "on January 4, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "My lab is a crystallography lab.  We call this \"The Book\" and hand it off to clueless new students who're starting to wonder just what exactly they've gotten themselves into and are deathly afraid of getting slaughtered by crystallography questions in their orals.  The approach is very qualitative, which might be irritating to some, but bear in mind that many crystallographers are coming in from  biology backgrounds and we just haven't had the mathematical training to grasp the quantitative approach and it's really, really rough to throw the structure factor equation in the face of a first-year grad student with a B.S. in biology (like I was when I began) and expect them to get it.  The Book is a way to break it to us gently.  If you want to understand what crystallography is and what crystallographers do, this is the book to read.  If you want to be an actual crystallographer, this is a good place to start.  Not everything a crystallographer needs is here but it's a good lead in to the math and physics and general voodoo involved in macromolecular crystallography."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APILKW23IIT7A"
+                },
+                "Date": "on June 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this book will be of great use to me as a beginner in crystallography and help me with my studies."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B4FVXFM4J5PY"
+                },
+                "Date": "on December 7, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Topics are well described and also are well organized. Textbook have good illustrations.  Studying at Biochem/Biophysics grad school and this textbook was a good introduction to crystallography."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SIF4V86Y1CZP"
+                },
+                "Date": "on April 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear and concise. Fourier transforms are kept simple, and you get babied into XRay diffraction. Would recommend this book to anyone interested in X-ray crystallography."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANZXHTAB190Y4"
+                },
+                "Date": "on April 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm a biochemistry graduate student working on protein crystallography, this is a very good book to beginners, my advisor suggest me to read it and it's very good!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FV846XABJXLI"
+                },
+                "Date": "on October 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3U1B55CST9F6F"
+                },
+                "Date": "on December 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book for those getting their feet wet starting crystallography.  A good mix of basic theory and practical stuff.  Highly recommend this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 13, 1999",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "A readable overview, superb for getting a feel for how crystallography works and what the results mean. There is also an excellent section on judging the quality of an atomic coordinate file, such as a PDB file you  may download. Prof. Rhodes is now completing a second edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZYPYZIKRBHHU"
+                },
+                "Date": "on October 31, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book is great for people who are just starting biological macromolecular crystallography. It is detailed enough to familiarize the reader with the nomenclature, yet simple enough so that beginners can grasp the process well. I recommend it to advanced undergraduates and graduate students who are interested in protein X-ray crystallography."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 23, 1998",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "The perfect bridge between simple introductions and more complete books,  both difficult to understand for the non-crystallographer. Very clear  explanations -crystal clear- and real examples from real papers. Just what  I wanted to know. No more no less."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3201FBPBGL2C4"
+                },
+                "Date": "on February 16, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "some pages are printed with purple or yellow font. Very hard to read because of that. They should recall them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TUICC6SMFE3P"
+                },
+                "Date": "on January 30, 2005",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16X7GKCK83WUE"
+                },
+                "Date": "on December 7, 2006",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A81GUZKB5BGEK"
+                },
+                "Date": "on January 17, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The delivery was prompt and in the item was in an excellent condition"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystallography-Made-Crystal-Clear-Third/product-reviews/0125870736/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "20"
+    },
+    "Salesrank": "#553,576",
+    "Timestamp": "2015-05-24 15:31:25.685440",
+    "itemurl": "http://www.amazon.com/Crystallography-Made-Crystal-Clear-Third/dp/0125870736"
+}

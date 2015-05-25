@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Lectures on Fluid Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 17, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Too bad this is out of print - it is perhaps the most readable introduction there is to fluid mechanics (& its limitations).Starting from the simplest cases & from the physical descriptions, Shinbrot  derives the mathematical models & describes what is known (or was known  20 years ago) about solving these models.After exhausting the classical  approach, he gives a pellucid description of the modern function theoretic  approach to solving PDEs. Along with anything by Alexander Chorin, this  book is highly recommended as a first step to learning fluid mechanics  & as a guide to the frontiers of the field."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lectures-Fluid-Mechanics-Dover-Physics/product-reviews/0486488179/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,973,206",
+    "Timestamp": "2015-05-24 13:26:57.238280",
+    "itemurl": "http://www.amazon.com/Lectures-Fluid-Mechanics-Dover-Physics/dp/0486488179"
+}

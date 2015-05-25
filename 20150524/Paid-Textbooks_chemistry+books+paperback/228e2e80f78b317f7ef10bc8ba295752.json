@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Basics of Chemistry (Basics of the Hard Sciences)"
+    ],
+    "OfferPrice": "$0.01",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JVLQNZHA34H2"
+                },
+                "Date": "on November 15, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basics-Chemistry-Hard-Sciences/product-reviews/0313316643/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,130,110",
+    "Timestamp": "2015-05-24 15:37:41.958962",
+    "itemurl": "http://www.amazon.com/Basics-Chemistry-Hard-Sciences/dp/0313316643"
+}

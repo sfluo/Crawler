@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$44.95",
+    "Name": [
+        "Apollo 12 - On the Ocean of Storms (Springer Praxis Books / Space Exploration)"
+    ],
+    "OfferPrice": "$33.71",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WWX7Y6FB8GF1"
+                },
+                "Date": "on April 14, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUMZR5MR9I8GE"
+                },
+                "Date": "on March 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G212NKN5DG25"
+                },
+                "Date": "on March 31, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "What a great book on Apollo 12, the mission that had so many interesting stories to tell:  From a lightening strike at liftoff, to a dusty, pin-point landing, to an encounter with the unmanned Surveyor spacecraft launched years earlier. David Harland has a gift for telling the story of this exciting flight, using material from many sources and perspectives all flowing together into one seemless tale. Also, many of the pictures from the Moon are in color; something I rarely see in boooks about Apollo.  The pictures as well as the excellent drawings created by the author are worth the price of admission alone.  I own a huge library of space related books from official NASA histories to the Apogee NASA Mission Reports and Praxis books.  This is certainly one of the best ones I have had the pleasure of reading.  I learned so much I never knew.  I can't wait for the next book in the series!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IKQLJU08SAIS"
+                },
+                "Date": "on October 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very well written account of Apollo 12. This book tells the stories within the story. It gives the details that are often times omitted in these historical events. Maybe a little technical at times, but that's what makes this book interesting. It had to take a lot of research and interviews to get it right and this Author nailed it. The photographs were great. Looking forward to another Apollo mission by the Author."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23R3EOZ837242"
+                },
+                "Date": "on June 28, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Apollo-12-Storms-Springer-Exploration/product-reviews/144197606X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#985,340",
+    "Timestamp": "2015-05-24 13:19:34.907089",
+    "itemurl": "http://www.amazon.com/Apollo-12-Storms-Springer-Exploration/dp/144197606X"
+}

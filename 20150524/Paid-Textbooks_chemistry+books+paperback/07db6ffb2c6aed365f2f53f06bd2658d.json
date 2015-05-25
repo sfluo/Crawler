@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Biomolecular NMR Spectroscopy"
+    ],
+    "OfferPrice": "$140.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IO6UK7QLFUQO"
+                },
+                "Date": "on January 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "My need for learning about the use of NMR in determining structure in biomolecules was the main driver for me choosing this work. It turned out to be a good desk reference and a fine introduction. There is a good link between recent primary literature and this illuminating text which clarified a number of the basics which clearly improved my understanding of the primary literature and therefore this was a very useful text book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTBHG6070SL4"
+                },
+                "Date": "on November 11, 2003",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Biomolecular-NMR-Spectroscopy-Jeremy-Evans/product-reviews/0198547668/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,597,803",
+    "Timestamp": "2015-05-24 15:46:51.556356",
+    "itemurl": "http://www.amazon.com/Biomolecular-NMR-Spectroscopy-Jeremy-Evans/dp/0198547668"
+}

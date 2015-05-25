@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.20",
+    "Name": [
+        "Student Study Guide & Selected Solutions Manual for Physics: Principles with Applications Volume 2"
+    ],
+    "OfferPrice": "$44.99",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A171M8GZJJ5C3R"
+                },
+                "Date": "on October 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great adjunct to the textbook.  Step by step explanations are very clear and easy to follow."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Selected-Solutions-Manual-Physics/product-reviews/0321768086/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#639,696",
+    "Timestamp": "2015-05-24 13:40:43.608618",
+    "itemurl": "http://www.amazon.com/Student-Selected-Solutions-Manual-Physics/dp/0321768086"
+}

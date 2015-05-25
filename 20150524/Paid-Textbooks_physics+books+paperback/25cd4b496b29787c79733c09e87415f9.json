@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Six Ideas That Shaped Physics: Unit E - Electromagnetic Fields"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A219WFI4NFP6D8"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "It was a text book I was required to have, so it did what it needed to do I guess."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ideas-That-Shaped-Physics-Electromagnetic/product-reviews/007239711X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#489,824",
+    "Timestamp": "2015-05-24 13:11:12.385381",
+    "itemurl": "http://www.amazon.com/Ideas-That-Shaped-Physics-Electromagnetic/dp/007239711X"
+}

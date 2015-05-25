@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Cohesion: A Scientific History of Intermolecular Forces"
+    ],
+    "OfferPrice": "$104.99",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK5AZMXS1QA3"
+                },
+                "Date": "on August 5, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book provides the history of scientific thought into why things stick together.  The book begins with a review of ancient Greek science, and the concept of atoms - objects too small to be divided.  The text then picks up in the Enlightenment when scientists like Newton are pondering the question of how the physical world came about, and using experiments to guide their ideas.  The major scientific discoveries and discoverers in the field of cohesion are detailed, including both theorists and experimentalists.  These cover the fields of quantum mechanics, electrostatics, chemistry, and surface science.  Basic principles are laid out such that any college student in science or engineering can understand the text.  Overall, an insightful book, though not the most entertaining book to read."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Cohesion-Scientific-History-Intermolecular-Forces/product-reviews/0521673550/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,776,756",
+    "Timestamp": "2015-05-24 15:56:07.120821",
+    "itemurl": "http://www.amazon.com/Cohesion-Scientific-History-Intermolecular-Forces/dp/0521673550"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$100.00",
+    "Name": [
+        "The Physics and Chemistry of Solids"
+    ],
+    "OfferPrice": "$93.11",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on January 23, 2004",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Chemistry-Solids-Stephen-Elliott/product-reviews/0471981958/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#260,924",
+    "Timestamp": "2015-05-24 15:22:40.360731",
+    "itemurl": "http://www.amazon.com/Physics-Chemistry-Solids-Stephen-Elliott/dp/0471981958"
+}

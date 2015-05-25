@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Stochastic Processes in Physics and Chemistry, Volume 1, Second Edition (North-Holland Personal Library)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20XMDG7DHO2IU"
+                },
+                "Date": "on April 2, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Van Kampen's book is a must-have for anyone interested in stochastic processes. The presentation is masterful and there are numerous thought-provoking examples and exercises. The author's remarks on \"abuse\" of methods (such as the Langevin technique) are well  worth understanding, even if one does not agree with him in all cases. The  price is a bit steep which is unfortunate since this book is really ideal  for advanced undergraduates and graduate students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A387F8SSWPADK7"
+                },
+                "Date": "on August 30, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20XMDG7DHO2IU"
+                },
+                "Date": "on April 2, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Van Kampen's book is a must-have for anyone interested in stochastic processes. The presentation is masterful and there are numerous thought-provoking examples and exercises. The author's remarks on \"abuse\" of methods (such as the Langevin technique) are well  worth understanding, even if one does not agree with him in all cases. The  price is a bit steep which is unfortunate since this book is really ideal  for advanced undergraduates and graduate students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22PIB1I3F6QM9"
+                },
+                "Date": "on December 23, 2007",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is terrific, with a narrative that is well integrated with the math.  As noted by previous reviewers, van Kampen does a particularly good job of spelling out the necessary conditions for using Langevin techniques.  My only complaint: some of the derivations are fast-and-loose, with typos that lead to confusion."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Stochastic-Processes-Chemistry-North-Holland-Personal/product-reviews/0444893490/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#4,589,746",
+    "Timestamp": "2015-05-24 15:34:14.445679",
+    "itemurl": "http://www.amazon.com/Stochastic-Processes-Chemistry-North-Holland-Personal/dp/0444893490"
+}

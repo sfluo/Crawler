@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Stellar Evolution, Nuclear Astrophysics, and Nucleogenesis (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.41",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UMJ97FI7L481"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Stellar-Evolution-Nuclear-Astrophysics-Nucleogenesis/product-reviews/0486498557/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,424,889",
+    "Timestamp": "2015-05-24 13:35:19.342039",
+    "itemurl": "http://www.amazon.com/Stellar-Evolution-Nuclear-Astrophysics-Nucleogenesis/dp/0486498557"
+}

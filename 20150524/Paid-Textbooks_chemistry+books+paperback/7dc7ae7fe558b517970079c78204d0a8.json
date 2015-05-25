@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$114.99",
+    "Name": [
+        "Colloidal Dispersions (Cambridge Monographs on Mechanics)"
+    ],
+    "OfferPrice": "$91.09",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on April 21, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8CTQO4TFZNC5"
+                },
+                "Date": "on February 16, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARG29G78E7YTR"
+                },
+                "Date": "on January 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this is one of those books that must be sitting on your bookshelf if you are a colloids person. good reference"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13MTM5EH6TOAD"
+                },
+                "Date": "on December 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you are intersted in colloidal forces this is a great text. it does not have a huge breadth of information but it does a very good job of covering what makes colloids stable. it covers DLVO theory solutions in several geometries, taking PB theory pretty much as far as it can go. Well, you can go further, but its pretty good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T8Y0GJAECSK3"
+                },
+                "Date": "on October 9, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is famous among people studying colloids. Although it's kind of old, it still quite useful. The bright new book I bought is in very good condition, and also it's light to take."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Colloidal-Dispersions-Cambridge-Monographs-Mechanics/product-reviews/0521426006/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#762,072",
+    "Timestamp": "2015-05-24 15:27:00.286021",
+    "itemurl": "http://www.amazon.com/Colloidal-Dispersions-Cambridge-Monographs-Mechanics/dp/0521426006"
+}

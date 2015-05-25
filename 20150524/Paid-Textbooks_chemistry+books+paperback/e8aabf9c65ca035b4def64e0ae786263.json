@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$133.00",
+    "Name": [
+        "Color Science: Concepts and Methods, Quantitative Data and Formulae"
+    ],
+    "OfferPrice": "$107.06",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39SSQDJVOQRE2"
+                },
+                "Date": "on October 10, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR"
+                },
+                "Date": "on July 11, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This 'bible' in the world of Color needs up-dating - - but it is the foundation stone. If you are seriously in the color business, you will need this book on your bookshelf from time to time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QI5XJRB98DKI"
+                },
+                "Date": "on April 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I spent ten years as a professional color scientist in feature film post production in Hollywood, completing hundreds of theatrically released films. This book was an indispensable reference, particularly useful during the industry migration from primarily film to primarily digital acquisition methods. As the other reviewers have alluded, it is math heavy. It is also exhaustive and complete. If you really want to understand the empirical science behind the illusion of color, this is the book for you. If you are looking for a lightweight overview of color concepts, this is not the book that you want."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16Y4SIAJDNAKJ"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book uses a horrible mathematical notation and manages to make simple concepts seem complicated.  The diagrams are all in black and white, which is ironic for a book about color.  On pages 122-123 the authors apparently assume the reader doesn't understand integral calculus; elsewhere integration is used without apology.  The use of an anomaloscope is described, but the instrument itself is not.  If there is a description of subtractive color mixing (the basis for color printing), I can't find it.  The subject index is hopelessly inadequate.  These are only a few of the book's many flaws."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUESN6I4Q57U8"
+                },
+                "Date": "on June 4, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31FEG3ES49XJ8"
+                },
+                "Date": "on April 1, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This is probably not a good \"first book\" in color science. However, if you do have knowledge of the field (or are taking a class in it) then it can be a very good reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O38G711N88WQ"
+                },
+                "Date": "on August 13, 2005",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The book is very complet, but a little difficult. It's the bible of colorimetry!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D0PJETDV3F7M"
+                },
+                "Date": "on April 3, 2000",
+                "Helpfulness": 0.35714285714285715,
+                "StarRating": "3",
+                "Text": "This book has a ton of useful information from lighing science to technical color computations.  The book (bible) has allot of data charts that can be used for sample or comparision calculations.  If you are involved in Optics, Lighting, Illumination, industrial, automotive or  aerospace.  Then you got to get his book!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Color-Science-Concepts-Quantitative-Formulae/product-reviews/0471399183/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#969,623",
+    "Timestamp": "2015-05-24 15:35:29.611126",
+    "itemurl": "http://www.amazon.com/Color-Science-Concepts-Quantitative-Formulae/dp/0471399183"
+}

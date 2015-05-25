@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.00",
+    "Name": [
+        "Back-of-the-Envelope Physics (Johns Hopkins Paperback)"
+    ],
+    "OfferPrice": "$24.70",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S3C5OFU508P3"
+                },
+                "Date": "on July 16, 2003",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 1, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is a breath of fresh air. Contrary to some books where abstract theories are discussed at length but whose connection with reality remains elusive, this book contains calculations on phenomena in the real and currently observable world. Approximations, i.e., back-of-the-envelope calculations, are performed for a great variety of physics topics that makes for truly fascinating reading. The math is mostly high school level with a small amount of calculus. The text is clear and engaging and complements the calculations very well. The reason that I am giving it four stars instead of five is that there are several typos in the calculations and the units are not always carried through, i.e., numbers are often presented dimensionless when they are not. Otherwise, a fascinating read that I heartily recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 1, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is a breath of fresh air. Contrary to some books where abstract theories are discussed at length but whose connection with reality remains elusive, this book contains calculations on phenomena in the real and currently observable world. Approximations, i.e., back-of-the-envelope calculations, are performed for a great variety of physics topics that makes for truly fascinating reading. The math is mostly high school level with a small dash of calculus in a few cases. The text is clear and engaging and complements the calculations very well. The reason that I am giving it four stars instead of five is that there are several typos in the calculations and the units are not always carried through, i.e., numbers are often presented dimensionless when they are not. Otherwise, a fascinating read that I heartily recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W6VA7TMRHHKY"
+                },
+                "Date": "on May 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11INJFPLR8J51"
+                },
+                "Date": "on April 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "The content is good enough, but most of the pictures of equations are so small you can't see them.  You can enlarge the picture of the equation, but its so blurred (low quality picture) you can't read it.  I am returning this kindle version of the book. Maybe in  the paperback version the equations are readable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FK88L9ZX26OW"
+                },
+                "Date": "on September 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book contains a clever collection of introductory-level examples of physical phenomena taken from everyday life. It is a useful tool for a Physics instructor in search for short, appealing examples to make his/her students appreciate how powerful the laws of Physics are. I certainly did not regret buying it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMIXHRW9V1F1D"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Any physicist (maybe any scientist) should read through at least some of the examples discussed in this book... the problems are fun and interesting and the way the author shows how to estimate a back of the envelope solution is very entertaining. It is indeed a very nice book to have for a scientist."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Back---Envelope-Physics-Hopkins-Paperback/product-reviews/0801872634/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#887,956",
+    "Timestamp": "2015-05-24 13:33:58.504894",
+    "itemurl": "http://www.amazon.com/Back---Envelope-Physics-Hopkins-Paperback/dp/0801872634"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$172.95",
+    "Name": [
+        "Prism and Lens Making, Second Edition: A Textbook for Optical Glassworkers (Series in Optics and Optoelectronics)"
+    ],
+    "OfferPrice": "$138.89",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATWTIX696SMKX"
+                },
+                "Date": "on August 16, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GSH7K70QCS3I"
+                },
+                "Date": "on July 14, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Professional opticians probably already know about this classic work by Twyman (of Twyman-Green interferometer fame), and those who don't certainly ought to pick up a copy. However, the book holds particular interest for the 'amateur telescope maker', who still works glass with simple equipment, and can benefit from knowing about traditional optical workshop techniques."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SI809JUKQV0R"
+                },
+                "Date": "on June 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was written by Frank Twyman, the author of the Twyman effect, the designer of the Twyman penetrometer, used to test pitch viscosity and many other very useful ideas for professional opticians. The book is thorough, easy to read, well illustrated and even today, worth owning."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Prism-Lens-Making-Second-Optoelectronics/product-reviews/0852741502/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,494,251",
+    "Timestamp": "2015-05-24 15:29:02.696170",
+    "itemurl": "http://www.amazon.com/Prism-Lens-Making-Second-Optoelectronics/dp/0852741502"
+}

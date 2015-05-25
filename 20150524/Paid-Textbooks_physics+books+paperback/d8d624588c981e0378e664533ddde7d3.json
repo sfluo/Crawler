@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Dynamic Book Physics, Volume 2: For Scientists and Engineers"
+    ],
+    "OfferPrice": "$4.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WY5E41I0L3W4"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36L1OZV78R0I8"
+                },
+                "Date": "on January 10, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This text was used for my second semester physics class in college.  I found it to be an excellent supplement to the lectures as the teacher did not \"read out of the textbook\" when he lectured.  The example problems are well worked out and were a lifesaver on homework.  The textbook primarily covers electrostatics, electrodynamics, magnetics and optics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dynamic-Book-Physics-Scientists-Engineers/product-reviews/1429246421/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,026,438",
+    "Timestamp": "2015-05-24 12:44:01.207253",
+    "itemurl": "http://www.amazon.com/Dynamic-Book-Physics-Scientists-Engineers/dp/1429246421"
+}

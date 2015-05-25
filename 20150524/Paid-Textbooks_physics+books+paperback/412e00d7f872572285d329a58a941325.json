@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Opticks: Or a Treatise of the Reflections, Refractions, Inflections & Colours of Light-Based on the Fourth Edition London, 1730"
+    ],
+    "OfferPrice": "$17.30",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S5MEEIFUXLYA"
+                },
+                "Date": "on March 28, 2011",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QFAEZQP8OGHX"
+                },
+                "Date": "on February 9, 2009",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OJW07GQRNJUT"
+                },
+                "Date": "on July 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33PADLCQO42DO"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Great topic. Not so great a publication but, good enough to keep for the information's sake."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33F6XYTQ4NT6T"
+                },
+                "Date": "on December 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good product: clean and rapid deal."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NEC1CKBW3ZSD"
+                },
+                "Date": "on August 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I am amazed at the shear number and details of the many experiments Newton performed on light. His conclusions  drawn from these rather simple experiments are astounding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFB8HI47C97ZN"
+                },
+                "Date": "on June 9, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Overall the book covered the material well. However the book was somewhat difficult to follow. It took a couple of passes to clarify what was being said."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGMKFWUQEEZUQ"
+                },
+                "Date": "on December 24, 2001",
+                "Helpfulness": 0.5757575757575758,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PML9M10VRNOT"
+                },
+                "Date": "on July 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "All that I expected."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2S4SX49V4CO9P"
+                },
+                "Date": "on February 16, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z7ZEH5SX0ALP"
+                },
+                "Date": "on August 20, 2010",
+                "Helpfulness": 0.2,
+                "StarRating": "1",
+                "Text": "If you want to read something by Newton, get the Principia. Whoever translated this book did a horrible job."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A59RWS6RGYUSP"
+                },
+                "Date": "on July 19, 2006",
+                "Helpfulness": 0.21428571428571427,
+                "StarRating": "5",
+                "Text": "It is obvious neither of the previous reviewers understand, this book was written by Issac Newton in the 1600's.  It is read for historical reasons."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 6, 2002",
+                "Helpfulness": 0.13636363636363635,
+                "StarRating": "4",
+                "Text": "\"Though Mr. Newton is no physicist, his book is very interesting.\" -- Father Nicolas Malebranche (1707)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Opticks-Reflections-Refractions-Inflections-Light-Based/product-reviews/0486602052/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#85,538",
+    "Timestamp": "2015-05-24 13:02:43.053863",
+    "itemurl": "http://www.amazon.com/Opticks-Reflections-Refractions-Inflections-Light-Based/dp/0486602052"
+}

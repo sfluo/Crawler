@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Liquid Crystals: Chemistry and Physics (Liquid Crystals Book Series)"
+    ],
+    "OfferPrice": "$74.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R976CZEK2T0Y"
+                },
+                "Date": "on January 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Liquid-Crystals-Chemistry-Physics/product-reviews/074840483X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,082,609",
+    "Timestamp": "2015-05-24 13:30:22.150224",
+    "itemurl": "http://www.amazon.com/Introduction-Liquid-Crystals-Chemistry-Physics/dp/074840483X"
+}

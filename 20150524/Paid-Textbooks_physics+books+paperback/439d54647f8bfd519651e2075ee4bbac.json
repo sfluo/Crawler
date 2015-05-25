@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Get a Grip on Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.44",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GKFTHEETOKTE"
+                },
+                "Date": "on February 17, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "A needful synthesis of the evolution of physics with the added value of biographies and illustrations, mostly based in concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17VT630JYPEM1"
+                },
+                "Date": "on May 8, 2012",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11AQWHW9RLJ6V"
+                },
+                "Date": "on December 2, 2011",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "This is the book made famous by Tiger Woods, in a new edition, still brilliant as a short and easy account of the way things are in the world of physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Get-Grip-Physics-Dover-Books/product-reviews/0486485021/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#956,420",
+    "Timestamp": "2015-05-24 13:30:00.460986",
+    "itemurl": "http://www.amazon.com/Get-Grip-Physics-Dover-Books/dp/0486485021"
+}

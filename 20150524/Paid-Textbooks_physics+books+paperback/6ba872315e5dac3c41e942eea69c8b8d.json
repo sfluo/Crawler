@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics, Vol. 2, Second Edition"
+    ],
+    "OfferPrice": "$19.79",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VE83MZF98ITY"
+                },
+                "Date": "on December 29, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A383CS9GCVQ98G"
+                },
+                "Date": "on February 14, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good textbook.  Easy to follow.  It has many of the necessary equations and the derivations of them.  It also has helpful examples."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Vol-Second-James-Walker/product-reviews/0131406523/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,301,350",
+    "Timestamp": "2015-05-24 13:13:05.992902",
+    "itemurl": "http://www.amazon.com/Physics-Vol-Second-James-Walker/dp/0131406523"
+}

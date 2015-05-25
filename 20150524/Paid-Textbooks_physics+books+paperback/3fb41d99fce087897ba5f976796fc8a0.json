@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Principles of Charged Particle Acceleration (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.04",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KJ4NIQ4Z5QZR"
+                },
+                "Date": "on August 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very helpful and informative. A must read for anyone interested in the subject. Also check the author's other titles as he is the authority on this subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11BO8XS8WS5Q5"
+                },
+                "Date": "on April 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as described"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Charged-Particle-Acceleration-Physics/product-reviews/0486498182/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#979,826",
+    "Timestamp": "2015-05-24 12:53:39.109718",
+    "itemurl": "http://www.amazon.com/Principles-Charged-Particle-Acceleration-Physics/dp/0486498182"
+}

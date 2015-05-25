@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.00",
+    "Name": [
+        "Mass Spectrometry: A Foundation Course"
+    ],
+    "OfferPrice": "$63.63",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGZW25W0B7E1D"
+                },
+                "Date": "on October 24, 2004",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mass-Spectrometry-Foundation-Kevin-Downard/product-reviews/0854046097/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,064,420",
+    "Timestamp": "2015-05-24 15:50:40.699187",
+    "itemurl": "http://www.amazon.com/Mass-Spectrometry-Foundation-Kevin-Downard/dp/0854046097"
+}

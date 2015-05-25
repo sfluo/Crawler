@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "An Introduction to Electrospinning and Nanofibers"
+    ],
+    "OfferPrice": "$94.08",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B06L1NRVKMG6"
+                },
+                "Date": "on August 29, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Electrospinning-Nanofibers-Seeram-Ramakrishna/product-reviews/9812564543/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,676,394",
+    "Timestamp": "2015-05-24 15:55:40.207642",
+    "itemurl": "http://www.amazon.com/Introduction-Electrospinning-Nanofibers-Seeram-Ramakrishna/dp/9812564543"
+}

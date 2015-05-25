@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Wave Motion in Elastic Solids (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.64",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D9MW3L22DSYK"
+                },
+                "Date": "on March 23, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OWPGOU32GE6R"
+                },
+                "Date": "on June 23, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A98QQCQ1EYHY0"
+                },
+                "Date": "on July 17, 2000",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "5",
+                "Text": "This book is great. This book describes the full theory of wave motions in elastic solids. Great mathematical descriptions and interpretations. Good derivations of equations of motion and their assumptions. This book is a  masterwork and an  awesome referencebook for everything that has to do with  waves!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DYJB0HGR42AS"
+                },
+                "Date": "on April 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great reference and text book. Each grad student in my research group learns the fundamentals of elastic wave propagation from this text, and often gets a free copy from me - as my copy is completely worn out of years of usage. I picked up this book for its consistent notation and strong coverage many many years ago when I was a grad student, and  I am still using it regularly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24CK8CX5PFX3K"
+                },
+                "Date": "on February 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I don't know why this book is so cheap. It covers the fundamentals of wave propagation in solids and has great citations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z2CWJNZYMB4N"
+                },
+                "Date": "on April 6, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "It is an excellent book for civil engineers, I am specially interested in the wave motion in beams on elastic foundation"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Motion-Elastic-Solids-Dover-Physics/product-reviews/0486667456/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#540,597",
+    "Timestamp": "2015-05-24 12:37:02.559123",
+    "itemurl": "http://www.amazon.com/Motion-Elastic-Solids-Dover-Physics/dp/0486667456"
+}

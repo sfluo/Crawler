@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$52.95",
+    "Name": [
+        "Oil, Sixth Edition: An Overview of the Petroleum Industry (Oil: An Overview of the Petroleum Industry)"
+    ],
+    "OfferPrice": "$48.67",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PIQOJR6S6SEF"
+                },
+                "Date": "on June 11, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "I bought this book expecting to get a decent overview of the petroleum industry.  This book is written at an elementary school reading level with what to me was a lot of filler wording to increase the word count.  In addition, it is filled with over 70 pages (out of a 114 page book in the main text)of simplistic pictures, graphs and tables that are simply copied from whatever source that do not enhance understanding of the subject nearly as much as they thicken the page count.  This means only 44 large print, wide margin pages of content.  If I bought this book as a $10 paperback, I would give it a 3-star rating for matching content to price.  At $50 a copy, this book is a criminal rip-off.  Don't believe me, feel free to pay $50 for this glorified pamphlet and see for yourself."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QLBT5Q0YG6V3"
+                },
+                "Date": "on July 28, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Though not a detailed textbook (certainly not for what happens once the oil is out of the ground), this was a pleasant way to spend an hour or two understanding how the industry looks to a veteran. It was also amusing that such a recent book -- though careful to articulate the inevitable future inability to meet growing demand -- completely failed to anticipate the recent price shock. Alas, similar forecasting mistakes were also made in more technical books published in 2007."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Oil-Sixth-Overview-Petroleum-Industry/product-reviews/1933762012/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,481,498",
+    "Timestamp": "2015-05-24 15:53:22.854753",
+    "itemurl": "http://www.amazon.com/Oil-Sixth-Overview-Petroleum-Industry/dp/1933762012"
+}

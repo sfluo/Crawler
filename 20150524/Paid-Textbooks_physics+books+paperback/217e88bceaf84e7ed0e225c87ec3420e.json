@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$181.07",
+    "Name": [
+        "Essential College Physics with MasteringPhysics"
+    ],
+    "OfferPrice": "$155.93",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DH2PC38LFEJH"
+                },
+                "Date": "on January 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12R6E68OO77I5"
+                },
+                "Date": "on December 2, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "This textbook was required for my course but it basically sets you up to fail. If your teacher is not ready to fill in the gaps for you (and there are many) this textbook creates a struggle to succeed in this course. The material is extremely broad and the questions for each chapter for homework are considerably harder than the material covered in the chapter, some problems even required knowledge much broader than what is covered in the text. Overall I hold a high disdain for this book and I resent that something so low par was required for my course this semester."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-College-Physics-MasteringPhysics-Andrew/product-reviews/0321598563/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#599,891",
+    "Timestamp": "2015-05-24 13:09:34.025403",
+    "itemurl": "http://www.amazon.com/Essential-College-Physics-MasteringPhysics-Andrew/dp/0321598563"
+}

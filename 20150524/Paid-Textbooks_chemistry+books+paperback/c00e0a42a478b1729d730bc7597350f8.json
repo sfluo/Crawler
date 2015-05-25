@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Introduction to Colloid and Surface Chemistry, Fourth Edition (Colloid & Surface Engineering S)"
+    ],
+    "OfferPrice": "$61.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PGCVGUO2GQIG"
+                },
+                "Date": "on April 24, 2003",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "I've checked out the third edition from the library, and found it is very well written.  It is concise, without leaving important steps or information out."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Colloid-Surface-Chemistry-Engineering/product-reviews/0750611820/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,114,283",
+    "Timestamp": "2015-05-24 15:16:36.289257",
+    "itemurl": "http://www.amazon.com/Introduction-Colloid-Surface-Chemistry-Engineering/dp/0750611820"
+}

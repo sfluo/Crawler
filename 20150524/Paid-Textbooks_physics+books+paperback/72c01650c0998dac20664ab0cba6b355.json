@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$59.95",
+    "Name": [
+        "Quantum Electrodynamics (Course of Theoretical Physics, Vol. 4) (Volume 4)"
+    ],
+    "OfferPrice": "$50.68",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 20, 1998",
+                "Helpfulness": 0.9130434782608695,
+                "StarRating": "5",
+                "Text": "This is an outstanding book. The former students of the great Russian physicist Lev Landau wrote a text based on his teaching and his papers, as well as on their own work. The result fits well in the magnificent Theoretical Physics course that carries the names of Landau and Lifshitz. There are differences between this text and the western analogues. Dirac equation is derived in a very elegant way using spinors, and the whole algebra of Dirac matrices becomes, in this way, much more natural, particularly, as one would expect, Lorentz invariance. The renormalization problem is treated in a very lucid way. The derivation of the Ward identities is very simple and amusing. High energy limits are treated in the Landau style, and well complements the more formal derivations based on the renormalization group. No book presents as many applications of quantum electrodynamics as this one, except perhaps, the old and dated book by Heitler."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on September 28, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13Y9JZ26ZAR78"
+                },
+                "Date": "on February 16, 2008",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "2",
+                "Text": "I am a big fan of the Landau book on Classical mechanics, but this one doesn't come anywhere near the clarity presented in that text. The notation in the book is archaic and does not process well into other texts. I do, however, like the method he goes about presenting material -- it's just necessarily more difficult than it needs to be. I would recommend Srednicki or Peskin for more advanced texts, and Zee for an introductory text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VXURTO7W66Z0"
+                },
+                "Date": "on January 14, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I mean a very physical book in the sense that it takes all the matters with the point of view of physical insight. The treatment of bosons and fermions is quick clear and it seems like a sleight of hand trick. The interaction of matter and radiation is one, perhaps old fashion, complete source of actual calculus difficult to obtain in other sources. Other topics about perturbative calculations and feynman diagrams is also very clear and straightforward to the mater itself. I recommend the book to all students in the graduate level, thougth a very russian style is a must for the great style lovers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IGGHOHOJCNN2"
+                },
+                "Date": "on December 6, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "If you are a fan of the L&L; series and you are taking a particle physics and/or Quantum Field Theory coarse, then this is an excellent supplement.  My opinion, the second best L&L; book behind the Mechanics book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UKHKMJ4DEZQP"
+                },
+                "Date": "on October 5, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.38461538461538464,
+                "StarRating": "5",
+                "Text": "This is the Volume 4 of the famous Course of Theoretical Physics by L. D. Landau and E. M. Lifshitz. All serious students of theoretical physics must possess the ten volumes of this excellent Course, which cover in detail and rigour practically all the branches of theoretical physics. The Volume 4 treats the subject of quantum electrodynamics. It contains all of basic material on quantum electrodynamics and the whole of the theory of radiation. This book, although very dense, describes with clarity the large amount of topics contained in it and does not include topics not firmly established, such as the theory of strong and weak interactions. All physicists specialized in quantum electrodynamics must possess this remarkable book. A superb book!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Electrodynamics-Course-Theoretical-Physics/product-reviews/0080265049/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#570,990",
+    "Timestamp": "2015-05-24 13:28:30.760485",
+    "itemurl": "http://www.amazon.com/Quantum-Electrodynamics-Course-Theoretical-Physics/dp/0080265049"
+}

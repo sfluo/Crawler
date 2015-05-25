@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "QED and the Men Who Made It"
+    ],
+    "OfferPrice": "$65.00",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16W8HTCIWYDZ6"
+                },
+                "Date": "on September 10, 2001",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "5",
+                "Text": "This book is a superb overview of the development of QED. The slant is geared towards the major personalities involved in it's development. The key players of course were: Feynman, Schwinger, Dyson, and Tomonaga. The text is quite detailed and is directed towards the academic community and assumes a cursory knowledge of quantum mechanics. That being the case, I got lost in much of the math. However, I kept at it and got much out of the book. If you are a physics major then this book will be a jewel to own. What an experience to \"see\" the human mind come up with ideas which at first glance seem impossible but later turn out to be perfectly true. The writing is quite turgid as is the case with books put out by Princeton, but the material is just fantastic. If the math overwhelms you, as it did me, just get the main idea down and forge on. Later, if time and patience permits re-visit the portion that got you lost and try again. I did this but still am lost in many areas. Nevertheless, a great read!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A336NZCTZZZ2EK"
+                },
+                "Date": "on November 24, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a very technical and historical review of the creation of the 20th Centuries most accurate of all physics, QED.  The work is very complete and besides the mathematics, it provides excellant yet terse backgrounds of the  4 major players: Tomonaga, Schwinger, Feynman and Dyson.  The backgounds of  these personalities is weaved into their astounding developments leading to  QED.  This book should not only serve as a historical timepiece, but I  beleive it could serve very well as an adjunct to even graduate level  physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NYLG7YSD1TOB"
+                },
+                "Date": "on May 8, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I consider this the best biography of these four scientists going. It has the technical foundation that more popularized treatments lack but it has a great sense for the individual personality too. In particular, it has a through treatment of Freeman Dyson's work and background, something that gets slighted elsewhere. I think the insight into Feynman's personality is spot on and correctly assesses the forces that led him to behave as he did as well as achive what he achieved. Read it for the wonderful section on Dyson if nothing else but the whole book is great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JRB4NJTHOBVT"
+                },
+                "Date": "on June 11, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent book for the history of QED. Even though there are some mathematical physics equations, the reader can skip them without losing the essence of the book, which, in my opinion, is the complete presentation of the characters involved and the scientific background that finally led to the most successful physics theory. Worth reading till the last page."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17P5GHJAYB6R5"
+                },
+                "Date": "on April 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OPJTR4D6GLCC"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very detailed description of the development of quantum electrodynamics. Would be better if it contains some more material about Tomonaga."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABO7P8EHB0GOV"
+                },
+                "Date": "on October 27, 2002",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": "While this is meant to be a historical account of the development of QED, it turns out to be much more than that. The actual physics described in the book - is well explained - and is typically viewed from the eyes of originator(s) of the theory. For e.g. how Dirac came up with the formulation of the relativistic wave equation or how Feynman originated his famous diagrams. That type of 'how did the theory's originator derive this..' provides a deeper understanding of the physics - than just reading the equation(s) in a textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28BPGOGA7CSK7"
+                },
+                "Date": "on August 20, 2009",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/QED-Men-Made-Silvan-Schweber/product-reviews/0691033277/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#683,698",
+    "Timestamp": "2015-05-24 13:42:32.773540",
+    "itemurl": "http://www.amazon.com/QED-Men-Made-Silvan-Schweber/dp/0691033277"
+}

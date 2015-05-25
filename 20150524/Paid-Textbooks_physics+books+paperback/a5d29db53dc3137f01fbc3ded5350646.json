@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Spacecraft Attitude Dynamics (Dover Books on Aeronautical Engineering)"
+    ],
+    "OfferPrice": "$22.66",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KTFKCD4VIVTW"
+                },
+                "Date": "on September 20, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGPE54GXBR6ZM"
+                },
+                "Date": "on March 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZMH8E8N8Y155"
+                },
+                "Date": "on May 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TM6Z4GD2DPK0"
+                },
+                "Date": "on October 1, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The material is really dense. I read a chapter 2 times at least to get it. the rotation matrix notation is different then what I'm used to which caused a problem in the beginning. I got the book in mint condition for a great price. overall good experience"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M8PP7MLHNBQB"
+                },
+                "Date": "on February 8, 2005",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A574B11H4M26A"
+                },
+                "Date": "on September 6, 2008",
+                "Helpfulness": 0.09090909090909091,
+                "StarRating": "4",
+                "Text": "This book is a really nice tool for those who are learning about spacecraft attitude dynamics"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spacecraft-Attitude-Dynamics-Aeronautical-Engineering/product-reviews/0486439259/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#674,740",
+    "Timestamp": "2015-05-24 13:12:11.006695",
+    "itemurl": "http://www.amazon.com/Spacecraft-Attitude-Dynamics-Aeronautical-Engineering/dp/0486439259"
+}

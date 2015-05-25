@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Classical Mechanics: 2nd Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.05",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E382ETF31K3P"
+                },
+                "Date": "on July 11, 2001",
+                "Helpfulness": 0.9354838709677419,
+                "StarRating": "5",
+                "Text": "I just bought this wonderful book recently for my recent theoretical mechanics course and I must say its a jewel. Although its not in the same level as Goldstein's classical text book (a long and very precise description of classical mechanics), Corben's book examines with Dover-like detail the basic concepts surrounding the laws basic physics (everything, from Lagrange's equations to rigid body systems). Packed with useful examples (most of them textbook like motions in a central force field), Corben's \"Classical Mechanics\" is a great reference in any intermediate course."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12IMU4HGWDXE4"
+                },
+                "Date": "on December 11, 1999",
+                "Helpfulness": 0.8918918918918919,
+                "StarRating": "5",
+                "Text": "Although there have been several excellent intermediate and graduate textbooks on classical mechanics written during the last few decades, this book, which is pitched at the advanced undergraduate/beginning graduate  level, is one of the best.  The writing throughout is mathematically lucid,  and the problems, though not large in number, are stimulating.  While the  important topics of advanced theoretical mechanices are not shorted,  several interesting related subjects in general physics and theoretical  engineering are concisely treated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19E95129G38R6"
+                },
+                "Date": "on March 11, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Corben and Stehle's textbook (originally published by John Wiley and Sons) was for about 30 years one of the three standard textbooks used in graduate level physics courses on Classical Mechanics.  The other two being \"Classical Mechanics\" by Goldstein and \"Mechanics\" by Landau and Lifshitz.  Corben and Stehle's and Goldstein's books were first published about 1950.  All three had their strengths and weaknesses, but Goldstein's was the most widely used in graduate schools.  However, Corben and Stehle's book nicely complimented Goldstein's book, especially where the first edition of Goldstein's book was weak or in error.  All the fundamental topics are thoroughly covered in Corben and Stehle's book (except for Lagrange Multipliers in Lagrangian Mechanics and the Routhian).  The Dover edition on Amazon is a bargain on a classic!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQRPUUY0A5JRG"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's a great reference for those studying Mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS7AG8AAR1N1F"
+                },
+                "Date": "on October 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Really good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19IRP4VJRRANU"
+                },
+                "Date": "on May 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I had to understand Quantum mechanics, and more into depth statistical mechanics so I could understand condensed matter physics and particle physics, it was a most strenuous book and job to derive some of the equations of mechanics though."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X1FGQRELV3JX"
+                },
+                "Date": "on January 17, 2012",
+                "Helpfulness": 0.45454545454545453,
+                "StarRating": "2",
+                "Text": "I am an undergraduate electrical engineering student.  I have 2 years of math (basic calc through ODE) and got an A in general physics.  I wanted a book that would introduce the Lagrangian and Hamiltonian techniques and prepare me for more advanced physics, and this is not that book.  As another reader pointed out the implied summation notation is confusing and gets in the way.  The author also defines most concepts using generalized coordinates (instead of say... cartesian coordinates), which is cool if you are applying the concepts to complicated systems and need generalized coordinates, but I think it confuses the actual physics that are going on, at least for the beginner.  Perhaps this is a great reference, but I do not see how you could learn the topic of classical mechanics from this book unless you are already very good at math, physics and mechanics to begin with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LJ28925ZQQKP"
+                },
+                "Date": "on June 5, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Mechanics-Dover-Books-Physics/product-reviews/0486680630/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#607,605",
+    "Timestamp": "2015-05-24 12:36:48.616122",
+    "itemurl": "http://www.amazon.com/Classical-Mechanics-Dover-Books-Physics/dp/0486680630"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Six Ideas that Shaped Physics: Unit T Some Processes Are Irreversible"
+    ],
+    "OfferPrice": "$31.71",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YL9QX8TVCIJW"
+                },
+                "Date": "on June 22, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In 2007 I used this book as a required supplement for the third semester of our intro physics sequence.  I assigned it because of the skimpy coverage of thermodynamics/statmech in the typical intro books (which I think aim to shoehorn intro physics into 2 semesters). I believe that since thermodynamics is central and applicable (more so than, say, Newtonian mechanics), it deserves an enlarged fraction of class time made possible by a three semester sequence.  I like the book's approach of actual enumeration (using a supplied computer program) of allowed states in a model system.  I'm not sure I would be happy with this book as a stand-alone textbook, as I like to see more chapter-end problems than it supplies.  I would use again for my class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HBA9GBMPMEEC"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is not as unit N or C, but it is helpful and very detailed. I like the way the author explains things. It makes my life easier."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ9YUH6ESLKTX"
+                },
+                "Date": "on November 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good product for the money"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A219WFI4NFP6D8"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "It was a text book I was required to have, so it did what it needed to do I guess."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Six-Ideas-that-Shaped-Physics/product-reviews/0077395689/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#372,463",
+    "Timestamp": "2015-05-24 13:14:19.392064",
+    "itemurl": "http://www.amazon.com/Six-Ideas-that-Shaped-Physics/dp/0077395689"
+}

@@ -1,0 +1,2097 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "The Trouble With Physics: The Rise of String Theory, The Fall of a Science, and What Comes Next"
+    ],
+    "OfferPrice": "$13.17",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PUDTME3PHAIT"
+                },
+                "Date": "on September 25, 2006",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELS725C34F9Q"
+                },
+                "Date": "on September 11, 2006",
+                "Helpfulness": 0.9477611940298507,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JQ58CZBV3FOZ"
+                },
+                "Date": "on September 18, 2006",
+                "Helpfulness": 0.9363057324840764,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIJE35HO3GLP6"
+                },
+                "Date": "on November 14, 2006",
+                "Helpfulness": 0.9157894736842105,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U0XHQB7MMH0E"
+                },
+                "Date": "on October 30, 2006",
+                "Helpfulness": 0.8656716417910447,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B3Q6WVCMAW5Q"
+                },
+                "Date": "on February 11, 2008",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZXNCIDGF3T5M"
+                },
+                "Date": "on September 3, 2006",
+                "Helpfulness": 0.8322981366459627,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K55H0813K9EI"
+                },
+                "Date": "on February 12, 2007",
+                "Helpfulness": 0.8918918918918919,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AY1NGHMFPN7P"
+                },
+                "Date": "on May 4, 2010",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "4",
+                "Text": "This is an incredibly stimulating book by a leading physicist reflecting on the current status of fundamental physics. It is not just about science per se, but also the sociology and even the philosophy of science, seen from the point of view of a practicing physicist who has worked with string theory and who now thinks that it likely is a dead end in terms of \"the ultimate theory of everything.\" Smolin gives a fascinating overview of the recent history of physics, arriving at the conclusion that this is the first generation of physicists in about a couple of centuries who have not managed to produce a major theoretical breakthrough. String theory for Smolin is a brilliant idea that had the unfortunate consequence of taking over the entire field, which resulted in hiring and granting policies that have systematically discouraged other approaches (such as loop quantum gravity, on which Smolin also has worked). The author diagnoses the problem in terms of both philosophy and sociology of science. Philosophically, the current dominant figures of fundamental physics see science itself very differently from the physicists of the generation of Einstein, and this change of vision is not necessarily for the better. Sociologically, we are treated to an in-depth criticism of how granting agencies and departmental hiring practices work, something that will not surprise anyone who has actually been in academia, but that is good to appreciate on the part of the general public. Smolin ends up making some bold suggestions on both how to improve the culture of science and how to get physics unstuck from its current predicament. Even if you are sympathetic to string theory, this is a book well worth reading in order to gain a better perspective on how we do physical science today (despite the fact that the middle part gets quite technical and may not be easy to digest for everyone)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A680TJJHGDY5K"
+                },
+                "Date": "on June 10, 2007",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARNEUO7BF3J55"
+                },
+                "Date": "on April 16, 2007",
+                "Helpfulness": 0.8787878787878788,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACEXWBDOIIG2H"
+                },
+                "Date": "on May 26, 2010",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on September 15, 2006",
+                "Helpfulness": 0.8611111111111112,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5F7GXHQY6C5P"
+                },
+                "Date": "on November 8, 2006",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZOD7M7BCG3GW"
+                },
+                "Date": "on December 14, 2006",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19G7KC7Q2KSVP"
+                },
+                "Date": "on September 15, 2006",
+                "Helpfulness": 0.8529411764705882,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZU76WEHU5X9N"
+                },
+                "Date": "on March 20, 2007",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANE9K04P84B6V"
+                },
+                "Date": "on October 3, 2006",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MTF17UI0UTL7"
+                },
+                "Date": "on November 20, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12A08OL0TZY0W"
+                },
+                "Date": "on June 6, 2007",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AN2O0XRWK8Y0"
+                },
+                "Date": "on November 21, 2006",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOMQZAS76F3V3"
+                },
+                "Date": "on October 13, 2006",
+                "Helpfulness": 0.84,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on August 22, 2007",
+                "Helpfulness": 0.8214285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IU9VPCBKZPE8"
+                },
+                "Date": "on November 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VZLLDNLURGJB"
+                },
+                "Date": "on June 4, 2008",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RD35M9UHOGVA"
+                },
+                "Date": "on May 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7QYM2S53LRE3"
+                },
+                "Date": "on January 9, 2007",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A280Q2TYDQSI4"
+                },
+                "Date": "on January 20, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U5GT3L6ZD2T2"
+                },
+                "Date": "on December 29, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZU1I9DF3H82L"
+                },
+                "Date": "on January 2, 2007",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26NJP5MSRSF6L"
+                },
+                "Date": "on January 19, 2007",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "4",
+                "Text": "This is a reasonably engaging book presenting a perspective on theoretical physics that has been rather under-represented in popular works. If you've read popular books advocating string theory and found them convincing, this book will give you a more balanced understanding of the theory's achievements and its limitations. Smolin argues that string theory is failing because it's an extension of the practical particle physics that has led to successes such as the Standard Model--an approach that has done so well, he says, that it's drowned out other avenues of research right at the moment when it has ground to a halt itself--and that what is needed now is more emphasis on re-examination of fundamental problems like spacetime and quantum mechanics. My views are almost opposite in a way (i.e. that the problem with string theory is that it isn't nearly practical enough), but Smolin is an expert whose opinion is worth reading. One point of irritation for me in the text is that I don't trust the analogies. Although I don't know the technical details of most of what he discussed, an analogy he made for something I do understand (fine tuning and the Higgs mechanism) appears to have nothing to do with the actual physics. The others could be better, but I can't tell. His discussion of the specifics of string theory is more balanced than in other books I've read, and that's what makes the book most useful in my view. The rest of his views are kind of out there, but interesting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24V8AARZJW15Q"
+                },
+                "Date": "on December 6, 2007",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KPF8UZ338J6E"
+                },
+                "Date": "on October 4, 2007",
+                "Helpfulness": 0.7435897435897436,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MJMYLRTZ76ZX"
+                },
+                "Date": "on May 15, 2012",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A627EOBYV42TJ"
+                },
+                "Date": "on October 12, 2007",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SAQV356DDQ4"
+                },
+                "Date": "on May 17, 2007",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17GICH3W3W7QC"
+                },
+                "Date": "on May 6, 2007",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QP3OE395HBFU"
+                },
+                "Date": "on October 8, 2006",
+                "Helpfulness": 0.8125,
+                "StarRating": "5",
+                "Text": "I started reading this book and found it very engaging. Smolin gives lucid explanations for sometimes esoteric concepts in physics that a non-specialist can easily follow if he or she has at least university-level physics.  This book is not a diatribe against string theory. In fact, Smolin often goes out of his way to give string theory the benefit of the doubt that it may be right after all. One of his main concerns is that after 20+ years, string theory remains far from being verified by experiment and this is a serious problem.  This state of affairs should be of concern to physicists whether they are string theorists or not, and the general public as well because they are the ones who ultimately fund research programs through taxes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LX5Y57FZPHFV"
+                },
+                "Date": "on October 31, 2006",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "5",
+                "Text": "The Trouble with Physics is like four small, lucid and intertwined books in one - The first one is about the sociology of the theoretical physics academic community.  The second describes in what sense string theory has failed.  The third is about the five great problems in theoretical physics today. The fourth is about the current experimental results that need explaining.  I have listed the four books in increasing order of interest to me.  I was reading the fourth book on a plane trip and discovered that I was mumbling to myself \"Oh my god, Oh my god\", laughing out loud (from a sort of nervousness I guess) and constantly having to remind myself to breath.  Instead of trying to convey that science is pretty much on top of things Smolin conveys the utter confusion and excitement that these results warrant.  This is not the stuff that firm calm is made of but rather fire that heats and burns.  What Smolin has done is to describe the theoretical context that exists (that's in book three) and how the experimental results don't fit.  I have a physics degree from 36 years ago, have recently studied Quantum Field Theory and string theory and yet I have just understood the magnitude of the issues raised.  Other books and popular descriptions seem pretty banal in comparison.  In the spirit of balance, I probably should say that I may be a little prejudiced towards Smolin as it was his Three Roads to Quantum Gravity that got me studying QFT six years ago.  Why?  Because after reading Three Roads, I remember thinking that I wanted to be able to follow these developments mathematically and not just from the popular descriptions.  Incredibly, Smolin's book, totally without math, conveys the substance and depth of the issues in an unprecedented fashion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20P4U8LGQT6IY"
+                },
+                "Date": "on December 11, 2007",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OUA20MPQFBFI"
+                },
+                "Date": "on May 18, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For a retired physics  teacher, who now engages in online math and physics tutoring, Smolin's book is a heads-up that stimulates thinking about the recent three decades of physics.  He makes a strong case about the failure of physics to come up with a new paradigm.  And his suggestion that social forces or prejudices limit progress of creative individuals brings our discipline into the human arena along with any other professions that suffer similar restrictions by entrenched human attitudes.  Carefully written, thought-provoking, sometimes repetitive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BQD1YWZ6MDKF"
+                },
+                "Date": "on August 15, 2008",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11M2WVGKCAWDS"
+                },
+                "Date": "on July 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13POQPWOHV8WU"
+                },
+                "Date": "on June 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S60W4KWFX1Y9"
+                },
+                "Date": "on December 16, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O5O58VKLTXUY"
+                },
+                "Date": "on July 20, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YH22SMUZ9OU3"
+                },
+                "Date": "on May 18, 2007",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZVQ0C8LY1AAM"
+                },
+                "Date": "on February 19, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book of Smolin is a delightful presentation of what theoretical physics has been up to in the last centuries, and of the troubles with it nowadays. As an insider (he is a distinguished theoretical physicist active for many years in string theory, among other things), he gives a lively description of a strange state of affairs, where a particular approach to particle physics, though still incomplete and not supported by experimental confirmations, has come to be described as THE ultimate theory of everything; and how this made nearly impossible for a young physicist to build a career on different, even promising, approaches, which for this reason have been abandoned (should we say ignored?) in the last 30 years. However, you will not find here the ideas of a polemic writer, or a string-hater! You just will find a honest discussion by someone who loves science, and respects it. Many open answers for insiders, and a wonderful fresco for the cultivated outsider. Higly recommended to the strings community."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30WRE5N6JRFJZ"
+                },
+                "Date": "on September 21, 2008",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RFXU3P0XKKF4"
+                },
+                "Date": "on February 9, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AEKV21LYGXY9"
+                },
+                "Date": "on December 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Before reading this book I heard many positive reviews from my friends, and having finished it I'm not disappointed. Not only does it give a very interesting history of the ideas of unification in physics (I did my project work in the UK on the original Kaluza Klein Theory), but also gives a glimpse of the community doing the science. Belief in what you do is necessary to do a good job, but belief can also backfire and become blind. This is most likely what has happened to String theory, that has had unfortunate repercussions for alternative theroies such as loop quantum gravity, twistors, and other visionary ideas. On top of this, Smolin also rightly critizises Universities to encourage \"standard\" Science and discourage visionaries from positions and jobs. This is a much more serious development and is (among other things) an effect of Big Science as Just Any Job, subject to tests, evaluations, peers, making a career for tenure, etc. I see this in my own country where scientists with original ideas have a hard time surviving in a bureaucratic tangle of committies, evaluations, politically correct research grant applications and heavy teaching burdens. I think the most interesting research these days come from hightech companies, and independent research insititutes like the Perimeter Institute and Santa Fe Institute for non-linear science, to mention a few. If I was financially independent with more brains than I actually have, I would open an institute like that. The research topic? Building artificial minds and trying to understand human and animal intelligence and cognition. And having a lot of fun at work without red tape getting in your way, which is what science and exploring the world is really about."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on September 27, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QO76RZO5FHMG"
+                },
+                "Date": "on December 18, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AITIU2DG1MM4A"
+                },
+                "Date": "on March 5, 2007",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VPRWEPH6C823"
+                },
+                "Date": "on March 22, 2007",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A180EH6RZ1QT3P"
+                },
+                "Date": "on December 11, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABN5K7K1TM1QA"
+                },
+                "Date": "on September 3, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZ1B92F81LJJ"
+                },
+                "Date": "on June 3, 2008",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FWSWPUWF4SW"
+                },
+                "Date": "on November 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Smolin is exactly on target. Physics has been taken over by an unholy cabal of mathematical aestheticists. String theorists own the major physics departments and only hire guys doing the same, tired old un-falsifiable crap. In most physics departments, the \"research\" has nothing to do with science anymore. It's meta-philosophy - that's the kindest word one can use."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJCVVOMN18NS8"
+                },
+                "Date": "on May 22, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "I have been reading this book on the commuter train, and it is making me look forward to my hour long commute.  If you read science books for non-scientists this is one of the best I have ever read (especially if you have read the Brian Greene books, like \"The Elegant Universe,\" because they help contextualize the author's (Lee Smolin) perception of String Theorists enthusiasm).  This book is part science, and part critique of academic culture. There is also a good dose autobiographical anecdotes.  Very entertaining, easy, and fun to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28TZ5RN3BUKQ5"
+                },
+                "Date": "on January 5, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IR2Q3B0GGV9Z"
+                },
+                "Date": "on November 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on August 22, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on January 7, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU82D12JZ6O72"
+                },
+                "Date": "on September 21, 2006",
+                "Helpfulness": 0.7368421052631579,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LI8P7VU8UWPU"
+                },
+                "Date": "on July 24, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Smolin really delivers with this volume. It's pretty weighty, but the concepts are presented very neatly and without a lot of the technical jargon. The real strength of this book is Smolin's real objectivity when surveying the landscape of modern physics research. With all the hype over String Theory, it's nice to see someone take a step back from the giddying beauty and symmetries of the theory(ies) and provide a realistic assessment as to whether or not the theory has delivered. I think some of the best parts of this book are the last few chapters that deal with the sociological and philosophical aspects of science in general for the 21st century. Smolin's insights into the profession, particularly his critique for how new graduates are hired, given tenure, or research grants are pointed and disconcerting. Whether or not String Theory is the real deal, or the worst fad in physics since the aether, Smolin's approach to the subject is one that is well wroth embracing. The lesson that professionals and amateurs alike can take from this is never to put all your eggs in one basket. There've just been too many precedents of fundamental assumptions being overthrown in the past 300 years."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN0PBO7EIKJAN"
+                },
+                "Date": "on October 7, 2006",
+                "Helpfulness": 0.7222222222222222,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M6Q0M563E6V6"
+                },
+                "Date": "on August 6, 2007",
+                "Helpfulness": 0.7222222222222222,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AOHVE6TP1HIC"
+                },
+                "Date": "on January 5, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This book by Smolin makes a very accurate diagnosis of the critical state in which physics stagnates todays because of the contagious propension of most theoretical physicists to cuddle their skills in mathematical acrobatics, with a special reference to the negative influence exerted by string theorists. Smolin urges for a deeply revised approach to science, for the sake of the best tradition of physics. It's a courageous stance, now necessary and useful irrespective of whether or not you share Smolin's ideas and suggestions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I6E66AGN7AUH"
+                },
+                "Date": "on January 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I like how the author is willing to point out the problems within the scientific movement in general, including his own particular field.  I don't feel he unfairly bashes string theory, as some other reviewers have claimed, as he is willing to bash loop gravity as well.  Reviewers claiming he is just bashing the group (string theory) that gets the most funding because he is not in the \"in crowd\" is pretty stupid, given that most reviewers here who criticize Smolin of this are similary not in the \"in crowd\" among the reviewers here.  Those reviewers claim that as a result of the way Smolin \"bashes\" string theory, he loses credence.  It seems that for similar reasons, one could argue Smolin's negative reviewers lose credence."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A311IAIO7K7QEC"
+                },
+                "Date": "on March 30, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Riviting, reads like a thriller.  A veritable who'dunn'it. Keeps you continually wondering how it will end.  With the death of string theory?  The idictment of quantum mechanics?  Can relativity escape unscathed?  Though the jury is still out, the verdict is eagerly anticipated by physicist like myself.  I'm Charles Panati, Columbia University physicist and former Science Editor of Newsweek.  I think Lee Smolin has written a spellbinding book.  He's a born story teller."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35X0RJ6I1VE7V"
+                },
+                "Date": "on March 20, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FKORGVKF2IJZ"
+                },
+                "Date": "on February 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The author is one of the most respected researchers in gravitation theory and his opinion should carry far more weight than he is accorded at the moment. He writes with wit and with the style of a good lawyer. Help him spread his devastation of string theory and do the scientific world a favour.  His preliminary pages also give a good survey of modern physics and its search for a 'unified theory.'"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C77OLXSGCHFJ"
+                },
+                "Date": "on February 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I hold a bachelors degree in physics, and in my scientific career have not had to deal much with relativity, quantum mechanics, or other \"out there\" stuff. Newton has been adequate for the velocities, energies, etc. I've had to deal with. String Theory was just one more thing that I was aware of but didn't pay much attention to. Smolin's book raises a lot of questions about string theory, which makes me wonder if there really is anything there, or is it just abstraction with no substance. His book is easy to follow. One need not be a physicist to appreciate it. I highly recommend it to anyone who has been wondering what string theory is all about."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SU7A011ZA45W"
+                },
+                "Date": "on December 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I barely understood the physics, even though it was dumbed down for the wider audience, but it was fascinating to read about how string theory has dominated theoretical physics for very human reasons. I completely agree with Smolin that scientists need to be open to opposing or alternative views - it's about being humble enough to accept that you don't know everything and can learn something from every point of view if you are open minded enough."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27L9UG54C6VXX"
+                },
+                "Date": "on December 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For years we (non-scientists) have been told that string theory was going to explain the universe. It hasn't and this helped me understand why it has failed - starting with it isn't really a \"theory\" at all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ZUMCCLDNPKG"
+                },
+                "Date": "on October 31, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V0VCB475BOLD"
+                },
+                "Date": "on April 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a retired PhD air pollution professional, I have considerable background in physical chemistry, fluid dynamics, and the like. This book has opened up the world of modern physics for me. It is a report from and about modern physics from a person who has been there and done that. It is a summary contrasting and comparing approaches such as string theory, QED, quantum gravity, cosmology, and related topics from a scientist who is active in several of these fields, and writes with grace, clarity, and imagination about the strengths and weaknesses of current theoretical approaches. He starts by identifying five major unsolved problems in modern physics, and uses these problems to rate modern theories for efficacy, He points out some novel and thought provoking new experimental data, and suggests where they might lead. He is careful to distinguish background dependent from background independent approaches, and allows for the possibility that general relativity needs to be amended. Without a single mathematical formula, he conveys the basic characteristics of a plethora of theories, and references who developed each one and when. This book has inspired me to pursue more information on several emerging theories, and provided an opening to the literature through which to pursue this information. I fully recommend this book to anyone with even the slightest interest in cosmology or modern physics as an enjoyable and readable way to put those interests in context."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28MCTUFEAU6JH"
+                },
+                "Date": "on February 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M5DB3O2IMIZL"
+                },
+                "Date": "on October 4, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ARIYT1OMGZN0"
+                },
+                "Date": "on March 2, 2007",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "5",
+                "Text": "Lee Smolin is one of the really creative thinkers about physics. He spent a number of years of his life working on string theory. He finally came to the conclusion that it is nonsense. It is not science in that after thirty years, it has made no predictions that can be verified or falsified. Yet, it has been so adopted by the physics departments of almost all US universities that you cannot get tenure unless you believe in it and teach it. This is a powerful indictment of our academic political correctness. I thought that the English and History departments of our universities had been corrupted by PC. Now I see that physics is just as bad. Read this book. It will open your eyes. Then go read some of Lee's other books particularly The Life of the Cosmos and Three Roads to Quantum Gravity. You will learn a lot from a really creative scientist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A334HD9T6GH5WN"
+                },
+                "Date": "on August 31, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "I am still wondering why theoretical physics is behaving like it is doing...losing the essence that characterizes the scientific method. After reading this delightful and incisive book, my only concern is to know how long it will take to string theorists to accept we are following the wrong way...as physicists. I just wish this book captivates as many honest people as the honest author desires."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XQ5LZHTD4AFT"
+                },
+                "Date": "on October 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXSH6O4OP5L4M"
+                },
+                "Date": "on July 6, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A5NAPRRWOL2"
+                },
+                "Date": "on October 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GG605EPGJRUG"
+                },
+                "Date": "on January 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "a big picture of physics evolution up to string theory, an alternative look at string theory. non-mathematical explanation. good introduction to current problems with physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N10W4T5GBPR2"
+                },
+                "Date": "on March 19, 2007",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37EXJYVV1DG12"
+                },
+                "Date": "on November 9, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Lee Smolin has tackled a formidable foe: the scientific establishment. But his analysis offers considerable weight, coming from within the establishment itself. The book begins with a look at the history of science and unification. A longer and more technical section on string theory follows, which is harder to follow, but still expertly explained. To me the last part of the book is the most valuable, with chapters such as \"How Do You Fight Sociology?\" establishing the current crisis in physics as a decidedly human problem. String theory has become a self-sustaining phenomenon, sucking up academic resources as it becomes increasingly \"mainstream,\" at the expense of more risky but potentially revolutionary research into ideas by the so-called \"seers.\" As Smolin writes in the chapter \"What Is Science?\": \"To think deeply and independently and try to formulate one's own ideas is a poor strategy for success. Physics thus finds itself unable to solve its key problems.\" Luckily we have physicists such as Smolin to tell his colleagues -- and the world on the whole -- the truth."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI9G197C4ZLXL"
+                },
+                "Date": "on January 30, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KFCCRRXEB5KY"
+                },
+                "Date": "on November 13, 2007",
+                "Helpfulness": 0.6875,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5AHQNQAHYQKI"
+                },
+                "Date": "on June 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z4YYMGQM2MZY"
+                },
+                "Date": "on February 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Smolin fills the holes that Woit (in his book of similar content) leaves.  Together they compose what I consider to be a devastating attack on the self-described discipline of String Theory.  Smolin speaks as an insider - someone who honestly gave String Theory the old college try, and came away convinced that String Theory as it's been formulated over the last 30-or-so years is NOT a productive way of describing the universe.  The most devastating fault is that no-one has been able to propose an experiment that could (if it came out one way) falsify the theory.  If you can't do that - if your hypothesis can't be subjected to that harsh a test, you haven't any strong proof that you've got it right.  Smolin says much else without being snarky, that IMHO ought, taken together, to sink String Theory permanently."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IMD243VHGNW2"
+                },
+                "Date": "on February 27, 2009",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ6YJM2J2LNOP"
+                },
+                "Date": "on June 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DS552VD7ICKT"
+                },
+                "Date": "on November 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I like the basic premise - scientific research has a vested interest in supporting its own favored sons (ideas), and has a great difficulty seeing or supporting new thoughts. As many out-of-the-box thinkers, I also have suffered this prejudice in my own field of computer science, and have spoken out on this subject ([...]). I really liked the clear demonstrations of the limitations, if not outright errors, in the established theories, but I didn't love so much the use of the book as a soapbox to promote the author's personal theories and preferences..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MJSAAIAB84KX"
+                },
+                "Date": "on August 21, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Lee Smolin presents his case not for why string theory should be dropped, but why other theories should be pursued more vigorously. Rather than demonizing string theory, Smolin looks at the theory's successes and failures and then moves beyond that to discussing the sociology of science in general, and this is his main issue. Smolin says the system is set up to keep alternative theories out, while the fashionable theories get all the attention, and that this system is perhaps the reason why theoretical physics has been stuck for so long. Great book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARFU28J77R0TM"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book will likely be discarded by most of today's academic physicists, fascinating for interested laypeople, and embraced by non-conventional thinkers in the physics community.  For this amateur, innocent of mathematical physics and skeptical of \"scientific\" dogma, Dr. Smolin offers a refreshing perspective on the nature of science and the current state of academic physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QAPVAF6PGZF2"
+                },
+                "Date": "on October 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUBLN6JSK597E"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you wish to get an understanding of String Theory, this is the only book  I have been able to locate which is readable and very well written."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VWHZ2YAZSUMI"
+                },
+                "Date": "on April 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Smolin is is a theoretical physicist (at least part-time) so were he to use the actual language his profession uses I could not have gotten past the introduction. Instead he uses lots of normal people language, making his telling of the physics/math histories -- even some of their politics -- very readable. It's cool to think of these scientists as human. Smolin does a good job expressing the emotional side of his work, the ups and the downs. In terms of the \"problem\" he discusses, I leave his story wondering if our brains won't understand the next stage in understanding reality until or unless some kind brain evolution occurs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16J5PN97HUPPP"
+                },
+                "Date": "on March 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Lee Smolin has the ability to take a complex, almost indecipherable subject, like quantum physics and make it totally fascinating. This is not the usual egg-head type book and perhaps, that's the shame of it. Just the word, \"Physics\" almost put me off. I am not one to understand the inner workings of an atom or a star. But, this book was a complete and fascinating surprise for me. I almost could not put it down. I think I read it in four sittings. You will come away with a bit of an understanding of the time-space-thingy. but, you will really know about the fascinating world of physicists and the politics of learning institutions and the interrelationships between people of very high intellect- some are magnanimous, others insanely petty and selfish and still others are out right thieves and liars- Oh! Just like regular people, eh? An excellent reading experience and I strongly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A6TZ6Q8CH3CR"
+                },
+                "Date": "on January 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I was pretty skeptical when I started into this book, but it didn't take long before I found myself enjoying the read.  I didn't agree with everything the author was saying, but I have to admit, he makes a pretty persuasive case.  I still think string theory has a lot to offer and am not ready to see it tossed aside, but Smolin's claim that it is getting too much emphasis right now has some merit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28DMX1ZO33Y7A"
+                },
+                "Date": "on January 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Pure Enjoyment, and Enlightenment.  It furthered my knowledge in Science.  This area of knowledge is my main interest, and area of discovery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28VR4SC0GUP5Y"
+                },
+                "Date": "on November 5, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The subject of physics is normally explained with the extensive use of detailed mathematics which are extremely complicated in themselves and can often obscure the real meaning of the topic being studied. Smolin's book does what physic text books don't do-it explains complex subjects without reliance on mathematics. Ofcourse, for a complete understanding, complex mathematics would be required for the serious student to prove to themselves the validity of Smolin's explanations. Therefore, for a general understanding of a very complex topic, this book is a great read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MW3QT0Y539CI"
+                },
+                "Date": "on October 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I taught university physics for 36 years and I found this book to be a refreshing analysis of both the history of breakthroughs in physics and the confusion of recent years.  The discussion of the reverberations of successful unification theories was especially enlightening.  In a discipline that right now is rife with tons of speculation, it is not often one finds a practitioner who is willing to acknowledge troubles in the camp."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IL8UZ413RJB7"
+                },
+                "Date": "on October 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I found the book of interest and a worthwhile read. You should have some background as this in not intoductory material for first time readers in this area. At times the book becomes tedious, particulalry when the authour deals with his concerns over the current state of physics. I don't fault his view or positions, they were convincing and logical, but judicious editing would have helped the reader and reduced the redundancy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21FGSJ6P1GN7H"
+                },
+                "Date": "on May 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O7GMWFQTTAA8"
+                },
+                "Date": "on November 16, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I have to say I am now completely confused - for a long time I thought the string theory is nearly ready and there are just a few tweaks to make it work. After reading this book, I realized that the string theory may be a great hoax and we are as far away from knowing how the universe works as we were in 1980's. Thank you Mr. Smolin for opening my eyes!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A106MB2IVYFRWR"
+                },
+                "Date": "on November 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Smolin's critique of String theory is well thought out. It is not that he denies the possibility of string it is just that he sees that there is no way to prove it , there is no good evidence, though very elegent it is really not possible to create an experiment on it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA25V8QOWGQO3"
+                },
+                "Date": "on February 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A329JM85AFN8G0"
+                },
+                "Date": "on August 7, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFY2SVYJVVJB6"
+                },
+                "Date": "on April 24, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Smolin's effort is outstanding. In this excellent book, contemporary physics is described in a simple but brilliant way. I also read Brian Greene's books and I think that Smolin has the same capacity of making difficult concepts clear to the large audience, but in contrast to that, Smolin also tackles the much more challenging task of understanding what's wrong with today's science. I totally disagree with the comments of people who didn't enjoy the final part, I actually think it's what makes this book so good, deep and unique. Smolin makes a genuine, non ideological effort to understand why science today is not making any significant progress, he gives a very interesting epistemological definition of what science is and how it should work, and makes a brilliant analysis of the world of academics, whose mechanism can be better explained with sociology than in any other way. Smolin also helps the reader to understand what happened historically, how the transition took place from Einstein's rigorous style of doing physics, till to the contemporary transformation of science into a dogmatic, religious community. The world of academics resembles more and more to a clan in the hands of powerful, established professors, and therefore any attempt to bring innovation is made much more difficult than what it should be. Science has become a matter of power, fashion, economical survival, so can we still call it science? Shouldn't we be worried of what's going on? The critic towards string theory take a significant part of the book but fits within this frame rather than being a critic to the theory itself. I think Smolin couldn't be more objective on that, and he certainly masters the topic like nobody else. A long-awaited-for book, absolutely a must for those who care about the future of science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SELHGTVV0Y8D"
+                },
+                "Date": "on April 15, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZENR7J6Y4HOZ"
+                },
+                "Date": "on April 2, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQWNXAV1ZUC44"
+                },
+                "Date": "on October 13, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This is an excellently written book, very easy to read,and with only one typo that I noticed. It starts with an excellent overview of physics from a technical point of view, without getting too technical,but a good basic understanding of physics is really needed to grasp what he is writing about, and shows the authors grasp of the technical issues, and then gets into a philosophical view of the state of physics and science generally. As an interested observer of science I have certainly noticed the lack of really big discoveries in the last twenty years or so, and this book confirms my view. Also being more of a creative thinker,rather than a conformist, a 'seer' as the author describes it,I can totally relate to the problems faced by people seeking a career in science, and the need to conform to currently popular programs and research where economic imperitives take precedence over original thinking,or even fundamental work, and where universities operate to build an image to attract students based on hype over substance. Its what put me off a career in science, and a university education, as I'm not interested in doing what others want in return for money,career,etc. The authors comment about some of the best scientists of the past being wealthy enough to support themselves in doing as they pleased is a very important point in showing that creative people are wasted if forced to do the work others want done in order to survive. Which basically leaves only those who want to conform and have an easy life and easy career path, who want to be technical experts rather than big thinkers or explorers of new concepts. It excludes most risk takers and entrepreneurs from a career in science,as you would end up bitter and unsatisfied. This book really just confirmed alot of what I thought, what should be common sense. And it makes an important point that only a few people think creatively,so it would not cost alot to employ these people and take a risk on them, in the hope that long term they will produce big things, while delivering very little of measurable worth in the short term. The book also goes into the sociology of science and scientists. Something I realised along time ago to my suprise was that scientists suffer from all the normal human flaws of bias and blindness, tribalism,etc that average people do,and often end up in religious type devoutness to their beliefs or tribe. I would have thought science would not attract such people, but it does,as the authors experience shows in confirming what I beleived just from watching science shows on TV,etc. Science would be an excellent career if not for the fact it suffers from the same B.S. that afflicts most human organisations and puts people like myself right off getting involved at all. The author is smart enough to realise that science must attract talent and compete with others for it,and his criticisms are done out of love for science and physics,not hate. It is interesting to see how carefully he treads in crisicising others, which just goes to show how religion-like science had become, and how risky it is to be a heretic, which so goes against what science should stand for,like open debate, constant questioning of all beleifs,etc, when ego's start getting in the way you might as well do something else, as its no better than any other politics or belief system. If you care about science this book raises many important points ,although I suspect it will find an audience with those that sympathise with its views and have no effect on those that need to learn from it most,as they will have closed minds and take all criticism as an attack to be defended against.A very enjoyable read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F1NEYH7ZK0YA"
+                },
+                "Date": "on November 8, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABFQ966APYARM"
+                },
+                "Date": "on July 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LEWOQLTSUM46"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Many of today's discussions about cosmology rave about string theory. As a non-physicist it is difficult to form my own opinion about this as the mathematics needed to understand the theory is daunting. In this book however, Smolin has concisely explained the benefits of string theory as well as its weaknesses. Although it is easy to obtain an inaccurate view of the merits of a topic by reading a single book, this book appears to provide convincing arguments about why string theory is off track or that other avenues of basic research also need to be studied. I particularly liked the sections on the politics of scientific research. The importance of older high profile people in deciding the best scientific problems to study has not received the attention in the popular press that it should have. Too often the views of senior scientists are taken as gospel and, like in many other areas of life, these views are often incorrect. If you study the Arts in university it is well recognized that to get good marks in a subject you need to understand the lecturer's biases and feed them back to him/her during exams - independent thought in the Arts that is at odds with the lecturer only results in poor marks. It needs to be more widely appreciated that this also applies to scientific research."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19G0LN767XREM"
+                },
+                "Date": "on August 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is wonderful because the author knows precisely what a layman might find interesting about theoretical physics, and from the start it's his goal to explain real discoveries and the power of theory in a way that is easy to grasp. You will learn why the LHC is really important to physicists and why the Higgs boson is overhyped. The book was written before the LHC was turned on but I was able to intuitively grasp that the Higgs boson was not an exciting experimental discovery for physics, which was very gratifying. Smolin is a real science writer among the best, like Hawking or Stephen Jay Gould. The complex concepts involved might make it a slow read, but it is gripping from the start and not only makes a strong case against string theory but helps you understand the standard model, particle physics in general, and even why science works at all. It made me wonder what the reaction to this book was in the scientific community because it lays out the flaws of the string theory world so precisely. I wonder whether it has had a notable impact 7 years on."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI6WGAJ8Z92NL"
+                },
+                "Date": "on August 20, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14UOQYUYJE0QE"
+                },
+                "Date": "on July 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an enjoyable read; the physics is presented in an entertaining way, and who doesn't love a good enlightening argument. Smolin has been told once in a public forum (a BBC debate) that his arguments don't belong in such a mass-produced book and should be kept in-house on the arxiv.  Much of modern physics is funded by tax-payers, and Smolin does them a great service bringing this debate to their attention. Needless to say, the opposing side to this debate also have their books, Susskind's \"The Cosmic Landscape\" would be a good companion book to this one, for example.  Finally, it should be noted that this debate has been over-hyped in the press; science in general is full of energetic and sometimes vociferous debates.  It is a strength, and so Smolin's book shouldn't be seen as a sign of of disunity as much as it is a representation--in pop-science format--of the healthy back-and-forth that goes on in the field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AUYEJD621EHQ"
+                },
+                "Date": "on September 22, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E04D1HOQ0ZRM"
+                },
+                "Date": "on December 4, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "[[ASIN:061891868X  I only recently began reading the book but I was quickly impressed with the clarity and depth of Smolin's writing. The physics discussed in the long introduction and chapter one was impressively accurate and clear. I'm a physicist of the older generation and not a trained in particle physics although I do know the major results of the standard theory and so I benefit from his discussion and appreciate being further educated. For years I have wondered what has happened to string physics and was not impressed by the apparent paucity of its results. Doing very advanced math is useless if results are meager and seem unlikely to get better. It's too bad since there are many fruitful areas to study and put resources into."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3887W92PEP5FU"
+                },
+                "Date": "on February 8, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BSRH09QVV3BH"
+                },
+                "Date": "on March 21, 2007",
+                "Helpfulness": 0.6521739130434783,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38DKPHB8E5X8N"
+                },
+                "Date": "on June 21, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BBQJL1G5JQGL"
+                },
+                "Date": "on December 11, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Lee's book is all about envy. Envy related to his own point of view. Lee is a professional physicist and I can't blame him, revealing his emotions when it comes to string theory. It seems all true- a competition leading only to the Hall Of Fame. I liked his ideas. I love lee's way of grasping the Universe's sicrets through the realm of plain visualization. It is a breath taking testimony of our enigmatic nature, written by a man who kept his way in a humble and discreet way, analizing and rethinking again till his intelectual spirit flies free. The book is a masterpiece deserves a five stars rating but who gets it all?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VA170GUYGTB"
+                },
+                "Date": "on October 8, 2007",
+                "Helpfulness": 0.6428571428571429,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on March 2, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Richard Feynman is usually credited having said that \"philosophy of science is about as useful to scientists as ornithology is to birds.\"  This book seems to indicate that, given what string theorists are doing with and for science, maybe some of them are due a visit to the ornithologist..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6GS9FXY05TLB"
+                },
+                "Date": "on January 19, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JMUIUUKKU2GW"
+                },
+                "Date": "on May 10, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This is one of the best books I have ever read.  I loved it.  Lee Smolin is one of the most eminent theoretical physicists alive today, he contributed to the foundations of quantum mechanics, elementary particle physics and theoretical biology.  This book is interesting, insightful and intelligent.  I highly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATO9XRWKWG13I"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good product and good service."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ESAAXHJE9FHN"
+                },
+                "Date": "on May 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I enjoyed reading this book because of the way the author asks questions about the way science is done. It explains a bit of how science has made its progress and the problems it faces right now. On the other hand, there are some chapters in this book that are only about the author showing off what he has done in the field. I like the fact that he did interesting things but I don't need to be reminded of that every 10 words...especially if the book is about the future of physics, not a biographical work. I recommend this book to anyone who's interested to know how the academy works, and to anyone who wonders why there aren't any big minds such as the ones we had in the past century."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FEMJH8XVLQO4"
+                },
+                "Date": "on November 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32Q6TMGTLYGTW"
+                },
+                "Date": "on September 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I love Lee Smolin's passion and style of writing. Even if you weren't crazy about physics, you would still enjoy this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DHCM5C1H6UL8"
+                },
+                "Date": "on July 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A well written, easy to read book which describes the state of physics and the institution of physics. Never thought I would say this. ... I liked it so much I bought a copy for my son too!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG7G7EI5YMFE7"
+                },
+                "Date": "on January 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a well written and informative book on the state of physics today. You don't require any knowledge of physics, just an interest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI0RR6SGS01W"
+                },
+                "Date": "on December 19, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have a life long fascination with all aspects of Science.  Although I am not a professional physicist, I have read many books on relativity, quantum mechanics, string theory, and related topics.  Smolin's book has emerged as my single favorite for one very simple reason: the realism and balanced view he brings to the subject.  I agree with him completely on his analysis of the limits of current M-theory articulations and welcome his reassertion of the scientific method into the debate.  If it isn't  falsifiable it just is not science in my opinion.  I highly recommend this book to anyone who has been overwhelmed by all the apparent complexities of string theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37CPZKVXUHYB7"
+                },
+                "Date": "on December 12, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Fun read about the history of physics, although you might need prior understanding to really appreciate the story it tells."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUQ1USPHAXMNU"
+                },
+                "Date": "on December 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34I6TIOKN5B6M"
+                },
+                "Date": "on December 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am about as science literate as a nail clipper, I like to stretch my tiny mind every once in a while and , I have been stretched, twisted and I love it.  I may have to read it again to understand what I know, but WOW, physics is the bomb.So read this book, get physical!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OXH8BA0PYKWE"
+                },
+                "Date": "on November 28, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Super particles should have been seen by the LHC by now! Smolin has written a good book about the historical development of theoretical physics and where it might go. This book had to come out as string theory has gained a too broad acceptance without experiments confirming it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOD5A4Y3J5D6X"
+                },
+                "Date": "on November 23, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Smolin gives a history of most of the great discoveries and insights in Physics, an explanation of the how and why of those discoveries, and a critique of the present situation in that field today, all in one book, and in a way that someone with little background in mathematics can understand, most of the time. Even when he lost me, for example, in introducing gauge theory, Smolin was able to keep my attention and make me want to read on."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GDDUV3HB8QXQ"
+                },
+                "Date": "on November 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Everyone who cares about science, education and the future of our country should read this book. Dr. Smolin explains in very lucid terms the fundamental questions remaining to be answered in foundational physics and gives an equally articulate overview of recent theories.  The last section of the book gives an honest and courageous analysis of the pervasive culture in academia that no longer nurtures the most able and creative members of our species. While this has had profound effects on progress in physics, it is by no means limited to this discipline.  Squelching the creativity of the gifted child all too often and sadly starts in preschool and doesn't improve as the years go by."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UNTTVZU9C9XN"
+                },
+                "Date": "on November 20, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Am not an active Physicist. I try to floowe along as things develop. It was a very good read for me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABZ8ZI83ST1LG"
+                },
+                "Date": "on November 10, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ENOK4ZW26NDH"
+                },
+                "Date": "on November 1, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APTJHS0XXV2NC"
+                },
+                "Date": "on October 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Dr. Smolin's characterization of the state of physics is a worthwhile contribution to the public dialog on the status of scientific endeavor.  As with everything else in the world, the power of money has more to do with scientific progress than anything else.  I am glad that Dr. Smolin has made the effort to set down the issues.  The fact that 97% of the content of the universe is unexplained must give any thinking person pause.  Clearly this represents an unprecedented opportunity. To take advantage will require a fresh approach.  \"The Trouble With Physics\" presents a perspective on where we are, how we got here, and where a new approach might originate."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O7TVXRWTFVOJ"
+                },
+                "Date": "on October 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book gives a lot to think about.  It gives a lot of physics history and a lot of concepts without mathematics, but explained in an understandable way.  The criticism of stirngs theory not being experimentally justified has been covered by many others, but this book explains the problems in manner that helps you understand what has been happening is physics even if you are like me and have trouble understanding some scientific american articles.  It is quite an easy read for a complex topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NQWE98R8KU0X"
+                },
+                "Date": "on November 6, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AC1FX5AMBBNW0"
+                },
+                "Date": "on June 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Smolin gives us a history of science lesson and then goes on to show what the problems with String Theory are.  Very readable.  String Theory is a money and mind black hole.  It's consumed some of the best intellects in science for far too long.  Yet it has yet to provide any demonstrable prediction.  Give it up, guys.  Start looking elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE9J2C24IMHUV"
+                },
+                "Date": "on January 21, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Smolin presents the development of different theories of unification and their relation to laboratory results. Some, especially string theory, cannot be proven as yet, so he does not see the need to give it the importance that it has in the physics community. Surprising ideas given that he had worked in the area. Regrets, but overall very good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25IDX5MB4YTOV"
+                },
+                "Date": "on June 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I read this, trying to update my lapsed chemistry with an understanding of physics.  Not reading it for the exact argument he was making, it became my best tutorial in understanding the standard model and string theory.  Only one topic did he skip out on explaining, where I had to consult other sources. This made an excellent textbook for me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJU9UHDDJF7ED"
+                },
+                "Date": "on February 23, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALM4IEUBS4X07"
+                },
+                "Date": "on September 14, 2013",
+                "Helpfulness": 0.625,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HLX66IQ5JW96"
+                },
+                "Date": "on June 15, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I am really enjoying this book.  Smolin takes the rather difficult concepts and get you through them with ease. I also found smolins desire to stay balanced and still stick to the precepts of science and scientific discovery as enlighting and refreshing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ORP9N76WEXMX"
+                },
+                "Date": "on March 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I liked this book very much. I have read several other books on this subject but found none more compelling. It's the nature of this topic to sound a bit like whining but Smolin manages to stay on topic better than others."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI0E20CLAUZ5P"
+                },
+                "Date": "on October 15, 2006",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "4",
+                "Text": "After years of spirited propaganda by string theorists purporting to have stumbled upon the ultimate theory of nature, we now have a revealing, tell-all tale that throws back the covers on what has turned out to be the most intellectually disengenuous ruse in the history of science - the continual presentation of string theory as the be-all, end-all theory of everything -  despite its utter lack of predictive power, its failure to predict dark energy, its myriad of versions, and its reliance on anthropic reasoning. Smolin, along with Peter Woit (who also dared to go against the 'establishment') should be thanked for bringing this house-of-crashing cards to the public's attention. Despite pitiful and below-the-belt attacks and outright dismissal by members of the 'stringy' establishment, including a scathing and unprovoked attack by a theorist from Harvard who sees a threat in works of this nature, Smolin gives us a thoughful and provoking look at the many failures (and occasional mathematical successes) of the most overhyped theory in the history of science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18ORDNV3IVEO2"
+                },
+                "Date": "on August 29, 2007",
+                "Helpfulness": 0.631578947368421,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EEEF5H5AP0BY"
+                },
+                "Date": "on April 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is one of the most thought-provoking books I have ever read.  In fact, I read different chapters over and over again for new insights the way some people re-read the Bible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PJ84XF1Q2WAX"
+                },
+                "Date": "on June 22, 2009",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "Highly recommended book for those who is interested in the state of affairs of modern physics. Unorthodox, honest, provocative, challenging the stereotypes. Nevertheless I have an impression that the author is driven by the same \"dream of the final theory\" as those string theorists he is polemicizing with. Are the four problems he states at the beginning of the book really \"physical\"? Hasn't the author fallen into the same trap of pursuing metaphysical issues as Einstein and the other model-builders, including string theorists? The book forces a reader to think about what is physics, which in my opinion is its main achievement."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3COUPZCSHH8BR"
+                },
+                "Date": "on May 12, 2007",
+                "Helpfulness": 0.6333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APJST3K9M5JKR"
+                },
+                "Date": "on August 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent, in depth critique of current focus on String Theory.  Especially good on the results of the narrow focus on this theory in the academic world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LVTAIS6LSLUA"
+                },
+                "Date": "on July 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very interesting, thoughtful and provocative.  One probably needs to have studied physics to fully grasp the depth of Smolin's arguments."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IMVUPYZM1BSC"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The Standard Theory wins hands down! Smolin writes very clearly and demolishes String Theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15X60NOGL3WDW"
+                },
+                "Date": "on March 28, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2696PCDQMITXK"
+                },
+                "Date": "on October 3, 2006",
+                "Helpfulness": 0.6153846153846154,
+                "StarRating": "5",
+                "Text": "What is really cool about this book is its survey of theories of physics that have been considered since the renaissance to the present. It describes both successful theories and unsuccessful ones. Its discussion of unsuccessful attempts is very insightful, and many of the theories discussed I have never heard of before. Its survey of string theory at a lay-person level is the most detailed yet readable I have seen anywhere. I also very much like the insights into the mindset of how successive generations of physicists worked. I still have about a hundred pages left to read -- the review whim comes rarely to me, so I striking while its still hot -- but at this point this book get a definite thumbs up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R504QEK5URRL"
+                },
+                "Date": "on November 23, 2007",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JZKFVW5WY7N6"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I am a PhD in psychology so I am probably a little biased but I think Lee Smolin has fulfilled the most important role of bringing the story of science to the general reader.  Smolin's treatment of the nature of science and models in science are the best I've every read.  He does his best to make clear very abstract topics is physics and cosmology and for the most part has succeeded in my opinion.  It's best to read this book without stumbling over sections that simply require some science/physics training, just keep reading as I did and Smolin will let you get the overall picture and this picture will be very rewarding to everyone who makes the effort."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z5UBRTCCTTDW"
+                },
+                "Date": "on August 30, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36J9UU8JBOAT9"
+                },
+                "Date": "on November 22, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "Most of the descriptions of string theory in this book will be over the heads of most readers, but the author does make some important points.  My interpretation of what I read is that string theory gets too much support among physicists, and it probably has much less merit than is widely supposed.  My sentiments exactly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1THQI3B3VAUGS"
+                },
+                "Date": "on January 3, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "I have a PhD in physics and really appreciate what the author attempted to do, in this wide ranging work. The main lesson I drew from this book is parallel to the muscle bound theories of brane world physics, which exclude LQG's quantum bounce, and vice versa. Eventually a major re do of the early universe theories is in order, and likely Smollen will be the person who can do it. As a dabbler in terms of cosmology, I can only wish people of Smollens calibre good luck in what will be an exciting period of theoretical physics, once people learn enough to be able to do the necessary investigative leg work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TMMK905KJWQD"
+                },
+                "Date": "on May 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This Lee Smolin's book It's not clear at all in concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWUTC5XCTT4VF"
+                },
+                "Date": "on December 21, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "One of the most balanced and factual account of the current state of the art of Physics I have read. I wish I could get a more indepth reasoning of the unsolved problems in Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZG1DO6CKSLRC"
+                },
+                "Date": "on January 4, 2007",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K2V1YYIW2SF7"
+                },
+                "Date": "on December 1, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "Lee spends a lot time explaining why the string theory may not be a valid approach to atomic structure, but doesn't in my view claim one for himself."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BQLR5PT00K0Q"
+                },
+                "Date": "on July 17, 2007",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "The best review of a scientific field I have ever read. This book has really stimulated my interest in unification physics, Lee Smolin has done a superb job in presenting a very complex and confusing subject- it held my attention life a good mystery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13TAD6IMRLJUN"
+                },
+                "Date": "on September 20, 2006",
+                "Helpfulness": 0.6060606060606061,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT2R7ZVT7QYOU"
+                },
+                "Date": "on July 8, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on December 14, 2006",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21M291K1IN2D0"
+                },
+                "Date": "on August 30, 2007",
+                "Helpfulness": 0.5882352941176471,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFR6GDLDYBIQL"
+                },
+                "Date": "on September 1, 2006",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17NFZ5G12QELI"
+                },
+                "Date": "on December 15, 2006",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": "This is an excellent book that discusses that how real progress is made in science and how some hype in some field could slow down the progress in science, as in the case of string theory and its effect on progress in physics. A must read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H5ACRBA5R94K"
+                },
+                "Date": "on March 17, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN8BVKNIX37HY"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "He's a hard read sometimes but worth it. Not a bedtime read, at least for me. Deep and dense. You have to revisit ideas and explanations on occasion... We'll I did."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WGXJMV34TNWG"
+                },
+                "Date": "on July 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The emperor has no clothes - and Smolin illustrates it perfectly. There must be some truth in what he says as the string theorist are reduced to throwing stones."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKLAKAUH4XTPY"
+                },
+                "Date": "on November 16, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I got this book because I had read a book about string theory before.  Now I don't know much about physics but this book was an interesting and easy read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALXB8RERGC7SB"
+                },
+                "Date": "on November 17, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XYG8LV1688SY"
+                },
+                "Date": "on November 4, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Dr. Smolin is the best author anywhere in explaining the obscure theories of modern physics, in his Life of the Cosmos and this fine book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX37WX8N7SU3R"
+                },
+                "Date": "on July 3, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "It was refreshing to read an opposing viewpoint and criticism of string theory.  Smolin provides a reminder that physicists have gone far beyond emperical support in theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VTL7PJQZL9YI"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Friend recommended, the author shows his understanding of the universe at the preface already. LOL. Good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APDX951IRHB95"
+                },
+                "Date": "on April 18, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L2B2X6JWJ9YG"
+                },
+                "Date": "on July 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "He's O K for a theoretical physicist.  Ken Kendall, PhD, Experimental Physicist"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A282JVPCW7Z9HD"
+                },
+                "Date": "on January 29, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1756UX359OCIJ"
+                },
+                "Date": "on October 4, 2006",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGA3US4J33LJ5"
+                },
+                "Date": "on October 17, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9C8GEBNAWOUV"
+                },
+                "Date": "on June 14, 2009",
+                "Helpfulness": 0.5878787878787879,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X36Z8UB7L2NP"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I like his open-minded approach to science, physics specifically, on why theories must be taken with a grain of salt. When he states that that speed can go faster than light's, I tend to agree with this heretical thought. Light travels NOT in constant speed, all because light has different wave length components. And I maintain that entropy does NOT increase with time, that in theory the universe in entirety aims for perfection; that the \"destruction\" or \"mess\" created in the universal individualistic processes create the stages for the next spiral for \"greater glory\" without implicating any religious meaning to this assertion. Nowadays, another U-turn is taking place: that the Black Hole is not an inescapable locale, that in theory Black Holes are picky devourers, that only a minuscule of the matter and energy that pass through a Black Hole (about 5%) are kept. I expect that before man can come to A Grand Theory, many of what science accepts now as theory is just the seminal start of a hypothesis."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E4JU1MYNX3J7"
+                },
+                "Date": "on December 9, 2012",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": "I'm wanting to understand my universe better but at age 57, much of my current upgrading comes from the history and national geographic channels. I'm only 45 or so pages into the book and I read it in doses... I just barely follow all of the references to all of the theories and their details (sometimes I feel I need to stop and read a book about each subject quickly and then return). I appreciate the purpose of unification and it is basically why I am reading this book. I will finish this book and be glad I did but as reading is recreational and thinking on this level is closer to hard work than fun... there is just enough content to keep a motivated reader (me, who wants to better understand the universe) moving slowly through the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADYNX51YCZOIY"
+                },
+                "Date": "on July 19, 2012",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": "I do not believe in String Theory. The genius of Einstein was that his brilliant ideas lent themselves to immediate real world experiments and verfication. Methinks string theorists have jumped off the deepend into a hopeless phantasmagoric mire of might-be, may-be, could-be's. Theorists seem to be a dime a dozen. We might have to wait another century for another genius."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA1VUYE3PF5SP"
+                },
+                "Date": "on December 26, 2007",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IRU9I0BS9UB1"
+                },
+                "Date": "on May 2, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KFCZF2V2FS62"
+                },
+                "Date": "on October 15, 2009",
+                "Helpfulness": 0.5365853658536586,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARSZTBGXRZ3OV"
+                },
+                "Date": "on November 19, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K44TX68IBCNW"
+                },
+                "Date": "on May 14, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "This is a mature, unbiased and informative analysis of an important aspect of science that is generally hidden from public view. It is also an enjoyable read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O1BQ499WT7IZ"
+                },
+                "Date": "on August 13, 2008",
+                "Helpfulness": 0.47368421052631576,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TNDOFRL1WJUA"
+                },
+                "Date": "on December 5, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This is a complex subject but the author does tend to go on and on and on.  Make sure you have an intense interest in the state of modern physics or you will never get through this book.  Not saying it isn't a good book, just for special tastes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26CHB19WEZWY9"
+                },
+                "Date": "on May 30, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "This book is not an easy, light read for the beach.  However, it is very interesting to someone who is curious about the current state of physics and research.  I appreciated the effort the author made to make the book accessible to a lay person who is not a physics scholar."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJRMVNFHK230W"
+                },
+                "Date": "on September 27, 2008",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": "Excellent read.  Smolin's critique of string-them-along string theory in What's Wrong with Physics is greatly superior to Greene's cheerleading treatment of the same topic in The Elegant Universe.  It is interesting the way that physics is being corrupted in a similar way to the financial system in the current crises causing a meltdown on Wall Street: people spewing out equations that nobody really understands and that have little relation to reality.  But Smolin, while enlightening in his insider insights into the achievements and failures of string theory, falls into many of the same faulty assumptions of contemporary physics.  My own view is that special relativity was fairly brilliant, but general relativity is essentially flawed.  Physicists pay too much homage to Einstein, without admitting that he could be wrong.  Remember that nobody has ever found a gravity wave, but general relativity appears to be premised on their existence.  It would be more profitable to seek to create a theory that explicitly makes gravity waves impossible than to continue to believe in any theory where they exist.  And the entire program of unification is suspect.  Why should the Universe require unification when everything we know points to simply finding, over time, that it contains more and more things and phenomena -- different laws at different scales of spatial dimension -- and becomes bigger and bigger than we ever thought before?  The Universe seems to require diversity, not unification.  And while physics flounders, there are legitimate advances in related fields: our understanding of the information sciences and the concept of entropy appear to be critical for any advances in physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OEHYPKNQR6AN"
+                },
+                "Date": "on October 20, 2007",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXCPT2GW923MU"
+                },
+                "Date": "on October 13, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I don't read very much since I read slow but I was glad I finished through this book.  There is a very good background of the state of physics in the first 3/4ths of the book.  The ending could be skipped if you aren't all that interested in the authors prescriptive suggestions for addressing the state of academia and research funding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TRMXABPHRFLL"
+                },
+                "Date": "on November 11, 2006",
+                "Helpfulness": 0.35294117647058826,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACOB5LDH7YSGH"
+                },
+                "Date": "on January 3, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book provides an excellent description of the evolution of the field of string theory. Besides a good introduction to the theory itself, the book provides excellent insights in the human aspects involved in the dynamical development of this field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUYMOTS61Y1HK"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I got this book more as an examination of politics inside academia,  and it ended up being a quagmire of physics information I didn't care to learn.  Plus, they found the Higgs boson, which was the trouble with physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DYXCF4148PJT"
+                },
+                "Date": "on October 4, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book provided several discussions pf physics and quantum theory. its good because the author speaks of the history the the originators of physics theory and the current champions of thought."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W9QGPSE3H0NO"
+                },
+                "Date": "on December 12, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I am not enthralled by this one. It was purchased for something to read and I read it when I am not graced with another book or the internet connection..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1982SL9723QI"
+                },
+                "Date": "on May 30, 2007",
+                "Helpfulness": 0.23076923076923078,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6431R3HYL004"
+                },
+                "Date": "on July 26, 2009",
+                "Helpfulness": 0.45,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LP7XAZ7KMU8Z"
+                },
+                "Date": "on May 24, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LW6L7NFMAE7Y"
+                },
+                "Date": "on July 20, 2007",
+                "Helpfulness": 0.43333333333333335,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE39034BT1CI2"
+                },
+                "Date": "on October 26, 2007",
+                "Helpfulness": 0.3,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A367CBUN4K190J"
+                },
+                "Date": "on May 26, 2007",
+                "Helpfulness": 0.17647058823529413,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22ES2WG0TB9QQ"
+                },
+                "Date": "on October 30, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I've only got through 24% after three weeks. It takes a real nerd to get through this stuff. And to think that all I wanted to understand was string theory. HA! Big question is should I apply the 30% toss rule."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DTSET17K9R0Z"
+                },
+                "Date": "on April 27, 2011",
+                "Helpfulness": 0.18181818181818182,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4D1MA1CC3OK3"
+                },
+                "Date": "on August 21, 2007",
+                "Helpfulness": 0.09523809523809523,
+                "StarRating": "4",
+                "Text": "Always knew physicists made things up to suit their sensibilities. I knew it 25 years ago - Balanced particle creation, beautiful theories.  It all smacked of too many special brownies.  Always bothered me as I pursued my education."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13B4XDSPHVU46"
+                },
+                "Date": "on December 2, 2006",
+                "Helpfulness": 0.3192771084337349,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26N8DG7HCHCJC"
+                },
+                "Date": "on September 14, 2009",
+                "Helpfulness": 0.05,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EHIUOAG8PJC4"
+                },
+                "Date": "on January 22, 2007",
+                "Helpfulness": 0.22727272727272727,
+                "StarRating": "3",
+                "Text": "Unfortunately this reminds me of the furore over einstein's theory of relativity some decades back, (and newton's calculus further back), when it was roundly attacked by people who did not apparently understand it very well.  It seems that here many reviewers are saying, well I did not understand string theory, and now thank heaven the author has given me leave not to.  Books in which the author claims to be on the right track and to be exposing others as charlatans tend mostly to have a short halflife in the intellectual firmament."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JVOS0PNUGM50"
+                },
+                "Date": "on September 7, 2009",
+                "Helpfulness": 0.18518518518518517,
+                "StarRating": "1",
+                "Text": "I downloaded the free sample, and was impressed enough to buy the book in a Kindle edition. It downloaded (after a long time) to my Kindle, but was unreadable, and wouldn't download successfully at all to my iphone. Amazon ignored my on-line plea for help. A few days later, by telephoning the Amazon help desk, I was told that the file was faulty, and that I would be issued a refund, the Kindle version of the book would be withdrawn from the Amazon website, and the publisher would be contacted to prepare a new Kindle file, which might take months. None of these things has happened yet, a week later. Doesn't Amazon test Kindle files before putting them on sale?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RO5NF0U4QJ38"
+                },
+                "Date": "on March 11, 2009",
+                "Helpfulness": 0.22916666666666666,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7F70SOXP2RFZ"
+                },
+                "Date": "on February 16, 2012",
+                "Helpfulness": 0.04,
+                "StarRating": "1",
+                "Text": "People should be able to research what they want and not be ridiculed just because they have some clever ideas. My professor is from Harvard and paid more attention than this author and he is a string theorist, and should not be ridiculed. From my personal research on the subject I feel that the aspects string theory I have focused on are very likely because they explain alot. Does that mean I should be ridiculed? If you don't like something, forget about it and write about something you understand."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Trouble-Physics-String-Theory-Science/product-reviews/061891868X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "231"
+    },
+    "Salesrank": "#120,277",
+    "Timestamp": "2015-05-24 13:01:30.568600",
+    "itemurl": "http://www.amazon.com/Trouble-Physics-String-Theory-Science/dp/061891868X"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$175.80",
+    "Name": [
+        "College Physics Volume 1 (7th Edition)"
+    ],
+    "OfferPrice": "$164.63",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36BG6NKC0DGZ0"
+                },
+                "Date": "on March 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Book was in very good condition but it is better to get the full version if you plan to take college Physics I and II"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOBQ5W34K6PNH"
+                },
+                "Date": "on September 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "happy with the purchase"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-7th-Jerry-Wilson/product-reviews/0321592700/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#303,875",
+    "Timestamp": "2015-05-24 13:14:03.900122",
+    "itemurl": "http://www.amazon.com/College-Physics-7th-Jerry-Wilson/dp/0321592700"
+}

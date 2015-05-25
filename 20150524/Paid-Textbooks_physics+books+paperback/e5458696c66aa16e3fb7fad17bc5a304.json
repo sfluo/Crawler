@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Rational Mechanics: The Classic Notre Dame Course (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$19.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFUSN58Q4WN71"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an interesting introduction  to a wide swath of modern mathematics using the history of astronomy and mechanics (in modern ideas and notation) as the vehicle. I am a bit prejudiced since I was in Taliaferro's last time through the class in 1971-72. His class and his advising had a permanent impact on me, leading me to a PhD in mathematics and years of teaching, as well as sparking my interest in the history of mathematics which became my research interest. I can still hear his voice as I read the book. I wonder if the problem sets and exams can be made available on a website?"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Rational-Mechanics-Classic-Course-Physics/product-reviews/0486499820/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#682,782",
+    "Timestamp": "2015-05-24 13:02:34.525450",
+    "itemurl": "http://www.amazon.com/Rational-Mechanics-Classic-Course-Physics/dp/0486499820"
+}

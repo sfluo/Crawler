@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Physics of Fully Ionized Gases: Second Revised Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.41",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMJVO1KUHU66N"
+                },
+                "Date": "on December 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A bit dated, but still the standard reference for fundamental plasms physics formulas."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Fully-Ionized-Gases-Revised/product-reviews/0486449823/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#795,146",
+    "Timestamp": "2015-05-24 12:30:07.066479",
+    "itemurl": "http://www.amazon.com/Physics-Fully-Ionized-Gases-Revised/dp/0486449823"
+}

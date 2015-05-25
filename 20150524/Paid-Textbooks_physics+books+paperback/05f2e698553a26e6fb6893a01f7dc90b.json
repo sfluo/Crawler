@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "An Introduction to Relativistic Quantum Field Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$38.45",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A48FLQDEE3655"
+                },
+                "Date": "on December 6, 2008",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PJC2U3JR3VC5"
+                },
+                "Date": "on May 18, 2012",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "As I re-learn quantum field theory, I've sorted through almost all the standard texts.  I have gained a new appreciation of Schweber's book.  It contains many detailed calculations that are hard to find elsewhere.  It is long because it does out calculations, clearly and carefully.  If nothing else, it is a really good reference to have at hand as you work through newer texts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LJ0CIC4CPENU"
+                },
+                "Date": "on August 24, 2013",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16NMJCCSGJADT"
+                },
+                "Date": "on January 11, 2012",
+                "Helpfulness": 0.26666666666666666,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Relativistic-Quantum-Theory-Physics/product-reviews/0486442284/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,132,812",
+    "Timestamp": "2015-05-24 12:44:41.102925",
+    "itemurl": "http://www.amazon.com/Introduction-Relativistic-Quantum-Theory-Physics/dp/0486442284"
+}

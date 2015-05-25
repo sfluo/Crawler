@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Scientists and Engineers (Student Solutions Manual  & Study Guide) Volume 2"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3COU355HHSV7V"
+                },
+                "Date": "on September 13, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is an excellent accompaniment to Volume Two of Serway and Beichner's \"Physics for Scientists and Engineers\" and great practice for any student taking a 1st-year college survey course or High-school AP class (A or B only) in Physics. The book consists of practice problems (with step-by-step solutions) arranged in tandem with the topics covered in the textbook (they're actually taken from the practice exercises in the textbook): as physics is a comprehensive course, the problems get more challenging as one progresses, but I'd only expect the same to be true with the tests and quizzes (at least that's how it worked in my physcis class). The solutions moreover, (which should you only turn to when you're done with the problem) provide the mathematical steps to each answer without much textual explanation: some find this frustrating but the way I see it, it forces you to think in a scientific matter (which, I'm assuming, is necessary if you are planning on becoming a scientist or engineer)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Student-Solutions/product-reviews/0534408567/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,207,199",
+    "Timestamp": "2015-05-24 13:12:15.965906",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Student-Solutions/dp/0534408567"
+}

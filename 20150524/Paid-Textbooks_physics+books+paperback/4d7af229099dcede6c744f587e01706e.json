@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Quantum Challenge: Modern Research on the Foundations of Quantum (Jones and Bartlett Series in Physics and Astronomy)"
+    ],
+    "OfferPrice": "$36.08",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CLWXGQTVVV6Y"
+                },
+                "Date": "on June 17, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the best book available, by far, on experimental results of the quantum measurement problem. It is one of the few books that are beyond popular accounts, which generally do not have the depth necessary to understand the measurement problem, and - on the other hand - very technical quantum optics volumes. I give it my highest recommendation for anyone with some science background to become acquainted with the quantum measurement problem in detail. It is a triumph and comprehensive in its coverage and reference to quantum measurement experiments. Every scientist should read this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21XFDCQ5IQBO9"
+                },
+                "Date": "on August 24, 2006",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I7XR3VHC94AT"
+                },
+                "Date": "on December 29, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SLLML7XWCLDN"
+                },
+                "Date": "on October 2, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHWLVQYYLV8J"
+                },
+                "Date": "on July 23, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on February 5, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1300PI364NEUC"
+                },
+                "Date": "on June 7, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am a professional physicist working in industry today; my PhD research was in quantum field theory.  I am also a philosopher of and now amateur researcher in quantum physics foundations.  I purchased this book on the recommendation of a colleague some years ago, and since have read it cover-to-cover three times.  This book is well written with citations and reproduction of real data directly relevant to the core of what Bohr and Einstein debated nearly a century ago.  Real data from real experiments are connected to these questions, showing that Bohr was remarkably correct in his foresight.  This book nicely documents one of the two most profound teachings to human-kind in the 20th century.  It does a superb job of teaching the real meaning of quantum mechanics in technical depth that is satisfying to the expert, and yet provides clarity that can help the curious philosopher to appreciate the findings. For all of my students this is required reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXVR8V74AX8V2"
+                },
+                "Date": "on June 26, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book has the best explanations of the Bell test experiments and other experiments that make quantum mechanics so puzzling. It explains everything from scratch, but some sections will be difficult unless you already know some quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DBYDKFOCLEZE"
+                },
+                "Date": "on January 1, 2005",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 2, 2000",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "3",
+                "Text": "This book, is like having a physics proffesor tell u what is Quantum  Mechanics, \"Forgets your a newbie Student\". It tries to bring u  the basics but relies on prior knowledge of it ?! Allthough it is updated  (unlike older QM books) and gives you a good perspective of the theory. The  first 3 chapters are clear more or less ( Still with prior knowledge ) but  the rest relies on very advanced knowledge. Not a good book to start with.  Usefull if you have firm foundation of Quantum M. and want to contemplate  the interpetation of it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Challenge-Research-Foundations-Astronomy/product-reviews/0763702161/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#642,628",
+    "Timestamp": "2015-05-24 13:18:39.746656",
+    "itemurl": "http://www.amazon.com/Quantum-Challenge-Research-Foundations-Astronomy/dp/0763702161"
+}

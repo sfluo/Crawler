@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Reflections on the Motive Power of Fire: And Other Papers on the Second Law of Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.52",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F88WLCO6SDAB"
+                },
+                "Date": "on November 1, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASV1Z898YWM28"
+                },
+                "Date": "on June 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Carnot's forgotten masterpiece, Clapeyron's memoir that enabled Kelvin and Clausius to rediscover it, and Clausius' milestone work that put thermodynamics on a solid scientific foundation. For those studying classical thermodynamics or the history of science, this is an indispensible book. Carnot's posthumous notes (a fascinating insight into the man's genius) and Eric Mendoza's finely written introduction add further to its timeless appeal."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R2WP1CMA6O96"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book in early 19th century led to the second law of thermodynamics. This 'law' has not yet been recognized by our EPA. My high school French is not up to the original so I get this translation for reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MQB5NP6RESTP"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very good!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWGY6IF82S2I5"
+                },
+                "Date": "on November 23, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Carnot was one of the original, original thinkers. His work gave birth to modern day thermodynamics. Sadi Carnot is one of the giants on whose shoulders we stand."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Reflections-Motive-Power-Fire-Thermodynamics/product-reviews/0486446417/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#595,416",
+    "Timestamp": "2015-05-24 12:49:52.484602",
+    "itemurl": "http://www.amazon.com/Reflections-Motive-Power-Fire-Thermodynamics/dp/0486446417"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$13.95",
+    "Name": [
+        "Applied Nonlinear Optics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$12.72",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A200F3BFUK8F1S"
+                },
+                "Date": "on July 12, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Not with complicated theory, but sufficient to understand the phenomena and applications. One word: practical."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applied-Nonlinear-Optics-Dover-Physics/product-reviews/048645360X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,215,745",
+    "Timestamp": "2015-05-24 12:48:36.061020",
+    "itemurl": "http://www.amazon.com/Applied-Nonlinear-Optics-Dover-Physics/dp/048645360X"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Readable Relativity (Dover Books on Physics)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K72WII48E8F2"
+                },
+                "Date": "on April 11, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I read \"Readable Relativity\" back in the 1970s. I was a physics major and wanted a quick overview of relativity before taking a formal class. I have to say that it was very useful in helping to grasp relativity and made the subsequent course much easier to understand. There is some simple math in the book, but anyone with high school math background and an interest in physics will be okay with the level at which it's presented. You won't qualify for an advanced degree in physics after reading it, but you'll be one-up on anyone you know who's not a physicist. Great starter book for the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11K8WLDIEBCKS"
+                },
+                "Date": "on January 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Readable-Relativity-Dover-Books-Physics/product-reviews/0486432572/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,996,847",
+    "Timestamp": "2015-05-24 13:22:57.013878",
+    "itemurl": "http://www.amazon.com/Readable-Relativity-Dover-Books-Physics/dp/0486432572"
+}

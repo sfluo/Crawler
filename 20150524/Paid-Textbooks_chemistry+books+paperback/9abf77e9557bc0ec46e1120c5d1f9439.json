@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Reaction Dynamics (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$23.75",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABLISIQ90DXS"
+                },
+                "Date": "on March 17, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L00O3VNE0SWQ"
+                },
+                "Date": "on December 15, 1999",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "This book gives a good experimental and theoretical introduction to reaction dynamics. And its cheap too."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Reaction-Dynamics-Oxford-Chemistry-Primers/product-reviews/0198559070/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,035,840",
+    "Timestamp": "2015-05-24 15:21:14.692169",
+    "itemurl": "http://www.amazon.com/Reaction-Dynamics-Oxford-Chemistry-Primers/dp/0198559070"
+}

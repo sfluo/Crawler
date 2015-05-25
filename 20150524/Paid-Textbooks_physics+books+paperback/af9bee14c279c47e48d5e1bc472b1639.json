@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Solutions Manual College Physics"
+    ],
+    "OfferPrice": "$83.70",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX01XRKA10X46"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A318ICFEH7NC3A"
+                },
+                "Date": "on November 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It has concise steps. Not just answers. The answers are for odd numbered problems only."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APLH699E75I1Y"
+                },
+                "Date": "on September 10, 2013",
+                "Helpfulness": 0.4,
+                "StarRating": "1",
+                "Text": "Worst $75 dollars I've ever spent. There are only a handful of solutions for each chapter and they aren't all that \"detailed\"."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Manual-College-Physics/product-reviews/0077437888/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#600,782",
+    "Timestamp": "2015-05-24 13:34:18.520467",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Manual-College-Physics/dp/0077437888"
+}

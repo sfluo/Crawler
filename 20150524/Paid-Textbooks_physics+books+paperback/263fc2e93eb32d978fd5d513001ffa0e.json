@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$44.00",
+    "Name": [
+        "Problem Solving in Conceptual Physics for Conceptual Physics, Tenth Edition"
+    ],
+    "OfferPrice": "$30.79",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FW8JXJFL84KA"
+                },
+                "Date": "on April 15, 2008",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "We bought this for my 10th grade son. It's a great companion to the textbook and easily allows him to \"practice\" problems and review/preview chapters. Pricey but worth the investment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S6L4OX77AHBD"
+                },
+                "Date": "on December 8, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book helps students new to physics to put into practice the concepts learned in the textbook.  The additional problems in the book have helped me get used to using the different formulas in the \"physics way\" since many of the different concepts may be normal everyday words but they have a much different meaning."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problem-Solving-Conceptual-Physics-Tenth/product-reviews/0805393773/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#974,592",
+    "Timestamp": "2015-05-24 13:50:35.696484",
+    "itemurl": "http://www.amazon.com/Problem-Solving-Conceptual-Physics-Tenth/dp/0805393773"
+}

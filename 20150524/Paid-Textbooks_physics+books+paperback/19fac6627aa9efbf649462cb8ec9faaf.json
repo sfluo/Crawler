@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$129.00",
+    "Name": [
+        "Techniques for Nuclear and Particle Physics Experiments: A How-to Approach"
+    ],
+    "OfferPrice": "$103.20",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX48T8FWXZLFR"
+                },
+                "Date": "on August 22, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22Z9KVFR2PQP9"
+                },
+                "Date": "on October 13, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "On my opinion this book is very well developed with theoretical and practical information with exercises (examples) that helps in subject understanding and study. Would definitely recommend to everyone starting in college nuclear physics. Believe has data/information that can help to personal involved in research, development and engineering of nuclear physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JV11EG0K696D"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It was as what I expected. Thanks amazon for the delivery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJGLAG3J6DISA"
+                },
+                "Date": "on November 10, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book was like new (as promised by the seller) and reached me in a very timely manner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 27, 1998",
+                "Helpfulness": 0.3,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Techniques-Nuclear-Particle-Physics-Experiments/product-reviews/3540572805/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#758,587",
+    "Timestamp": "2015-05-24 13:28:53.493490",
+    "itemurl": "http://www.amazon.com/Techniques-Nuclear-Particle-Physics-Experiments/dp/3540572805"
+}

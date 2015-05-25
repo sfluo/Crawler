@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Environmental Physics (Routledge Introductions to Environment: Environment and Society Texts)"
+    ],
+    "OfferPrice": "$59.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V"
+                },
+                "Date": "on February 21, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALX2Q1RJGCSQ2"
+                },
+                "Date": "on December 12, 2008",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am teaching a high school level course called \"Introduction to Environmental Physics\" and this is the best text available for this class - while it is not detailed enough for a college course, it covers enough subjects well for an introductory course!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Environmental-Physics-Routledge-Introductions-Environment/product-reviews/0415201918/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,566,036",
+    "Timestamp": "2015-05-24 15:34:49.068468",
+    "itemurl": "http://www.amazon.com/Environmental-Physics-Routledge-Introductions-Environment/dp/0415201918"
+}

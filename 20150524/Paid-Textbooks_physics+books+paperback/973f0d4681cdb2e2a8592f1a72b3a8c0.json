@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "The Physics of Atmospheres"
+    ],
+    "OfferPrice": "$77.84",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 23, 2000",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": "This book starts off with some basic principles, such as lapse rates and black-body radiation on up to atmoshperic waves, turbulance, and making short term predictions.  It does well by trying to focus not just on Earth, but all the other planets in solar system."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV6ZULS0HFJ8O"
+                },
+                "Date": "on September 20, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book was shiped on time as mentioned on Amazon website. Even if the book does not give more details on the theoretical aspect it is a very nice book for those new in the field of atmospheric physics. I really like it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Atmospheres-John-Houghton/product-reviews/0521011221/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,271,354",
+    "Timestamp": "2015-05-24 13:23:19.666221",
+    "itemurl": "http://www.amazon.com/Physics-Atmospheres-John-Houghton/dp/0521011221"
+}

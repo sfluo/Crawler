@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.40",
+    "Name": [
+        "Practice Book for Conceptual Physics"
+    ],
+    "OfferPrice": "$55.40",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQJIZ2MKPPML3"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "book  returned"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practice-Book-Conceptual-Physics-Hewitt/product-reviews/0321940741/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#339,882",
+    "Timestamp": "2015-05-24 12:30:03.664360",
+    "itemurl": "http://www.amazon.com/Practice-Book-Conceptual-Physics-Hewitt/dp/0321940741"
+}

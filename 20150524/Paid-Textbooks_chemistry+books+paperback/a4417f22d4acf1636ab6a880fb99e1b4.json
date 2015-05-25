@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$104.99",
+    "Name": [
+        "Principles of Quantum Mechanics: As Applied to Chemistry and Chemical Physics"
+    ],
+    "OfferPrice": "$97.73",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 2002",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Despite its title, this book contains few applications to chemistry.  What distinguishes it from most QM texts is the absence of physics-specific applications like solid state, and the careful, step-by-step process by which the author derives results.  I'd recommend it to anyone (chemist, physicist, whatever) who wants to know nonrelativistic quantum theory.  It's also a handy reference for a few subjects that have wide use outside QM, like group velocity and spherical harmonics.  The style is a bit dry, and I doubt that I'll ever read it cover to cover, but as a textbook it's hard to beat."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NZT61YWIJ4AR"
+                },
+                "Date": "on November 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I recently received this book and it had way better explanations for math concepts than any of my physics or math textbooks, if you are having trouble with Fourier series or Dirac delta function you may want a copy of this book lying around."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RBHC2CS8TO56"
+                },
+                "Date": "on October 23, 2001",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "This is exactly what I was looking for when I wanted to put a face to some of the more complex theories and physics that I've been studying on my own about the fundamentals of some string and quantum mechanics theories. He starts from the beginning and goes nice and fast, however its nice small steps he takes, you can read it at any pace but its a LOT packed into it.  I'm just glad he was able to finish it without going crazy :)  Thanks for taking the time to split up the math and put it all together into one source.  This makes it much easier to apply some theory with this kind of background.  The math is easily layed out and forshadowed.  the formulas and values are explained as they are used and each propogation is shown and explained.  It assumes knowledge of physics but explains anyway.  I'm not a graduate student, but I can understand it anway, great work."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Quantum-Mechanics-Chemistry-Chemical/product-reviews/0521658411/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,762,526",
+    "Timestamp": "2015-05-24 15:27:55.532716",
+    "itemurl": "http://www.amazon.com/Principles-Quantum-Mechanics-Chemistry-Chemical/dp/0521658411"
+}

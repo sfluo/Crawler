@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "High-Temperature Superconductivity: An Introduction"
+    ],
+    "OfferPrice": "$50.44",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OD8BVNI9RZPY"
+                },
+                "Date": "on November 15, 2003",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I have not reviewed. plz didn't ge t time....later n I need the book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/High-Temperature-Superconductivity-Introduction-Gerald-Burns/product-reviews/0121460908/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,202,755",
+    "Timestamp": "2015-05-24 15:46:49.890897",
+    "itemurl": "http://www.amazon.com/High-Temperature-Superconductivity-Introduction-Gerald-Burns/dp/0121460908"
+}

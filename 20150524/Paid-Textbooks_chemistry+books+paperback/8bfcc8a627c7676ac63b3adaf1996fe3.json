@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Lithium-Ion Batteries Hazard and Use Assessment (SpringerBriefs in Fire)"
+    ],
+    "OfferPrice": "$39.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11LOBRD7RVNQU"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11TT251YMZ8UA"
+                },
+                "Date": "on July 25, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "great publication!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WLNAKAYST5SN"
+                },
+                "Date": "on August 3, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lithium-Ion-Batteries-Hazard-Assessment-SpringerBriefs/product-reviews/1461434858/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,121,405",
+    "Timestamp": "2015-05-24 15:35:07.183065",
+    "itemurl": "http://www.amazon.com/Lithium-Ion-Batteries-Hazard-Assessment-SpringerBriefs/dp/1461434858"
+}

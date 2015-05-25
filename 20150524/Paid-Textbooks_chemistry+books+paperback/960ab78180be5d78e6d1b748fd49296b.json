@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$31.00",
+    "Name": [
+        "Molecular Modelling and Bonding"
+    ],
+    "OfferPrice": "$24.49",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O9QF3AUUFUK"
+                },
+                "Date": "on February 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book helped me to understand better the how and why of homodimeric and heterodimeric binding of atoms. Atoms that are the origin of our life, such as carbon, nitrogen and oxygen. It was also helpful to understand \" the behavior\"  of electrons in more complex reactions, occuring in organic chemistry."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Modelling-Bonding-Giles-Clark/product-reviews/0854046755/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,391,956",
+    "Timestamp": "2015-05-24 15:36:43.618701",
+    "itemurl": "http://www.amazon.com/Molecular-Modelling-Bonding-Giles-Clark/dp/0854046755"
+}

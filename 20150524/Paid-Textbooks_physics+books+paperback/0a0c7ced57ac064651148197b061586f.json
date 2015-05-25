@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.99",
+    "Name": [
+        "The Geometry of Physics: An Introduction"
+    ],
+    "OfferPrice": "$66.53",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on May 16, 2013",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGKKKG1TXRTOI"
+                },
+                "Date": "on December 13, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "The Geometry of Physics is written in a very modern style and with a great choice of topics. A mathematician can enjoy this book even though it is mathematical physics. The mathematics is presented in very nice form."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EYD9936RAHGH"
+                },
+                "Date": "on August 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent book and excellent service!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometry-Physics-Introduction-Theodore-Frankel/product-reviews/1107602602/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#228,811",
+    "Timestamp": "2015-05-24 13:19:30.316382",
+    "itemurl": "http://www.amazon.com/Geometry-Physics-Introduction-Theodore-Frankel/dp/1107602602"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics (Quickstudy Books)"
+    ],
+    "OfferPrice": "$6.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z7346ZY3MMY8"
+                },
+                "Date": "on March 28, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I would have liked to have seen more clarity in this book. The equations were very helpful and the explanations are ok, but the overall organization of the material does make it tough to find that specific equation in a hurry. I would recommend this for those who are doing well in physics, but, need a memory-jogging tool to help remember the details."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A150JLZ6IS5AO9"
+                },
+                "Date": "on September 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Arrived in time! Product as described!! Thank you!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Quickstudy-Books-Inc-BarCharts/product-reviews/1423202678/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,005,990",
+    "Timestamp": "2015-05-24 13:02:40.604406",
+    "itemurl": "http://www.amazon.com/Physics-Quickstudy-Books-Inc-BarCharts/dp/1423202678"
+}

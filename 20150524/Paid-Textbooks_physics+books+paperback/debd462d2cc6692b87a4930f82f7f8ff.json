@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Thermodynamics of Irreversible Processes (Dover Books on Physics & Chemistry)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 22, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Irreversible-Processes-Physics-Chemistry/product-reviews/0486663566/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,022,295",
+    "Timestamp": "2015-05-24 12:49:56.347070",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Irreversible-Processes-Physics-Chemistry/dp/0486663566"
+}

@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Classical Electricity and Magnetism: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.97",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15M1MCAZ6NOU8"
+                },
+                "Date": "on February 14, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am writing this review to balance the review by the dissatisfied student. Do not believe it. Panofsky and Phillips is one of the great graduate level books on classical electrodynamics. It is comparable in level and quality to Landau and Lifshitz and to Jackson. As the student reveiwer implies it may be a bit less concise and somewhat more talkative than those two, but the explanations given are often profund and can be of great value to the serious, mature, and literate student. This book really belongs to a decent library on electromagnetism."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A174BNSXL4J1S0"
+                },
+                "Date": "on July 31, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm so thrilled to see that this book is back in print.  It is vastly superior to the standard text (Jackson) used in most graduate physics programs.  The explanations are concise but clear; and they help the student develop good physical insight.  My only real criticism of this book is that the mathematical notation is a bit unwieldy, but it's used consistently throughout the entire text so that's not really a problem after you get through the first couple of chapters and get used to it.  If you could have only one graduate level E & M book, this would be the one to get."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHD5TS8VUKOYN"
+                },
+                "Date": "on September 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATB9L7PXYBFGA"
+                },
+                "Date": "on February 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SVY7WHZ7QU1E"
+                },
+                "Date": "on December 3, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The best EM book money can buy. This book is easy to read and has the right balance between physics and mathematical derivation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZR3DINCUR3U0"
+                },
+                "Date": "on May 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NHPJD647QAOF"
+                },
+                "Date": "on November 3, 2006",
+                "Helpfulness": 0.13333333333333333,
+                "StarRating": "3",
+                "Text": "Book is more about \"words\" than it is about math.  YOu need to have a book like Jackson, or Griffiths to complement this book.  To be honest, I hate it and don't use it.  I like Jackson better.  Makes assumptions with no proof."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Electricity-Magnetism-Second-Physics/product-reviews/0486439240/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#151,978",
+    "Timestamp": "2015-05-24 12:37:30.356409",
+    "itemurl": "http://www.amazon.com/Classical-Electricity-Magnetism-Second-Physics/dp/0486439240"
+}

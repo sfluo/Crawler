@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.00",
+    "Name": [
+        "Statistical Methods in Experimental Physics: 2nd Edition"
+    ],
+    "OfferPrice": "$32.08",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGVAGE7JUCH80"
+                },
+                "Date": "on July 20, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AN7GHW37VXX8"
+                },
+                "Date": "on October 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book fills an essential niche between textbook and reference.  The lack of exercises and occasional terseness make it a bit unsuitable as a first textbook, and the lack of attempt to be comprehensive makes it an incomplete reference.  Instead, it is the ultimate guide to the methods that one needs for doing practical data analysis, especially in high energy physics.  Physicists tend to lack formal educations in statistical theory, but often need to use advanced techniques.  When I encounter a statistical problem that I do not know how to handle, reading the appropriate section of this book for an hour invariably guides me toward the practical method I need and gives me enough theoretical insight to understand what I am doing and why.  The book does a truly wonderful job providing practical insight while being more than a cookbook of canned statistical recipes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29AK88F4DONQC"
+                },
+                "Date": "on February 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you are looking for an introduction to statistical methods, then you probably won't be satisfied with this book. However if you are familiar with basic statistics and you are looking for a concise (+ precise) reference you will probably love this book (especially for use in HEP physics, but not limited to it). I own other texts on statistics that I used to learn about new methods, but I often had to consult this book in addition to clear up possible residual confusion, since I find this one to be the most unambiguous. Saved me a lot of time in the past. I fully agree with: [...]"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PUE7XFF0MLD4"
+                },
+                "Date": "on May 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This text is dry but useful. It serves as a good introduction to how to handle the kind of statistics that you will encounter in physics and it uses physics rather than games of chance examples which makes it quite nice in that sense."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 16, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Very good statistics book.  Too bad it's out of print and has lousy typesetting.  I'd buy another copy if it were re-typeset."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32I7MNQP29ADL"
+                },
+                "Date": "on June 21, 2008",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good book. It is very complete. Can be used as a base for almost any statistical analysis in high energy physics. As a PhD student, I use it nearly every day."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OW6LRFNG7Z9K"
+                },
+                "Date": "on September 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Fantastic book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Methods-Experimental-Physics-2nd/product-reviews/9812705279/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#446,360",
+    "Timestamp": "2015-05-24 13:30:44.626444",
+    "itemurl": "http://www.amazon.com/Statistical-Methods-Experimental-Physics-2nd/dp/9812705279"
+}

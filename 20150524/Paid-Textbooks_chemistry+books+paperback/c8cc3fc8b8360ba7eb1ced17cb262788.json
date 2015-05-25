@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Electrical Properties of Materials"
+    ],
+    "OfferPrice": "$12.98",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39KIVKYE4IA1J"
+                },
+                "Date": "on February 10, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKAZ9HCR9YW48"
+                },
+                "Date": "on August 31, 2007",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electrical-Properties-Materials-L-Solymar/product-reviews/0199267936/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#923,603",
+    "Timestamp": "2015-05-24 15:56:45.927409",
+    "itemurl": "http://www.amazon.com/Electrical-Properties-Materials-L-Solymar/dp/0199267936"
+}

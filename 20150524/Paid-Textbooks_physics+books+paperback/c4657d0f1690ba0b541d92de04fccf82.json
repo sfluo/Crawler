@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics of Everyday Phenomena: A Conceptual Introduction to Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ELDD0M6DEUZH"
+                },
+                "Date": "on September 3, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I used this text book in my intro level physics course in college - physics for the rest of us.  What a fantastic - truly fantastic - and gifted author/teacher Griffith is.  This book explains seemingly complex subject matter on an intuitive level, using examples pulled right out of one's personal experience.  It's completely non-intimidating and worth every dime (and I paid $100 for it at the time!).  You will not be disappointed and you will learn the physics you were always needlessly afraid of."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KYM5BWYR79FY"
+                },
+                "Date": "on May 8, 2000",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "I used this book in my college Physics I class.  It's great.  I am planning on becoming a physics teacher and I definatly want to use this book to teach from!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Everyday-Phenomena-Conceptual-Introduction/product-reviews/0072328371/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,625,904",
+    "Timestamp": "2015-05-24 13:47:52.715102",
+    "itemurl": "http://www.amazon.com/Physics-Everyday-Phenomena-Conceptual-Introduction/dp/0072328371"
+}

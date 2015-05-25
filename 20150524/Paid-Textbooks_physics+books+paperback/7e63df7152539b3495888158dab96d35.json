@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.99",
+    "Name": [
+        "A Course in Mathematics for Students of Physics: Volume 2"
+    ],
+    "OfferPrice": "$86.35",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PIN8BWNI8I9M"
+                },
+                "Date": "on August 30, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Course-Mathematics-Students-Physics/product-reviews/0521406501/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,213,711",
+    "Timestamp": "2015-05-24 13:31:08.327899",
+    "itemurl": "http://www.amazon.com/Course-Mathematics-Students-Physics/dp/0521406501"
+}

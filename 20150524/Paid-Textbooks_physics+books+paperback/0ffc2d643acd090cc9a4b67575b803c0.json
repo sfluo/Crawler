@@ -1,0 +1,549 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Mechanics, Third Edition: Volume 1 (Course of Theoretical Physics S)"
+    ],
+    "OfferPrice": "$54.56",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A216EMII36UPY9"
+                },
+                "Date": "on August 3, 2005",
+                "Helpfulness": 0.952755905511811,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20P9FDXAY0NE8"
+                },
+                "Date": "on December 11, 1999",
+                "Helpfulness": 0.9464285714285714,
+                "StarRating": "5",
+                "Text": "Classical Mechanics by H. Goldstein was the assigned text for a senior year course on CM.  In all fairness, Goldstein does introduce tools and concepts useful to more advanced study in the subject, so I would turn to  G. for a second reading on these topics.  He also discusses the connections  between classical to quantum mechanics.  Nevertheless, Landau's  presentation of the core of CM is clearer and more direct.  For learning  about the Lagrangian and Hamiltonian formalisms, rigid body rotation, small  oscillations and canonical transformation, I found Landau to be the better  book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 31, 1998",
+                "Helpfulness": 0.890625,
+                "StarRating": "5",
+                "Text": "This marvellous book of Landau, Lifshitz is the best adult presentation of \"classical\" classical  mechanics, that is, leaving aside problems of stability, chaos, etc. With this proviso, the book is perfect. It is very short, not by omitting things, but by choosing (and rigidly adhering to it) a very sound philosophy: exploring the connection between symmetries and conservation laws. This explains why the dynamics is based on the action principle, which, as shown by Wigner, is the optimum language for expliciting the discoveries of Emmy Noether. The whole book follows this line, making the exposition very original and, at points, quite surprising (as when the mass is proved to be positive). In my opinion the climax of the book is the theory of the Hamilton-Jacobi equation, along the ideas of Jacobi. I know of no place where this is so admirably done. Simple and beautiful. After learning it, and the applications contained in the book, you can learn the miracles ! Landau and Lifshitz perform with this equation in all areas of physics, particularly in General Relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J1WDI0RFQNFI"
+                },
+                "Date": "on May 27, 2002",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK3R3RNUWLFJR"
+                },
+                "Date": "on January 8, 2006",
+                "Helpfulness": 0.9565217391304348,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on November 12, 2004",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V"
+                },
+                "Date": "on September 19, 2003",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H4GM0660R1TH"
+                },
+                "Date": "on January 12, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PAOW9QJKA405"
+                },
+                "Date": "on January 26, 2012",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9GUFDBR4MIV9"
+                },
+                "Date": "on December 16, 2010",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on August 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PT16GLCXPRN0"
+                },
+                "Date": "on August 31, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RFXU3P0XKKF4"
+                },
+                "Date": "on May 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 15, 2002",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0TXMQR3Q5XK"
+                },
+                "Date": "on January 30, 2005",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "The fact that Landau's \"Mechanics\" is a classic physics text is universally acknowledged. But many physicists think that it isn't suitable as the sole textbook for a graduate course in classical mechanics. From my experience, using Landau several times to teach such a course, is that it makes an EXCELLENT textbook which is a joy to teach from. The one thing that it lacks is unworked exercises that may be assigned as homework. It's not difficult to create suitable exercises; I would be happy to share my collection (including solutions) with other instructors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AULJWM8TQO0T0"
+                },
+                "Date": "on October 26, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Landau & Lifshz \"Course of Theoretical Physics\"is a famous and respected set of books in Physics. Unfortunately, Butterworth-Heinemann, who currently prints those books in English, prints them with very poor quality. The books seems to be \"printed\" in old copy machines (old Xerox or Nashua machines) and the paper used is also a cheap one.  In many pages, it is really hard to read the text, due to such poor printing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S1SZVK8JWJZX"
+                },
+                "Date": "on January 29, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I like to read this book before bed. That does NOT mean that it is boring! It's rather dense; you might spend 30 minutes reading one page. You'll have to think about every sentence in the book because he's explaining some important insight. You need to have a good background in calculus of variations to even begin to read the book. Could have done a better job at canonical transformations but overall far superior to other books on the subject. Definitely not for undergraduates."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MVY9AFCX951Q"
+                },
+                "Date": "on December 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on April 28, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACDIDWGEBBBLC"
+                },
+                "Date": "on July 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The volume 1, Mechanics, (of the Series in Theoretical Physics by Landau, Lifshitz and collaborators) is a classic of the classics: extremely clear and to the point. Every student and researcher should read it and have it in his/her library. I already had a copy from the time I was a student, on the other hand this new edition has a small biography of Landau written by his student, friend and collaborator Lifshitz. That is the reason I got this third edition, the biography reflects the unique feeling students in general had for Landau and the greatness of Lifshitz that for all his life remained sensibly attach to his supervisor. We all treasure and learn from this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12GPQ595NKSMC"
+                },
+                "Date": "on August 31, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "1",
+                "Text": "The equations are rendered as low-contrast images and are for the most part unreadable, even on a Kindle DX. Inline equations and symbols are rendered the same way and are sized in a ridiculous way, destroying the flow of the text and even making it hard to decipher in many places. The Landau and Lifshitz theoretical physics series of books are beautiful and for content they all unreservedly deserve six stars on a five-star scale. However, as with all older physics and mathematics books, it seems, the e-book rendering is a horrible mangling. DO NOT buy the Kindle version or, like me, you *will* be sorry and have to return it. Stick with dead-tree on these."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BBPA7WN7YQNP"
+                },
+                "Date": "on October 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q2P927422PEO"
+                },
+                "Date": "on March 14, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Anyone, who takes a course in classical mechanics based on the book on Goldstein should take Landau's book as well. It is indeed complementary to Goldstein in two respect: it first gives a very short but very concise presentation of mechanics. This is invaluable for exam preparations. Second, the language used by Landau should be taken as an example as how to prepare scientific work. In few words, Landau is superb and a master of packing complete aspects of physics. Even later, Landau is a lot of help just by looking up his wording on topics. But it should be used with another advanced textbook such as Goldstein's. If one does that, the rewards will be very rich later."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on September 11, 2003",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This has got to be my favorite mechanics book of all time.  It does not cover nonlinear mechanics or computational mechanics (two of my favorite research areas) but it is a beautiful and elegant treatment of classical dynamics which is what it was intended to be.  Those who believe nonlinear dynamics should have been covered here or that the book is out of date are missing the point.  Follow this book up with nonlinear dynamics and you will be dangerous.  Not the most complete treatment of classical dynamics but a very beautiful one for those who love classical dynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26P399208PEJZ"
+                },
+                "Date": "on August 2, 2012",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "1",
+                "Text": "Amazon, you should be ashamed! This is a wonderful, elegant book, it's the text for my 2012 fall course on graduate classical mechanics, and probably for many such courses worldwide. Most students could really use a Kindle edition--but this one's horrible! Practically illegible, the equations in particular. The beauty has been ruined. For $42, you can surely do better. I'd planned on getting the whole Landau Lifshitz series on Kindle, but not until you get your act together. Please, please fix this -- notice this book is fifty years old and still the best. It will be for a long time to come, so it's well worth redoing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J1WDI0RFQNFI"
+                },
+                "Date": "on August 26, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This book blew my mind when I first started to read it. Let me start by saying this may not be my first suggestion of a book to start with if you know nothing about classical mechanics. But once you know soemthing, then you can truly appreicate the beauty of the presentation in this book. Dont discredit the quality of this book just because its \"soo thin\". No matter how \"thin\" it is, it has just about everything you need to know about classical analytical mechanics. This book's approach is so highly unusual, and perhaps thats what makes it so special. It is a self contained treatment from simple mechanics, ending with a wonderful treatment of the Hamilton Jacobi equation. Also you find some things in here that you dont find anywhere else. Proof that mass is nonnegative, one of the most extensive sections on scattering and collisions. And I was particularly impressed by the small section on mechanical similarity. How many other treatments do you know that give you a simple and clear proof of Kepler's third law in about 2 lines? Im trying to learn Russian right now, and soon as I my proficienly is high enough, this book is very high on my \"books to read in russian\" list. All in all this book is a must have for every serious student of physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MSEP3PWC2E1Q"
+                },
+                "Date": "on December 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "which is why I bought it (again).  I used this book back in college, but got rusty and couldn't find it.  It doesn't make physics any easier (maybe a bit harder, even), but nothing is taken for granted.  L&L; tries to prove as much as possible from first principles.  The author takes an alternative approach to so many other texts.  Even within the first few pages, the most fundamental conservation principles (i.e. energy, momentum) are motivated through intuition coupled with the principle of least action.  Amazing development."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUNBWOMOFMVNY"
+                },
+                "Date": "on December 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As others have said, this book is a masterpiece. It is clear, thorough, concise and yet brief. It isn't peppered with dopey phrases like 'this derivation is left to the student.' Nothing in the text proper requires derivation, only the problems at the end of the chapter. I love it and I expect to keep it throughout my career. It is worth two Goldsteins and costs a fifth as much."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JQO4I6A2THWY"
+                },
+                "Date": "on June 13, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "While it is a bit of an unorthodox choice for a mechanics textbook, this book just blows me away.  If for no other reason, read it to see how beautifully and concisely one can write about science.  Every sentence has a specific purpose, and they always know exactly where they're going.  The book is not terribly long, but you'll find yourself exhausted every twenty pages.  Never having I seen writing this precise."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MI5P4LBWCZCO"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "But a bit overrated.  About as understandable as Goldstein, which is usually not very understandable.  Sections on moments of inertia are not exactly enlightening..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANMYSWZCINVDZ"
+                },
+                "Date": "on July 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Brief, concise, elegant and to the point. One of a handful of physics books that I have kept many years after graduating from college. Highly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U0XHQB7MMH0E"
+                },
+                "Date": "on May 13, 2011",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELI92XSOT6H4"
+                },
+                "Date": "on January 29, 2013",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVZCIL965KJMV"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A216AU8B46G9H1"
+                },
+                "Date": "on March 30, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This text is pretty much the definition of elegance and perspicuity.  I can't recommend it highly enough or applaud the authors loudly enough.  I wish all science and math textbooks were written this well.  Like Spivak's Calculus, you have the feeling that the authors truly love the subject and love teaching."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K2WZ1UW0YJ6R"
+                },
+                "Date": "on October 2, 1997",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I should first say that the rating of 10 I assign to this book is within the context of books on classical mechanics.  Having said this, I should also say that this area  has motivated some of the most beautiful books I have ever seen, so Landau's is certainly a very remarkable book in very remarkable company.  No one can read Lev Landau without falling in love with physics.  All his books are quite perfect.  This one probably retains much of what was the original Landau flavor; all the volumes of the Course of Theoretical Physics have Evgeny Lifshitz as co-author, but many of the volumes required extensive updating over the course of the last 50 years.  Classical mechanics is somewhat exceptional in this respect.  However, this (and all modern classical mechanics books) treats classical mechanics from the point of view of what will be needed in quantum mechanics, so there is only the bare minimum of material; the book has only 169 pages.  But everything you will need for physics is there.  After you have read this book (or before), read Cornelius Lanczos' Variational Principles of Mechanics, another beautiful book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANMDJKI6A3Z5C"
+                },
+                "Date": "on June 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "in 122 pages landau sums up all of classical mechanics in his usual terse manner. the whole book has a sense of \"why don't you know this already\" that landau tends to convey in all his books..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A359CR0EEUTPT5"
+                },
+                "Date": "on April 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EP71BPHUDEVY"
+                },
+                "Date": "on February 22, 2000",
+                "Helpfulness": 0.627906976744186,
+                "StarRating": "1",
+                "Text": "Yes, yes, yes...this is a great physics book.  BUT, for top dollar, for a paper back you should expect top quality.  This version falls short.  My copy was freshly delivered with some machine created folds pressed in pages  through out the book.  Also the book seems to be bound using paper with the  grain going in the wrong direction resulting in a very \"rumpled\"  looking new book.  The book looks as though it were created on a copying  machine.  The content is great - the book is poor.  Try the hard copy  edition - don't waste your money on this poor quality paper back edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV6YG59IVA3XW"
+                },
+                "Date": "on October 14, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is a compact, comprehensive text on theoretical mechanics.  One of the best books ever published on mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is the Volume 1 of the famous Course of Theoretical Physics by L. D. Landau and E. M. Lifshitz. All serious students of theoretical physics must possess the ten volumes of this excellent Course, which cover in detail and rigour practically all the branches of theoretical physics. The Volume 1 treats the subject of classical mechanics in an elegant and logically correct way. The autors avoid tautological definitions of the basic mechanical quantities, taking as the starting point the Hamilton's principle of least action and Galileo's relativity principle. This book is indicated to all those who have some aqquaintance with mechanics and have the desire of solidify the knowledge of this important branch of theoretical physics. A classic!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXPWXVXQO5PFL"
+                },
+                "Date": "on February 24, 2006",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FO0ZXC9400WQ"
+                },
+                "Date": "on December 7, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I bought this book as a background reference to some of my own work. The book helped to fill some of the gaps and it is an excellent reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHEB2G3XYC8K0"
+                },
+                "Date": "on August 8, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SC74EB60WBMS"
+                },
+                "Date": "on March 13, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is a classic and still relevant. Wonderful!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O1TK6LD71I0D"
+                },
+                "Date": "on May 16, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "First let me tell you that the content of this book is excellent. The low rate I'm giving is only for the low print quality of the particular edition I bought from amazon. The book is not cheap and I expected a nice printing, but it's not the case, many figures are blurry, the text doesn't look sharp and in general it looks like an scanned copy of the original edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QSMYI0G98COH"
+                },
+                "Date": "on December 1, 2006",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "2",
+                "Text": "Way overrated.  L&L; lacks motivation and empiricism.  Justifications behind their derivations are often specious.  If you know the subject, it's a nice perspective.  Otherwise, it's useless.  Two stars, instead of zero, for their oustanding elegance.  Based on previous raves, have read now V.1 and V.2 of their course of physics.  Doubt that i will waste time on other volumes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FZBKUCHLWR11"
+                },
+                "Date": "on November 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The Master"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4II3CS2T20RK"
+                },
+                "Date": "on September 2, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "Like the title says this book provides a new perspective that allows very commonly defined quantities to arise naturally. However, this is the translation from Landau's work so the original texts are much thicker and I am sure much is lost in the translation. This is also a graduate or higher text and it difficult to follow at times but the more ways you can understand something the better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K588DIIFBE66"
+                },
+                "Date": "on October 16, 2001",
+                "Helpfulness": 0.4666666666666667,
+                "StarRating": "5",
+                "Text": "Read this book as a test: if you love it, you really love the beautiful science of Physics. Try to read it if you are an undergraduate. If you can't understand it yet, never mind. Just try again later. If love to Physics is what you feel, it will be a great day in your life when you start to understand something from Landau."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A80KE7EQLTU1J"
+                },
+                "Date": "on March 14, 2009",
+                "Helpfulness": 0.47368421052631576,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13XP7BVYMH6PG"
+                },
+                "Date": "on August 10, 2001",
+                "Helpfulness": 0.47368421052631576,
+                "StarRating": "4",
+                "Text": "This book is a good classical mechanics text inasmuch as alot of physics is conveyed to the reader, for example the intoduction argument for the existance of the Lagrangian is very nice. However, alot of mathematical arguements in the book are based on too much physical intuition and too little rigor. I believe that applied mathematicians (not having the usual undergrad physics background) and anyone more interested in a rigorous treatment of classical mechanics would be better served by Goldsteins text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DUM03K1KLBZ1"
+                },
+                "Date": "on February 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I bought this book for a class.  It was new and in a good condition. Unfortunately I don't have it with me right now."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SPM7NTTYABEZ"
+                },
+                "Date": "on October 10, 2005",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "5",
+                "Text": "Very concise and clear and very readable book, mostly. Should be in the library of every graduate (physics and most engineering) student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SAP8JJGSFJ6X"
+                },
+                "Date": "on January 8, 2007",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "It is wonderful book to learn the basics of mechanics. It will be best for the people who start to take fundamental physics course in college."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3811NG1D5ZNK6"
+                },
+                "Date": "on March 30, 2000",
+                "Helpfulness": 0.4090909090909091,
+                "StarRating": "5",
+                "Text": "As soon as you read the first page of this book, you'll soon understand that this book is not for using Physics.(or not for studying for your exams.) This book is a kind of \"Stoicheia\"(that was written by  Euclid). So you might waste your time, especially if you don't want to know  why \"mass>=0\" is mathematically true.  But, if you are a  mathematician or a logician or so on, (and want to learn Physics  systematically,) this book must become your favorite. Remember, this book  is not too mathematical. If you are good at mathematics, just read and  learn the mathematical way of thinking for Phisics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 16, 1999",
+                "Helpfulness": 0.29411764705882354,
+                "StarRating": "5",
+                "Text": "be appreciated by reading this rather small book.  Any born theorist will be awe-struck by this book. Any born theorist will want to be like-Lev after reading this book, I guarantee it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UQEYU9J3BZE0"
+                },
+                "Date": "on July 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "What can you say about a book on theoretical physics that is given as a gift.  I hope my brother=in-law enjoys it"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17E7K3MQ5KKR5"
+                },
+                "Date": "on May 8, 2002",
+                "Helpfulness": 0.22857142857142856,
+                "StarRating": "3",
+                "Text": "Some professors prefer book this to Goldstein's because it stresses problem-solving over formalism. Like Goldstein, however, the problems are all of the integrable type and there is no training provided for analyzing nonintegrable (especially chaotic) dynamical systems. Worse, one does not learn what 'integability' is from this book because it is implicitly assumed that every problem is integrable. This error follows from failing to distinguish local from global integrability. If one may be excused for criticizing the Pope, the authors make wrong and completely misleading statements about integrability (see my review of Goldstein, and also ch. 16 of my book Classical Mechanics, Cambridge, 1997). The problems and examples are indeed more challenging than those in Goldstein, and are instructive, but the text makes no contact whatsoever with the ideas and methods of modern nonlinear dynamics, in spite of the fact that (as Poincare, Arnol'd and others have shown), most of classical mechanics IS nonlinear dynamics. In other words, a student learns little from this text that is useful for research in theoretical mechanics these days. In my newer text I develope Poincare's method of qualitative analysis, and then assign as homework problems many numerical problems where in addition the students are required to check the accuracy of forward integrations in time by integrating backward to try to recover the initial conditions to within at least one digit accuracy. My text was tested for several years teaching both physics and mechanical engineering students at the graduate level, and with success. Try my text, you may find that you like it, especially since it's readability compares more with that of Goldstein than with Arnol'd."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mechanics-Third-Course-Theoretical-Physics/product-reviews/0750628960/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "59"
+    },
+    "Salesrank": "#57,451",
+    "Timestamp": "2015-05-24 12:51:31.617396",
+    "itemurl": "http://www.amazon.com/Mechanics-Third-Course-Theoretical-Physics/dp/0750628960"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics (Language of Science)"
+    ],
+    "OfferPrice": "$63.96",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IMSFDBEVR8UZ"
+                },
+                "Date": "on October 21, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I simply did the problems in this book and then passed the Caltech physics phd qualifying exam for quantum and statistical mechanics. The difference between this book and the standard Yung-kuo book for practice problems is brevity. Yung-kuo simply has too many problems, many of which are very similar, teaching no new concepts. Cahn, on the other hand, has picked a smaller but more meaningful subset of problems. There are few enough problems that you can do them all in a reasonable amount of time, but enough that you hit all the major concepts. I highly recommend it for anyone studying for physics quals, or for an undergraduate with a couple weeks of time who is about to do the GRE. I realize that the GRE doesn't have in-depth problems, but by doing in-depth problems you master the concepts that the GRE does test on."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y0S5M8UE1RX7"
+                },
+                "Date": "on January 9, 2000",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXQS56ENNMLIR"
+                },
+                "Date": "on August 2, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RQ5IJUZU0HJL"
+                },
+                "Date": "on June 15, 2006",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Guide-Physics-Problems-Thermodynamics-Statistical/product-reviews/030645291X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#835,569",
+    "Timestamp": "2015-05-24 13:37:06.128213",
+    "itemurl": "http://www.amazon.com/Guide-Physics-Problems-Thermodynamics-Statistical/dp/030645291X"
+}

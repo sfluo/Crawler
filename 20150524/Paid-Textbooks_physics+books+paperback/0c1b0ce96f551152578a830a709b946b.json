@@ -1,0 +1,288 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$110.00",
+    "Name": [
+        "Introduction to Elementary Particles"
+    ],
+    "OfferPrice": "$64.39",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9C8GEBNAWOUV"
+                },
+                "Date": "on September 16, 2010",
+                "Helpfulness": 0.9661016949152542,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANLB05LIT3HIB"
+                },
+                "Date": "on August 3, 2012",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on November 7, 2009",
+                "Helpfulness": 0.9259259259259259,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27FHR4MT8FTQ0"
+                },
+                "Date": "on February 15, 2010",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Doing physics homework is rarely truly fun, but a good textbook can at least reduce the stress and confusion/frustration levels associated with working problems and learning material.  This book is basically what I said in the title:  Helpful, clear, and readable, which are three things that are essential in any informational book yet sadly lacking in so many physics textbooks.  Excellent book.  Also, there are amusing footnotes sprinkled throughout the text, including some anecdotes/commentaries on physics pillars such as Niels Bohr."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XGNOK64Y4JM1"
+                },
+                "Date": "on December 4, 2008",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JM6TTGQM9BXP"
+                },
+                "Date": "on December 24, 2009",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACTAEKTNJUUDD"
+                },
+                "Date": "on November 13, 2009",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on January 3, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B2BUD9WODBU5"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12WUFMXROTIWZ"
+                },
+                "Date": "on January 30, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I got the book to see if I'd like to use it for a special topics class. Griffiths has a reputation for writing clear books, and this is no exception. The level is advanced undergraduate."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8AEL5025BTJQ"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A1I7SRTN771"
+                },
+                "Date": "on November 25, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Q4Q282BN90M6"
+                },
+                "Date": "on May 24, 2010",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "I've just begun a wonderful voyage through the realms of the smallest entities of energy or matter (how ever one wants to see these building blocks of the world at large). Nobody, whatever the background, can remain calm and disengaged with professor Griffiths unfolding the spectrum of particles. It is his exceptional talent to word his messages such that they find their way directly to the grey cells of the reader. So far, for my way of thinking, the best written book on topics of physics was \"The Fabric of the Cosmos\" by Brian Green. Now there is a second book on this shelve of \"most pleasure to read\": \"Introduction to Elementary Particles\" by David J. Griffiths"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VDNGVKL1MYHZ"
+                },
+                "Date": "on December 8, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10NNYL1SE7MJN"
+                },
+                "Date": "on January 28, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "The book is thorough covering both gauge theories and scattering/cross section calculations.  Suitable for independent study or an advanced undergrad course."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YYC3YQTLVB4Y"
+                },
+                "Date": "on March 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A283DJ97LZT6K2"
+                },
+                "Date": "on February 23, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Every undergraduate particle course should use this book. It makes particle physics extremely accessible and fun. It should be helpful for graduate school too and I am definitely keeping my copy"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IP40ZZYCZDJR"
+                },
+                "Date": "on December 28, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BNKQLRTR0K0G"
+                },
+                "Date": "on October 15, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "If you're looking for a book that gets into the nuts and bolts of Particles this is it. For me I found an abundance of information, some I knew and others I did not. I would recommend this to anyone trying to understand particles."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LZLO4DUHAHBE"
+                },
+                "Date": "on June 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Contains just the right amount of rigor for me. Other books dumbed it down too much, but this one assumes one has either an undergraduate degree in Physics or some advanced physics courses."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASMU90CCE74JK"
+                },
+                "Date": "on November 6, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Griffiths stricks again.  This man is amazing.  He is not only ridiculously smart, but knows how to help you learn topics that are ridiculously hard.  Most undergrads don't require this book.  I didnt, but I still bought and read this.  I loved it, and Griffiths is great.  buy it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P2XH0P4VL1BY"
+                },
+                "Date": "on June 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "No other way to spin it. Griffith's is hands down the best introductory book on particle physics around. Don't waste your time with Perkins."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24RT0LLRLTRZX"
+                },
+                "Date": "on June 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17A875E95CHWN"
+                },
+                "Date": "on January 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "THE DR. FOUND THE TEXT BOOK INFORMATIONAL AS WELL AS BEING DETAILED. IT GUIDES THE EXPERT OR THE NOVICE TO READ WHAT IS IMPORTANT TO THEIR PARTICULAR NEEDS."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TBFHMX724X0H"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I ordered this book \"NEW\" from Amazon and 3 VERY IMPORTANT pages are missing. Missing these pages puts a gap in the material that I cannot fill. This is Amazon's fault, not the book's author."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O8G1GTMWN806"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": 0.13333333333333333,
+                "StarRating": "3",
+                "Text": "its not very easy to connect dots most of the time..it could have been better...covered most subject but very clear some of the subejcts"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A186WA7PVI7TA6"
+                },
+                "Date": "on May 4, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADK9C8UT97OBO"
+                },
+                "Date": "on October 21, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A124QJ7OQV7KVH"
+                },
+                "Date": "on November 6, 2013",
+                "Helpfulness": 0.05128205128205128,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18B5E7NXTCBB6"
+                },
+                "Date": "on June 29, 2009",
+                "Helpfulness": 0.06741573033707865,
+                "StarRating": "3",
+                "Text": "The book is nice to read during a sunny week-end but does not contain detail proofs of equations and this is what i was looking for. Nice try... but missed..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/product-reviews/3527406018/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "30"
+    },
+    "Salesrank": "#61,457",
+    "Timestamp": "2015-05-24 13:18:42.009756",
+    "itemurl": "http://www.amazon.com/Introduction-Elementary-Particles-David-Griffiths/dp/3527406018"
+}

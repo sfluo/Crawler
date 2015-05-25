@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$85.95",
+    "Name": [
+        "Discovering Chemistry With Natural Bond Orbitals"
+    ],
+    "OfferPrice": "$75.21",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30YLX2A9BK6PT"
+                },
+                "Date": "on October 11, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This book is excessively basic. It dit not meet my expectations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Discovering-Chemistry-Natural-Bond-Orbitals/product-reviews/1118119967/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,615,423",
+    "Timestamp": "2015-05-24 15:24:26.120577",
+    "itemurl": "http://www.amazon.com/Discovering-Chemistry-Natural-Bond-Orbitals/dp/1118119967"
+}

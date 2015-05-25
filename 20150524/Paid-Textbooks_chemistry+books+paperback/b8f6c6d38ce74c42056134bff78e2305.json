@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.00",
+    "Name": [
+        "Nuclear Magnetic Resonance (Oxford Chemistry Primers, 32)"
+    ],
+    "OfferPrice": "$26.34",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTBHG6070SL4"
+                },
+                "Date": "on December 6, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6LBEH4ORW2I7"
+                },
+                "Date": "on February 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Pretty good textbook on NMR but the last chapter needs more elaboration."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Chemistry-Primers/product-reviews/0198556829/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#888,787",
+    "Timestamp": "2015-05-24 15:14:53.052821",
+    "itemurl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Chemistry-Primers/dp/0198556829"
+}

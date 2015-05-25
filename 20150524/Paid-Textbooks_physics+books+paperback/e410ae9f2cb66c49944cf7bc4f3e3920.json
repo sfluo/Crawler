@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics"
+    ],
+    "OfferPrice": "$0.01",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37Y04YO8R82X3"
+                },
+                "Date": "on October 17, 1999",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "Beiser's textbook is simply glorious.  I've used it for years, and students really appreciate his explication and approach to problems.  It's pricey, yes, but definitely stands out in a crowded field.  THIS IS THE ONE  TO GET.  ACCEPT NO SUBSTITUTES."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Arthur-Beiser/product-reviews/0805303847/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,403,167",
+    "Timestamp": "2015-05-24 13:38:45.586200",
+    "itemurl": "http://www.amazon.com/Physics-Arthur-Beiser/dp/0805303847"
+}

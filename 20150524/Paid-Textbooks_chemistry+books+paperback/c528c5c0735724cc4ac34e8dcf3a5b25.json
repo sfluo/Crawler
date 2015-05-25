@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$40.00",
+    "Name": [
+        "Chemical Kinetics and Mechanism"
+    ],
+    "OfferPrice": "$36.30",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32BNOFGFBBD2D"
+                },
+                "Date": "on January 20, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The computer disk that comes with this book does no work with visa or windows XP2007 and theres no patch to fix this problem from the web. Michael Mortimer neeeds to provide a patch so one can use the 2002 version I bought"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Kinetics-Mechanism-Open-University/product-reviews/0854046704/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,928,424",
+    "Timestamp": "2015-05-24 15:36:23.304527",
+    "itemurl": "http://www.amazon.com/Chemical-Kinetics-Mechanism-Open-University/dp/0854046704"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$77.95",
+    "Name": [
+        "Plastics, Third Edition: Microstructure and Engineering Applications"
+    ],
+    "OfferPrice": "$64.37",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SP1OCAALWOWJ"
+                },
+                "Date": "on April 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good quality book.  Lots of good fundamental knowledge.  Nicely layed out."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Plastics-Third-Microstructure-Engineering-Applications/product-reviews/0750651482/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,286,690",
+    "Timestamp": "2015-05-24 15:40:18.107032",
+    "itemurl": "http://www.amazon.com/Plastics-Third-Microstructure-Engineering-Applications/dp/0750651482"
+}

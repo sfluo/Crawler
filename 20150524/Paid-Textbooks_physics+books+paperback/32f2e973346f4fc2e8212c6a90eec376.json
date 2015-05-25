@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$53.00",
+    "Name": [
+        "Physics: Books I and II (Clarendon Aristotle)"
+    ],
+    "OfferPrice": "$45.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZU53KHEOW70N"
+                },
+                "Date": "on July 5, 2007",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "I found this translation easier to read than other translations of Aristotle.  It is much easier to unpack and follow, only the content needs to be wrestled with, which is a project in and of itself.  It includes the Becker numbers, which makes it easier to have a discussion with a group."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AJMNCWM19MG6"
+                },
+                "Date": "on October 15, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Books-II-Clarendon-Aristotle/product-reviews/0198720262/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#776,660",
+    "Timestamp": "2015-05-24 12:44:43.033631",
+    "itemurl": "http://www.amazon.com/Physics-Books-II-Clarendon-Aristotle/dp/0198720262"
+}

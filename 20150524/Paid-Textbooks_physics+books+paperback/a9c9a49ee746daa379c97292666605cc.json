@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Foundations of Radiation Hydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$31.68",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 18, 2000",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "This work is by far the most outstanding text in the field.  It's completeness and attention to detail make it a \"must have\" for students of radiation hydrodynamics as well as for experts in the field.  The republication of this book by Dover has done the field a great service  second only to the service provided by the authors in writing it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26TSS1ND1555O"
+                },
+                "Date": "on November 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I fully expect this volume to end up just as ragged and used as my copy of Zel'dovich and Raizer Physics of Shock Waves and High-Temp Hydrodynamic Phenomenon. It complements that volume well. It has a very nice, complete, and rather formal theoretical presentation especially with regard to relativistic hydrodynamics and is directed somewhat more at astrophysical situations I would say. It does seem to force the reader to be referring back to earlier derivations a little more than usual. It has kind of a more genteel feel about it than Zel'dovich, more aesthetic and less of the elephant in the china closet. Not quite so much the bare knuckled street fighter of Zel'dovich - as in damn the torpedoes let's get to the answer. Therefore, it seems a little less of a reference book and somewhat more of a detailed study guide. Either way, both books are complete masterpieces. Probably would be best in combination with Zel'dovich's Stars and Relativity (Relativistic Astrophysics) also. They are all inexpensive Dover editions and I am proud to have them on my shelf."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Foundations-Radiation-Hydrodynamics-Dover-Physics/product-reviews/0486409252/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,428,746",
+    "Timestamp": "2015-05-24 13:18:23.807759",
+    "itemurl": "http://www.amazon.com/Foundations-Radiation-Hydrodynamics-Dover-Physics/dp/0486409252"
+}

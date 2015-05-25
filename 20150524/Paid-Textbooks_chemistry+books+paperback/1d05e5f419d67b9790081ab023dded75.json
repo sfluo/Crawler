@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$103.00",
+    "Name": [
+        "Experimental Pulse NMR: A Nuts and Bolts Approach"
+    ],
+    "OfferPrice": "$95.40",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 20, 1998",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": "The authors explains the basics of NMR from theoretical and practical points of view. Also, explanation of hardware architecture is very helpful.  The book covers classical and quantum mechanics explanation of NMR, theory and practice of 1D and multi-dimensional methods as well as those in liquid and solid-state NMR.  This is a must for anybody interested in doing modern NMR spectroscopy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ6OHLQANF3E2"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "No figure numbers; Hand drawn figures; Poor index; Somewhat useful but some old terminology; Should have returned it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Experimental-Pulse-NMR-Bolts-Approach/product-reviews/0201627264/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#516,155",
+    "Timestamp": "2015-05-24 15:43:50.987923",
+    "itemurl": "http://www.amazon.com/Experimental-Pulse-NMR-Bolts-Approach/dp/0201627264"
+}

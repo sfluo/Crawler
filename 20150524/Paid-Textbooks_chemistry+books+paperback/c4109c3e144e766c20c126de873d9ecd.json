@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$57.00",
+    "Name": [
+        "Organic Structures from Spectra"
+    ],
+    "OfferPrice": "$40.76",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34SGI2ZH4YKZS"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GL5R9IX6EIP1"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "exactly as pictured, good book for Ochem"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39BN11WL3GB25"
+                },
+                "Date": "on January 11, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "This is more of a workbook than a text book.  Altough some of the content is useful.  It is not as useful as a textboook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VMTFNZSBT0VP"
+                },
+                "Date": "on December 28, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "best spec book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Organic-Structures-Spectra-L-Field/product-reviews/1118325494/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#782,407",
+    "Timestamp": "2015-05-24 15:37:16.205453",
+    "itemurl": "http://www.amazon.com/Organic-Structures-Spectra-L-Field/dp/1118325494"
+}

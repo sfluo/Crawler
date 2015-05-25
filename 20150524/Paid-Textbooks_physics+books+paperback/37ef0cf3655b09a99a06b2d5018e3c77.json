@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Techniques and Applications of Path Integration (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$19.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF"
+                },
+                "Date": "on December 13, 2006",
+                "Helpfulness": 0.92,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE"
+                },
+                "Date": "on May 28, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X7S5N5UR43IM"
+                },
+                "Date": "on January 10, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/product-reviews/0486445283/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#544,842",
+    "Timestamp": "2015-05-24 12:45:57.002615",
+    "itemurl": "http://www.amazon.com/Techniques-Applications-Integration-Dover-Physics/dp/0486445283"
+}

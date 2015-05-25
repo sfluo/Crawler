@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Curves of Life (Dover Books Explaining Science)"
+    ],
+    "OfferPrice": "$16.38",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9DQBTKANJIJX"
+                },
+                "Date": "on April 15, 2006",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "This book (originally published in 1914) is a comprehensive and extraordinary description of spiral formations.  It's definitive--a must for anyone interested in art and in the way nature operates."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SLRAPIKJNQ48"
+                },
+                "Date": "on June 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A fascinating and comprehensive investigation into the perfect geometry of the natural world, originally published in 1914.  The book studies and explores the spiral, or helix, and its mathematical expression through The Golden Ratio.  The Curves of Life will excite both naturalists and mathematicians.  The book should also appeal to market technicians involved with Fibonacci sequencing and Elliot Wave analysis.  This is an intense read and not something most of us can pour through quickly, so while I highly recommend it to people interested in this subject, be prepared for a major commitment.  Be sure to do a Look Inside to review the table of contents and verify your interest.  Those who take the plunge will be well rewarded.  This is a very special book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX4WT9X4BSODE"
+                },
+                "Date": "on February 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Excellent and \"profusely illustrated\" volume on every sort of curve (spiral) you can imagine; both in the natural world and in architecture. Some of the \"science\" may have been overtaken, but that does not detract from the overall quality. Written in 1914, the Dover edition is surprisingly readable and informative. Recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BLEGZSM5A6IC"
+                },
+                "Date": "on November 12, 2006",
+                "Helpfulness": 0.09523809523809523,
+                "StarRating": "2",
+                "Text": "I bought this book while researching the Logarithmic Spiral.  There were only a few references to the Logarithmic Spiral, so it wasn't spot on with what I was looking for.  However, I stayed away from this as a source because the text was difficult to read."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Curves-Dover-Books-Explaining-Science/product-reviews/048623701X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#660,770",
+    "Timestamp": "2015-05-24 13:25:24.723219",
+    "itemurl": "http://www.amazon.com/Curves-Dover-Books-Explaining-Science/dp/048623701X"
+}

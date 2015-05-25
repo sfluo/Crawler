@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Conceptual Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18R2XJH49IMWF"
+                },
+                "Date": "on December 29, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6J9NRVSJEKOH"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AARG6ZGP4PUJY"
+                },
+                "Date": "on April 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book has the questions in a different order in the plug and chug section than the hard cover book does.  This may or may not cause problems in your class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M7U4A92EM5W3"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Just ad advertised"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23NQ4C1HBSDRP"
+                },
+                "Date": "on April 29, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26QQU06VOMBQV"
+                },
+                "Date": "on February 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFO13IQSC0Z52"
+                },
+                "Date": "on March 27, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "nice read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TGM4K4461C6T"
+                },
+                "Date": "on November 18, 2014",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "Came right on time and the book is so useful if its required. Its best to rent and not by though the book is a one semester use only."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FMB1B2WV01RE"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": 0.375,
+                "StarRating": "2",
+                "Text": "Not worth the $, if you have common sense you can get through your physics class by paying attention during lectures. Don't waste your money on this!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37W6H6C06T2BX"
+                },
+                "Date": "on September 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book was in great conditions, totally worth it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23FXHMD6KDM3X"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent condition"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALUMCRPWEDEHZ"
+                },
+                "Date": "on November 25, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "easy to use"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Conceptual-Physics-Paul-G-Hewitt/product-reviews/1292057130/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#320,892",
+    "Timestamp": "2015-05-24 13:04:34.154912",
+    "itemurl": "http://www.amazon.com/Conceptual-Physics-Paul-G-Hewitt/dp/1292057130"
+}

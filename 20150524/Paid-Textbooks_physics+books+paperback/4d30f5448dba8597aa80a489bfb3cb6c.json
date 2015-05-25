@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.00",
+    "Name": [
+        "Group Theory in Physics"
+    ],
+    "OfferPrice": "$48.38",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8XPTO3TQCIM3"
+                },
+                "Date": "on June 16, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book gives an excellent introduction into group theory and provides a working knowledge for those who want to study field theory (for example). I especially like the complete treatment of representations of the classical  groups and the Lorentz and Poincare groups."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LI2WLIWBK1V5"
+                },
+                "Date": "on September 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ151094CBFFF"
+                },
+                "Date": "on January 14, 2002",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "3",
+                "Text": "This is not a bad book. The contents are comprehensive. The theorems are well proved. Graphs are used appropriatly to clarify the concept. But it has several shortcomings. One is the line space is too small, too many words are clustered together. Another is sometimes the proofs are too short. Some explanation should be given on certain points because those points are not so obvious and should not be taken for granted. Frankly, I love group theory, but after reading this book for 20 pages, I felt very tired, both because of the bad format and hard thinking. Hamermesh's book will give you a more enjoyable reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O5OT0E79WJCW"
+                },
+                "Date": "on September 28, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on April 30, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28Q0H0DPTMD4F"
+                },
+                "Date": "on July 12, 2009",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": "It is difficult to fathom how someone could write a 350+ page book on group theory for physicists in 1985, which contains almost nothing addressing the most important applications of group theory in the last half century.  Hello, ever hear of the Standard Model? Grand Unification?  It's like this book was written in the 1950s; it goes on and on about SO(3) and the lorentz group, etc.  Special unitary groups are only mentioned in passing.  Not even a hint of the exceptional groups.  Georgi's book has what physicists actually need in a small fraction of the page count."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Group-Theory-Physics-Wu-Ki-Tung/product-reviews/9971966573/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#1,022,482",
+    "Timestamp": "2015-05-24 13:29:48.648522",
+    "itemurl": "http://www.amazon.com/Group-Theory-Physics-Wu-Ki-Tung/dp/9971966573"
+}

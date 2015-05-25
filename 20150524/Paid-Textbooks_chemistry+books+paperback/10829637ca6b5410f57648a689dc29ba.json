@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.00",
+    "Name": [
+        "Chemical Structure and Bonding"
+    ],
+    "OfferPrice": "$37.32",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ARA52HB238HT"
+                },
+                "Date": "on August 24, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book was selected as one of the few textbooks for my undergraduate  inorganic chemistry course.  It discusses the concepts of atomic structure,  atomic and molecular properties, molecular orbital theory, electronic  structures, and frontier orbital theory in a very understandable and  succinct way.  The concepts and relationship between structure and bonding  is built up progressively throughout the text.  The fundamental concepts of  bonding ideas that lead to the development of MO theory is discussed in a  very logical manner, with applications to transition-metal complexes,  solids, and liquids.  Every chemistry student shall find this text very  useful in explaining the essence of chemical bonding.  It explains topics  and aspects of chemical bonding about which general chemistry textbooks  tell you not to worry about for the moment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35R69R69FC3Y6"
+                },
+                "Date": "on March 4, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WCGVIH87ELWX"
+                },
+                "Date": "on March 19, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QNJDK10D8ZM0"
+                },
+                "Date": "on October 28, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I recently used this book in an introductory class in graduate school and found it to be a decent textbook. It has some errors and certain things could have been explained in a clearer fashion but all in all I thought it did a decent job. The problems offered in the book are very easy and the answers are at the back which I personally found useful for studying."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 15, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "The text is well written and racional. It gives a clear view about how the structure of the aotms is, and, how the bonding between atoms process. On quantum mechanics topics I felt it was rather expositive than  explanatory..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SC74EB60WBMS"
+                },
+                "Date": "on July 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent Book! Covers the issues very well. I still use it as a guide when I need to refresh."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Structure-Bonding-Roger-Dekock/product-reviews/093570261X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#715,896",
+    "Timestamp": "2015-05-24 15:18:40.694161",
+    "itemurl": "http://www.amazon.com/Chemical-Structure-Bonding-Roger-Dekock/dp/093570261X"
+}

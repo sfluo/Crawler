@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$62.00",
+    "Name": [
+        "Theory Of Superconductivity (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$55.80",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on September 3, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JSUW5FF0MOT2"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "An excellent Physics book written in 1964 by one of the Nobel Laureate originators of the BCS theory, but by now out of date history."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MZLPX7I39OHE"
+                },
+                "Date": "on June 13, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Although the material in the book is a little bit old, I still think it's a good text book if you are the beginner in learning superconductivity. Pretty awesome!!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Superconductivity-Advanced-Books-Classics/product-reviews/0738201200/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,330,798",
+    "Timestamp": "2015-05-24 12:41:01.357807",
+    "itemurl": "http://www.amazon.com/Theory-Superconductivity-Advanced-Books-Classics/dp/0738201200"
+}

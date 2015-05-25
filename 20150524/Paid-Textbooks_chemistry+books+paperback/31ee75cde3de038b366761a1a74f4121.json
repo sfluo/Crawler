@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.00",
+    "Name": [
+        "Quantum Mechanics for Chemists: RSC (Tutorial Chemistry Texts)"
+    ],
+    "OfferPrice": "$24.70",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27V0S2I3M9ZOJ"
+                },
+                "Date": "on January 15, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "After reading the first two chapters of Quantum Mechanics by Griffiths, I bogged down in chapter three: Formalism, which covered such diverse/difficult topics as Hilbert Space, Eigenfunctions of a Hermitian Operator, and Dirac Notation. If my college mathematics were not so rusty, I would have probably have been able to grasp the material. Still wanting to understand quantum mechanics, I searched through several introductory texts on quantum mechanics listed on Amazon's site and finally settled on Quantum Mechanics For Chemists. What a great text for a beginner! If you are familiar with single variable calculus and know what a differential equation is, you can grasp the basics of quantum mechanics by working through this book. Professor Hayward has written a lucid text in clear, expository prose while keeping the mathematics at a comprehensible level. The text does not open with the Schrodinger wave equation but instead begins with a chapter on particle-wave duality. Chapters two and three discuss particle in a one dimensional box and uncertainty. The one dimensional Schrodinger wave equation and applications are presented in chapter four. Rotational motion is covered very nicely in chapter five. Chapter six delves deeply into the meat of the subject introducing the Bohr theory, Schrodinger wave equation for hydrogen like atoms, the radial wave equation, and full hydrogen atom wavefunctions. The final two chapters deal with many-electron atoms and the structure of molecules. The text was written for undergraduate chemistry majors but, in my opinion, would serve as a text for engineers, mathematicians, future high school physics teachers, bright high school students, or as a text for self study. The illustrations in the text are well done and greatly enhance the learning process. There are numerous worked examples and each chapter ends with a summary, several straight forward problems, references, and suggestions for further reading. Answers to all problems are included in the text. After you complete this text , I would suggest reading the Bell That Rings Light by Dorothy Wallace and Joseph J BelBruno. If you are still curious after working through these two books, then you should then go for Quantum Mechanics by Griffiths. If the reader is interested in the history of quantum mechanics, I would suggest reading Thirty Years That Shook Physics by George Gamow and the recently published The Age of Entanglement (A well done work which does a marvelous job of recreating the birth and growth of quantum mechanics and the men and women who were involved) by Louisa Gilder. In conclusion, if you are looking for a brief, well done introduction to Quantum Mechanics then get your hands on a copy of Hayward's book. The material is clearly covered, the illustrations are excellent, and the problems are workable. And the price is right!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY7OS4KLFBI61"
+                },
+                "Date": "on November 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This text by Hayward packs some much needed basic introductions into quantum chemistry in its 184 pages. There is a progressive introduction to Schrodinger equation over 4 chapters, which must be a first for any quantum chemistry textbook. The pluses are the \"mathematical asides\" along the margin of pages which explain the mathematical derivations which usually stump non-physics majors who take quantum chemistry, and the worked problems that are included within each chapter as the text progresses through the subject matter. In easiness, it is equivalent to the now out-of-print classic quantum chemistry text by Denaro. For a more advanced treatise for chemistry undergraduates, I would go with that indispensable text by Don McQuarrie (and its answer booklet). For the price, this book is an excellent addition to anyone's chemistry library. Royal Society of Chemistry has done well by asking Hayward to author this text."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Chemists-Tutorial-Chemistry/product-reviews/0854046070/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,111,465",
+    "Timestamp": "2015-05-24 15:15:42.911613",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Chemists-Tutorial-Chemistry/dp/0854046070"
+}

@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Mechanics: Symmetries"
+    ],
+    "OfferPrice": "$23.00",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN8L1MSBP7I67"
+                },
+                "Date": "on August 24, 2003",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H9XZA55ADA95"
+                },
+                "Date": "on July 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 21, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Probably for most of the people it is better to start QM with easier books, e.g., Landou.  Greiner's physics series are little more sophisticated, and may be difficult for someone with poor math background.  For someone who has strong math background, Greiner's books are fun to read  even without any physics background.  With your strong math background, you  can learn a lot out of this text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20A1BTPR6V2C2"
+                },
+                "Date": "on November 15, 1997",
+                "Helpfulness": 0.8125,
+                "StarRating": "1",
+                "Text": "This book could be one of the most useful books on the use of symmetry in quantum mechanics; but it is so filled with typographical errors that it is impossible to read. There are 75 serious errors in the first 100 pages. after that i gave up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 21, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "There is nothing better than this book.  This is a part of Walter Greiner's theoretical physics.  German edition of this series have been sold a million and this English edition is a tranlation of German 5th  edition.  Translation is a difficult job.  I also found many typos and  incorrect translations but it did not interrupt my understanding on the  subject.  This book contains carefully worked examples and enough  mathematical insight.  It is very nicely written.  This is one of the most  elegant mathematical physics text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 19, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "this volume is not only useful for understanding non-relativistic quantum mechanics but also it is filled with mathematical tools that is useful in many science and engineering analysis.  symmetry of the operators plays  always an important role in simplifying the analysis of formidable coupled  equations.  i found this volume very useful in many ways."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB0E2JK3AIWOO"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Every excercise has detailed solution, very important features of quantum mechanics are introduced gradually. If you want to master qualities of quantum world, this is great introduction!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JDDROI5NLDNR"
+                },
+                "Date": "on February 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Book in great shape and as advertised"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N8DYWDDNMNN8"
+                },
+                "Date": "on July 26, 2000",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "1",
+                "Text": "This is the most stupid book that I have ever seen. The main concepts of Elementary Particles Theory are introduced before the Quantum Field Theory has been developed. Without knowing Dirac's equation how on the Earth is  possible to grasp the intricasies of Modern Physics? Lee groups are not  introduces properly either -- the level of mathematical discussion is very  low. For all of you who wants to use comprehensive series on Modern Physics  I recommend the old ones by Landau and Lifshitz."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Symmetries-Berndt-M%C3%BCller/product-reviews/0387580808/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#1,000,894",
+    "Timestamp": "2015-05-24 13:34:06.715805",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Symmetries-Berndt-M%C3%BCller/dp/0387580808"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$173.00",
+    "Name": [
+        "College Physics: A Strategic Approach Volume 1 (Chs.1-16) (3rd Edition)"
+    ],
+    "OfferPrice": "$143.76",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZJ9PYF2HZXZC"
+                },
+                "Date": "on October 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Beautiful book, excellent price, great for anyone who's only taking one semester of college physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFU5B86WDS1FQ"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "really needed the actual book with all the chapters."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALUMCRPWEDEHZ"
+                },
+                "Date": "on November 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Perfect"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-Strategic-Approach-Chs-1-16/product-reviews/0321908775/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#56,307",
+    "Timestamp": "2015-05-24 12:51:45.717641",
+    "itemurl": "http://www.amazon.com/College-Physics-Strategic-Approach-Chs-1-16/dp/0321908775"
+}

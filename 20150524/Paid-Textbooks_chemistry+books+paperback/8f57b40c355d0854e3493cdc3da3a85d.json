@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$67.80",
+    "Name": [
+        "Science and Its Ways of Knowing"
+    ],
+    "OfferPrice": "$52.74",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4A4FQ6YXH331"
+                },
+                "Date": "on January 13, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26BWRBPP4V2WF"
+                },
+                "Date": "on October 1, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 17, 2003",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "this is an awful book, boring, it will out you to sleep"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-Ways-Knowing-John-Hatton/product-reviews/0132055767/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#739,376",
+    "Timestamp": "2015-05-24 15:39:41.109176",
+    "itemurl": "http://www.amazon.com/Science-Ways-Knowing-John-Hatton/dp/0132055767"
+}

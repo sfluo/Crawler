@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics: An Incremental Development (Saxon Physics) Laboratory Experiments Manual"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8RTGASI9RUB4"
+                },
+                "Date": "on March 23, 2000",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Using an incremental approach Mr. Saxon develops an understanding on the part of those who work the problems that surpasses that gained using other aroaches.  Problem topics are mixed in each set with those from previous  sections thus the student learns not just how to do problems in an isolated  context but in many different contexts.  This addresses a long-standing  impediment to learning physical science: how are previous tools and  principles used in combination and in different contexts.  However: Where  is the solutions manual?"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Incremental-Development-Laboratory-Experiments/product-reviews/1565770099/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#805,360",
+    "Timestamp": "2015-05-24 13:50:05.626479",
+    "itemurl": "http://www.amazon.com/Physics-Incremental-Development-Laboratory-Experiments/dp/1565770099"
+}

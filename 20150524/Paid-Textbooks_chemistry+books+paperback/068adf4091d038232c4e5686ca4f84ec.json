@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$59.95",
+    "Name": [
+        "Practical Amateur Spectroscopy"
+    ],
+    "OfferPrice": "$33.12",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SI809JUKQV0R"
+                },
+                "Date": "on January 22, 2009",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WDAOR95O6ORH"
+                },
+                "Date": "on September 14, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practical-Amateur-Spectroscopy-Stephen-Tonkin/product-reviews/1852334894/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#836,475",
+    "Timestamp": "2015-05-24 15:28:36.321320",
+    "itemurl": "http://www.amazon.com/Practical-Amateur-Spectroscopy-Stephen-Tonkin/dp/1852334894"
+}

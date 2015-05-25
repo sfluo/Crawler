@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$83.00",
+    "Name": [
+        "Introduction to Solid-State NMR Spectroscopy"
+    ],
+    "OfferPrice": "$65.17",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OP91PLE4KL92"
+                },
+                "Date": "on December 27, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A introductory level book that illuminates the basic principles of spin interactions and their manipulation in solid-state NMR.  Especially helpful if you wish to get familiarized with averaged Hamiltonian theory.  With its basic, simple, and clear treatment of math and terminology this book is an excellent overview for the first year graduate student."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Solid-State-Spectroscopy-Melinda-Duer/product-reviews/1405109149/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,171,951",
+    "Timestamp": "2015-05-24 15:38:46.456520",
+    "itemurl": "http://www.amazon.com/Introduction-Solid-State-Spectroscopy-Melinda-Duer/dp/1405109149"
+}

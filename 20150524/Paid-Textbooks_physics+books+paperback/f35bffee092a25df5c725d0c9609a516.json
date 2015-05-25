@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Teaching Physics with the Physics Suite CD"
+    ],
+    "OfferPrice": "$51.03",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OY8FPCIO5XP7"
+                },
+                "Date": "on May 25, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZXE51QS7LJLN"
+                },
+                "Date": "on July 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "basic"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Teaching-Physics-Suite-CD/product-reviews/0471393789/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,064,044",
+    "Timestamp": "2015-05-24 13:36:22.381617",
+    "itemurl": "http://www.amazon.com/Teaching-Physics-Suite-CD/dp/0471393789"
+}

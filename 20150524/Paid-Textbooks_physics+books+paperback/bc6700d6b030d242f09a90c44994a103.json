@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Mathematics: The Man-Made Universe (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$20.95",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PK3EWJGDVB2Z"
+                },
+                "Date": "on December 25, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Chapter on memory wheels was great. READERS Should also check Sloane's Website on Integer Sequences where many more integer sequences should be of interest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7RN2QAWK3JET"
+                },
+                "Date": "on April 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is very informative.It tells a lot about diverse subjects in the field of the mathematics.i really like how this book is written"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WS1VM3K9ERPZ"
+                },
+                "Date": "on January 12, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": "I liked this book and I hated this book. If I were reading this book for my own enjoyment or in conjunction with a more formal text then it is an interesting and informaive read...even enjoyable at times. If you are in a class that uses it as the sole text then you will have to rely on the professor to fill in the blanks which may be a bad thing as it was in my case. I had the version with the green cover and it's contents are totally in black and white, the graphics are horrible in many cases and do not reproduce well if making copies. Not a good text for a course but a great book for personal enjoyment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 28, 1999",
+                "Helpfulness": 0.061224489795918366,
+                "StarRating": "5",
+                "Text": "A great book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Man-Made-Universe-Dover-Books/product-reviews/0486404501/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,041,393",
+    "Timestamp": "2015-05-24 13:16:03.527889",
+    "itemurl": "http://www.amazon.com/Mathematics-Man-Made-Universe-Dover-Books/dp/0486404501"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Physics of Electric Propulsion (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.22",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FH58AEYO65WK"
+                },
+                "Date": "on March 21, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great Book!  Well written and easy to follow.  Very informative of the field and subject matter.  Great as an introduction to electric propulsion and for an advanced understanding.  Chapters are supported with pictures and diagrams that illustrate the concepts presented."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P0Q991B7O1R1"
+                },
+                "Date": "on August 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Has been the reference textbook on EP since many years. May need some updating, but it's still a great starting point."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YK261FFU3YJW"
+                },
+                "Date": "on July 6, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": "I am an advanced undergrad, with 3 semesters of Calculus based physics for scientists and engineers, 6 semesters of ugly math, and stellar astrophysics and some study of upper division physics. This book is above me. It is designed for graduate students in physics, or those with more physics than I have. I wish I had all this physics, but I don't."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UN8V2V81UXQV"
+                },
+                "Date": "on August 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's not fair to be asked to rate a book that you have loved for over thirty years. I first encountered this book in college, as part of my engineering curriculum. I still see this book being cited in papers at the AIAA propulsion conferences.We know more about the details of the interactions and can model them better, but the fundamental descriptions of this book stand the test of time. EM theory, ionization, particle collisions still follow these rules. Electrothermal acceleration, electrostatic acceleration, and magnetic acceleration have the same basic structure today. Power supplies and low thrust missions have changed dramatically - but that is due to things like the Prius and Ultracapacitors, advances in solar panels, etc. This new, compact, paperback version deserves a place on your bookshelf if you have an interest in these topics. Unlike many books in this field, the math used is only when it is absolutely essential, and so it is accessible to everyone with a college education (or similar experience level). Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VDC0NVWWWG0T"
+                },
+                "Date": "on June 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Great book for the time and still useful in basic things. Don't expect to find there enough information about the colloid electric propulsion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M93UYZV8B6YI"
+                },
+                "Date": "on June 4, 2010",
+                "Helpfulness": 0.0625,
+                "StarRating": "3",
+                "Text": "This book is about propulsion in outer space and has nothing at all to do with electric vehicles."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Electric-Propulsion-Dover-Books/product-reviews/0486450406/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#654,554",
+    "Timestamp": "2015-05-24 12:33:44.270096",
+    "itemurl": "http://www.amazon.com/Physics-Electric-Propulsion-Dover-Books/dp/0486450406"
+}

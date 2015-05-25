@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Liquid Phase Kinetics (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$30.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37B0S4MD9CLL0"
+                },
+                "Date": "on January 10, 2008",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Liquid-Kinetics-Chemistry-Primers/product-reviews/0198557442/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,702,132",
+    "Timestamp": "2015-05-24 15:25:20.450087",
+    "itemurl": "http://www.amazon.com/Modern-Liquid-Kinetics-Chemistry-Primers/dp/0198557442"
+}

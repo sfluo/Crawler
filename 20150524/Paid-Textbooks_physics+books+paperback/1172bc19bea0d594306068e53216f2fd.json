@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics"
+    ],
+    "OfferPrice": "$46.99",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VUXZNX1OR26X"
+                },
+                "Date": "on June 20, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S3ITROS8YW19"
+                },
+                "Date": "on March 29, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AICCHSN9M6KV4"
+                },
+                "Date": "on May 11, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KVPY8RHF08LR"
+                },
+                "Date": "on January 23, 2010",
+                "Helpfulness": 0.9375,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ93J515WNTCB"
+                },
+                "Date": "on July 3, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I agree with the previous review. This is a good book for the serious student of Physics or Engineering. The amount of math is just right, and the physics is presented lucidly. Lots of solved problems, and even more problems for you to solve. If you are a physics student and would like to see a second (much more idiosyncratic) opinion on one of the \"classical\" topics (up to the Sixties), consult the Feynman Lectures. These two books will give you a thorough grounding for everything else in Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25PD7AML2LTSU"
+                },
+                "Date": "on January 20, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LMMV17UVBPOW"
+                },
+                "Date": "on August 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you want to get one calculus-based general physics textbook for review or self-study, this is the one to get.  No wasted space on glossy photos or fluff.  Just good clear, concise diagrams, explanations, and worked out examples.  There are plenty of exercises at the end of each chapter, review questions, and answers to some of the problems in the appendix.  If you're prepared to work for it and make this book your bible, you will learn the material and have a solid foundation of understanding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASJTFOJFNDOLX"
+                },
+                "Date": "on October 14, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is by far the best textbook on physics for engineers. However, it looks like previous editions did a better job in terms of arranging all the subjects in the proper chapter, but it is still a jewel in my library. The concepts are taught starting from the most elementary knowledge and then building on it until more advanced concepts are explained, allowing the reader to easily understand it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TO2EDEHCURYI"
+                },
+                "Date": "on July 5, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "(Note: This review refers to the 1972 World Student Edition) I agree with all the glowing reviews - an amazingly solid book for all 1st/2nd year undergraduate students of physics. Crisp and clear, extremely easy to read ('gentle' on the reader). Puts everything into a greater context. When I read it, I feel like I'm being guided by some very competent people. It also builds nicely on top of any high-school physics courses (like the IB Diploma HL)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 14, 1999",
+                "Helpfulness": 0.6153846153846154,
+                "StarRating": "5",
+                "Text": "The Alonso & Finn book is a very extensive work on phisics. The language is hard to understand, but the information on that book, and the methos of teaching the subject is very good.  The lessons are consistent,  and deep in knowledge. It is not a book that you'll have fun with, instead  it is hard, complex and cumbersome, but that's what you are looking in a  book like this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AURRBJDN6JMY7"
+                },
+                "Date": "on November 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "BEST BOOK, not enough exercise though"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JMEJZYMHYMHY"
+                },
+                "Date": "on July 30, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Marcelo-Alonso/product-reviews/0201565188/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#1,492,496",
+    "Timestamp": "2015-05-24 13:38:50.165569",
+    "itemurl": "http://www.amazon.com/Physics-Marcelo-Alonso/dp/0201565188"
+}

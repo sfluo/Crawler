@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Chemical Bonds: An Introduction to Atomic and Molecular Structure"
+    ],
+    "OfferPrice": "$0.92",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 30, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This was one of the books used in my introductory freshman chemistry class at my university.  It has highly informative, yet concise explanations covering the basics of molecular orbital theory.  While I preferred this book to our other text for its conciseness, those without a good background in chemistry may have a difficult time with the book for the same reason.  My only complaint about the book is that Gray uses CGS units instead of SI."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Bonds-Introduction-Molecular-Structure/product-reviews/0805334025/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,446,905",
+    "Timestamp": "2015-05-24 15:35:12.656021",
+    "itemurl": "http://www.amazon.com/Chemical-Bonds-Introduction-Molecular-Structure/dp/0805334025"
+}

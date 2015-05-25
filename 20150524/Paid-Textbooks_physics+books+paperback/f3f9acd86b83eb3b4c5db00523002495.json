@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Selected Problems in Physics with Answers (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.41",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A156N3AXWHLJD2"
+                },
+                "Date": "on August 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good collection of problems for high school physics. The problems are definitely dated but some of them are very useful to draw students' attention to little details in physics calculations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Selected-Problems-Physics-Answers-Dover/product-reviews/0486499936/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#729,191",
+    "Timestamp": "2015-05-24 12:30:21.992253",
+    "itemurl": "http://www.amazon.com/Selected-Problems-Physics-Answers-Dover/dp/0486499936"
+}

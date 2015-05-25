@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$94.95",
+    "Name": [
+        "Introduction to Plasma Physics (Plasma Physics Series)"
+    ],
+    "OfferPrice": "$81.60",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JFN0N8Z7GZ7I"
+                },
+                "Date": "on January 3, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book can be very useful as a graduate level plasma text, or a reference, or as something to put on your shelf to make you look like a \"serious\" plasma physicist.  It covers drifts extremely well and I was reasonably pleased with the two fluid model.  But in the end if you are trying to learn plasma physics this book really shines as a SUPPLEMENT and I imagine would be pretty frustrating as your only source to learn from.  I bought this book and Chen's book for my graduate plasma 1 course.  I never opened Chen, referenced Goldston often throughout the course (and as expected put a lot of focus on the class notes).  But honestly, I think you probably already know if you need this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11EB1KOLHYN8R"
+                },
+                "Date": "on August 17, 2000",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "4",
+                "Text": "I am a university student who major in physics. and this book was a text in plasma course. As plasma group of princeton univ. is strong, this book  is strong enough to understand plasma. most favorite thing in this book is  sufficient explanation about the physical and mathmatical explanation. and  the not good thing is a little dirty mathmatical calculation. so if you  want clear mathmatics, I think you had better look another book. Anyway if  you read this from cover to cover, you can learn ABC of Plasma. isn't it  wonderful?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RCAZOBA23NAU"
+                },
+                "Date": "on April 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OWS5IIWGC2RX"
+                },
+                "Date": "on May 25, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Bad condition i had better used books but its information will be useful, its highlighted with pencil, it has a part of paper book like cracks. But the information its good."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Plasma-Physics/product-reviews/075030183X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#975,886",
+    "Timestamp": "2015-05-24 13:32:59.989313",
+    "itemurl": "http://www.amazon.com/Introduction-Plasma-Physics/dp/075030183X"
+}

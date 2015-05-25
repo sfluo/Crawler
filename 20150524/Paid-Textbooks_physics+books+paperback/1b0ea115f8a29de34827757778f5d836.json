@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "CONCEPTUAL PHYSICS C2009 PROBLEM-SOLVING EXERCISES IN PHYSICS SE"
+    ],
+    "OfferPrice": "$20.51",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RDR4BBQ35W1O"
+                },
+                "Date": "on October 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "very good selection of solved example problems, exercises with selected answers in 19 different areas of physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MDLERUJ60PYN"
+                },
+                "Date": "on August 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great physics problems and explanations.  It begins with simple concepts and works up to complex ideas by the end of each section."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CS7JUPXQTE9Y"
+                },
+                "Date": "on April 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Who will want  to buy a book whose pages were torn out! Besides it's not even worth to return it since it's international shipment."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/CONCEPTUAL-PHYSICS-C2009-PROBLEM-SOLVING-EXERCISES/product-reviews/0133647323/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#550,648",
+    "Timestamp": "2015-05-24 13:40:40.119969",
+    "itemurl": "http://www.amazon.com/CONCEPTUAL-PHYSICS-C2009-PROBLEM-SOLVING-EXERCISES/dp/0133647323"
+}

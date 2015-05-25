@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Physics I Workbook For Dummies"
+    ],
+    "OfferPrice": "$17.53",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HUJ85JGH901X"
+                },
+                "Date": "on April 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A good way to practice.  I recommend it for my high school physics students.  Easy to follow, and nice, step-by-step solutions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A54PRTZV1WXUT"
+                },
+                "Date": "on December 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent Seller.  Highly recommended.  A+++"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S5YVC95QGTHY"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z16DVNV0NE0A"
+                },
+                "Date": "on November 8, 2014",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": "I'll see how I like it at the end of the semester when I pass my Physics class!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Workbook-Dummies-Steven-Holzner/product-reviews/1118825772/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#50,048",
+    "Timestamp": "2015-05-24 12:49:01.360846",
+    "itemurl": "http://www.amazon.com/Physics-Workbook-Dummies-Steven-Holzner/dp/1118825772"
+}

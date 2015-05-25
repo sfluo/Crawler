@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Classical Dynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.72",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 6, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is an excellent read, and it explains concepts with unusual clarity. I wouldn't suggest it as a main text, but it is an excellent supplement to others, such as Goldstein or Jose and Saletan. I found this little book explained many concepts far better than these \"standards\" that are used in most graduate mechanics courses. It includes many nice examples. It also includes the answers to the problems in the back. How often do you see that in a graduate level book? I also think it is an excellent read for physics graduate students, who are just trying to get through the comprehensive exam rather than master the details of classical mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 21, 1999",
+                "Helpfulness": 0.9047619047619048,
+                "StarRating": "4",
+                "Text": "This book can be compared with Walter Rudin's Principles of Mathematical  Analysis in that it is very terse and the reader must sit with pencil and  paper to fill in many details, both in the theory and example problems. It  is the case that this process actively engages the reader into the subject  and permits a deeper, fuller understanding than just reading the results  and final equations.  Having less detail in the theory is understandable,  but I've found that the example problems are equally as difficult to  follow;  this makes it increasingly tough to solve his problems (though  once I solve a problem, I feel a great sense of accomplishment) On  problems:  the problems are very well thought out and complement the  theoretical section of the text quite well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PRHUYDEER5C2"
+                },
+                "Date": "on July 24, 2000",
+                "Helpfulness": 0.88,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PP93UKQE2SJ3"
+                },
+                "Date": "on June 20, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on August 11, 2006",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": "I have always enjoyed Greenwood's book and it is much more original than most of the other engineering mechanics books out there.  The only real deficiency here is a complete lack of any discussion of motion in a central force or vibrations.  This is undoubtably due to the curriculum the book was designed for, but as a book these subjects should have been included for completeness.  The absence of these subjects really mars an otherwise outstanding text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AELBQWHWINZM"
+                },
+                "Date": "on October 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Dynamics-Dover-Books-Physics/product-reviews/0486696901/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#593,272",
+    "Timestamp": "2015-05-24 12:57:21.058249",
+    "itemurl": "http://www.amazon.com/Classical-Dynamics-Dover-Books-Physics/dp/0486696901"
+}

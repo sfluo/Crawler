@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$48.00",
+    "Name": [
+        "Molecular Origami: Precision Scale Models from Paper"
+    ],
+    "OfferPrice": "$39.89",
+    "Reviews": {
+        "AverageStarRating": "2.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OI0FB3OTVHRG"
+                },
+                "Date": "on March 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book is an excellent source of foldable paper patterns for a broad range of chemical compounds and I think it would be great for some chemistry classes - but I expected no cut folding because the title included origami.  The specially shaped models have to be cut out first and then folded to represent the compounds.  However - if you want to build inexpensive models to use as study aids I think it would be well worthwhile.  Most (all) of the shapes on the cover can be folded from traditional square or rectangular paper using unit constructions, but that approach is not included."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 24, 2002",
+                "Helpfulness": 0.6,
+                "StarRating": "1",
+                "Text": "The word origami in the title is deceiving. I was hoping for unit or modular origami models. The only folding that you do is of models that must be cut out, folded and taped together. Maybe I can find a chemistry teacher that might be interested in the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 12, 1998",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book is fun.  There is a full range of origami skill levels covered.  You can create all sorts of molecules and crystal formations from the  simple to the infamous buckminster Fullerenes (\"buckyballs\").  There is information about each item covered in the book.  If I could  change anything about this book, it would be to have the origami pages  colored.  With that exception, I thought the book was a very good time.  (Who wants to make little paper swans for the rest of their life?)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Origami-Precision-Scale-Models/product-reviews/093570230X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#434,607",
+    "Timestamp": "2015-05-24 15:23:41.693179",
+    "itemurl": "http://www.amazon.com/Molecular-Origami-Precision-Scale-Models/dp/093570230X"
+}

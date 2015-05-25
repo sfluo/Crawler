@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$42.00",
+    "Name": [
+        "The TAB Battery Book: An In-Depth Guide to Construction, Design, and Use"
+    ],
+    "OfferPrice": "$25.48",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L6PN8MX8D3BF"
+                },
+                "Date": "on June 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the best book on batteries that I have found to date.  It covers the history, theory, characteristics, application, and charging of most types of batteries including the latest on LIthium-ion batteries.  A great resource and the price can't be beat."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29LWKR70S32XQ"
+                },
+                "Date": "on August 24, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "I was disappointed by this book as the information was a little light on and not up to date. Very little about LiPo batteries and some of the information dissagrees with most other sources. Most times that I reference the book it doesn't provide an answer."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35QY2X6DI3JD"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good book, delivered on time"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BO8V4NZC9BVC"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "OK"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/TAB-Battery-Book--Depth-Construction/product-reviews/0071739904/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#399,194",
+    "Timestamp": "2015-05-24 13:50:48.108281",
+    "itemurl": "http://www.amazon.com/TAB-Battery-Book--Depth-Construction/dp/0071739904"
+}

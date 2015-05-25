@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Quantum Mechanics: Principles and Formalism (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.46",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UBGBVD97HZJG"
+                },
+                "Date": "on December 24, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Principles-Formalism-Physics/product-reviews/048642829X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,192,925",
+    "Timestamp": "2015-05-24 13:17:50.711313",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Principles-Formalism-Physics/dp/048642829X"
+}

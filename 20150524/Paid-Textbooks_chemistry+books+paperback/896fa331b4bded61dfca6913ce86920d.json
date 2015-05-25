@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Thermodynamics of Small Systems, Parts I & II (Dover Books on Chemistry) (Pt. 1 & 2)"
+    ],
+    "OfferPrice": "$23.73",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 9, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A247G36YTPUE43"
+                },
+                "Date": "on July 18, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Thermodynamics in its beginnings was devoted to macroscopic objects. However its methodology has found room for application at  microscopic molecular level something that, has adquire notoriety in recent years. The author presents a wider scope of basic thermodynamics which goes beyond its original intentions thus opening the door to new possibilities. Books like this one offers a clear exponent that things that now are rediscovered and presented as a spectacular breakthrough in fact goes to the sources of Thermodynamics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Small-Systems-Parts-Chemistry/product-reviews/0486681092/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#552,591",
+    "Timestamp": "2015-05-24 15:13:49.745973",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Small-Systems-Parts-Chemistry/dp/0486681092"
+}

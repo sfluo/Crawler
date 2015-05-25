@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Optical Properties of Thin Solid Films (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L14AE3MUC464"
+                },
+                "Date": "on June 23, 2000",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "I think this book is very useful as a practical guide for people involved in experimental studies of thing film optical properties. It provides a lot of general considerations and methods for optical constant measurements and  derivations of basic formulas for the most important  thin-film-on-the-substrate configurations. I defenetely recommend this book  to everyone in thing-film field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CNNT4WGU4LC6"
+                },
+                "Date": "on August 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "just started reading. Will update soon... this book is already an established one , so no doubt about it but still i will update my comments."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 25, 2000",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "This book has a long area in the field of determination of optical constant"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Optical-Properties-Solid-Films-Physics/product-reviews/0486669246/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#960,340",
+    "Timestamp": "2015-05-24 12:30:01.989418",
+    "itemurl": "http://www.amazon.com/Optical-Properties-Solid-Films-Physics/dp/0486669246"
+}

@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Group Theory and Its Application to Physical Problems (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.65",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E2WQFVYF4E71"
+                },
+                "Date": "on January 5, 2003",
+                "Helpfulness": 0.9534883720930233,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 24, 1998",
+                "Helpfulness": 0.813953488372093,
+                "StarRating": "2",
+                "Text": "This is one of those books that appear just before their subject matter  becomes a fashion. The most famous example is Courant-Hilbert \"Methods  of Mathematical Physics\", which contained the mathematics of quantum  mechanics as if the authors had guessed what the future had in store.  Hamermesh taught group theory for physicists just before SU(3), quarks,  etc, dominated particle physics. Everybody learned groups from  \"Hamermesh\". Now time passed, more specialized books appeared,  physicists learned more mathematics... What of Hamermesh? Well, I always  thought it was rather boring, a collection of methods with very little  motivation. If one compares it with a modern book such as Inui, Tanabe,  Onodera, one sees the difference: much more physical context. Hamermesh  has, notwithstanding, done his job."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H5JJXH5NPZNK"
+                },
+                "Date": "on February 22, 2001",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": "At the time I ran into this book I was doing research on martensitic transformations in metals. For that, as an engineer, I needed lots of information on point groups. The first chapter of the book contains the basics of group theory and teaches the totally ignorant all he has to know about the subject. The second chapter immediately deals with the point groups as one encounters them in crystallography. Very comprehensive and usefull information. Then the formal theory on groups is treated and general theorems are derived. For an average engineer without too much mathematical background this may be a bit too much, but the chapter is well written and provides usefull information that is used in chapter 4 to derive the irreducible representations and character tables for the point groups discussed in chapter 2. After that, I did not need the book anymore besides the short treatement of translation groups at the end of the book. I definately recommend te book for anyone who has to deal with point groups and wants to know more than just the basics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QO81OUWMLCL8"
+                },
+                "Date": "on January 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good introductory text.  Worth every penny to learn about group theory or to have around for the times when you need to look up a theorem."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A118GOQ15P7XT0"
+                },
+                "Date": "on December 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Nice book for self study"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ASBV64QDRSZD"
+                },
+                "Date": "on March 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The best book now I am use. The second chapter almost drive me crazy. It is not sufficient to understand point group totally, But still helps me understand some though. I'm not going on with solid state physics, so I will just stop where it stops. The example of figure 2-23 is wrong and inappropriate, because the symmetry is higher than D4."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASN1FVPZALER3"
+                },
+                "Date": "on July 29, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "My first impression is disappointment. While discussing permutation groups the author states that there are odd and even permutations essentialy leaving the proof to the reader. I think the proof that decomposition of a permutation into transpositions always has an odd or even number of factors (i.e. is unique) is not very trivial and I never encountered a math textbook which left the proof of this important statement to reader. If I had to derive importnt results by myself, breaking into the open door sometimes, I can do it without this book, I think."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36BVBI8K29WDU"
+                },
+                "Date": "on March 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "After so many years of consulting books on group theory, this is still the best reference for help of group theory as a tool for solving physical problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK3V8U8RH6AXA"
+                },
+                "Date": "on August 9, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "It's a fine text, but Tinkham is probably the best route for the (particularly solid state) physicist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 18, 1999",
+                "Helpfulness": 0.10526315789473684,
+                "StarRating": "5",
+                "Text": "A great book for a beginner. I recomend i"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Application-Physical-Problems-Physics/product-reviews/0486661814/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#481,131",
+    "Timestamp": "2015-05-24 12:46:10.393984",
+    "itemurl": "http://www.amazon.com/Theory-Application-Physical-Problems-Physics/dp/0486661814"
+}

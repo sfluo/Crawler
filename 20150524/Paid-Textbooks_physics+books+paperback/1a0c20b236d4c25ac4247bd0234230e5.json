@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Hunting of the Quark: A True Story of Modern Physics (Touchstone Book)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2606HR9BZ9KLF"
+                },
+                "Date": "on January 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHL35XZ3OND2Z"
+                },
+                "Date": "on July 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Incredibly we'll written, paced and documented.  I don't have a math or physics degree but I found the book relatively easy to follow. I was happy to track down a used copy on Amazon and will not part with it.  Exciting and highly entertaining."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MV8EXMOV7WTE"
+                },
+                "Date": "on December 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "got it ty"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hunting-Quark-Modern-Physics-Touchstone/product-reviews/0671648845/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,700,111",
+    "Timestamp": "2015-05-24 13:32:24.996792",
+    "itemurl": "http://www.amazon.com/Hunting-Quark-Modern-Physics-Touchstone/dp/0671648845"
+}

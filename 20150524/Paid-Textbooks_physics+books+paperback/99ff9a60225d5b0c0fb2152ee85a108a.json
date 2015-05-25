@@ -1,0 +1,2223 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.00",
+    "Name": [
+        "The Road to Reality: A Complete Guide to the Laws of the Universe"
+    ],
+    "OfferPrice": "$18.26",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LUAJU4P03Z18"
+                },
+                "Date": "on December 18, 2005",
+                "Helpfulness": 0.9756888168557536,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BNV8IFRG9FJN"
+                },
+                "Date": "on November 16, 2004",
+                "Helpfulness": 0.9674220963172805,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N2477VRD8OIZ"
+                },
+                "Date": "on February 26, 2005",
+                "Helpfulness": 0.936426116838488,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OLKV9F2S7O6N"
+                },
+                "Date": "on November 12, 2005",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ2VTFIJWRALA"
+                },
+                "Date": "on February 4, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZDPQA6FLY8XM"
+                },
+                "Date": "on November 24, 2005",
+                "Helpfulness": 0.8711656441717791,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33ZXAWI4HFY5V"
+                },
+                "Date": "on June 14, 2005",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUHG8KSHI529U"
+                },
+                "Date": "on March 23, 2005",
+                "Helpfulness": 0.9111111111111111,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on October 5, 2004",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH4IRHFUFERTZ"
+                },
+                "Date": "on February 26, 2005",
+                "Helpfulness": 0.868421052631579,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U347K0U5HA0J"
+                },
+                "Date": "on March 5, 2005",
+                "Helpfulness": 0.8361344537815126,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E82WVTOB862D"
+                },
+                "Date": "on June 8, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O5Z1IHDARVW0"
+                },
+                "Date": "on May 6, 2006",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADE945OA8RDZ2"
+                },
+                "Date": "on October 9, 2006",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20AAXWC0I3XQQ"
+                },
+                "Date": "on March 26, 2006",
+                "Helpfulness": 0.90625,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37NX1MQAFYFO5"
+                },
+                "Date": "on April 17, 2006",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7IHIXQ9OWKLW"
+                },
+                "Date": "on September 17, 2005",
+                "Helpfulness": 0.827027027027027,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RADSYUG7Q8RW"
+                },
+                "Date": "on May 23, 2005",
+                "Helpfulness": 0.8723404255319149,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L8MWFV9MUPUL"
+                },
+                "Date": "on May 19, 2006",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8SDOCQWS4B4I"
+                },
+                "Date": "on June 7, 2005",
+                "Helpfulness": 0.8857142857142857,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29KOUMEOY9CBT"
+                },
+                "Date": "on November 1, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17GICH3W3W7QC"
+                },
+                "Date": "on July 11, 2007",
+                "Helpfulness": 0.88,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFSG5WEHWUSNF"
+                },
+                "Date": "on October 12, 2005",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A373X1CBV8NNCI"
+                },
+                "Date": "on July 25, 2010",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MPDKUWZVL50O"
+                },
+                "Date": "on October 27, 2004",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": "A complete and encyclopedic view of modern physics. Not for casual reading as it is full of mathematical equations; but as the author says in the preface the maths can be safetly ignored while still making the book understandable with some efforts. Covers everything from Relativity, Quantum Physics to String Theory. Penrose also explains the maths required to understand the various concepts. In all a great book from the master who gave us 'The Emperors New Mind' and 'Shadows of the Mind'."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO6OFEFDBZG3R"
+                },
+                "Date": "on January 31, 2006",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "Besides Lisa Randall's excellent book Warped Passages, \"The Road to Reality\" by Roger Penrose is currently THE book to get in popular physics. Although I have to admit when I got my copy I was in for a surprise. I had seen the high sales rankings and was expecting typical Penrose fair, instead what I found was an ambitious effort that could be akin to a principia for the masses. Penrose basically has the book divided into two parts. In part I, he takes us on a tour of mathematics, devoting a chapter to almost every branch of the field. There are chapters on calculus, complex variables, fourier analysis, group theory, you name it. I find his writing style kind of tough going, his explanations are clear enough but something about it has made me want to take this book in small chunks. This is the only reason I don't give the book 5 stars. Anyway, he doesn't hold back, not only writing a popular book that includes the equations but even assigning little homework problems! Moving on, the second half of the book is devoted to physics. Like the math presentation, Penrose devotes chapters to every topic in physics, so you'll find quantum mechanics, relativity, cosmology, black holes and string theory all here, presented in exquisite detail. In the end I think if you are interested in string theory, cosmology, quantum theory and the like, then you should get the book. Just plan on taking your time to read it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FHMJT47YR7BL"
+                },
+                "Date": "on April 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on November 20, 2004",
+                "Helpfulness": 0.8163265306122449,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIUWDT795XBTQ"
+                },
+                "Date": "on January 22, 2006",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIJE35HO3GLP6"
+                },
+                "Date": "on October 25, 2005",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ARL9N14JEUK5"
+                },
+                "Date": "on May 26, 2007",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VX6VPXNQTNUP"
+                },
+                "Date": "on July 2, 2006",
+                "Helpfulness": 0.84,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVXYWKRIECBZ1"
+                },
+                "Date": "on May 17, 2007",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KL8AUN5Q7WEP"
+                },
+                "Date": "on May 11, 2005",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYYOJDZL38QIN"
+                },
+                "Date": "on January 15, 2006",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": "The product of his own search for the Road to Reality, this book is a masterpiece of completeness. Expecting the usual fair for the popular science book, I was pleasantly surprised to see that this book includes a surprising amount of mathematical detail. While this may put some readers off, those who put in the effort to read through it will come out with a deeper understanding of physics and cosmology than they had going in. After addressing the roots of science and basic mathematics discovered by the ancient Greeks, Penrose goes on a tour of mathematics. This includes topics such as basic real variable calculus, complex numbers, and Fourier series. Nice to see Fourier series tackled in a popular book. Penrose also covers symmetry groups, a fundamental concept in modern physics. The second half of the book switches gears from math to theoretical physics, again giving a whirlwind tour. Spacetime, relativty, mechanics, quantum theory, spin, entanglement, cosmology, measurement in quantum mechanics, string theory-its all here. The book is a thousand pages, so if you really want to get through it plan on devoting a fair amount of time. Some readers may be put off because he does not cut corners on mathematics, the way most popular physics books do. But I say its worth it and recommend that interested readers give it a try."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RPTVW5VEOSI"
+                },
+                "Date": "on March 11, 2005",
+                "Helpfulness": 0.7727272727272727,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA8ZBNT7TZKWO"
+                },
+                "Date": "on August 29, 2005",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2554O9V7M9G2B"
+                },
+                "Date": "on November 1, 2005",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9OAUP8S9RM2G"
+                },
+                "Date": "on August 21, 2005",
+                "Helpfulness": 0.8148148148148148,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G5UXXXHTRB3F"
+                },
+                "Date": "on May 15, 2005",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWDLPKMJVTI9"
+                },
+                "Date": "on July 31, 2006",
+                "Helpfulness": 0.8148148148148148,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RGOV5YSKUHGJ"
+                },
+                "Date": "on October 19, 2006",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VYK6A2LBQLHY"
+                },
+                "Date": "on February 2, 2006",
+                "Helpfulness": 0.7761194029850746,
+                "StarRating": "1",
+                "Text": "This book starts out as if it were aimed at the lay person and even makes efforts to explain points that require no introduction to a college graduate with a degree in math or science.  (Example: the author rhetorically asks how one can have a square root of a negative number.)  And yet, less than one-fifth of the way into the book, he proceeds from assuming you don't know what a complex number is to requiring understanding of Riemannian geometry.  The author attempts to provide more than mere nonmathematical philosophizing as some slimmer books have done, but the failure is that his presentation quickly outstrips understanding.  This brings us back full circle to accepting on faith what the undoubtedly brilliant author has to say, but now in the form of a tedious, 1000+ page tome."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35ST9DS1SQ7CR"
+                },
+                "Date": "on June 29, 2005",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9CFN6ZS6MG8K"
+                },
+                "Date": "on October 22, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AVZU83CYUM6E"
+                },
+                "Date": "on October 1, 2006",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AMCNRYYUK7H8"
+                },
+                "Date": "on February 15, 2006",
+                "Helpfulness": 0.7678571428571429,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DC06XGVWLRFH"
+                },
+                "Date": "on October 18, 2007",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "The book was recommended to me by an economist friend with a love of all things mathematical.  He recommended it despite the fact that I am not a strong student of math or physics. I was pleasantly surprised!  Penrose has a way of making complex math and physic ideas relatively \"easy\" to understand.  In fact, I would go so far to say that his writing and illustrations are beautifully clear. I spent a lot of time reading the book and cursing my high school and college math teachers/professors for not being nearly as thorough and clear in their explanations of concepts as Penrose. Yes, it took me a while to get through 1000 pages or so of mathy/physics stuff, but the fact that I actually wanted to keep going at all is a testament to the clarity and genius of Mr. Penrose. This book is so worth it! The best substantive reading I have done in a while!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LKJUO0CXBMKQ"
+                },
+                "Date": "on April 27, 2005",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y5ERIKQBEMSP"
+                },
+                "Date": "on December 7, 2006",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TTVK2ACBM4CT"
+                },
+                "Date": "on March 3, 2009",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CPO8T4BS3YMQ"
+                },
+                "Date": "on March 7, 2007",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13OFOB1394G31"
+                },
+                "Date": "on December 27, 2006",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U402IFR9P27A"
+                },
+                "Date": "on August 4, 2012",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KA3U4C50YI95"
+                },
+                "Date": "on January 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Roger Penrose should be knighted.  He conveys this involved material so well it's hard to put my appreciation into words.  I studied this stuff in college and boy, could I have used this book!  If you've ever been astounded at the power of mathematics, specifically complex mathematics, this book is for you.  It is a work to savor.  Penrose has been my intellectual hero since he wrote The Emperor's New Mind.  This book is truly a masterpiece."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C2WC0YU3IHS2"
+                },
+                "Date": "on January 11, 2006",
+                "Helpfulness": 0.7916666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14WLO12LQW0T9"
+                },
+                "Date": "on August 6, 2005",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EPL80AX5A911"
+                },
+                "Date": "on January 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A6KB3O3GANX0"
+                },
+                "Date": "on August 6, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39YA14EWZMAPO"
+                },
+                "Date": "on May 17, 2007",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MVQG7SSL3M8F"
+                },
+                "Date": "on October 26, 2007",
+                "Helpfulness": 0.7538461538461538,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KYVAF83LNE39"
+                },
+                "Date": "on July 3, 2005",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GS792I7BPIH7"
+                },
+                "Date": "on May 27, 2005",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "5",
+                "Text": "Did you ever play a game with yourself as a small child, \"I wish...\"  --- I did and I got very serious about it.  I very quickly progressed through the stages of wishing for a million dollars.  By the time I was a teenager I used to wish that I could understand everything in the universe.  By the time I was an undergraduate student in college I used to wish I could be arrested, put in jail for a few years and just catch up enough to do justice to the courses I was taking \"THAT\" semester.  By the time I was finishing up my graduate degree I used to wish I could get all the Mathematicians and Physicists in one room and force them to behave themselves and write some content that would give the rest of us a clue.  Since graduate school I have spent many many hours reading popular accounts of the latest 'bandwagon-theories' of mathematics and physics and loving every bit of it.  My wish slowly evolved to the point where I wished I could stay aware and awake enough to appreciate the new stuff as it came out.  Well; folks like Roger Penrose in this book and Brian Green in his two books and even Robert Laughlin in his book about emergent phenomena have basically granted my wish.  I really fell in love with Brian Green's books and found myself constantly flipping to the back of the book and reading the end notes and saying to myself, \"Wow, wouldn't it be great if someone could sort of flesh all this out without requiring the reader to have a PhD in physics and math.\"  I read Roger Penrose's book The Emperor's New Mind some years ago and it only made me wish for more.  I can only applaud the Physicists and Mathematicians of our age for writing these types of books.  And I must say if you have even an undergraduate degree in math, physics, or any other physical science where you enjoyed the math and physics courses you took then this book is for you.  And even if you do NOT have a degree in math or some physical science but enjoy reading the best of the best then this book is for you.  I hope everyone will enjoy it as much as I have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A315F75TDDAI84"
+                },
+                "Date": "on February 12, 2012",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PWF2AQ5XYALW"
+                },
+                "Date": "on February 27, 2005",
+                "Helpfulness": 0.7560975609756098,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30E1NNKCPPZPQ"
+                },
+                "Date": "on June 16, 2007",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "3",
+                "Text": "This truly is an excellent guide to our current scientific knowledge qua math and physics. However, this book has not been distinguished clearly as the advanced read it is.  Rather, it has been marketed to the average pop-sci reader. Without a solid math background you will flounder while reading this book. One other concern I have is that Sir Roger expends little effort in thoroughly describing current concepts in string and M-theory, while focusing on his own twistor theory. While it's natural for a scientist and author to spend more time on his own ideas, it seems that a \"complete guide\" ought to address competing theories completely, especially when the competition has more support amongst physicists than does twistor theory at the time of writing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9Y1F9QOPV2FL"
+                },
+                "Date": "on April 7, 2005",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31OP2SR2I5DJQ"
+                },
+                "Date": "on May 14, 2005",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25FDX17O3QKLT"
+                },
+                "Date": "on May 13, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13OFOB1394G31"
+                },
+                "Date": "on April 2, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17GICH3W3W7QC"
+                },
+                "Date": "on July 13, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZM4OF66O61J7"
+                },
+                "Date": "on April 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Many reviewers are harping on the mathematical density of this book as the cause of its failure. But, although I couldn't comprehend 90% of the math, I needed this book to lay out for me just what mathematical abstractions the great thinkers were capable of summoning to apply to their observations of physical phenomena. The presentation of these theories in all their opaque gritty detail 1) vividly demonstrates the astonishing cultural phenomenon of an animal species that has come to understand its physical setting in the Universe and 2) concludes inescapably that those who have an understanding of these concepts have a different level of consciousness than the rest of us.  One important impression I came away with was an appreciation for the confidence of the physics community as they assert often counter intuitive ideas. They discover time after time mathematical ideas developed centuries ago are a perfect application for recently discovered physical phenomena so they can't help but believing in their work because of this apparent independent verification. A good example being the conjugate operation of a vector space being thought of in the early 1800's is a perfect fit for the conjugate variables of momentum and position of a particle in quantum theory. Or Lie algebra (1800's) having an indispensable application in space-time manifold surfaces. I had to read each chapter several times with frequent visits to Borders to reference the College Study Guides on Vector Spaces and Tensor Algebra. One thing I definitely learned from that was that this book was not made to be read several times. The pages of my volume have completely separated from the binding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23HBDA7NES0FF"
+                },
+                "Date": "on December 27, 2012",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T8AC805UZWZR"
+                },
+                "Date": "on August 21, 2005",
+                "Helpfulness": 0.76,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9C8GEBNAWOUV"
+                },
+                "Date": "on October 25, 2007",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9AZ8TZYD1QUF"
+                },
+                "Date": "on October 26, 2005",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T80WH5ZSTFS1"
+                },
+                "Date": "on April 15, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O8NL7DXLM1WA"
+                },
+                "Date": "on May 22, 2007",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K9OIFYGIGBWJ"
+                },
+                "Date": "on July 30, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARSNIVXFNLKRW"
+                },
+                "Date": "on April 24, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RYM893K98PDQ"
+                },
+                "Date": "on October 1, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PDB8341UQS9S"
+                },
+                "Date": "on July 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on March 17, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O5O58VKLTXUY"
+                },
+                "Date": "on January 13, 2007",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VZP1K5EBI13R"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31E3M6R2YZJ04"
+                },
+                "Date": "on July 31, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7UMC95YCRGTS"
+                },
+                "Date": "on February 28, 2005",
+                "Helpfulness": 0.723404255319149,
+                "StarRating": "5",
+                "Text": "This monumental exploration of the fundamental mathematics for modern science breaks new ground for popular science texts, and does a superb job at giving a terrain survey of some recondite subjects. A prodigious number of topics are included in the text, from Riemanian manifolds and fiber bundles to tensors and differential geometry. Astonishing to see this material presented in a book for the general public. There is more than one way to do popular science and math. A great many students sandbank somewhere near a calculus course and never manage, mostly due to lack of time or occasion, to pursue the avenues this opens up, like an unused tool. But there is a great deal that can be studied profitably if the right literature existed for that purpose. Much of the material of this type is stoked away in specialized texts, and it is remarkable to see it recast for the general science reader. Such readers will hear of exotic yet not altogether difficult subject matter for the first time. Penrose's strategy is the right one here, and we can be glad he had the nerve to include technical details. The text reads well enough that one can even skip the formulae. Covering the immense ground of modern science is a permanent crisis of public information and needs new experiments in exposition. We can be grateful for this audacious venture."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGM3UK6UR81H8"
+                },
+                "Date": "on February 21, 2006",
+                "Helpfulness": 0.7647058823529411,
+                "StarRating": "5",
+                "Text": "I have been looking for this book all my life. This book has some very worthwhile very hard math concepts. But I have been brushing up on my math to keep up with this book and it is well worth it. For me I need to rename it \"The long Road to Reality\". Most books are read and put down but this is one of those few books that becomes a part of your life. You struggle with it and each advance is cause for private celebration."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UTKYA2U8542F"
+                },
+                "Date": "on June 13, 2007",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A275808SDW7WQZ"
+                },
+                "Date": "on April 3, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UK1NU734M11R"
+                },
+                "Date": "on November 17, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "As a physicist, I enjoy reading descriptive and mathematical overviews of current topics by respected researchers - their insights are often profound.  But in all the contemporary books on mathematical physics, quantum mechanics, relativity, and cosmology currently available, none is so comprehensive and profound as Penrose's work.  His writing style is very readable, so in spite of its rigour in parts, it is difficult to put down.  A real gem!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A374MLGUO5SP3E"
+                },
+                "Date": "on July 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The Road to Reality covers a lot of the same ground you would find in standard mid-level undergraduate mathematical physics textbooks, but within the framework of what might be called a \"popular science\" format (though with a *lot* more focus on the math than is traditionally permitted in the genre). It provides an enticing glimpse into the mathematics behind modern physics in a manner accessible to virtually anyone interested enough in the topic to pick up the book. And, unlike many texts that attack physics from a mathematical standpoint, virtually every subject is tied back to physical applications, with clever examples and thought experiments throughout."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AF3KQLHYCJQD"
+                },
+                "Date": "on April 6, 2005",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": "As an admirer of his previous books ( e.g. shadows of the mind ) I was very disappointed by this massive effort on Penrose's part to describe the physical universe.  As a dropout from the Phd. program in theoretical physics at Caltech I still try and keep up with the latest developments in theoretical physics particularly in regards to quantum field theory and string theory.  The problem with this book is if you aren't already familiar with the mathematics underlying much of modern physics the book is useless and if you are the book should have been only 200 pages long instead of 1050.  Basically I bought the book to get Penrose's views on string theory and the measurement problem in quantum mechanics but here other than some useful criticism he added little to his previous works.  Though the book is inexpensive I still feel a condensed version written for those who can really understand this book would have been more useful. For those who are not familiar with the mathematics and the physics presented here dont even think of learning it from this book - it will be impossible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATYPZNJ7MBAZV"
+                },
+                "Date": "on September 15, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19L2OFCF4ZFQ"
+                },
+                "Date": "on May 17, 2005",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M8IXLNYASJ52"
+                },
+                "Date": "on February 26, 2005",
+                "Helpfulness": 0.72,
+                "StarRating": "5",
+                "Text": "Penrose begins with introductions to interesting mathematics. Throughout, he has lots of tidbits that will make it interesting to those who thought they were already knowledgable. His cute pictrograph notations for doing math are fun. His non-mainstream notions about string theory, inflation, quantum mechanics are especially worthwhile. This may well become the sequel to Gamow's \"One, two, three, infinity\". Gamow's book got many in my generation excitied about physics and mathematics. Penrose's ambitious new book may do the same for future generations (especially those who already have a PhD in theoretical physics or math)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JGDV0XUJAYB"
+                },
+                "Date": "on January 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent text on how the universe works.  Very Technical and difficult in places.  Good knowlege of Cosmology, Astrophysics, and Mathematics needed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YGFS36G0NNU0"
+                },
+                "Date": "on April 6, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S8M9LC00IGQR"
+                },
+                "Date": "on October 7, 2005",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "5",
+                "Text": "I'm an engineer not a scientist. My math skills allow me to understand most concepts, at least on an elementary level, but never rise to the level of full comprehension. Regardless, I enjoyed working through this book very much; enough that I have gone back after completing the book and pick up a section here or there for that second or third look at concepts that evolve as they become familiar. I highly recommend this to anyone that enjoys discovery and is not afraid of a little work to find it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D4MKUTBLF469"
+                },
+                "Date": "on February 16, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MIXD8BDAPCRJ"
+                },
+                "Date": "on May 13, 2005",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MYKZ1OP2NQRX"
+                },
+                "Date": "on July 3, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an amazing book. It has so much in it that I do not see how anyone could learn it all. It is encyclopedic. Even the elementary chapters are a pleasure to read, as Penrose has his own insights on the subject. Some of the later chapters are peppered with his views, which may or may not be the mainstream physics views. I have the paperback edition, as that has a lot of errors corrected."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PSRCO26FGWA0"
+                },
+                "Date": "on May 7, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMPWSLWCY16Y9"
+                },
+                "Date": "on August 12, 2008",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AZQXCW9HEQID"
+                },
+                "Date": "on March 20, 2007",
+                "Helpfulness": 0.6923076923076923,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A115GLEHF1ZSS2"
+                },
+                "Date": "on February 3, 2006",
+                "Helpfulness": 0.7083333333333334,
+                "StarRating": "3",
+                "Text": "The author seems very knowledgeable and has worked really hard for the book. However, the book is pretty much useless even for a college educated individual with average math knowledge. The author keeps repeating that he will try to keep math to minimum and use it only when he cannot avoid it. But 80% of this more than 1000 pages book is math, advanced and difficult math. Average reader would be better off reading a less technical book on the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3APR36MGVJOOW"
+                },
+                "Date": "on October 5, 2005",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SPY628KY1ZAN"
+                },
+                "Date": "on July 26, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "I put this book down after the third chapter. Its turgid prose and heavy mathematics made it a painful read. I consider myself reasonably intelligent and curious (I hold graduate degrees in English from a top universities and have decent math ability), but The Road to Reality left me frustrated and confused. I may give it another try, but I don't recommend it for the beginner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A326VS60S4E6PS"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35ST9DS1SQ7CR"
+                },
+                "Date": "on June 29, 2005",
+                "Helpfulness": 0.6956521739130435,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4IPJU30XEORF"
+                },
+                "Date": "on March 3, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33H7ZVP3PGCXR"
+                },
+                "Date": "on January 16, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Yes, it's very complete. It is also a book with enough pages to give examples, formula, background info on how things were wrought up by scientist of early twentieth century. This book is definitely a good buy. Penrose is an excellent educator and really explains."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GJGDRFQBK17M"
+                },
+                "Date": "on March 19, 2007",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "5",
+                "Text": "Penrose gets slammed all over the place regarding this book, but the simple facts of the matter are he is an extremely prominent and accomplished genius. If you understand 1/1000 of the books contents you will be thrilled as I was. Jeez, fifteen dollars - you probably will spend more than that on BEER this weekend!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TD4KFEPN00PY"
+                },
+                "Date": "on October 24, 2005",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UN3L3PJCZNGG"
+                },
+                "Date": "on February 16, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C41BSFIMLXJN"
+                },
+                "Date": "on March 11, 2008",
+                "Helpfulness": 0.6923076923076923,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35OPO6QCBG6ZS"
+                },
+                "Date": "on November 4, 2005",
+                "Helpfulness": 0.6923076923076923,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W7L8T4K0VJTF"
+                },
+                "Date": "on January 20, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I've only made it through about a fifth on this book. But that fifth was worth the price all by itself. Slow reading but an incredible insight into math and physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MJMYLRTZ76ZX"
+                },
+                "Date": "on June 19, 2005",
+                "Helpfulness": 0.6875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OCIHRYSD3OZH"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There are many excellent reviews here, and because I'm neither a mathematician nor a physicist there is little I can add. But for those like me who are smart, curious, and patient and who are wondering whether to have a go at this book, I say go for it. By the time you have labored your way to the end, you'll find that you have absorbed far more than you expected. When Penrose is not doing math, his voice and his prose are crystal clear. If Penrose loses you, sometimes taking a look at, say, the Wikipedia article on a particular subject will catch you up. If gaining a better understanding of physics is a longterm goal for you, then this book is a valuable reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATSYTQV0NLV24"
+                },
+                "Date": "on June 14, 2006",
+                "Helpfulness": 0.7,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HXP6YC0DB9V1"
+                },
+                "Date": "on October 18, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33QXG4ETZ8JOI"
+                },
+                "Date": "on June 15, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Penrose presents an excellent challenge to the reader in this great book. Not only does it look thick before you start, but as you flip through it, you'll undoubtedly see symbols and equations you've never heard of. Unlike most pop-sci books today, \"The Road to Reality\" was written for a more serious lay reader with real mathematical applications and theories. If you're looking for a book that will teach you something about the mathematics behind the modern scientific discoveries, you should get this book. 5 stars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LG1HU2PKJQLC"
+                },
+                "Date": "on December 13, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I love this book! After so many pop science tomes(Strings for Simpletons, etc), it was so fine to find a book that dumps it all on you and interconnects so many ideas and disciplines. I'll be reading parts of it for years, and reading physics texts to try to make out the more obscure sections and connections. And I think it's cool that he makes no bones about being a Platonist (\"scratch a mathematician, find a mystic!\"). I'm so glad he spent the time to put all these ideas together in one volume! WARNING, bachelor's degree in math or physics pretty much necessary."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS6H78AHJTF38"
+                },
+                "Date": "on June 23, 2006",
+                "Helpfulness": 0.6875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A347484VEXDRW0"
+                },
+                "Date": "on October 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This has got to be the best book about the modern understanding of physics and what led us to to it that I own. I purchased \"The Road to Reality\" used from this seller and it arrived to me on time and in perfect condition. I've seen these books new in bookstores that were not in as good condition as the one I recieved from this seller. Five stars all the way around."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LYBN47IAEJBA"
+                },
+                "Date": "on August 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book, explains mathematics in a different way than any textbook has done before.  Penrose blended complicated formulas of mathematics and then explained how they even work in this world.  This is one of my all time favorite books.  If you want to think about Physics the way Stephen Hawking or Newton did, this book is the right book to get"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WO4ZYCNWDGG7"
+                },
+                "Date": "on January 29, 2006",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GSWFEUMYF616"
+                },
+                "Date": "on June 20, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SFTMZMKZ4IT"
+                },
+                "Date": "on February 18, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO4X5SFQIG69H"
+                },
+                "Date": "on January 11, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Amazing scholarship. Truly one of the most valuable books ever published. Mathematically very intimidating though. I have a life goal to read and understand it before I die!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Q1H5Y6YM2AD9"
+                },
+                "Date": "on November 9, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TIE1VUNCR31H"
+                },
+                "Date": "on June 15, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Although this is a very illuminating book (I gave it a 4-star rating), contrary to its claim in the preface, this is NOT for those whose math background is limited to a high school level. You need a firm grasp of advanced calculus, abstract modern algebra and topology to follow the brilliant logic of Roger Penrose in this enormous, encompassing work. If you do have this minimal background in math, this book will delight you. However there is one small criticism and that is on page 960 where Penrose dismisses Category Theory as 'abstract nonsense'. What seemed to have escaped the brilliant man is that Category Theory has become the 'language' of K-Theory, which the latter has become instrumental in the study of D-branes in String Theory. That Penrose fails to mention the very existence of K-theory in this book makes its sub-title, `A complete guide to the laws of the universe', incomplete."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SXP2YU3YFRRP"
+                },
+                "Date": "on May 19, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M5CEOODAKOLN"
+                },
+                "Date": "on March 19, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I agree with Michael J. Edelman and Steve Sonance (these reviews). This book is HEAVY mathematically - very heavy. Further the mathematics, while often illuminating to someone with a PhD in mathematics, is explained in Penrose's idiosyncratic style - not always getting to the mathematical heart of the matter in a clear way. As a mathematician who reads popular accounts of physics I found this book to focus mainly on Penroses's own slant on physics. I would have given the book 1 star because of its density. However, there is nothing else like it, and persistent and patient reading almost always rewards. I am AMAZED that this is a popular book. Perhaps mathematical physics is the new religion?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37DZPFZLUU9NI"
+                },
+                "Date": "on September 15, 2004",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Despite the previous work of Roger Penrose concerning my favourite topic (neuroscience, mind-brain issues, consciousness, etc.), this is the first book of his that I have read (not quite finished yet, not that fast !). I am quite impressed overall, wanting a well discussed introduction to some of the primary mathematics and physics that have led to our current time. This, Roger Penrose functionally provides, though at times some of his discussion could be clearer. He has made a sensible and successful effort to write at a number of different levels so that those with no mathematical background can read prose for content and ideas, and those with significant previous knowledge and ability can work on proofs of various arguments, etc. This is certainly a weighty set of chapters, and I cannot comment on the appropriateness of some of the latter chapters vis a vis current arguments and the positions held by other scientists, but definitely, this is one of the most significant and important books of its type to arrive on the scene and with some significant effort on the part of the reader, should repay hansomely!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O1SFEWM484VU"
+                },
+                "Date": "on April 15, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PI9WC7AT9THC"
+                },
+                "Date": "on February 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "One of the best histories of anything physically important that I have ever read. I ordered it in paperback to use it but I've now got a hardback copy as well. I did the same thing with the Feynman lectures. I mess up the paperback copies as I work with them and have the hardback copies for reference. A really great companion to these is Fundamentals of Physics (I bought the 8th extended edition) Jearl Walker (Halliday, Resnick and Walker). Dr. Walker now edits the book, I think. Penrose's The Road to Reality is well written and topics normally far from the understanding of most of us are well stated. Two years ago, this book alone started me on a journey that was only begun in 1965. The other books are essential to get at the rigor of solving problems. But Penrose tells you why it is important and how to approach the process of thinking."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VD6DG51IZE3U"
+                },
+                "Date": "on April 13, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "The definitive popular exposition of modern physics. This magnum opus requires a dedicated reader, but the rewards are well worth it. Filled with Penrose's unique insights and geometric visualizations, this work is valuable to the seasoned physicist and untrained enthusiast alike. It is also happily written in highly readable prose. My own copy is filled with notes and underlining on nearly every page and took me nearly a year to finish. It is a tribute to the field and to the dedication and intellectual power of one of the world's greatest physicists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DOS54HI4Q041"
+                },
+                "Date": "on March 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I'm only about 100 pages into the book. So far, it's very interesting. My only complaint is that I don't find Professor Penrose's explanations of math very easy to follow. I'm not a mathematician, although I had a pretty good background in calculus, and I've never had any trouble with understanding math when it's clearly explained. For example, Penrose's explanation of complex numbers was a bit confusing at times. However, I read David Poole's appendix (in his Linear Algebra text) on the same subject and found it much easier to follow. This could be just a matter of personal learning style matching pedagogy, but Penrose, albeit undoubtedly brilliant, is not the best match for me as a teacher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y3SZ102MAHXX"
+                },
+                "Date": "on October 25, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Not a leisure read if you're planning to follow it closely, but I've never felt a stronger urge to thank an author for writing a book. This is THE book that was desperately needed--one that didn't make use of metaphors to dumb down mathematical content in order to make it accessible to the layperson. The book certainly has its flaws with respect to how easy it is for an educated layperson to follow it without skipping minor details, but remains incomparable in it's depth and breadth."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A334HD9T6GH5WN"
+                },
+                "Date": "on August 31, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1584KZE04DAP5"
+                },
+                "Date": "on April 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10QK3PQ1YBXRA"
+                },
+                "Date": "on April 7, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQRR25LWF4ZLN"
+                },
+                "Date": "on January 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The reader must possess a high degree of mathematical acumen to appreciate the work and must have super-human persistence to make meaningful headway in this book.  This is a heavy -weight.  It doesn't get any better.  Kudos. Sir Penrose!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXUITGFHC2KRS"
+                },
+                "Date": "on February 4, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N2JPPMROI7IO"
+                },
+                "Date": "on September 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am retired from a career in science, background in chemistry.  I got this book to learn the current state of affairs about cosmetology.  I enjoyed the math review but really cherished to push into current theories.  Lots of ideas and insights.  Get it, you will not be disappointed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A365QI1GZ1N0IB"
+                },
+                "Date": "on December 30, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31LWKO1UG3KCB"
+                },
+                "Date": "on February 26, 2005",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": "Roger Penrose presents a vast panorama of modern knowledge. He starts with the mathematical instruments that cast light on the road to the elusive physical reality. These instruments allow appearance of singularities, which make the current understanding of the universe incomplete. We cannot know for sure what was the universe before the big bang and how it will evolve and end. These questions find amazingly elegant answers from the physicist Eugene Savov in his book Theory of Interaction. Savov considers space experiments and afterwards draws equations. I highly recommend these two basic books to everybody who is interested in the creation and the unfolding of the universe and in the application of mathematics to this great mystery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on May 21, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UEZIWTVVY2HP"
+                },
+                "Date": "on January 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a meaty read and is going to take the reader a good deal of time to tackle. Be prepared to stop and start several times and keep a dictionary nearby. You're gonna walk away knowing so much more than when you went in, though, so the time investment will be worth it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5495Z5QZL2QV"
+                },
+                "Date": "on January 25, 2006",
+                "Helpfulness": 0.625,
+                "StarRating": "4",
+                "Text": "This is a challenging book, even for self-described intellectuals.  It's critical to put in the time, slowly, in the first few chapters, stick with it, and see the benefits unfold in the later, rather elegant chapters where it all comes together -- literally.  While Penrose can be a bit strident at times, he makes a convincing and worthwhile case for his explanation of how the laws of nature interrelate and flow into somewhat very unexpected fields.  Not having read many (any) other books on theoretical physics, it's hard to compare this to other books in the genre.  But from a more philosophical viewpoint, it's an impressive effort to expound on current theory and can make even a hardened 19th century Western European old-school philosophy curmudgeon like myself to take pause and think things over.  Well worth the time and effort."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VEBVHQ8B7L8W"
+                },
+                "Date": "on March 28, 2006",
+                "Helpfulness": 0.6428571428571429,
+                "StarRating": "4",
+                "Text": "This is an extremely thorough book, but it goes through an entire undergraduate course in math in about two hundred pages.  It requires a lot of background to read.  If you do the problems, the book is easily a year long course in grad school.  The casual reader had best have a PhD in physics or math.  However, for me, the book explains a lot of the mysteries of modern physics in trying to unify quantum physics with general relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23QF9C6CI79YD"
+                },
+                "Date": "on April 19, 2006",
+                "Helpfulness": 0.6470588235294118,
+                "StarRating": "1",
+                "Text": "This book is being presented by its publisher as a layman's guide.  It is not.  I would judge it to be at least at the college graduate level.  As far as the actual content, I would classify it as a cataloging of ideas without insight or point.  I never felt like I was drawn into a discussion that was going anywhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP0UUWWIK576R"
+                },
+                "Date": "on June 8, 2008",
+                "Helpfulness": 0.625,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHDW6CKKESMLH"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I think this book is very hard if attempting to be read cover to cover. It's better to read a few chapters, then use it as an encyclopedia of introductions - and for that, it's amazing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UB46NT3QX94A"
+                },
+                "Date": "on August 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Gives a good overview of modern physics.  However the explanations can be confusing.  The first third of the book is heavy in mathematics.  I haven't read further than that....yet."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17GDRNI11B06Y"
+                },
+                "Date": "on February 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Impossibly difficult, but ultimately a release from simplistic notions of a simple universe....Start in the middle, and read one page per day, or month, but keep going!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZJ2T3ISTZ624"
+                },
+                "Date": "on September 20, 2008",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "This book took some time to read! In my opinion, if you want to understand current work in physics, you need to have the basics under your belt. Roger Penrose starts with the basics and works all the way through at a very challenging pace. He introduces the necessary math in a very straight forward, easy to understand way in the first few chapters and they were fascinating! After that, it gets even better building on the very basics where he began. This is not one of those books that you can read in a weekend or on a long plane trip, so plan to take some time and enjoy this one. It will be well worth the effort."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HTHH9MD1TXCH"
+                },
+                "Date": "on January 3, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "After reading this, you realize the name should be \"The Road to Realities\" (plural). Not only does Penrose demonstrate the relativity of all things, but also the creation aspect inherent in choosing from an infinite number of possibilities on an infinite number of abstraction layers, each with a potential of spawning infinitely more if pursued. In the end, Penrose shows us how both, he created Spinors, and the universe as he knows it could not exist without them. Thus, he created the foundation of the universe? If there were only one reality, the answer would have to be yes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on May 24, 2005",
+                "Helpfulness": 0.6190476190476191,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H7Y5XKPGT0OS"
+                },
+                "Date": "on March 30, 2010",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E4Z216B8LFLZ"
+                },
+                "Date": "on November 29, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26UOCF0TY8L5K"
+                },
+                "Date": "on June 9, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I was advised of this book by a friend. It is a remarckable book indeed! I do not know of another book that can transport the novice to some understanding of contemporary physics! I do strongly recomend this book to novices really very interested in physics (the reading of it requires patiency). To the professional in physics I would like to say that Penrose allways surpreends us..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BU2W1URAIBSC"
+                },
+                "Date": "on March 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Basically a pure math book describing physics...Not the other way around"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SEVXBN55I9HM"
+                },
+                "Date": "on May 26, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LOG09078A9RZ"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A220OVP79Q8CEF"
+                },
+                "Date": "on November 30, 2005",
+                "Helpfulness": 0.62,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18NYU12SQ4CEG"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is what it says. Reality!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADWA593XQ2FDH"
+                },
+                "Date": "on February 6, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": "Superb, if overwhelmingly meticulous.  This is a book for an entire winter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W0YK3GIFEETZ"
+                },
+                "Date": "on January 12, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "1",
+                "Text": "The title explains it. I was hoping this book would be more like \"The Elegant Universe\" by Dr. Brian Greene. Not recommended for anyone who is not presently seeking an advanced degree in the hard sciences (beyond the Bachelor's degree) or already has an advanced degree, Masters or Ph.D in a hard science (Physics, Mathematics, or other Engineering fields)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB8RT5DTH6ACM"
+                },
+                "Date": "on April 13, 2007",
+                "Helpfulness": 0.5882352941176471,
+                "StarRating": "5",
+                "Text": "Warning: This book does not avoid mathematics. It manages to cover physics up to the present by introducing extremely powerful mathetical tools. Penrose spends about 20 chapters on mathematics before getting to the physics. Not many chapters, considering that he covers everything from basic calc to modern differential geometry (most of mathematical presentation is focused on differential geometry and tensors). Unfortunately, if you have not (at the very least) completed a college level calculus course you will probably find this too difficult. The people who will gain the most from this book are probably those who have already seen much of this material, but have not put all the pieces together. The use of the word \"guide\" in the subtitle seems to suggest that Penrose was aiming in that direction. This is not a breezy pop-science book like so many others you have seen. I highly reccomend this book to college students who are approaching advanced physics. The chapters on tensor calculus are very good. Where else can you find an informal presentation of the lie derivative?  Other books that cover this material are: Shutz. Geometrical Methods of Mathematical Physics, Spivak. A Comprehensive Introduction to Differential Geometry Vol. 1."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WN34I94RY5C"
+                },
+                "Date": "on October 12, 2005",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": "As i just said, i enjoyed the book very much, and true i did not understand half of what the man said, but if you truely love physics i think you can get something out of this. Maybe im strange, but i enjoyed this book so much. One great thing about it was the fact of his view on string theory. Not often will one find such a view as he has on the subject and it has lead me to question my earlier views on the subject. Also, I had never heard of Twistor Theory before and now i see it has some value and that i may start to persue it in my college career along with the new versions of string theory with 4 deminsions that he spoke of.  Over all, people who give this book a bad rating, just are not seeing the book for what it is. And that is a general guide to the most important theories, one that may not be the most percise at every turn, nook and craney, but one that is a great 1045 page guide to things in general and help people see the elegance in the math involved in physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BXQ9QDNWCHAO"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": 0.5909090909090909,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6OXBGSDRTDNN"
+                },
+                "Date": "on September 11, 2004",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFWUC7RY00MFG"
+                },
+                "Date": "on May 9, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "excellent general primer for Quantum Mechanics and modern physics. Penrose is writing at a level for the reader who is willing to do some work to understand a very complicated subject. A much more educational experience than the usual books on quantum mechanics for the general reader"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SZN8PW7VVSP4"
+                },
+                "Date": "on May 8, 2005",
+                "Helpfulness": 0.5882352941176471,
+                "StarRating": "5",
+                "Text": "Its about time someone wrote physics without dumming down the text with no references to the mathematics needed for a complete understanding.  I loved this book.  It made me brush up on my college mathematics and even take calculus.  I strongly recommend it. For all who search for the truth this is one important tome."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12I4SY0XDUBOS"
+                },
+                "Date": "on May 2, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I love this densely packed, entirely informative book.  It gives a new level of understanding for those who enjoy reading about mathematics but who (like myself) have received no formal training in the field.  There is a handy \"notations\" section, which was great, but I could have used a glossary as well. Otherwise, a great book and one I'm very glad I bought."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZQ2HE1QFV8ZL"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The entropy of the universe part was by itself worth the time and money spent - just fascinating.  The rest of the book is very long and the mathematics is frequently above my level, and only little nuggets of insight  make it worthwhile.  The price was attractive and I'm glad to have it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19OORKBG1VUGU"
+                },
+                "Date": "on July 31, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This is a very thick book.  I find the math somewhat difficult, however the book does have some gems in it, even if you have to slog through a lot to get at them.  Other reviewers say more and better things than I can.  I keep this at my desk, at work, and go at it, on lunch, for fun."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CD7CD2CITV9Y"
+                },
+                "Date": "on March 17, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "A book for mathematicians interested in physics; that is what I felt throughout reading this tome of knowledge.  And why shouldn't it be as it was written by the genius mathematician, Roger Penrose.  This is without a doubt a great perspective on physics; Penrose does not insult our intelligence, rather he challenges us greatly (and occasionally takes our lack of knowledge for granted). This is not an easy book to read but it is worthwhile journey into the universe through surprisingly elegant mathematical and physical theories.  You don't need a phD to read this (it wouldn't hurt of course!) but because each chapter is so dense with material, it is better to take breaks often and synthesize the information.  This is the universe in a nutshell and the content is superb. Nevertheless, I'd recommend \"The Road to Reality\" to ANYONE who wants to expand their mind and is willing to work for their knowledge."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BPNYMJXAQ10T"
+                },
+                "Date": "on December 1, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent book for those attempting to understand contemporary physics and elementary physics.  Penrose is user friendly in terms of mathematics and physics.  Highly readable and a good purchase for any library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GP36ZBGFP9PR"
+                },
+                "Date": "on January 6, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This is a very nice, if math filled, description of Quantum Mechanics.  It discusses all of the major issues, in considerable detail.  It took me a long time to digest, however I found it useful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13AZS4ITQT7QJ"
+                },
+                "Date": "on September 28, 2013",
+                "Helpfulness": 0.5384615384615384,
+                "StarRating": "2",
+                "Text": "Obviously Penrose is a super mathematician.  The book is comprehensive and well organized, and the illustrations are very helpful.  The first 400 pages concern mathematics, the remaining 650 pages concern physics, both of the microcosmos and the macrocosmos.  The equations are very abstruse, with very few actual computations provided, and very little physical data are provided either.  As a theoretical physicist and systems/mechanical engineer, I felt obligated to read this work, which took about 10 days to complete.  It was worth the effort, because Penrose does critique the existing theories and, in particular, explains the conflict between General Relativity and Quantum Mechanics.  He clearly knows that a better theory would be desirable, but doesn't provide one; his own theory, Twistors, has no testable predictions. No one seems to be able to come up with a viable theory of \"quantum gravity.\"  What's irritating to me about this work is that Penrose goes through practically every idea in modern theoretical physics--except for the one I've been working with since 1965:  the Reciprocal System of Dewey B. Larson.  There is no excuse any more for the physics community to keep ignoring this unified, general theory--which is precisely the kind of theory which Penrose says he wants.  The Reciprocal System does feature discrete space-time, which Penrose himself advocates.  But Penrose will not budge from General Relativity and curved space-time, though all the recent space observations show that the universe is Euclidean.  Larson's work and my papers are freely available on the Web; after you read Penrose's book, you might want to look at the Reciprocal System.  I do recommend Penrose's book to mathematical physicists as I do think that his critique of the current situation in modern physics is right on.  I just think he's ignoring the solution!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7UL7WMSTJ4Z1"
+                },
+                "Date": "on August 3, 2005",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "5",
+                "Text": "It is a complete book about all laws of physics stablished up to now. A book to be read and kept for future consultation. Not easy for people without basic education in maths and physics, but it is not necessary to be a Msc or Phd in these disciplines. It is big and complete."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22W769GN55TGH"
+                },
+                "Date": "on August 8, 2006",
+                "Helpfulness": 0.5862068965517241,
+                "StarRating": "3",
+                "Text": "I'm not really sure who this book is written for.  It starts out quite fun, with a really joyful explication of the nature of geometry.  With each chapter it seems to get denser and more obscure.  By halfway through the book (where I gave up reading) everything was a cloudy haze of obscure concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W3BS0W2T9JA"
+                },
+                "Date": "on December 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Not the easiest of reads, but a real anchor to reality. You can also take a look at his earlier works."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Z9EMACNY0YX"
+                },
+                "Date": "on June 28, 2005",
+                "Helpfulness": 0.5384615384615384,
+                "StarRating": "5",
+                "Text": "\"Magellan\", in another review, mentions a Linus Pauling book. When I was only seven years old, I discovered that book in a shell: a legacy from my uncle Ramon, a Cuban refugee who was forced to leave his country and enter the United States because of his political ideas. That book was an incentive for becoming who I'm now. So I can figure, in the near future, a used copy of \"The Road to Reality\" in the hands of an amazed little boy or girl, and all the things he or she could do with all this concentrated knowledge... and wisdom. Thanks, Mr. Penrose."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RX0W3GOD8659"
+                },
+                "Date": "on March 16, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "The book  is written in exhaustive techno speak . . . that would only be truly understood by his peers . . . Hence not understood by 99.9 percent of his audience that would likely want to have his book . . . like me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A219EKK8QF6YJG"
+                },
+                "Date": "on December 20, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Although this book is definitely not for beginners I would recommend this book for someone who is interested in learning more about the inner working of the universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DWRJ8ZF6WM21"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "My physics-loving husband enjoyed this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A93RV5XRBFDW3"
+                },
+                "Date": "on April 2, 2005",
+                "Helpfulness": 0.56,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R1TL62NX30UE"
+                },
+                "Date": "on February 24, 2012",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VECP3A29TAHL"
+                },
+                "Date": "on July 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "If you want a book to add to your challenge reading library, this is it.  Great material, wonderful insight, but requires lots of thought, study, and review of college math.  Great for preventing Alzheimer's I would expect.  All joking aside,  the level of genius and comprehension that Dr. Penrose has acquired and his excellent writing skill in summarizing this information is tremendous.  Congratulations on this work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1184562KC6C2V"
+                },
+                "Date": "on January 7, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB5Q241IYRGCM"
+                },
+                "Date": "on November 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Awesome!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QDLEJ9RLF93K"
+                },
+                "Date": "on July 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I almost couldnt read this -- very deep and hard to understand -- tiny choices and what really is going on all around us and the subtle or large changes your thoughts and actions can have on living and non living things you come in contact or thought with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5P3PYL541IPC"
+                },
+                "Date": "on April 14, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book unveils and explores the fascinating mathematics behind physics today - glossed over by most popular physics books.  This book is that next level of understanding.  1000+ pages but rewarding with every page."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW"
+                },
+                "Date": "on November 24, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SIK0PXECRGBT"
+                },
+                "Date": "on July 4, 2006",
+                "Helpfulness": 0.5405405405405406,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JU2UWORV69T2"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A great and scientific book, great author, and thinker of our time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EN06Q8DVZ8JS"
+                },
+                "Date": "on June 8, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10TLB4XZRQSLZ"
+                },
+                "Date": "on January 6, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I loved the clear perspective on the relation between mathematics and physics.  Most of the cosmology was new to me and is very clearly presented.  My only reservation is that his view of quantum mechanics differs from mine.  He dismissed the \"many worlds interpretation\" far too quickly.  He seems to think classically about what is wrong with quantum mechanics, while I prefer to think quantum mechanically about what is wrong with classical (and relativistic but non-quantum) physics.  (I don't think my point of view is unusual, it seems to mostly agree with what Erwin Schr\u00f6dinger said in his \"Cat\" article.)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F8G3N3DPUCBV"
+                },
+                "Date": "on April 8, 2005",
+                "Helpfulness": 0.5306122448979592,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15O0MMQ94K1J7"
+                },
+                "Date": "on January 23, 2006",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "5",
+                "Text": "I'm interested in physics after a long time far away this science and so I was attract by this book. Infortunately, it is impossible for anybody to follow Dr. Penrose expositions without a strong mathematical basis. For whom with this knowledge the book is a very good actualization of what is occuring in the frontier of theoretical reserch"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQG74YRBAKJ2L"
+                },
+                "Date": "on July 18, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Twistor, FTW. He expounds on great details and instead of holding back on the mathematics required for TRUE understanding, he really makes in effort in getting readers up to speed on the math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N8DSDSDOBUXA"
+                },
+                "Date": "on September 14, 2005",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "4",
+                "Text": "Only got through 1 and 1/2 chapters so far; the author tries to teach you the math he plans to use.  He encourages skimming, but that's just not my style.  This is the real deal. He'll take you past Hawkins, if you can stick with him."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NP9D7XUJQPVK"
+                },
+                "Date": "on June 21, 2009",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "Roger Penrose's \"The Road To Reality\" offers both the mathematically skilled and non- mathematicians great insight into the laws that govern the universe.  It is a wonderful reference text for the complex issues of physics from Plato to string theory and quantum gravity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TZ44XCW0ITCW"
+                },
+                "Date": "on March 10, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "Loaded with information, history, theory - excellent taste of physics. Accessible to laypeople like me, but includes plenty of fascinating material beyond what most introductory books might use."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HT9S62L8AMKW"
+                },
+                "Date": "on December 27, 2009",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MC3XMYVJQ4GB"
+                },
+                "Date": "on September 19, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "If you are mad about science that a book you MUST have. I am an electrical engineer and at least 60% of the book had new contents for me so.... READ IT!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33HTZ0E3MLTPK"
+                },
+                "Date": "on August 7, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A tome worth browsing through for there are gems to be found here"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA7ZESGJ5E2ZS"
+                },
+                "Date": "on March 8, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "I am totally excited reading this book. A must have if you are a non-specialist and wanting to learn."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R504QEK5URRL"
+                },
+                "Date": "on November 23, 2007",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IILLUF69BKTE"
+                },
+                "Date": "on May 7, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "This is a math text book about cosmology. I've been reading cosmology books written for the general public for many years. This book is not in that catagory. If one doesn't understand calculus, don't buy this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FQJJ0MTOZ1B3"
+                },
+                "Date": "on April 25, 2006",
+                "Helpfulness": 0.4666666666666667,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q6PW7W8M2IGO"
+                },
+                "Date": "on April 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I am leaving it for some time,(have other stuff to do, which are important) because i know it will take a great stretch to read it. But i am so happy i got it, Thank you sir Roger Penrose!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KJTNEP9G6RW1"
+                },
+                "Date": "on August 25, 2007",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "This is an excellent book, if you take the time to understand the material. In my opinion it is well worth the time reading every page."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S68RNVE2CFDV"
+                },
+                "Date": "on August 15, 2007",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34O1GWKSQG5IU"
+                },
+                "Date": "on July 22, 2010",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XS2ZQFJ1CSX1"
+                },
+                "Date": "on April 24, 2008",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "5",
+                "Text": "I love Mathematics and Physics The writter obviously loves them too judging by his 'Teacher' approach in presenting both subjects. The carefully crafted presentation in this book is a welcome approach for subjects such as these. I'm not finished reading the book but I already love it. Thanks for taking the effort."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EDRPXRBCGFVK"
+                },
+                "Date": "on February 4, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I purchased this book for my son-in-law.  Vince has a great curiosity about what goes on in our universe.  I know he is enjoying his new book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38UEITR2ERODS"
+                },
+                "Date": "on March 13, 2006",
+                "Helpfulness": 0.29411764705882354,
+                "StarRating": "3",
+                "Text": "This is a work of mathematics, not physics.  If math is your interest -what mathematical approaches are currently being used in theoretical physics- then you should enjoy this book.  However,Penrose, to my personal disapointment, does a poor job of corelating math with cosmology.  I gained no greater insight into the \"whys\" and \"wherefors\" of the universe than I already had."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WPQ3U901E4DT"
+                },
+                "Date": "on April 16, 2005",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36Y7KX8HJHR3H"
+                },
+                "Date": "on April 22, 2006",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "4",
+                "Text": "well what i can say ,the book is exelent if you have a good level of graduate mathematics ,of course the publisher advertise the book as a book for anybody, well you have to open the pages and judge for yourself,i do recomend the book for a math major or any one taking a class in math phisics.I did enjoy the book all the way"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27AS08QI21MAN"
+                },
+                "Date": "on September 3, 2007",
+                "Helpfulness": 0.1,
+                "StarRating": "5",
+                "Text": "This is a book over one 1000 pages!  My daughter asked me: Is the road to reality indeed so long?  We both laught...and after a while I braged about it: With Roger Penrose help, the 1000 pages road to reality may be the shortest!  However, I found out later on, that it may indeed be the shortest, but only if you have your own five stars shining above you..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUAA9BCWCC7M4"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "arrived well worked great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A153NZD2WZN5S3"
+                },
+                "Date": "on February 20, 2006",
+                "Helpfulness": 0.1875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ZXIEXDYYZC1"
+                },
+                "Date": "on September 23, 2005",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "3",
+                "Text": "This book seeks to put reality in math frames. One can read Savov\u2019s Theory of Interaction and see that the application of mathematics is essentially limited from the discrete self-similar structure of nature. Notions better than Penrose\u2019s about how the universe works can be found also in the books A New Kind of Science and SYNC."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X2U7PM79M8RC"
+                },
+                "Date": "on March 12, 2007",
+                "Helpfulness": 0.1875,
+                "StarRating": "5",
+                "Text": "What an amazing book.  I could not put it down.  It opened my eyes to what is really going on in my internal world as well as external.  We truly are all equal beings with the right and ability to create our own reality as we see fit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23DISKMBKS5Y8"
+                },
+                "Date": "on June 8, 2006",
+                "Helpfulness": 0.21052631578947367,
+                "StarRating": "3",
+                "Text": "This is basically an extremely good mathematics book so I am rating it with three stars.  However most of the mathematics I want on making actual physics calculations using general relativity, quantum mechanics, and quantum field theory simply aren't included.  The author has a taste for investigating at depth the type of useless mathematical speculations which lead nowhere, permit no calculations, and are basically drivel.  Despite this, it is easy to ignore/remove chapters which are unhelpful, and then the book becomes a readable and portable joy for everyone."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6TJN5RV0812N"
+                },
+                "Date": "on March 19, 2006",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I have begun reading this book. I am not near finishiing, but I have enjoyed what I have read and look forward to the rest of the book. It nears a textbook in its depth, but is differentin how it covers the material. This is suggested for coverage of all major concepts in physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A97D001975IIM"
+                },
+                "Date": "on April 22, 2005",
+                "Helpfulness": 0.26666666666666666,
+                "StarRating": "4",
+                "Text": "This book paves a road to reality, which is much deeper than what modern mathematics can appreciate. Math cannot answer how the laws of nature are created. It only describes phenomena as they appear in our minds. Math is how we describe nature at different scales - Euclidean geometry, relativity and quantum theory. A physical approach is required to reveal the structure of reality and to show how it appears in our minds. This is done in Eugene Savov's book Theory of Interaction the Simplest Explanation of Everything. Theory of interaction works seamlessly along the scales of nature.  Fundamental laws of modern physics are derived from space observations in this qualitatively new picture of the world. Also recommended The Fabric of the Cosmos by Brian Greene."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F1M048M7DHZ1"
+                },
+                "Date": "on January 9, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A143RR2UX62VWK"
+                },
+                "Date": "on July 7, 2005",
+                "Helpfulness": 0.3614457831325301,
+                "StarRating": "1",
+                "Text": "First, I must state my position in regards to mathematical physics: I am sixteen years old, and have spent the last year teaching myself euclidian geometry and calculus. I don't consider myself a layman, nor am I a degree holding physicist; perhaps this places me in the very faction of this books missed target audience. Let's begin with the first half of the book. The greatest fault of this book is that it gives only a superficial understanding of the mathematics involved in physics. As I've said, I've spent a year, and used five different texts in learning what Mr. Penrose condenses into a single chapter of 15-20 pages! And for this, what most other reviewers refer to as \"the beauty of mathematics\" is really only a perverse aesthetic of what mathematics really is. I truly cannot see how anyone could derive pleasure from reading this book, aside from it's necessary faults, it's DOWNRIGHT BORING! And this is from a person who has spent an entire hour reading and rereading a two page passage on a difficult theorem of integration. While reading G.H. Hardy's \"A Course of Pure Mathematics\", I could feel my brain buzzing as it elucidated the axioms of infinite series, while reading Mr. Penrose, my mind slipped into alpha waves! This book is terrific if you want to find yourself daydreaming half way through a passage you can't remember begining. To give you a for example, take this typical passage from chapter 8, \"Holomorphic functions rest uncomfortably with the now usual notion of a function, which maps from a fixed domain to a definite target space; as we have seen, with analytical continuation, a holomorphic function has a mind of it's own.\" This is by far \"THE\" worst definition of a function that I've ever seen. I feel as if my knowledge of mathematics has been tainted by the pedantic nonsense like the above quotation. I haven't read any of Mr. Penrose's other books, but if this is any indication, I believe he should be tried as a heretic against reason. If you, like myself were left unsatiated by this book, go to the masters of the subject, Hardy, Gauss, Dedekind, Maxwell, don't settle for this travesty of what physics isn't."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YX999ORZ1WWF"
+                },
+                "Date": "on November 4, 2005",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M3YT97188HY7"
+                },
+                "Date": "on March 12, 2005",
+                "Helpfulness": 0.2558139534883721,
+                "StarRating": "4",
+                "Text": "In the first few hundred pages Roger Penrose sets the mathematical foundations of science. Afterwards he elegantly studies the application of mathematics in physics and cosmology. The Road to Reality is a rare example of great achievement and a good intellectual investment by all standards. Anyway I prefer the non-mathematical approach to reality. It consists of seeing first what is going on and then describing the found patterns of interaction in equations. This real road to mathematics of nature is followed by the physicist Eugene Savov.  He models the structure of reality from spacecraft observations and shows that the application of mathematics is fundamentally limited. The observer defined mathematical objects cannot completely follow the discovered self-defined structure of the real bodies. Naturally Penrose ends in incomplete, allowing appearance of infinities, picture of reality - big bang universe that now enters its recurrent crisis. Savov reveals in his book Theory of Interaction a complete and self-consistent firework universe in which the phenomenon of consciousness is born from the properties of found patterns of unifying interaction."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29N8JHTKLT99B"
+                },
+                "Date": "on November 29, 2012",
+                "Helpfulness": 0.14814814814814814,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SIYTRDIGLZ9T"
+                },
+                "Date": "on December 6, 2005",
+                "Helpfulness": 0.2830188679245283,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ERU005ES1IHT"
+                },
+                "Date": "on May 30, 2005",
+                "Helpfulness": 0.24,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VVBITM0CYP4S"
+                },
+                "Date": "on March 30, 2009",
+                "Helpfulness": 0.1746031746031746,
+                "StarRating": "1",
+                "Text": "The road to reality is not found in this book. Penrose doesn't explain what reality is, not even mathematically. The book is a failure. The road to reality begins with one simple question: why am I on this road? Penrose Road seeks to lead us to the so-called ultimate equation that will unify the seemingly conflicting theories of modern physics. Once this equation is found, however, the question will still remain unanswered, namely, why is this equation at the end of the road?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31VUTTQGMS3FX"
+                },
+                "Date": "on July 10, 2005",
+                "Helpfulness": 0.14705882352941177,
+                "StarRating": "3",
+                "Text": "Penrose considers the big bang and uses mathematics, which does not correspond to the nature of reality. There are deep problems with the big bang theory discussed in July 02 issue of New Scientist, reporting The First Crisis In Cosmology Conference - Moncao, Portugal, 23-25 June. One looking for the structure of reality can read Savov's Theory of Interaction the Simplest Explanation of Everything. Reality has self-similarly evolving structure. Its depth cannot be followed in the modern mathematical constructions, according to Eugene Savov, member of the organizing committee of this conference. Penrose's book left me with more confusion than new insights.  It makes a good read for purely mathematically inclined.  His ideas are far way from recent observations, which burst the foundations of big bang theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q48B9W88WTNO"
+                },
+                "Date": "on June 16, 2005",
+                "Helpfulness": 0.13861386138613863,
+                "StarRating": "2",
+                "Text": "It is amazing: the reviews center on the quality of the mathematical/physics presentation (which I think is very high), and totally ignore the fact that this, like virtually all books written in this vein, is supremely naive about fundamental philosophical issues. What I mean, briefly, is this: the book is predicated on an unstated, rigidly held Cartesian dualism, and for dealing with fundamental questions that is a very suspect ground--an expression of what the philosopher Lawrence Cahoone calls \"philosophical narcissism.\" For an antidote, I highly recommend Cahoone's \"The Dilemma of Modernity\" (SUNY, 1988), or, immodestly, my own \"The Unboundaried Self: Putting the Person Back Into the View From Nowhere\", published by Trafford (2005; Details at [...])."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A250BI36M1IR26"
+                },
+                "Date": "on March 4, 2005",
+                "Helpfulness": 0.1,
+                "StarRating": "5",
+                "Text": "The Road to Reality : A Complete Guide to the Laws of the Universe is an instant classic, this is brilliant."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Road-Reality-Complete-Guide-Universe/product-reviews/0679776311/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "245"
+    },
+    "Salesrank": "#40,982",
+    "Timestamp": "2015-05-24 12:59:26.854618",
+    "itemurl": "http://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776311"
+}

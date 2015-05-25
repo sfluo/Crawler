@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$124.00",
+    "Name": [
+        "A Chemist's Guide to Density Functional Theory, 2nd Edition"
+    ],
+    "OfferPrice": "$97.41",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on February 4, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY2Q9KVDNGBDQ"
+                },
+                "Date": "on August 1, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AM2LLNIK5NZU"
+                },
+                "Date": "on July 4, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Unlike Parr and Yang's Density-Functional Theory of Atoms and Molecules, this book doesn't have many rigorous while lengthy derivations. However, it gives readers a clear clue for DFT ,and most importantly, a way to appreciate this theory as a chemist. I think this book is a perfect complement for Parr and Yang's book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB87PSFRNFP6W"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Now just beginning to show its years, this is a clear and authoritative guide to the theory and practice of density functional methods - now the clear choice for a wide range of applications especially for organiometallic systems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ES59CLQZQ2"
+                },
+                "Date": "on August 23, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book is an excellent introduction to density functional theory. And it is not difficult to read straight through."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE81NAE20PLP1"
+                },
+                "Date": "on June 24, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book presents the Density functional Theory (DFT), for Chemists. It is divided in two parts: (A)The Definition of the Model - where the theory is presented; (B) The Performance of the Model - where the applications are explored. If you are interested in Computational Chemistry and want to learn  DFT, then this book is for you."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemists-Guide-Density-Functional-Theory/product-reviews/3527303723/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#947,933",
+    "Timestamp": "2015-05-24 15:30:24.398277",
+    "itemurl": "http://www.amazon.com/Chemists-Guide-Density-Functional-Theory/dp/3527303723"
+}

@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.95",
+    "Name": [
+        "Mathematical Foundations of Quantum Mechanics"
+    ],
+    "OfferPrice": "$63.31",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 30, 2002",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AR71KL039Q6Q8"
+                },
+                "Date": "on February 1, 2000",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "4",
+                "Text": "This is not the kind of book I would recommend to a novice person in the area, but it does give a very interesting view of how was quantum mechanics born. It begins with a thorough discussion about the mathematics of Hilbert  spaces and operator theory to later merge Heisenberg's and Schrodinger's  theories in one rigorous mathematical theory. It makes some remarks that  allows the reader to see how was the 'new' quantum theory born and  developed, since it briefly discusses the theories of Heisenberg and  Schrodinger in the way they originally stated them. Maybe the most  disturbing issue would be the notation since in 1932 dirac had still not  developed the bracket formalism."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A122W98TI47I32"
+                },
+                "Date": "on April 10, 2003",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "The ultimate source of Hilbert Space applied to Quantum Mechanics.  John von Neumann was the first to systematically formulate QM in such a powerful and elegant vector space.  If this is the Bible of QM in HS, Hughes is the missioner!  Get the book as well -- The Structure and Interpretation of Quantum Mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on February 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMFUPHOWZ4QKC"
+                },
+                "Date": "on August 23, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "As an undergrad, I am sorry that I cannot share the perspectives of  professionals as expressed below. After initial introductory courses, I got  fascinated by certain untold conceptual issues. And one of the textbooks  (probably Griffiths) suggested von Neumann had tried to prove  mathematically that the classical formulation is just the furthest the  formalism can go and we don't have to worry about underlying complexities.  Later, Bohm created a formalism which von Neumann \"proves\" to be  mathematically impossible in this book. I bought this book just to find out  how the proof goes. But I got stuck with some tedious proofs on Hilbert  space (which he calls a \"digression\"). This part isn't essential  but as the braket notation is not used you need to consult this part. I  think at least a strong background in linear algebra is required. Definitly  not an introductory textbook. Most useful for those who study history of  physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14YUS9BRI0MMK"
+                },
+                "Date": "on January 20, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 1, 2000",
+                "Helpfulness": 0.6944444444444444,
+                "StarRating": "2",
+                "Text": "I strongly recommend perusing a printed copy of this text before deciding upon purchase. A large body of the text consists of mathematical proofs of mostly elementary properties of Hilbert space. Despite the historic  significance of the book in establishing a rigorous foundation for the math  underlying QM, it is not a good text for developing either a conceptual or  functional understanding of modern mathematical techniques in QM."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23W13JR7RTOJY"
+                },
+                "Date": "on February 20, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is a beautifully written book, more for mathematicians than for physicists, since von Neumann does not really discuss the physics that goes into the subject. There is also an emphasis on \"foundation\", so you will not have too many examples of hydrogen atoms work out. The style is also unmistakably mathematical. Every mathematician with an interest in quantum mechanics should have this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PZKY3JB3XMR9"
+                },
+                "Date": "on November 25, 1999",
+                "Helpfulness": 0.47368421052631576,
+                "StarRating": "5",
+                "Text": "von Neumann's text is still the standard, some 40 yrs after its pub date, for the definitive mathematical treatment of Quantum Mechanics. This comes to me from an expert in the field at the U of Chicago. (He also reccomended  Dirac's seminal text to those wishing knowledge of the inner workings of Q.  M.) Read the Quantum Bible and learn from the very same source from which  the  experts cut their teeth. Available from Amazon dot product com. and  the Seminary Co-op in Chicago 773-752-4381. Mark Witucke Bookseller Chicago"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Foundations-Quantum-Mechanics-Neumann/product-reviews/0691028931/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#373,693",
+    "Timestamp": "2015-05-24 15:31:04.491971",
+    "itemurl": "http://www.amazon.com/Mathematical-Foundations-Quantum-Mechanics-Neumann/dp/0691028931"
+}

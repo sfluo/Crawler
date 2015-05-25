@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.00",
+    "Name": [
+        "Theoretical Microfluidics (Oxford Master Series in Condensed Matter Physics)"
+    ],
+    "OfferPrice": "$44.40",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OTYWTLLT7KJY"
+                },
+                "Date": "on October 30, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17NXC8AABYYLX"
+                },
+                "Date": "on January 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11WOW6I6KGGW0"
+                },
+                "Date": "on December 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I work in experimental microfluidics and this book has helped bring me up to speed on the theoretical fundamentals of electrokinetics and magnetohydrodynamics. However, if you're looking for a primer on microfluidics and you're not that into math, this book probably isn't for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38BI7RGEF74MO"
+                },
+                "Date": "on May 25, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JS8TOIUVOQKA"
+                },
+                "Date": "on March 31, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6IR71VR5SNPN"
+                },
+                "Date": "on June 24, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Microfluidics-Oxford-Condensed-Physics/product-reviews/0199235090/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#428,040",
+    "Timestamp": "2015-05-24 15:30:33.672346",
+    "itemurl": "http://www.amazon.com/Theoretical-Microfluidics-Oxford-Condensed-Physics/dp/0199235090"
+}

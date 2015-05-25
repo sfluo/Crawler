@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.00",
+    "Name": [
+        "Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering (Studies in Nonlinearity)"
+    ],
+    "OfferPrice": "$51.91",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UB5QD011T3W9"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": 0.8918918918918919,
+                "StarRating": "3",
+                "Text": "The second edition kept that exceptional quality of the first one, but added only a few new examples. If one already has the first edition, which is my case, the second one is totally dispensable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39EBJ8F40HQ3L"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AELBQWHWINZM"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NFB0GY0C1DA3"
+                },
+                "Date": "on February 5, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Good text book for nonlinear dynamics.  Probably the most quoted text on the subject.  You tube videos of his intro course at Cornell follow book and are very worthwhile."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOP0GKC160FW3"
+                },
+                "Date": "on October 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Here is the subject elegantly pared down to just what a student absolutely needs to know, with Strogatz's trademark elegance and wit. The book is a springboard to many field of science, showing how insights in one field illuminate another."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27L4XDRO754RB"
+                },
+                "Date": "on November 21, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15119OIPI5HQT"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "One of my favorite books! Great book to reference even in grad school."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AK2MT0AM27W1"
+                },
+                "Date": "on February 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PWNEE3CTJVWA"
+                },
+                "Date": "on October 25, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "Good book. Highly recommend it to others when seeking a literary review or just information on Chaos."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/product-reviews/0813349109/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#35,556",
+    "Timestamp": "2015-05-24 15:14:22.640183",
+    "itemurl": "http://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0813349109"
+}

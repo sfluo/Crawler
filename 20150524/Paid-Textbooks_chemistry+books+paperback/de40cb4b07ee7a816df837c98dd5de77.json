@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "A Spectroscopic Atlas of Bright Stars: A Pocket Field Guide (Astronomer's Pocket Field Guide)"
+    ],
+    "OfferPrice": "$22.46",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A4YGMJ1TIUFE"
+                },
+                "Date": "on January 1, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I am just starting out in spectroscopy and thought that a reference of common bright stars and their spectra would be very helpful. Something I can compare to and see if my calibrations are close. This book does that. It would do a great job if the specrta illustrations were as good as the example on the front cover. The images in the book are very poor reproductions. I am sure the author took good spectra images, it's just that in the book the spectal lines are hard to make out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYF9PPJVGFKFN"
+                },
+                "Date": "on January 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectroscopic-Atlas-Bright-Stars-Astronomers/product-reviews/1441907041/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,449,176",
+    "Timestamp": "2015-05-24 15:47:03.041986",
+    "itemurl": "http://www.amazon.com/Spectroscopic-Atlas-Bright-Stars-Astronomers/dp/1441907041"
+}

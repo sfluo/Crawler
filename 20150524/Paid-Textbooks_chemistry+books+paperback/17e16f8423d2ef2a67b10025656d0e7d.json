@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Atomic Spectra and Radiative Transitions (Springer Series on Atomic, Optical, and Plasma Physics)"
+    ],
+    "OfferPrice": "$139.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JILL3P6LMT1N"
+                },
+                "Date": "on May 2, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Although is an litle old book, it is very good. Over all is a clear in its explanations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectra-Radiative-Transitions-Springer-Optical/product-reviews/3540545182/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,803,627",
+    "Timestamp": "2015-05-24 15:55:12.435495",
+    "itemurl": "http://www.amazon.com/Spectra-Radiative-Transitions-Springer-Optical/dp/3540545182"
+}

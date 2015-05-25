@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "CONCEPTUAL PHYSICS CONCEPT DEVELOPMENT PRACTICE BOOK SE"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 16, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book help me understand the world of physics, it deals physics on a conceptual approach, more likely than Fundamental of Physics by Halliday...."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N3M4QR6QBYP3"
+                },
+                "Date": "on April 25, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The second half of the book was good, but a large number of earlier pages had marker and pen marks/drawings/answers on them. The description did not state that it had writing in it, though it probably should have.  The other half of the book was unused."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/CONCEPTUAL-PHYSICS-CONCEPT-DEVELOPMENT-PRACTICE/product-reviews/0201468042/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,013,628",
+    "Timestamp": "2015-05-24 13:39:04.910862",
+    "itemurl": "http://www.amazon.com/CONCEPTUAL-PHYSICS-CONCEPT-DEVELOPMENT-PRACTICE/dp/0201468042"
+}

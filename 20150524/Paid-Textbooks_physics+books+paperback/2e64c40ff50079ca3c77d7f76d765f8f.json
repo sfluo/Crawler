@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Study Guide for University Physics Vol 1"
+    ],
+    "OfferPrice": "$17.99",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ1NK2KT5ZB4P"
+                },
+                "Date": "on March 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Essentially what you're going to get from the University Physics Study Guide is roughly 2-3 conceptually worked out problems, about 5 fully worked problems, and then finally a few try it yourself problems per chapter. Also to be noted, each section has a brief summary of concepts and equations for each chapter of the book. Overall, I found the study guide to be extremely helpful, with really no notable errors. If I was short on time before a quiz or test, I just read the study guide, and it really did help. This specific book covers chapters 1-20."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXYFQ6SEO5VK1"
+                },
+                "Date": "on November 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a good way of getting some concepts, however the book could use some more detailed explinations of the what is going on with the physics and a little less of the math.  But overall a good book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VDNGVKL1MYHZ"
+                },
+                "Date": "on June 30, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I found this study guide in my library when I was reviewing for the GRE Physics subject test.  It's really good at getting you to understand the conceptual, problem-solving skills that are absolutely essential to any physics problem.  If you're using the associated textbook, and you have fears about understanding such a challenging subject, absolutely get the study guide--and use it!  You're enlightened with every section, and if you work the problems independently after you follow along, you're basically guaranteed an A."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZY53RXGJE3OY"
+                },
+                "Date": "on September 24, 2011",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEMD73J1WSCKJ"
+                },
+                "Date": "on June 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15UW2FYF4HGVJ"
+                },
+                "Date": "on November 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is essentially a condensed version of the text book but for each chapter there is a 1-2 page overview of all the equations for each chapter which is a very helpful reference for homework and studying for tests."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YQDBSO2WZ37Q"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Tough class, but I loved this book. It was super easy to read!!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Study-Guide-University-Physics-Vol/product-reviews/0321500334/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#839,194",
+    "Timestamp": "2015-05-24 13:49:31.402578",
+    "itemurl": "http://www.amazon.com/Study-Guide-University-Physics-Vol/dp/0321500334"
+}

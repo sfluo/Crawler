@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$38.25",
+    "Name": [
+        "Laser Experiments for Beginners"
+    ],
+    "OfferPrice": "$32.33",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RR5CE3PS1O3E"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "This was supposed to be experiments for high-schoolers. I taught high shool science for 36 years and I can tell you that the experiments in this book are too advanced for most of them. More appropriate for college level students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Laser-Experiments-Beginners-Richard-Zare/product-reviews/0935702369/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,989,591",
+    "Timestamp": "2015-05-24 15:36:21.160111",
+    "itemurl": "http://www.amazon.com/Laser-Experiments-Beginners-Richard-Zare/dp/0935702369"
+}

@@ -1,0 +1,180 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$20.99",
+    "Name": [
+        "Elementary Particles and the Laws of Physics: The 1986 Dirac Memorial Lectures"
+    ],
+    "OfferPrice": "$19.94",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A258HDMERSI6WJ"
+                },
+                "Date": "on February 18, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LI2WLIWBK1V5"
+                },
+                "Date": "on November 1, 2010",
+                "Helpfulness": 0.9743589743589743,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGXIYIMWP6NRK"
+                },
+                "Date": "on September 25, 1999",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "As usual, the best physics books are short and to the point, as is this one. The two Dirac lectures may serve as a perfectly good mini physics course all by themselves.  I always enjoy a Feynman lecture, and this is  no exception. He cuts to the chase without sacrificing the plot. But, I  must say, in this case the Wienberg lecture is the better of the two.  Weinberg's style has a particular grace & beauty about it that gently  exposes the aesthetic meaning of the search for a picture of nature."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H7Y5XKPGT0OS"
+                },
+                "Date": "on October 17, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1URZC48JBE1WD"
+                },
+                "Date": "on March 20, 2007",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J6ISS6OMSAEP"
+                },
+                "Date": "on November 30, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Feynman's lecture is the simplest and the most intuitive explanation of the connection between spin and statistics that I have ever seen! This is a very readable book, no knowledge of quantum field theory is required, but a good understanding of relativity and quantum mechanics is essential for understanding the book. I think every physicist should read these lectures, although very simple, they add a lot to our understanding and even to our knowledge of fundamental physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on February 26, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AOEYZN4LC75C"
+                },
+                "Date": "on September 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FZA04N27DQX7"
+                },
+                "Date": "on August 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "It is about Energy, momentum, electric charge and spin. However he has filled his book with many formulas concerning, symmetry transformations, state vectors and Lagrangian density. All this has left me confused especially the Dirac matrices. This is for experts in the field and I'm not one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AARA6Y6F78JCN"
+                },
+                "Date": "on December 24, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30QH6G2FP10KN"
+                },
+                "Date": "on January 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was a very well written manuscript of two very important lectures on extremely interesting topics done by two of the greatest experts in the field, very educational and a must read by anyone interested in physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A380X28QPQRH6T"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was ship really fast.  This book is a great book was written by one of the best physicist whom was one of the best ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HL1EYV585V76"
+                },
+                "Date": "on July 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Amazing piece by Feynman on the relation between quantum statistics and spin. It is great for someone who is not an expert in the field, but has some physics background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABMNRGEOKY897"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RP7D2BEQQ3EF"
+                },
+                "Date": "on January 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "hard to find at local bookstores and a very interesting, somewhat deep but a great study book if this is your interest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EULFMJUUXQAU"
+                },
+                "Date": "on May 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A good book, but a little difficult to understand in some areas for the 'average' guy.  It was probably meant to be that way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33H7ZVP3PGCXR"
+                },
+                "Date": "on January 16, 2007",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "4",
+                "Text": "From Richard Feynman, with love. Need more to be said? Read it, and read it again. This one can be read all over again once in a while and does not get boring."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 17, 1998",
+                "Helpfulness": 0.22580645161290322,
+                "StarRating": "5",
+                "Text": "Feynman yet again gives great insight into the laws of physics, this time exploring the reasons for existence of anti-particles, starting from the dirac equation etc.. Plus some really outstanding photographs, that fella  Weinberg will be chuffed to have his name mentioned on the book cover!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Particles-Laws-Physics-Memorial/product-reviews/0521658624/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "18"
+    },
+    "Salesrank": "#475,241",
+    "Timestamp": "2015-05-24 13:18:47.321801",
+    "itemurl": "http://www.amazon.com/Elementary-Particles-Laws-Physics-Memorial/dp/0521658624"
+}

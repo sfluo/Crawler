@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics Olympiad - Basic To Advanced Exercises"
+    ],
+    "OfferPrice": "$48.00",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A156N3AXWHLJD2"
+                },
+                "Date": "on August 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "The book has easy problems and more challenging ones for each topic. Even though olympiad is meant for high school students, those interested in participating in this contest definitely need to learn calculus, at a level equivalent to AP calculus with a working knowledge of calculus, and calculus-based physics at a level taught in a first year college physics course in the US. This book tries to introduce the harder problems and show how they can be solved from an algebra and calculus approach. The problems are easier than actual physics olympiad problems. I also find the lab section quite interesting and useful to discuss experimental measurement with students although the experiments are quite routine."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Olympiad-Basic-Advanced-Exercises/product-reviews/981455667X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#805,381",
+    "Timestamp": "2015-05-24 12:40:30.966916",
+    "itemurl": "http://www.amazon.com/Physics-Olympiad-Basic-Advanced-Exercises/dp/981455667X"
+}

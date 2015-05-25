@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$169.95",
+    "Name": [
+        "CRC Handbook of Chemistry and Physics, 95th Edition"
+    ],
+    "OfferPrice": "$161.45",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36C73G7W48AWP"
+                },
+                "Date": "on October 27, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I finally bought a new one after wearing out my 1978 edition; comprehensive and reliable as usual, truly one of the World's great books."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A64SYDIDCI6H2"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Will prove a very useful Reference Book for my Technical Library"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KTRX3S1601YC"
+                },
+                "Date": "on May 9, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V31JBDYLTGWM"
+                },
+                "Date": "on October 14, 2014",
+                "Helpfulness": 0.4,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QCKJRO8I99GP"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great consulting book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23JVFWW99QZY2"
+                },
+                "Date": "on February 17, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Mary"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/CRC-Handbook-Chemistry-Physics-95th/product-reviews/1482208679/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#265,546",
+    "Timestamp": "2015-05-24 12:41:17.694453",
+    "itemurl": "http://www.amazon.com/CRC-Handbook-Chemistry-Physics-95th/dp/1482208679"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.00",
+    "Name": [
+        "Essential Quantum Mechanics"
+    ],
+    "OfferPrice": "$54.72",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34CLJN82F9NLH"
+                },
+                "Date": "on May 15, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book \"Essential Quantum Mechanics\" is an excellent complement to standard textbooks on quantum mechanics. It shows a very good insight into the quantum states, the eigenfunctions and eigenvalues, the operators, and the observables. It has an excellent treatment of the subject of bras and kets, and matrix representation of vectors and operators. The book has helped me in better understanding these mathematical computations. The book is not a stand-alone text on quantum mechanics for it does not have all the historical background and experiments that led to Q.M but it is an excellent reference that can help clarify concepts and computations, and for this it deserves a very high rating."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A378HUPTM158SI"
+                },
+                "Date": "on August 9, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a professional statistician with a PhD in math.  How can someone like me -- who is not interested in solving the Schrodinger equation in multiple settings -- attain a conceptual understanding of quantum mechanics at a much better level than afforded by popularizations?  I looked through my university physics library, dipped into several texts, and then discovered Bowman. He does a brilliant job of using considerable math (but all basically undergrad level) to help convey both the flavor and the concepts of quantum mechanics. He even warns about the unbalanced picture a beginner will get from formal intro texts that _do_ spend much of their space solving the time-independent Schrodinger equation. If you are quantitatively somewhat sophisticated and your interest in QM, like mine, is mainly intellectual, this may be the place to both start and stop."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHWLVQYYLV8J"
+                },
+                "Date": "on July 26, 2009",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14B54Q4Q39K43"
+                },
+                "Date": "on November 5, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKTXH9KUH8HDR"
+                },
+                "Date": "on April 14, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-Quantum-Mechanics-Gary-Bowman/product-reviews/0199228930/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#784,983",
+    "Timestamp": "2015-05-24 13:48:34.684917",
+    "itemurl": "http://www.amazon.com/Essential-Quantum-Mechanics-Gary-Bowman/dp/0199228930"
+}

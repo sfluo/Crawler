@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Solutions Manual for Essential University Physics, Volume 2"
+    ],
+    "OfferPrice": "$30.80",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UH82C7PAJTFP"
+                },
+                "Date": "on January 10, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I bought this for a guide to help me study for my tests. It's not very helpful with the solutions, though it does help a moderate amount. The book is literally 1/2 inch thick paperback, and doesn't explain the answers as well as it could have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJFQTH3G1EU8"
+                },
+                "Date": "on January 1, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This solutions manual solves the odd problems from the textbook.  I thought some of the solutions were quite helpful, but other times I wished the solutions were more detailed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHQ5PIOBH33G"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very helpful book. It has excellent explanations of the solutions so I can understand the physics behind the problems. I would definitely recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2581HGSNS50P6"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good book, just sometimes the even I am assuming sometimes have no odd parallels, though I am assuming this from the first solution manual."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM1FQ4U934JYM"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Some of the solutions skip steps, but this book is still very helpful for the more challenging problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FP58J8OORV7S"
+                },
+                "Date": "on October 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just what i needed and at great price."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Essential-University-Physics/product-reviews/0321712056/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#436,701",
+    "Timestamp": "2015-05-24 13:07:04.972234",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Essential-University-Physics/dp/0321712056"
+}

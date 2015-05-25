@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "A Companion to Angular Momentum"
+    ],
+    "OfferPrice": "$88.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZQWGQ7CV1F2G"
+                },
+                "Date": "on September 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This companion to a good book thoroughly describes solutions to the exercises in the textbook. No errors found so far."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Companion-Angular-Momentum-Valeria-Kleiman/product-reviews/047119249X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,735,454",
+    "Timestamp": "2015-05-24 15:45:42.819801",
+    "itemurl": "http://www.amazon.com/Companion-Angular-Momentum-Valeria-Kleiman/dp/047119249X"
+}

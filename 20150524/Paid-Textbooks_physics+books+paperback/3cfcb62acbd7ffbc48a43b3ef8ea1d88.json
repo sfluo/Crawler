@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Solutions Manual for University Physics"
+    ],
+    "OfferPrice": "$94.16",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AECW08IATDFY8"
+                },
+                "Date": "on January 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book only provides SELECTED solutions to SOME odd number problems making it minimally useful. Save your money."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Manual-University-Physics/product-reviews/0077409582/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#801,255",
+    "Timestamp": "2015-05-24 13:14:52.715475",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Manual-University-Physics/dp/0077409582"
+}

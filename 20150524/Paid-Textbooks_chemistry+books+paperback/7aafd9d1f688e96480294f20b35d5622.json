@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$209.00",
+    "Name": [
+        "Particle Characterization: Light Scattering Methods (Particle Technology Series)"
+    ],
+    "OfferPrice": "$148.89",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARJF6C7UTVDIZ"
+                },
+                "Date": "on January 2, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Particle-Characterization-Scattering-Methods-Technology/product-reviews/1402003579/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,317,732",
+    "Timestamp": "2015-05-24 15:42:17.273922",
+    "itemurl": "http://www.amazon.com/Particle-Characterization-Scattering-Methods-Technology/dp/1402003579"
+}

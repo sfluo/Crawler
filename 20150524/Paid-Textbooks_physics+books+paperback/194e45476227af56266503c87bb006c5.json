@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Unified Technical Concepts: Physics for Technicians/With Supplement Inside Book"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RYGKIZL5UCCE"
+                },
+                "Date": "on October 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Unified-Technical-Concepts-Technicians-Supplement/product-reviews/1555023533/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,408,741",
+    "Timestamp": "2015-05-24 13:39:02.191444",
+    "itemurl": "http://www.amazon.com/Unified-Technical-Concepts-Technicians-Supplement/dp/1555023533"
+}

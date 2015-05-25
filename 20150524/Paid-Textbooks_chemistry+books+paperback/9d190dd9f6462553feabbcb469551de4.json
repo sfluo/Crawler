@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Mathematica as a Tool: An introduction with practical examples"
+    ],
+    "OfferPrice": "$69.99",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PX54SOE9M9HS"
+                },
+                "Date": "on January 3, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "\"New\" edition but nothing new about it. old and outdated, it's a book from the nineties. Don't let the date of the \"new\" edition fool you. Nothing new about it. Very, very bad!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MNO2R5JUOSA1"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "Unfortunately I (too) did not read the 'details' closely enough.  Though it shows a pub date of 2013, it is the 1994 edition.  It deals with Mathematic version 2.2, and we're currently on version 10.  Just not very helpful. (And not, I may add, very appropriate for the publisher to not make this clearer!)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematica-Tool-introduction-practical-examples/product-reviews/3764350318/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,028,981",
+    "Timestamp": "2015-05-24 15:43:03.084504",
+    "itemurl": "http://www.amazon.com/Mathematica-Tool-introduction-practical-examples/dp/3764350318"
+}

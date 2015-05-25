@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$104.95",
+    "Name": [
+        "XAFS for Everyone"
+    ],
+    "OfferPrice": "$100.28",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A282XJ89T7CEP7"
+                },
+                "Date": "on September 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E6VRVKXRKOFP"
+                },
+                "Date": "on October 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/XAFS-Everyone-Scott-Calvin/product-reviews/1439878633/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#458,476",
+    "Timestamp": "2015-05-24 15:34:33.804669",
+    "itemurl": "http://www.amazon.com/XAFS-Everyone-Scott-Calvin/dp/1439878633"
+}

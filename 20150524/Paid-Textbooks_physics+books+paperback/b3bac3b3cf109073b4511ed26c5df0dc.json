@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Great Experiments in Physics: Firsthand Accounts from Galileo to Einstein"
+    ],
+    "OfferPrice": "$14.45",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 4, 1999",
+                "Helpfulness": 0.9629629629629629,
+                "StarRating": "5",
+                "Text": "I strongly recommend this book for everyone interested in physics. Professor Shamos did a fantastic job in collecting in one single book the experiments and original works of the main geniuses of the history of  physics. It's so much more interesting and easy to understand the  principles when you visualize the context in which they were developed.  Such literature must be obrigatory for every student of physics !!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYOOIODTIOIL9"
+                },
+                "Date": "on October 16, 2006",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "Ok, so, this is a good book.  If you are interested in the history of science or just physics, and you want to break into primary sources but feel a little overwhelmed, then I recommend going ahead and buying this book, because it's cheap, and flipping to the first chapter that catches your eye.  You will probably like what you see: English translation of texts by Galileo, Boyle, Cavendish, etc., which are short excerpts of the \"good part\".  In the margins, there are commentaries to help you out with archaic language and \"weirder\" aspects.  Now you're cooking!  You can go on to other reading if you want."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OPJTR4D6GLCC"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "The book includes some 20 important experiments like the gravitation by Galileo, Newton, Cavendish; the nature of light by Young, Fresnel (but not Newton!); electromagnetism by Oersted, Faraday, Lenz, Hertz; discovery of atom and electron structures like Thomson, Millikan, Rutherford, Chadwick; thermodynamics by Joule. But it is far from complete: it doesn't contain the second law of thermodynamics, the Michelson-Morray experiments and many others."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHD5TS8VUKOYN"
+                },
+                "Date": "on June 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good source book with historical introduction by Shamos to the experiments.  I had the older first edition out from the library, but this later edition is just as good and easier to find."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QFAEZQP8OGHX"
+                },
+                "Date": "on August 16, 2007",
+                "Helpfulness": 0.5789473684210527,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Great-Experiments-Physics-Firsthand-Accounts/product-reviews/0486253465/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#190,695",
+    "Timestamp": "2015-05-24 13:25:43.453059",
+    "itemurl": "http://www.amazon.com/Great-Experiments-Physics-Firsthand-Accounts/dp/0486253465"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Problems in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.26",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IDMMCOD43EPF"
+                },
+                "Date": "on July 8, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This has the same set of problems as the \"Problems in Quantum Mechanics\" book reprinted by Dover, but includes 71 additional problems from other sources.  So if you are considering the Dover book, I'd get this one instead."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on March 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CVH4EZPA0YPW"
+                },
+                "Date": "on January 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 15, 2000",
+                "Helpfulness": 0.19047619047619047,
+                "StarRating": "3",
+                "Text": "Getting expertness in Physics may not be achived until one try to solve problems more and more and the best way to obtain such ability is work with these titles.This book with its brief cotents covers many key ideas which  is necessary for undergraduate quantum mechnics corse.  I find it very  useful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 15, 2000",
+                "Helpfulness": 0.1111111111111111,
+                "StarRating": "3",
+                "Text": "Getting expertness in Physics may not be achived until one try to solve problems more and more and the best way to obtain such ability is work with these titles.This book with its brief cotents covers many key ideas which  is necessary for undergraduate quantum mechnics corse.  I find it very  useful."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Quantum-Mechanics-Dover-Physics/product-reviews/0486675270/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,374,447",
+    "Timestamp": "2015-05-24 13:22:25.816315",
+    "itemurl": "http://www.amazon.com/Problems-Quantum-Mechanics-Dover-Physics/dp/0486675270"
+}

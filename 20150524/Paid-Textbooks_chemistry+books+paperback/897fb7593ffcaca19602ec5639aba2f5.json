@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$93.00",
+    "Name": [
+        "Infrared Spectroscopy: Fundamentals and Applications"
+    ],
+    "OfferPrice": "$67.32",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I30NXHBFOZYY"
+                },
+                "Date": "on November 15, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Infrared-Spectroscopy-Fundamentals-Barbara-Stuart/product-reviews/0470854286/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,049,216",
+    "Timestamp": "2015-05-24 15:44:26.971217",
+    "itemurl": "http://www.amazon.com/Infrared-Spectroscopy-Fundamentals-Barbara-Stuart/dp/0470854286"
+}

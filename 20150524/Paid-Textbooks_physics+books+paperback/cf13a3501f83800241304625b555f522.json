@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Operators and Representation Theory: Canonical Models for Algebras of Operators Arising in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.51",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T0WRHNUYJTCY"
+                },
+                "Date": "on April 13, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CUX4X0L8QT9M"
+                },
+                "Date": "on October 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The book looks to have been written on a typewritter, which may not be so bad for some books, but for an advanced math book with complicated formulae it just doesn't work. With so many books out there on operators and their representations, there has to exist a book that is not a chore to read."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Operators-Representation-Theory-Canonical-Mechanics/product-reviews/0486466655/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,251,293",
+    "Timestamp": "2015-05-24 13:22:40.652894",
+    "itemurl": "http://www.amazon.com/Operators-Representation-Theory-Canonical-Mechanics/dp/0486466655"
+}

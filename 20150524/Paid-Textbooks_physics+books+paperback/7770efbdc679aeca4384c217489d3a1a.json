@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Elementary Statistical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.94",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on December 8, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is a little gem: it offers a complete course in Statistical Mechanics all the way from Hamiltonian dynamics to the Fokker-Planck equation in 240 pages.  All the classical examples in both classical and quantum statistical mechanics can be found in the text, presented in a very thorough manner (although not \"for dummies\").  Most of the calculational steps are presented; even a review of Fourier transforms is presented before entering the topics of noise and fluctuations, and there is also an appendix on the method of steepest descent.  The way the chapters are organized, one small chapter per subject--there are 45 such chapters--makes the text suited for self-study: one chapter per day keeps flunking away!  There are exercises scattered throughout the chapters, but not many: some chapters have none, some chapters have as much as 7-8, while most chapters have 1-3 exercises.  They are all very pertinent and doable; do not miss them, as well as the \"Examples\" worked out by the author.  All in all a very good textbook for a low price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on September 3, 2012",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Statistical-Physics-Dover-Books/product-reviews/0486435148/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#480,729",
+    "Timestamp": "2015-05-24 12:33:46.840953",
+    "itemurl": "http://www.amazon.com/Elementary-Statistical-Physics-Dover-Books/dp/0486435148"
+}

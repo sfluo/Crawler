@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.50",
+    "Name": [
+        "Linus Pauling: A Life In Science And Politics"
+    ],
+    "OfferPrice": "$16.65",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30ZPSYOGFJXR6"
+                },
+                "Date": "on June 28, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "3",
+                "Text": "This biography was not written by writers, but by two people who write.  I enjoy biographies, and after reading The Double Helix i wanted to know more about Pauling, but i am a bit disappointed with this book.  The science  parts are too academic.  The final pages of the book, where the authors  discuss a psychological analysis of Pauling's personality, rather belong in  a doctoral thesis.  This is not a book for general consumption, but most  likely for someone with a good background on chemistry and molecular  biology, who from that basis wants to learn more about Pauling."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C7VMN9UAYYDW"
+                },
+                "Date": "on July 9, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Linus-Pauling-Life-Science-Politics/product-reviews/0465006736/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#4,988,228",
+    "Timestamp": "2015-05-24 15:38:26.111418",
+    "itemurl": "http://www.amazon.com/Linus-Pauling-Life-Science-Politics/dp/0465006736"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$252.00",
+    "Name": [
+        "Petroleum and Gas Field Processing (Chemical Industries)"
+    ],
+    "OfferPrice": "$203.81",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HB58BAMDAE17"
+                },
+                "Date": "on May 26, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Petroleum-Field-Processing-Chemical-Industries/product-reviews/0824709624/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,809,582",
+    "Timestamp": "2015-05-24 15:47:36.736359",
+    "itemurl": "http://www.amazon.com/Petroleum-Field-Processing-Chemical-Industries/dp/0824709624"
+}

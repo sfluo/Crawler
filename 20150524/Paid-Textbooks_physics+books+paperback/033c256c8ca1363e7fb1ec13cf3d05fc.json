@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "A Short Course in Cloud Physics, Third Edition (International Series in Natural Philosophy)"
+    ],
+    "OfferPrice": "$53.34",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A945QG2NBZJVE"
+                },
+                "Date": "on April 22, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 28, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book provides a nice introduction to the physics involved with clouds.  It is fairly heavy on the math in some chapters and  more descriptive in others.  It also provides mathematical and descriptive definitions for many common meteorology terms.  The problems at the end of the chapters are challenging.  The example problems in the text are too few and too simple to allow the concepts to be easily applied in the problems at the end of the chapters, however, all of the neccesary information is present.  Overall the book is very helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BO1VM9CSCWW1"
+                },
+                "Date": "on March 15, 2003",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GAJB5Y9XCLHU"
+                },
+                "Date": "on August 22, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "While this is the 'stand alone' book on cloud physics it could use an update.  Some of the answers to problems in the back are incorrect and the problems are very difficult/hard to process based on information given in the text.  Variables are defined once in-text with no other reference unless they change and no nomenclature section is given.  While the content is good this makes it hard to follow, but this could be easily remedied!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on December 5, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUIO9VHYJJN5H"
+                },
+                "Date": "on April 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My graduate level Atmospheric Physics course used this as the primary text. R + Y present a typically calc-heavy subject in a concise way, straying from the dense nature of some science texts. Chapters on severe weather, weather radar, and weather modification were a nice bonus, though most of the book centers on droplet/ice crystal formation and relevant dynamics. It's a great text if you're just coming into the material from undergraduate physics or meteorology, and its an easy read - you could pick it up casually, or in an academic setting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WIVX95FHOTVT"
+                },
+                "Date": "on December 26, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is great for whose works on hydrology and meteorology. This book has a summary of several complex topics about the dynamic of clouds. Very good book!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3U9H59R2HA24B"
+                },
+                "Date": "on March 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very nice introductory book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BQNT9I2MH5V2"
+                },
+                "Date": "on March 18, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "The homework problems at the end of the chapter are impossible o figure out form the text, but at least they give you some solutions."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Course-Physics-International-Natural-Philosophy/product-reviews/0750632151/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#494,120",
+    "Timestamp": "2015-05-24 13:39:17.629692",
+    "itemurl": "http://www.amazon.com/Course-Physics-International-Natural-Philosophy/dp/0750632151"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$173.95",
+    "Name": [
+        "College Physics, Hybrid (with Enhanced WebAssign Homework and eBook LOE Printed Access Card for Multi Term Math and Science)"
+    ],
+    "OfferPrice": "$146.39",
+    "Reviews": {
+        "AverageStarRating": "1.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DJ6GW9EEUJ3D"
+                },
+                "Date": "on January 2, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "This product listing is VERY misleading.  If you are renting the book it DOES NOT come with the access code to webassign or the ebook.  The access code must be purchased through the webassign website even though this listing says it comes with the book.  I am not satisfied because of how misleading this was and how much time I wasted trying to figure out where to buy the code."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VKDO5LRU41ZZ"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Was below my expectations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FTI4JHW4WPT9"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "its okay"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-Enhanced-WebAssign-Homework/product-reviews/1285761952/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#38,355",
+    "Timestamp": "2015-05-24 13:04:11.304185",
+    "itemurl": "http://www.amazon.com/College-Physics-Enhanced-WebAssign-Homework/dp/1285761952"
+}

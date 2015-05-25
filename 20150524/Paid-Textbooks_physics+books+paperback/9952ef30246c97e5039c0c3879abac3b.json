@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$52.99",
+    "Name": [
+        "Physics: A Student Companion"
+    ],
+    "OfferPrice": "$49.58",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FW6L95E52VRR"
+                },
+                "Date": "on March 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39JZYM30NZ54U"
+                },
+                "Date": "on September 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8PRCBUA2HF6D"
+                },
+                "Date": "on February 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASBUMBN6EYH3B"
+                },
+                "Date": "on January 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a really useful book. I bought it to help with my 2nd year courses and I've found it really clear and easy to understand. It covers all the key topics, highlighting what you really need to know and giving examples to help you understand. I do really recommend it to other physics undergraduates."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13F16OCBHCL8R"
+                },
+                "Date": "on March 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Serves as a nice review of the minimum amount of material you should be able to recall on completing a physics degree. No book will cover everything in substantial detail but I would like to say I can recall everything in this book at some point. The layout makes it easy to read and I liked the student-student tone of presentation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VKZ596SBK1LR"
+                },
+                "Date": "on July 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126145HN58T1R"
+                },
+                "Date": "on January 15, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great resource for physics students. I wish it had been around when I was studying for the GREs and prelims when I started grad school. Clearly written with easy to understand figures. Get it!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12S5PHL54AIB5"
+                },
+                "Date": "on March 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very good for review. There is a very good listing of formulas with excellent brief commentary. it is designed for review & study, not as a primary text, & it accomplishes this goal well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JNCTFBIDJO8L"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's a book, have fun!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Student-Companion-Lowry-Kirkby/product-reviews/1904842682/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#686,449",
+    "Timestamp": "2015-05-24 12:57:31.302495",
+    "itemurl": "http://www.amazon.com/Physics-Student-Companion-Lowry-Kirkby/dp/1904842682"
+}

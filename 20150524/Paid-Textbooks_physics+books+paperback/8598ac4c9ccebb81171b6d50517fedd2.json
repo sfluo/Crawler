@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$167.00",
+    "Name": [
+        "College Physics Volume 2 (Chs. 17-30) (9th Edition)"
+    ],
+    "OfferPrice": "$154.89",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7QR9K8VDHHKS"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV18D884MX3P"
+                },
+                "Date": "on January 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book, easy to understand. This is how most textbooks should be written. I also like the graphics in this book and all the examples they provide."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UBC4WAC63MN3"
+                },
+                "Date": "on February 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Exactly what I needed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A140WX62IYV79N"
+                },
+                "Date": "on November 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The BEST!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DZ9DYG02FRHW"
+                },
+                "Date": "on April 12, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This was one of the best combinations of good deal and reliable souce I could find when shopping for this book. No problems, smooth transaction. Thank you."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-Chs-17-30-9th/product-reviews/0321766237/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#156,423",
+    "Timestamp": "2015-05-24 13:21:49.341682",
+    "itemurl": "http://www.amazon.com/College-Physics-Chs-17-30-9th/dp/0321766237"
+}

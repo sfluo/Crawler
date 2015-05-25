@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$65.00",
+    "Name": [
+        "Basic Space Plasma Physics"
+    ],
+    "OfferPrice": "$61.76",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 15, 2000",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "3",
+                "Text": "Quite useful tool for students intending to go on in the area of space plasmas, but it is also good reference book for those working in the area, when they need to recall some basic information. However, some parts could  be treated in more detail, and some parts are not explained in the best  way. And main problem is that some parts should be in different order, then  in third or fourth chapter would need to be coments like: \"We will  show it later in the fifth chapter\". This might be not a problem for a  researcher in the area who uses the book as a reference tool, however,  students who are new in the area, be aware. Overall, it is quite  interesting reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2STBRWUYCUGAM"
+                },
+                "Date": "on June 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Space-Plasma-Physics-Baumjohann/product-reviews/186094079X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#950,036",
+    "Timestamp": "2015-05-24 13:25:54.367920",
+    "itemurl": "http://www.amazon.com/Basic-Space-Plasma-Physics-Baumjohann/dp/186094079X"
+}

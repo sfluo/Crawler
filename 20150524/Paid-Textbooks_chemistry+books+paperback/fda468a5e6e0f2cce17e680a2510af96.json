@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$37.95",
+    "Name": [
+        "Electric Choices: Deregulation and the Future of Electric Power"
+    ],
+    "OfferPrice": "$30.51",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38AAPXSJN4C5G"
+                },
+                "Date": "on April 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "A series of 10 case studies on the economics and practical elements of deregulation of electricity and the future or electric power.  The collection discusses the economic impacts, pitfalls and observations of energy deregulation - including retrospectives on the California energy crisis of 2000-2001 and the blackout of 2003.  A scholarly work that really isn't much of a page turner.  Heavy to read, and really geared for the expert."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electric-Choices-Deregulation-Future-Power/product-reviews/0742548767/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,050,230",
+    "Timestamp": "2015-05-24 15:50:38.480737",
+    "itemurl": "http://www.amazon.com/Electric-Choices-Deregulation-Future-Power/dp/0742548767"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$66.00",
+    "Name": [
+        "Introduction to Mesoscopic Physics (Mesoscopic Physics and Nanotechnology)"
+    ],
+    "OfferPrice": "$61.47",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15M1MCAZ6NOU8"
+                },
+                "Date": "on May 7, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "2",
+                "Text": "If you need the vocabulary, the names, and the important references in the field of mesoscopic physics this is the book for you. If you want physical insight and understanding you must look elsewhere (god knows where?). All  derivations start with some random non-fundamental formula and ends in  another. Clarity and coherence seem far away."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19TM55SB9P26B"
+                },
+                "Date": "on July 9, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This book is definitely not written for grad students or anyone who is just interested in the field and wants to get an general idea of it. I'm sure the author could make the book little easier to read, but it seems he just did not want it that way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XT3HBHPVLXFL"
+                },
+                "Date": "on January 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Contrary to what the others said, I found the book complete. I was reading the process of 'Dephasing in semiconductors' and it was thoroughly described. But by no means, it serves as an introductory text (as the title says). You need to be an advanced reader already having enough experience with quantum transport."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Mesoscopic-Physics-Nanotechnology/product-reviews/019955269X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#811,340",
+    "Timestamp": "2015-05-24 15:28:34.595322",
+    "itemurl": "http://www.amazon.com/Introduction-Mesoscopic-Physics-Nanotechnology/dp/019955269X"
+}

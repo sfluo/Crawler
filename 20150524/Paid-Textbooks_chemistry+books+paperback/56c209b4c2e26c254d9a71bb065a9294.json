@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$66.00",
+    "Name": [
+        "Introduction to Polymer Physics"
+    ],
+    "OfferPrice": "$53.80",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EZYFXG311ZRC"
+                },
+                "Date": "on September 12, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Firstly, this book is NOT for someone wanting an introduction to polymer  science.  There is little here that would be of use in a first course in  polymers.  The book is very slim (a scarce 113 pages), divided into five  chapters covering individual polymer chains, melts, gels, dynamics in  dilute solutions, and finally dynamics in the entanglement regime.  The  intense detail of Doi and Edwards is left out but the level of mathematical  description is comparable.  Strongly recommended as an introduction to  polymer physics, especially because it covers a lot of important issues in  a very brief, easy-to-understand, but rigorous fashion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on August 1, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The finest aspect of the book is its thickness; in just over 100 pages Doi essentially summarises everything in Polymer Dynamics. In some sense the book is meant as a bridge between the graduate level courses on Polymer Dynamics/Physics and book: The Theory of Polymer Dynamics and hence is assessible only with some background on basics. Nevertheless its serves its purpose pretty well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O5CSGR3SRL1J"
+                },
+                "Date": "on October 16, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It's short and to the point, explaining all the fundamentals needed to progress in this field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11ATIVG3MS8RH"
+                },
+                "Date": "on July 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Reading the reviews for Theory of Polymer Dynamics, I purchased this book and it is indeed a great introduction to polymer physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Polymer-Physics-M-Doi/product-reviews/0198517890/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,178,203",
+    "Timestamp": "2015-05-24 15:28:51.705039",
+    "itemurl": "http://www.amazon.com/Introduction-Polymer-Physics-M-Doi/dp/0198517890"
+}

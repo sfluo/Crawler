@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Chemistry and Manufacture of Hydrogen"
+    ],
+    "OfferPrice": "$19.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18QHLT0253UTF"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Older information but amazing multiple ways to make hydrogen."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemistry-Manufacture-Hydrogen-Litherland-Teed/product-reviews/1603220380/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,259,898",
+    "Timestamp": "2015-05-24 15:21:59.701714",
+    "itemurl": "http://www.amazon.com/Chemistry-Manufacture-Hydrogen-Litherland-Teed/dp/1603220380"
+}

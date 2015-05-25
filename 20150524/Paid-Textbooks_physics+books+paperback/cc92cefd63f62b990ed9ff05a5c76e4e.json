@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Path Integrals and Quantum Processes (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.63",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YJ13QMRCSWIC"
+                },
+                "Date": "on September 17, 2001",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O9K22LXI1W47"
+                },
+                "Date": "on November 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Surprising breadth of topics covered."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ0U89818WFYW"
+                },
+                "Date": "on September 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "great book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Integrals-Quantum-Processes-Dover-Physics/product-reviews/0486493067/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#290,065",
+    "Timestamp": "2015-05-24 12:36:46.496586",
+    "itemurl": "http://www.amazon.com/Integrals-Quantum-Processes-Dover-Physics/dp/0486493067"
+}

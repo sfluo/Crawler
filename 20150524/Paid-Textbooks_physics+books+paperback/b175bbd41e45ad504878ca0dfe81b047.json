@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$13.95",
+    "Name": [
+        "High Marks: Regents Physics Made Easy : The Physical Setting"
+    ],
+    "OfferPrice": "$12.32",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N4WX8NQ0M1BP"
+                },
+                "Date": "on May 15, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Everyone who is in high school should own this amazing book! Easy to read and understand. Buy it!!!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AITXZ1QOILJ5Z"
+                },
+                "Date": "on January 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "No frills questions and answer.  It's more of a review and testing the knowledge than actually learning physics. Answer questions and see where the weak points are and focus on the weak points.  Well worth the money spent on the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACR3CB68Q13UX"
+                },
+                "Date": "on July 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Very  m ethodical,  sterp by step, assumes  very little  basic  maths, sometimes  too  slow  in  analysing  the  answers  to  problems.  Very  useful,  but  not  as  good  as  her  Chemistry  Book  in  the  same  series"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D214EIXG1SKS"
+                },
+                "Date": "on December 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "No answer key"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/High-Marks-Regents-Physics-Physical/product-reviews/0971466211/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#596,821",
+    "Timestamp": "2015-05-24 13:28:48.493049",
+    "itemurl": "http://www.amazon.com/High-Marks-Regents-Physics-Physical/dp/0971466211"
+}

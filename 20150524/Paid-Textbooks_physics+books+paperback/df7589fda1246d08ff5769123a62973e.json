@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "Music, Physics and Engineering (Dover Books on Music)"
+    ],
+    "OfferPrice": "$14.22",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P97R4Y1CU84A"
+                },
+                "Date": "on May 10, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on July 13, 2003",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "3",
+                "Text": "Although this book was first published over 50 years ago, there are still many parts of it that can still be read profitably, due mostly to the fact that musical theory and the physics of musical instruments does not change with time. I read the book years ago to get some ideas for physics demonstrations in the classroom, and it was of great assistance in that regard. Those readers who intend to specialize in musical engineering would still find it a useful supplement to more modern treatments. The audio CD of course was not known at the time of publication, nor even the 8-track tape, but the development of both of these technologies was dependent on what came before them, and so a perusal of this book will allow insight into more contemporary technologies. The book also is one of the first to emphasize the psychological factors that must be taken into account when developing a technology for sound reproduction. The author in fact emphasizes the need for paying attention to the psychological factors in the preface to the second edition of the book. With the incredible advances in sound reproduction that have taken place since this book was written, one can appreciate his comments even more. One can only give thanks to the ingenuity of the sound and musical engineers both in the author's time and now for giving the listener an incredibly rich and satisfying auditory experience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANO3OT6E3RKM4"
+                },
+                "Date": "on January 25, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOXXS04RPN6V2"
+                },
+                "Date": "on May 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The author is a relatively unknown giant in the world of electronic music - though he was not a musician. For many years, Dr. Olson was the head of research at RCA Laboratories where he made significant contributions to the development of the field of Acoustic Research. While Olson also made significant contributions to the development of the modern microphone and magnetic tape recording (among other things), he is best known, perhaps, as being a key member of the team that researched and developed the RCA Mark II Sound Synthesizer - the first synthesizer used to create and market music for mass consumption. The book, originally published in 1952, hearkens back to the days when sound studio engineers wore white lab coats and carried clipboards. It takes the reader, chapter by chapter, from the basic physical nature of sound waves up to the production of electronic music. Most of the important topics are treated, like how different musical instruments produce and manipulate sound (the section on trumpets is very cool), how sound waves behave in the physical world, the physical and psychological aspects of sound and music perception (how your ears and brain work), the design of sound stages, studios, etc, and ends with an introduction to the basics of recording technology and electronic instruments (electric guitar, synthesizers, etc.), such as they were in the 1950s. The book is aimed at the non-specialist, but has enough information to give a solid foundation in the basic physics of sound and how it applies to the production of music. While it is true that much of the technology discussed in the book is no longer in common use (i.e. magnetic tape, massive synths, etc.), the basic concepts of sound still hold true and thus make this book a still-useful reference. It should also be noted that this book is very often cited in musical texts of many types."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22JA8E5PNFYEK"
+                },
+                "Date": "on May 31, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LFJGR8SBBKO0"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a must have for anyone interested in recording or live sound.  It's a little dry for reading cover to cover, and long winded as a refference, but the information it contains makes it well worth having."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BY3E2F35YL12"
+                },
+                "Date": "on June 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Although I have learned quite a bit from going to school for Audio Production (degree of Art) I love this book for teaching me more more about the scientific side of audio engineering."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7HB9CVUGRW8E"
+                },
+                "Date": "on September 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "quite good if one has math skills - definitely for the professional or student audio engineer"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1766RXXE09TUB"
+                },
+                "Date": "on September 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I love music, physics, engineering, and reading ... And this book did nothing for me."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Music-Physics-Engineering-Dover-Books/product-reviews/0486217698/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#267,043",
+    "Timestamp": "2015-05-24 12:26:33.856251",
+    "itemurl": "http://www.amazon.com/Music-Physics-Engineering-Dover-Books/dp/0486217698"
+}

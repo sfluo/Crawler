@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Tutorials in Introductory Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EEQOX9RPD4XT"
+                },
+                "Date": "on February 4, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "The pages I need for lab were written on and could not be used"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZYL0HNUR5XH"
+                },
+                "Date": "on February 16, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "I was told that this tutorial approach was improved over just working problems at the end of the chapter in a textbook.  But I cannot really tell the difference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANZMUP1CS8GEV"
+                },
+                "Date": "on January 10, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "As mentioned, it should announce that there is a homework inside. But the book is nice and useful. Anyway, it is good. I like it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VSO1GG97AUL9"
+                },
+                "Date": "on April 1, 2013",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "3",
+                "Text": "Nice book. Teacher said on first day that unless we have a great amount of time we will not use this."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Tutorials-Introductory-Physics-Lillian-McDermott/product-reviews/0130653640/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#211,293",
+    "Timestamp": "2015-05-24 13:39:54.025804",
+    "itemurl": "http://www.amazon.com/Tutorials-Introductory-Physics-Lillian-McDermott/dp/0130653640"
+}

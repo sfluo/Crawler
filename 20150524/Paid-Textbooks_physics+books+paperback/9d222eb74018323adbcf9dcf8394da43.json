@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Study Guide for Fundamentals of Physics, Tenth Edition"
+    ],
+    "OfferPrice": "$65.55",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EV4SJX9RD9L5"
+                },
+                "Date": "on January 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have never seen a study guide with this type of format. (Full disclosure - my son is the student taking physics, but there wasn't a guide like this when I took physics either) The answers to the problems are written out as a discussion between \"Student\" and \"Tutor\" with \"Student\" stating what steps to take and why and then asking questions when stumped and being guided by \"Tutor\" - not just told the answer. It is really good at explaining not just the steps for solving this exact problem, but why you do it and how it transfers to other situations. I showed it to my boss at the lab and he wants one just for fun!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31FDMS87MFL4"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Study-Guide-Fundamentals-Physics/product-reviews/1118230787/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#520,450",
+    "Timestamp": "2015-05-24 13:20:24.079602",
+    "itemurl": "http://www.amazon.com/Student-Study-Guide-Fundamentals-Physics/dp/1118230787"
+}

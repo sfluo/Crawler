@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$82.50",
+    "Name": [
+        "Large-Scale Structure of the Universe"
+    ],
+    "OfferPrice": "$77.49",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11D8Q21GBTY6H"
+                },
+                "Date": "on February 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am actually very surprised that this is the first review of Jim Peebles' masterpiece. Modern cosmology is essentially the study of the statistics of density fluctuations, whether probed by photons, or by more massive tracers, such as galaxies -- the central theme of the book. \"The Large-Scale Structure of the Universe\" written in 1980, although a little dated, remains a marvelous introduction to its central topic and contains a wealth of information. It is very much a classic text book, so a student can work through it step by step without any help. The continuing usefulness of the main material of the book is a testament to the author's prescience, sharp insights, technical mastery, and overall good taste in how the basics are presented. The equation density is about right, the number of illustrative figures and examples could perhaps have been higher, and some of the presentations (such as that of BBGKY) have a slightly old-fashioned feel. But the last two are just minor quibbles. Every cosmologist must own this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Large-Scale-Structure-Universe-Phillip-Peebles/product-reviews/0691082405/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,150,965",
+    "Timestamp": "2015-05-24 13:23:10.056162",
+    "itemurl": "http://www.amazon.com/Large-Scale-Structure-Universe-Phillip-Peebles/dp/0691082405"
+}

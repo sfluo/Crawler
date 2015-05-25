@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics"
+    ],
+    "OfferPrice": "$74.25",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MGD8DN4NBGP2"
+                },
+                "Date": "on August 28, 2004",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "The only other book I can compare this to is Cramer's, and this one is better suited to a first introduction into computatioal chemistry.  I have taken one graduate quantum chemistry course, and this was more than enough background for understanding this book.  This is the only text I know of (I asked my comp chem prof if he knew of any others) that walks through a Hartree Fock calculation step by step using an example.  There are some mistakes in the formulas, but they are quite minor.  All in all, I would recommend this book to anybody interested in beginning to learn about computational chemistry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35O2NNRNVGCLL"
+                },
+                "Date": "on March 22, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTBHG6070SL4"
+                },
+                "Date": "on May 12, 2004",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Computational-Chemistry-Introduction-Applications-Molecular/product-reviews/9048138612/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,540,361",
+    "Timestamp": "2015-05-24 15:19:49.411715",
+    "itemurl": "http://www.amazon.com/Computational-Chemistry-Introduction-Applications-Molecular/dp/9048138612"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.25",
+    "Name": [
+        "Student Study Guide for University Physics Volume 1 (Chs 1-20)"
+    ],
+    "OfferPrice": "$39.25",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26LSNV2HWPBHQ"
+                },
+                "Date": "on May 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4TTHVGL1VWFU"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The companion study guide to University Physics is so concise, so boiled-down simple that it can act as a replacement to the textbook in courses with a good professor who delivers detailed lectures and to students who take solid notes in those courses. There aren't any tedious derivations here (the derivations are easy enough to find online if you need them), just a list of key concepts and formulae followed by sample problems. A crucial homework companion, a more crucial test prep companion. It's helped me organize my understanding of each chapter and allows me to \"preview\" upcoming lectures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A008889124J38R91C5C6D"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I bought this book for my physics class. It is useful when you need to review material before a test."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CYS44A322ZWX"
+                },
+                "Date": "on December 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Fast shipping. Recommended"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1200I3E6HAY3I"
+                },
+                "Date": "on March 16, 2012",
+                "Helpfulness": 0.1111111111111111,
+                "StarRating": "5",
+                "Text": "This study guide helps me. I have been able to study. Thanks for this study guide it really helps me study.  I have learned so very much.  I will probably buy the next study guide too."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Study-Guide-University-Physics/product-reviews/0321696654/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#74,515",
+    "Timestamp": "2015-05-24 13:01:15.136182",
+    "itemurl": "http://www.amazon.com/Student-Study-Guide-University-Physics/dp/0321696654"
+}

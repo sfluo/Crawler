@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WL01F7EYJY5P"
+                },
+                "Date": "on December 2, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am currently volunteering with the peace corps as an introductory physics teacher in Ghana.  Many of the introductory physics books that I have seen try to simplify concepts to make them accessible to beginning students, and in doing so they end up making statements that are wrong.  This book DOES NOT make these mistakes.  It is WELL-WRITTEN, making the concepts clear and accessible, but it does not make incorrect nor misleading statements.  The mathematics is at the appropriate level.  Most importantly, it emphasizes understanding the concepts and it does very very well at teaching them.  My only complaint of the book is that it is slightly outdated.  However, a thorough understanding of the concepts presented in this book will make students more than adequately prepared for university classes.  I hold a phd in condensed matter physics and have worked as a TA teaching introductory physics at both florida and cornell universities.  Want to understand the concepts of physics?  Buy a copy of this book.  So, Mr. Abbott, this is my fifteen minute tribute to you for writing a great H.S. Level Book.  Nice work sir."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MHM4V8YUAZ5A"
+                },
+                "Date": "on August 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Words cannot describe how good this book is. It was my primary text book studying for exams and I passed with flying colours because of it. I learnt all my definitions from it. It may seem difficult to understand to some but a text such as this should be read while the topic is being taught. If you attempt the questions in this book for each section you will pass."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A302MGVMZVPALV"
+                },
+                "Date": "on April 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "there was some slight defect - some writing inside otherwise in good condition. that is why I am giving it 4 stars."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Abbott/product-reviews/043567014X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,675,706",
+    "Timestamp": "2015-05-24 13:27:05.241186",
+    "itemurl": "http://www.amazon.com/Physics-Abbott/dp/043567014X"
+}

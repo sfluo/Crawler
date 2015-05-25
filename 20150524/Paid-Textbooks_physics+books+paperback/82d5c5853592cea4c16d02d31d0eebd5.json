@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Problems of Atomic Dynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.34",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SLLML7XWCLDN"
+                },
+                "Date": "on July 5, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There are two series of lectures in this book: one on crystal lattices and one on quantum mechanics. The crystal-lattice work is of no great interest these days, but the lectures on QM were written just after Born worked with Heisenberg et al. to develop the operator formalism, and shows a unique angle on it. For example, he motivates the need for matrix multiplication by discussing the representation of physical variables in terms of Fourier transform, but where the frequencies are not harmonics of a fundamental frequency, but are instead the differences between energy levels. It's a very different angle from the way it is introduced in text books, and quite fascinating if you're interested in the conceptual development of QM."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24YIII0VXKA4"
+                },
+                "Date": "on February 24, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A very enjoyable read, providing a unique perspective on the early days of QT."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Atomic-Dynamics-Dover-Physics/product-reviews/0486438732/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,559,277",
+    "Timestamp": "2015-05-24 13:24:26.484081",
+    "itemurl": "http://www.amazon.com/Problems-Atomic-Dynamics-Dover-Physics/dp/0486438732"
+}

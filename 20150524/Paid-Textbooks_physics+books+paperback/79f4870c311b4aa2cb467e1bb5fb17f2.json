@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$36.95",
+    "Name": [
+        "Quantum Mechanics in Hilbert Space: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$28.13",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AZ3V003TAMVZ"
+                },
+                "Date": "on June 22, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I wrote this to offset the only other review of this book which I thought was unfair.  If you are interested in learning quantum PHYSICS, then this is not the book for you.  However, if you are interested in learning the underlying mathematical principles of Hilbert space as applied to QM in a semi-rigorous fashion, then this is a very good book.  It reviews the relevant techniques from analysis such as spectral theory and does a good job on formalized scattering theory.  I probably would have given it four stars if I was being completely unbiased.  I liked it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33NUA1ZIK6ZAJ"
+                },
+                "Date": "on October 14, 2012",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I haven't read through the whole book yet. Our quantum teacher recommend this book to us, I provides sufficient rigor for serious students of QM. Of course this is not a book for beginners and sufficient undergraduate analysis is helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BJC5M4CEXL3H"
+                },
+                "Date": "on December 20, 2007",
+                "Helpfulness": 0.25,
+                "StarRating": "2",
+                "Text": "Read this about 20 years ago, so bear with me. What I remember, it has some neat mathematical tricks to teach you, but for the title, I would expect it to delve more profoundly into the physics behind completeness of a Hilbert space and what it means for the physical world. It's probably an OK book, but not something that will let you have a revelation or breakthrough. And as one of the founders of group theory and \"revolutionaire extraordinaire\" (Evariste Galois) said, \"study (only) the masters\"- so hard these days when mediocrity and marketing guys rule."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Hilbert-Space-Physics/product-reviews/0486453278/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,626,244",
+    "Timestamp": "2015-05-24 12:41:36.876399",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Hilbert-Space-Physics/dp/0486453278"
+}

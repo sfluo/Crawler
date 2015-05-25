@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$142.95",
+    "Name": [
+        "Modern Diesel Technology: Diesel Engines"
+    ],
+    "OfferPrice": "$142.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20B3S56KRF48U"
+                },
+                "Date": "on November 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAVVBFP02B7FY"
+                },
+                "Date": "on July 14, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Product arrived on time, and this book even though used,  is in excellent condition."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Diesel-Technology-Engines/product-reviews/1401898092/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,167,314",
+    "Timestamp": "2015-05-24 15:34:31.597810",
+    "itemurl": "http://www.amazon.com/Modern-Diesel-Technology-Engines/dp/1401898092"
+}

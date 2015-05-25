@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Electron Microprobe Analysis"
+    ],
+    "OfferPrice": "$59.99",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on September 27, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought the 1975 first addition as a graduate student.  This classic text imparts to the reader a good basic understanding of electron stimulated x-ray generation as well as x-ray absorption.  The role of x-ray absorption edges, and the associated use of the jump ratio in x-ray absorption is also explained well.  The book also has a number of useful tables, plots, and diagrams to aid the reader."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KQI5M1TF7EGD"
+                },
+                "Date": "on March 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book describes all the basic principles about diffraction, focusing on WDS and  EDS, which I was mainly interested in."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electron-Microprobe-Analysis-S-Reed/product-reviews/052159944X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,135,587",
+    "Timestamp": "2015-05-24 15:51:04.153299",
+    "itemurl": "http://www.amazon.com/Electron-Microprobe-Analysis-S-Reed/dp/052159944X"
+}

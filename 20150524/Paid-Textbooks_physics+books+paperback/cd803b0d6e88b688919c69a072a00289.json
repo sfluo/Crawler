@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Statistical Physics: Theory of the Condensed State (Course of Theoretical Physics Vol. 9)"
+    ],
+    "OfferPrice": "$52.77",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.78125,
+                "StarRating": "5",
+                "Text": "This is the Volume 9 of the famous Course of Theoretical Physics by L. D. Landau and E. M. Lifshitz. All serious students of theoretical physics must possess the ten volumes of this excellente Course, which cover in detail and rigour practically all the branches of theoretical physics. The Volume 9 treats important specialized topics of modern statistical physics. These topics include the theory of quantum liquids(Fermi and Bose types), the theory of superfluidity, created by Landau to account for the phenomena ocurring in liquid helium at approximately 2 kelvin, the microscopic theory of superconductivity, the general method of Green's functions, so important to modern statistical physics, and some other topics, such as the quantum mechanics of a electron in a crystal lattice. The book still contains the general theory of electromagnetic and hydrodynamic fluctuations, treated in the spirit of the Green's functions. These topics are treated with rigour, efficiency and c! larity of language. For this reason, all readers with some aqquaintance with basic statistical physics can read and understand much of this book without major problems. Certainly there is not other book comparable with the Volume 9, a unique and valuable addition to the literature on modern statistical physics!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on December 12, 2004",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C1W0UW09UZKT"
+                },
+                "Date": "on February 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TNZUIM51ZHW0"
+                },
+                "Date": "on September 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A classic which should adorn the bookshelf of all practicing scientist in a pertinent field."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Physics-Theory-Condensed-Theoretical/product-reviews/0750626364/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#526,144",
+    "Timestamp": "2015-05-24 13:12:52.601951",
+    "itemurl": "http://www.amazon.com/Statistical-Physics-Theory-Condensed-Theoretical/dp/0750626364"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Universal Foam: Exploring the Science of Nature's Most Mysterious Substance"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D9PLO3I3KYJY"
+                },
+                "Date": "on November 10, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on April 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H83XJ1VKCXUG"
+                },
+                "Date": "on March 31, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I bought this book out of curiosity. But I have to tell you that this book is fascinating. If you only considered foam when you had a cup of cappuccino or whipped up some egg white. - Then think again. It is everywhere- it ranges are limitless, as limitless as the universe. So consider foam when you think of beer, bubbles, cells and viruses, in medicine, the earth itself (volcanoes, oceans, etc.), and how about poisons, and lets not forget artificial intelligence and the quantum."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PGVJF37JSHFO"
+                },
+                "Date": "on August 21, 2009",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Universal-Foam-Exploring-Mysterious-Substance/product-reviews/038572070X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,269,854",
+    "Timestamp": "2015-05-24 15:29:13.747930",
+    "itemurl": "http://www.amazon.com/Universal-Foam-Exploring-Mysterious-Substance/dp/038572070X"
+}

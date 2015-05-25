@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Particle Physics: A Beginner's Guide (Beginner's Guides)"
+    ],
+    "OfferPrice": "$12.65",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD5E41KLIJGG2"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30QH6G2FP10KN"
+                },
+                "Date": "on October 3, 2013",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "Very well written, understandable, clear, would recommend to anyone interested at the beginners level, distinctly outlines the underlying principles and foundations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y7C491Q8R9PG"
+                },
+                "Date": "on December 26, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IMH5FOSTIF2Z"
+                },
+                "Date": "on March 11, 2013",
+                "Helpfulness": 0.7058823529411765,
+                "StarRating": "5",
+                "Text": "I really enjoyed this book. I had read F. Close's \"Short intro to particle physics\" which laid a nice groundwork for me to be able continue my learning through this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQGTIDED76V6L"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Thank you, thank you, thank you. Just what the doctor ordered, Not only an excellently written book but well researched and informative. Overall a great read. 5 stars"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WX5CBI49PM75"
+                },
+                "Date": "on April 7, 2014",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "This book is exactly what I was looking for. A clear discussion of the current state of particle physics. Very accessible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BYYTZC88UVFR"
+                },
+                "Date": "on December 17, 2012",
+                "Helpfulness": 0.5384615384615384,
+                "StarRating": "5",
+                "Text": "The title says for beginners. it certainly is not for beginners as it discusses the issues in terms which are not explained elsewhere. Following a read of this book I decided to write my own dictionary or rather a Glossary of terms used in Partiicle and Quantum Physics especially as applied to Cosmology which is my main interest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D1P9JQKWW8N"
+                },
+                "Date": "on October 31, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Excellent all the way around. I would buy from them again. Very satisfied overall."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUA9Y5QQ31TT1"
+                },
+                "Date": "on April 13, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Just OK."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TF9NWKIG5AA8"
+                },
+                "Date": "on September 3, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great book, fast shipping"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HB6VG7SBM0KN"
+                },
+                "Date": "on January 10, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good by not great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALJC8OACDV00T"
+                },
+                "Date": "on July 10, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "this book is written well and easy to understand, well, as easy as particle physics can be...highly recommended !!!!!!! get it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VYBIW475NQRB"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Raised as an atheist and loving science, for me,  it was a great read.  Scientific fact cannot be argued against and the more I know about quantum physics, time, E=mc2 etc. it's a no brainer where we came from."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Particle-Physics-Beginners-Guide-Guides/product-reviews/1851687866/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#142,329",
+    "Timestamp": "2015-05-24 13:00:39.559555",
+    "itemurl": "http://www.amazon.com/Particle-Physics-Beginners-Guide-Guides/dp/1851687866"
+}

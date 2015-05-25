@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Molecular Vibrations: The Theory of Infrared and Raman Vibrational Spectra (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$14.10",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A166QWT91MZ0CO"
+                },
+                "Date": "on December 5, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In this one, Wilson writes definitively, math/scientifically, and with sincerity of purpose.  Don't get confused by the word 'theory.' There's as much math in here as Born and Wolf's P of O.  The only diffenrence is Wilson's is much more algebra-based.  The mathematics (i.e. isomorphs) is 'taught', without breaking the flow, and is not assumed that you know the stuff already--- or can find it somewhere else.  This book stands out because there is more science in here than names of scientists, and his references are for real.  I would also say it was unique because books with titles like 'Molecular Vibrations' are usually skipped over for titles like 'mechanics' or 'quantum theory.'  Spectroscopy was a major advancement in science, and it is good to see it skillfully treated with enlightening clarity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Reissue of original, which was published in 1955, in the pre-computer age. Solid QM description of vibrating polyatomic molecules, and their interaction with EM radiation. The authors exploit group theory (molecular  symmetry) to reduce the calculational work as much as possible. Good  introduction to the use of finite groups, e.g. how to exploit the hexagonal  symmetry of the benzene molecule."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ6ALGGFVHJ50"
+                },
+                "Date": "on December 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the original work by E.B.Wilson where the G and F matrix formalism is presented. The G matrix, related to kinetic vibrational energy is built uppon the elements of the B matrix defined from \"internal coordinates\". Many quantum chemistry software packages use this exact methodology to build normal coordinates. For those working on Quantum Chem Molecular Orbital calculations, this book is a must."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AALC7JKXEOD7X"
+                },
+                "Date": "on November 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE81NAE20PLP1"
+                },
+                "Date": "on June 15, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a classical book on the subject of molecular vibrations. People interested in molecular spectroscopy or Quantum Chemistry should read it. Excellent book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JB8ORXB72OMC"
+                },
+                "Date": "on January 9, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "There is no cheaper book devoted to elementary vibrational analysis. A must-read for quantum chemists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on July 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "When I was a university student I learned about both vibrational spectroscopy and group theory applied to molecules from this book written in 1955 by Wilson, Decius, and Cross. Believe me, this is a classic reference that, although outdated in some place, it remains one of the best books ever written on the subject. The language used by the authors is of such an elegance that you will be surprised when reading this book. For example, on page 240 (ch.10) the authors describe the structure of benzene as follows: \"The structure for benzene....is one in which all atoms are coplanar with the carbon atoms and the hydrogen atoms at the corners of concentric, regular hexagons.\" Five stars to this book and to Dover for keeping it alive!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UZXTTRTS0IZ0"
+                },
+                "Date": "on September 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I still don't totally understand why diagonalizing a mass-weighted Hessian 'works' to predict frequencies and modes, but I know how to do it thanks to this book.  There are a few parts on rotations in 3D which are fine if you're brushing up on them, but not great for beginners."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOKDJFGKXX2LN"
+                },
+                "Date": "on March 2, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WY04ARFM7GZM"
+                },
+                "Date": "on May 10, 2012",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Vibrations-Infrared-Vibrational-Chemistry/product-reviews/048663941X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#576,481",
+    "Timestamp": "2015-05-24 15:13:16.433397",
+    "itemurl": "http://www.amazon.com/Molecular-Vibrations-Infrared-Vibrational-Chemistry/dp/048663941X"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$92.00",
+    "Name": [
+        "The Physics of Inertial Fusion: Beam Plasma Interaction, Hydrodynamics, Hot Dense Matter (The International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$74.75",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S1SZVK8JWJZX"
+                },
+                "Date": "on June 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VMKDJVG54LIY"
+                },
+                "Date": "on June 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book, and the author clearly describes the basics and more advanced topics of inertial fusion. The book is filled with formulas which one can use to construct own models of inertial confinement fusion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F7Q2SZLX9C9K"
+                },
+                "Date": "on May 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is an excellent introduction and walk through of ICF, but as other review have mentioned, it presupposes some understanding of physics and thermodynamics"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Inertial-Fusion-Hydrodynamics-International/product-reviews/0199568014/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,235,709",
+    "Timestamp": "2015-05-24 13:33:41.403147",
+    "itemurl": "http://www.amazon.com/Physics-Inertial-Fusion-Hydrodynamics-International/dp/0199568014"
+}

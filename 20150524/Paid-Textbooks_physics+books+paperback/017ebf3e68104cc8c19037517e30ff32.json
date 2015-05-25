@@ -1,0 +1,522 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$28.95",
+    "Name": [
+        "Quantum: A Guide for the Perplexed"
+    ],
+    "OfferPrice": "$19.86",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RR4SRBQZFUTK"
+                },
+                "Date": "on June 19, 2003",
+                "Helpfulness": 0.9836065573770492,
+                "StarRating": "5",
+                "Text": "I became interested in quantum theory after reading Brian Greene's \"The Elegant Universe\" about six months ago; since then I have gone to some lengths to find a book that would explain quantum theory in a way that was non-formal enough for me to understand but not excessively simplified.  Until recently, I hadn't found any thing that fit this description -- until, that is, I ran into this book at my local book store.  It is BY FAR the best explanation of quantum theory for someone who is relatively (or even completely) unfamiliar with it.  The author explains the theory in a step by step fashion, not leaving anything implied or unsaid, but in no way is insulting to one's intelligence.  As a philosophy grad student, I especially appreciated the chapter on the various interpretations of quantum theory, including the 'many-worlds' interpretation that reminded me very much of David Lewis's metaphysical system (in which all possible worlds actually exist somewhere).  I bought this book at 10:30 p.m. and had read half of it by the time I went to bed, and finished the rest of it the next day.  It is that good!  Highly, highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABVZ6PX0S901U"
+                },
+                "Date": "on August 24, 2003",
+                "Helpfulness": 0.9777777777777777,
+                "StarRating": "5",
+                "Text": "This book is beautiful in all aspects. It is very well written, interesting and has great illustrations. The author takes a very complex and many times seemingly illogical topic and makes it both understandable and interesting. We are also given alternative views and told when the state of the art falls short of understanding. I would like to see a second edition in 10 years covering new advances in the topic. One of the best books I have seen in science in the past few years."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22CHPKNANCTQC"
+                },
+                "Date": "on August 21, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VR4ZIK78R3DF"
+                },
+                "Date": "on January 30, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book has one of the best presentations of Quantum Mechanics that I've read. It explains three to four questions deep on most all concepts. The author seems to anticpate your next question and then deals with it a few pages later. The historical background leading up to the current theories is excellent without getting bogged down. He cuts to the heart of the priciples and allows you to understand the difference between wave probability and actual quantum behavior at any given instant. He then goes on to practical applications that take advantage of this strange behavior. Now I won't have to go to my grave without a decent understanding of the current state of the theory of matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1323QY2X5P8J0"
+                },
+                "Date": "on September 30, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QXRCPBC6DDZA"
+                },
+                "Date": "on July 8, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABN5K7K1TM1QA"
+                },
+                "Date": "on April 25, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MTF17UI0UTL7"
+                },
+                "Date": "on April 29, 2004",
+                "Helpfulness": 0.8260869565217391,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28HUBMSCXVQW0"
+                },
+                "Date": "on March 2, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I've read several books on Quantum Mechanics and Physics.  This book is the best I've read to date.  Very well written, great illustrations, entertaining, and thought provoking.  The books gracefully takes you to a higher level of Quantum understanding without blowing you away with PHD level discussions.  Great book!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PQRSBOZPYPQR"
+                },
+                "Date": "on June 20, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NTH97MXHCPA9"
+                },
+                "Date": "on March 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD2FNVSO8LQ24"
+                },
+                "Date": "on July 13, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "While not an expert, I have read many books on quantum mechanics aimed at general readers and worked through its math in several technical books as part of graduate course work. Popular quantum renditions might be judged by three distinct criteria. First, is the material clearly presented and appropriate for a general audience? Second, is the discussion technically accurate as opposed to just a series of quantum cartoons with only minimal distinctions between fantasy and scientific reality? Third, does the presentation provide a good distinction between just what is understood and what remains controversial among professional physicists? I award A+ (five stars) in all three categories. The technical material is beautifully presented with clear language and excellent color pictures, difficult concepts are clearly discussed, and controversies concerning the \"hard problem\" (the measurement problem) are treated fairly and with clarity. The quantum conundrums force experts as well as quantum novices to think way outside the box so one should not expect his mental efforts to be free of discomfort. Nevertheless, Al-Khalili's book provides an ideal vehicle to guide those interested in facing substantial perplexity about the true nature of physical reality. Speculative connections between the quantum information field (wavefunction) and information associated with consciousness are treated by several books, including mine (2010)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A60OH0VVTDVDX"
+                },
+                "Date": "on July 19, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you really want to know about quantum (above the Time Magazine level) this book along with \"The New Quantum Universe\" will tell you an enormous amount in a very understandable fashion.  Really good!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D18P24C7IW05"
+                },
+                "Date": "on January 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35K0A5ZRQOAWN"
+                },
+                "Date": "on July 13, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have read several books on Quantum physics in an attempt to get a grasp on this very perplexing subject.  I found QUANTUM to be an amazing explication of a totally counterintuitive concept.  I highly recommend this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N8KDMN0QA0HQ"
+                },
+                "Date": "on May 31, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I5IIUUAIYTAZ"
+                },
+                "Date": "on January 29, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O1Q8N96T6ZHA"
+                },
+                "Date": "on August 9, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ1J3N0PAJCRG"
+                },
+                "Date": "on December 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMD2BHOH5XF8R"
+                },
+                "Date": "on March 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "An easy read of a complicated subject. Words and illustrations try to make clear quantum theory, but as Richard Feynman says, \"No one understands quantum mechanics\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M6D4RPSG88JQ"
+                },
+                "Date": "on November 12, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGBH7L84ZLU54"
+                },
+                "Date": "on May 18, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great book to start your journey into quantum mechanics, or to get a better grasp on the different conceptual camps behind the theories.  This book segregates the ideas from the math, and does a great job at it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NSOGTEZI5V5J"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have been reading books on quantum physics recently and I think Al-Khalili's book is one of the most elaborately and clearly articulated. I believe that it is a milestone on understanding the quantum physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A331C2FB6YK4N1"
+                },
+                "Date": "on September 24, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "The always spectacular Jim Al-Khalili has done it again! This book is a culmination of his obvious years of experience in this field. I find myself amazed at how he can simplify something that is so far from being simple. Hats off to you once again Mr. Al-Khalili!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z2JFJJZP3D7M"
+                },
+                "Date": "on December 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LTHX6HYJJ8L4"
+                },
+                "Date": "on December 27, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I haven't read a lot of science popularisers but I have to admit that this one beats all the others I've read (the 3 Brian Greene books and a brief History of Time). I enjoyed every page of this book. The thing that makes this book so great are the beautiful illustrations and the layout. They make reading the book so much more pleasant. Another thing I have enjoyed is that you also learn about the history of quantum mechanics. The book also offers great variation in the chapters. This book inspired me to study the mathematics behind Quantum mechanics. Even now I still sometimes read a few pages from this book, and I'm not someone who reads a lot. The only bad thing about the book is that it doesn't go deep enough into some topics. I would recommend this book to anyone interested in physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZZM7HPMJ18UG"
+                },
+                "Date": "on February 1, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I originally grabbed this book to become briefly introduced to quantum mechanics before taking a quantum chemistry class. Al-Khalili has the talent of explaining complicated subjects in a manner that the average person can understand AND not be bored of. I had the book out and my friend casually picked it up to kill some time. It was so enticing she took the book from me to finish it. I have read some books on quantum mechanics before and this one helped me really understand material I thought I knew. The presentation is well done with beautiful pictures. Be warned, it doesn't have the math behind the science but it does present quantum mechanics in an interesting and well structured way. Once you start, it's difficult to put it down."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIA8TW4X0XAWQ"
+                },
+                "Date": "on June 29, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALQCZBPEYVJ3J"
+                },
+                "Date": "on May 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I think this book is a great introduction for anyone who is interested in being exposed to the mysteries of quantum mechanics.  It is clearly written, so that non-scientists can understand and learn scientifict vocabulary that can be used to further their research should they choose to read more books on the subject.  The first one-third of the book is the best part.  After that, Jim just touches on certain subjects without going into enough detail for anyone to really appreciate it.  Further reading of other books is really required--but this book is an excellent starting place."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A330FTZTW57U32"
+                },
+                "Date": "on February 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V5IVYYFG9KMQ"
+                },
+                "Date": "on June 13, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I just finished reading this book five minutes ago, and I'm completely satisfied with the interesting stuff I learned from it. Jim Al-Khalili has a great way of simplifying the so complex quantum world in a way everybody can understand it, and the graphics and pictures make it both more entertaining and easier to understand. I completely recommend this lecture for people who don't know much about quantum physics and want to start learning. He points out every important aspect of the subject, from when it was first discovered, to the next millenium appliances for it. 10/10."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HMYVM3T82YKI"
+                },
+                "Date": "on September 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really like the book. It has a lot of references to applications of quantum mechanics as well as some (non technical!) attempts to explain the weirdness of things at the quantum scale. Jim does a good job relative to his target audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DG5EH4JH2IL"
+                },
+                "Date": "on February 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Not a difficult read but one that requires revisiting earlier portions while reading. If you are looking to become acquainted with the basic mystery of the universe, beyond even dark matter and energy, dive into this book. Your world will never look the same to you and you will always be thinking of the quantum world even when you aren't."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1T5MSVU0KCSU4"
+                },
+                "Date": "on January 25, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RFNC6Y9TZBHP"
+                },
+                "Date": "on June 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IMH5FOSTIF2Z"
+                },
+                "Date": "on March 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is very well written and presents quantum theory and its uses in a form useful for the scientist or the lay person alike. Many quantum peculiarities are explained with a unique point of view such that I found many \"Aha, now I get it\" moments. Thanks you Dr. Al-Khalili."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NMW51418AO9M"
+                },
+                "Date": "on February 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE8JQWBJYL3P5"
+                },
+                "Date": "on July 27, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23R7Y2G9EGRLU"
+                },
+                "Date": "on December 4, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "At first I was disappointed to realize I had ordered a 'picture' book; but was pleasantly surprised to find it was deep and profound; hopefully this will be reissued one day without flashy pictures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LOZL4EN2U56N"
+                },
+                "Date": "on July 23, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a most excellent book for any layperson who wants to the learn the basic ideas of Quantum Physics, with very clear explanations, and very good illustrations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LTFDIDFDE6OT"
+                },
+                "Date": "on May 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent book for the novice.  It gets somewhat technical in some parts, but that's to be expected considering the subject matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT7E2BG2EQOJJ"
+                },
+                "Date": "on March 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent book by Jim Al-Khalili.  He knows how to explain the subject in a clear way.  He writes with with an entertaining style.."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SIYTRDIGLZ9T"
+                },
+                "Date": "on June 3, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18QXFRQ732VTC"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "excellent, fun and reasonable easy to read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O1NKHIRSLX39"
+                },
+                "Date": "on March 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "So I have a 10-year-old who is a bit of a nerd (and he's ok with that :)).  Anyway, he read through parts of this book and had some difficulty but for the most part it is well written.  I think he's too young to grasp all the concepts, but if he can understand some of the information, then I think that an adult can."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MGG0HY4A4K56"
+                },
+                "Date": "on September 26, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is an excellent introduction to the topic of quantum mechanics. The author's writing style is very pleasant and at times makes it feel like one is having a friendly tutor session."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GX64BE9A07J9"
+                },
+                "Date": "on May 29, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Love this book.  It's my second Jim Al-Khalili book, and he really knows how to break things down so that anyone can understand.  Would recommend any of his books."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VDWSNNCABPVG"
+                },
+                "Date": "on July 14, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I05RUVN2GIRP"
+                },
+                "Date": "on March 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I enjoyed this so much.  Makes me wonder why I did not major in physics. Good general reading for those interested in this topic"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RXQGAHWF3V7Y"
+                },
+                "Date": "on December 31, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "hehe, this is one i recommend to my parents because i want them to understand my interest in physics :) as with all things, one leads to another and i hope the reader could also 'check out' Bohm's Wholeness and the Implicate Order, and even my Space, Elastic and Impeding .. The Story of Spin by Tomonaga is worth reading if only for a glimpse into a truly beautiful mind :) and of course, there is Rucker's Geometry.. finally, i recommend Q is for Quantum by Gribbin as resource, reference, and cover-to-cover read :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34RC0MFTD3F0Y"
+                },
+                "Date": "on November 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AG8FLGJF1Q45"
+                },
+                "Date": "on August 9, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book offers excellent insight into the world of Quantum Mechanics with very simple and easy to comprehend explainations. Instead of taking the traditional matehematical approach, the author explains the complexities and nuances of the esoteric quantum world in a very simplistic manner including important historical landmarks in this field. The reader would have a feel of the discovery and development of this field and how it has become a quintessential part of modern scientific breakthroughs.It is an excellent reading material for people interested in understading the basics of Quantum Mechanics...."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOV8L3S4QEMJF"
+                },
+                "Date": "on October 11, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PMUOCK4V0R2Y"
+                },
+                "Date": "on March 13, 2009",
+                "Helpfulness": 0.5238095238095238,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PMJ961NM8P86"
+                },
+                "Date": "on November 3, 2003",
+                "Helpfulness": 0.52,
+                "StarRating": "5",
+                "Text": "I must admit I bought this book for the pictures, glossy pages and arty production just to add to my collection of physicist authored books.  If you can ignore the pretentious british spelling centred around colours and flavours etc etc ad nauseam, however, what you will get is a remarkably up to date and extensive exploration of what the quantum is.  What I particularly liked about this book is that you don't read about the author's interpretation of the wavefunction equation but instead explore its various attributes and meanings and uses.  I certainly rate this book at the top of its genre."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGGALMEFF8IGR"
+                },
+                "Date": "on July 13, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Perplexed-Dr-Jim-Al-Khalili/product-reviews/1841882380/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "56"
+    },
+    "Salesrank": "#47,681",
+    "Timestamp": "2015-05-24 12:37:18.476928",
+    "itemurl": "http://www.amazon.com/Quantum-Perplexed-Dr-Jim-Al-Khalili/dp/1841882380"
+}

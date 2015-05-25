@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.99",
+    "Name": [
+        "Dynamics of Proteins and Nucleic Acids"
+    ],
+    "OfferPrice": "$60.16",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARNMH26J9GX0P"
+                },
+                "Date": "on September 7, 2005",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "This is my favorite book on molecular simulations.  I was amazed to find that it's still in print.  (Just to avoid conflicts of interest, I should mention that I'm one of the authors.)  - Steve Harvey"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dynamics-Proteins-Nucleic-Andrew-McCammon/product-reviews/0521356520/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,088,705",
+    "Timestamp": "2015-05-24 15:36:36.473877",
+    "itemurl": "http://www.amazon.com/Dynamics-Proteins-Nucleic-Andrew-McCammon/dp/0521356520"
+}

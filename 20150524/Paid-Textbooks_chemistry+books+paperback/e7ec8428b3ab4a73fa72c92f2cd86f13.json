@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "Introduction to Applied Optimization (Springer Optimization and Its Applications) (Volume 22)"
+    ],
+    "OfferPrice": "$61.97",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on August 7, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Applied-Optimization-Springer-Applications/product-reviews/1441945709/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,311,234",
+    "Timestamp": "2015-05-24 15:46:12.417347",
+    "itemurl": "http://www.amazon.com/Introduction-Applied-Optimization-Springer-Applications/dp/1441945709"
+}

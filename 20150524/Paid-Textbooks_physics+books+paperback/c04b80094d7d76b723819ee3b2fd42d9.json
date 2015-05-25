@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "Fundamentals of Quantum Optics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.48",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DQKUBRYGM618"
+                },
+                "Date": "on June 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Anyone looking to get involved in the world of Quantum Optics should add this book to his or her library. It is well written, easy to follow along, and gives you a view of a very deep and intense world of science. A must have book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Quantum-Optics-Dover-Physics/product-reviews/0486450082/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,074,390",
+    "Timestamp": "2015-05-24 13:26:53.318449",
+    "itemurl": "http://www.amazon.com/Fundamentals-Quantum-Optics-Dover-Physics/dp/0486450082"
+}

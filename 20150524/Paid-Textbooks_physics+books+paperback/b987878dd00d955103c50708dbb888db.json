@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.80",
+    "Name": [
+        "Touch This! Conceptual Physics for Everyone"
+    ],
+    "OfferPrice": "$11.69",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H1L5DDX17LC"
+                },
+                "Date": "on December 14, 2008",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "this book is very helpful especially for teachers in the helping your intimidated students. examples and conceptual explanations are very useful to get the complete understanding. if you do not like physics this book can change your mind and prejudgements about physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K09FNEY1WLIM"
+                },
+                "Date": "on January 21, 2009",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "Wonderful book.  I got this to help out with a lower-level physics class, but even my 9-yr-old can understand it.  Great for parents and educators! I highly recommend this!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FBBWSW8348DB"
+                },
+                "Date": "on February 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I found this book a little harder to understand - I was looking for more simpler explanations and easier reading if there is a book that does so.  Book was recommended to me by someone I respect as very knowledgble and they thought the author was brilliant."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R1CEV3V9KZ3R"
+                },
+                "Date": "on March 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I really like this book, Easy to read, easy to understand.  It's a great way to learn basic physics concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANY84297KGJV3"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's a book.  Not much more to say.  If you're into physics, it's a great read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7AP48CVWCU9U"
+                },
+                "Date": "on April 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Best simple physics book. Great for home schooled."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG8BIQGB907XR"
+                },
+                "Date": "on July 3, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Great book. Only complaint is that my book came damaged the cover was peeling from the biding. Other than that it was a quick delivery, and  Paul Hewitt doesn't disappoint."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Touch-This-Conceptual-Physics-Everyone/product-reviews/0321051629/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#348,195",
+    "Timestamp": "2015-05-24 13:22:14.290002",
+    "itemurl": "http://www.amazon.com/Touch-This-Conceptual-Physics-Everyone/dp/0321051629"
+}

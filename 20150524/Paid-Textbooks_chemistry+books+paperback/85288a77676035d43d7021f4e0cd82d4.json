@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physical Chemistry: A Guided Inquiry: Thermodynamics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36VJZIJVQCF7H"
+                },
+                "Date": "on June 30, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TXW8KXGPJ4Z5"
+                },
+                "Date": "on August 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My school uses this as the main text book, we work through it in small groups and it works well. It covers all the main points in Physical Chemistry, and does a very good job with it. We have another text for supplementary, but this does the job by itself. It's very informative, and has some little light points and jokes. Very good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4ABKGRPDON0D"
+                },
+                "Date": "on September 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Pages 317-341 were missing from my workbook as if they were never printed. Being this is a workbook, I needed all the pages for homework and now I cannot complete them unless I hand-write everything from someone else for the 30 page chunk that is missing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36VJZIJVQCF7H"
+                },
+                "Date": "on June 30, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IHW8N4GJVV1F"
+                },
+                "Date": "on February 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am planning to test this in a general chemistry classroom. I don't like the traditional way so I hope this active-learning approach works more effectively."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physical-Chemistry-Guided-Inquiry-Thermodynamics/product-reviews/0618308539/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#851,462",
+    "Timestamp": "2015-05-24 15:20:08.372034",
+    "itemurl": "http://www.amazon.com/Physical-Chemistry-Guided-Inquiry-Thermodynamics/dp/0618308539"
+}

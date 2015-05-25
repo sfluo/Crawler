@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Science of the Oven (Arts and Traditions of the Table: Perspectives on Culinary History)"
+    ],
+    "OfferPrice": "$15.25",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IIB10X0CECYV"
+                },
+                "Date": "on October 27, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HZZKWH6IWRZU"
+                },
+                "Date": "on December 16, 2010",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31BD4RXCON7QO"
+                },
+                "Date": "on October 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F15EGM4FN2QG"
+                },
+                "Date": "on December 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14Q1J23ILJ51U"
+                },
+                "Date": "on April 15, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CNZ6GGPTM99X"
+                },
+                "Date": "on December 17, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A733A3P0IOO1E"
+                },
+                "Date": "on November 14, 2009",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Herve This shares some of his vast knowledge about the science involved in everyday cooking.  The book is organized more as a series of essays about particular topics rather than one cohesive work which threw me off at first but allows the book to be read in short bursts, which is sometimes all you can handle of the more technical passages.  As someone deeply interested in food science it was fascinating but if you don't want to delve into the molecular reactions that occur when an emulsion is created it may not be the book for you.  Still, some of the passages (particularly the one about wine) would be interesting to anyone.  Highly recommended if you are interested in food science or molecular gastronomy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on January 17, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Culinary science comes to life in a collection applying scientific method to the kitchen. The chemical art of cooking s considered in a survey of common culinary techniques and practices, examining food's molecular components and considering how flavors are created and how the properties of liquids, oils and fats play into basic culinary practices. Culinary libraries strong in science will find this a winner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37EOLSU0M9VBM"
+                },
+                "Date": "on December 21, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Like a drunk uncle who tells fascinating stories, which never link together. Small bites, some tastier than others. Not for everyone."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-Oven-Arts-Traditions-Table/product-reviews/0231147074/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#1,097,974",
+    "Timestamp": "2015-05-24 15:39:59.828340",
+    "itemurl": "http://www.amazon.com/Science-Oven-Arts-Traditions-Table/dp/0231147074"
+}

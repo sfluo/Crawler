@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Fundamentals of Steam Generation Chemistry"
+    ],
+    "OfferPrice": "$109.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V8HKPBYSN2PM"
+                },
+                "Date": "on March 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LEDJDZ8L9HU1"
+                },
+                "Date": "on February 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A good handbook for steam electric power plant chemists and operators that are involved with power plant chemistry operations. The book condenses many difficult power plant chemistry concepts into a shorter more understandable text, partly by eliminating the difficult to understand pages of formulas found in other texts and by being written in a common, less academic language. The author also relates practical examples with problems encountered in power plant equipment and some things to look for when encountering common every day power plant chemistry problems. A good reference book that all in power plant chemistry operations should find very valuable."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Steam-Generation-Chemistry-Buecker/product-reviews/0878147500/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,893,519",
+    "Timestamp": "2015-05-24 15:20:18.434661",
+    "itemurl": "http://www.amazon.com/Fundamentals-Steam-Generation-Chemistry-Buecker/dp/0878147500"
+}

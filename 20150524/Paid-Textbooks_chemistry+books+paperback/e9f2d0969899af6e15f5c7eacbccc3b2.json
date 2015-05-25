@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Symmetry and Group theory in Chemistry (Horwood Chemical Science Series)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVMLMV2SSPY65"
+                },
+                "Date": "on July 10, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Symmetry-Chemistry-Horwood-Chemical-Science/product-reviews/189856339X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,279,000",
+    "Timestamp": "2015-05-24 15:38:15.765271",
+    "itemurl": "http://www.amazon.com/Symmetry-Chemistry-Horwood-Chemical-Science/dp/189856339X"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Sources of Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19XJPCTL3HYRD"
+                },
+                "Date": "on June 13, 2008",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "It's no wonder some might feel frustrated or discouraged reading the papers in this collection. Even though those papers were written several decades ago, they had been all forefront research papers then. Some papers should be difficult even for a physics major if one is not in the specific field; some are difficult because of the usage of \"old-style\" notations such as writing matrix equations in a certain way; still you may find a couple papers very much readable even with a minimal amount of training in mathematical skills."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A374MLGUO5SP3E"
+                },
+                "Date": "on April 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on May 2, 2011",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": "This book collects seventeen papers which contributed to laying down the foundations of quantum mechanics. Part I comprises eleven papers (1-11) dealing with the old quantum theory of the pre-Heisemberg period 1900-1925; Part II contains six papers (12-17) concerned with the new quantum theory. Paper nr. 12 is the famous Heisemberg's 1925 paper written when the brilliant, young physicist stationed in Heligoland (or Helgoland in German), an island in the North Sea, while recovering from an attack of hay fever. This paper is well known for it being difficult to read since Heisemberg assumed that several equations were known to his colleagues and, hence, spared them of all the mathematical derivations. Help comes from the author, Dutch mathematician and historian of science professor van der Waerden, who included inside the Introduction a summary of paper 12 (see page 28). The remaining papers in Part II were authored by Born, Jordan, Dirac, and Pauli. A mysterious surprise is the absence of any paper written by Schroedinger, the Austrian physicist who is credited, together with Heisemberg and Dirac, of being the father of quantum mechanics (for his biography see Moore's book: \"Schroedinger: Life and Thought\"). In 1926 he wrote in the journal Annalen der Physik four important papers, one of which introduces the famous Schroedinger eigenvalue equation. The exclusion from Part II of Schroedinger's paper(s) is puzzling while the book index associates to his name only three pages (52, 56, and 379). This absence (it would be interesting to know why) forced me to assign it only three stars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MDHHJ1DVHZZ7"
+                },
+                "Date": "on May 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Indispensable book on the English translations of the papers leading to quantum mechanics by Einstein, Bohr, and others, and the original papers (English translations of the German papers) on the matrix formulation of quantum mechanics by Heisenberg, Born, Jordan, Pauli, and Dirac."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ81921WLJERZ"
+                },
+                "Date": "on August 31, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": "I have read several dozen books on the subject of Cosmology and related topics. This is a technically oriented book filled with intricate mathematical formulas and is clearly geared for advanced students. I am not shy about mathematics or formulas as a rule and have handled other books on Quantum mechanics, relativity and physics but this book was just over my head."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Sources-Quantum-Mechanics-Dover-Physics/product-reviews/048645892X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#973,229",
+    "Timestamp": "2015-05-24 12:28:43.795855",
+    "itemurl": "http://www.amazon.com/Sources-Quantum-Mechanics-Dover-Physics/dp/048645892X"
+}

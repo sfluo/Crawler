@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "An Introduction to Theoretical Chemistry"
+    ],
+    "OfferPrice": "$102.40",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HY2FUWE53KC0"
+                },
+                "Date": "on April 24, 2006",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Theoretical-Chemistry-Jack-Simons/product-reviews/0521530474/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,547,158",
+    "Timestamp": "2015-05-24 15:19:13.777044",
+    "itemurl": "http://www.amazon.com/Introduction-Theoretical-Chemistry-Jack-Simons/dp/0521530474"
+}

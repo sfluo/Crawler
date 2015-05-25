@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for gifted toddlers 03: Light"
+    ],
+    "OfferPrice": "$7.99",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3875TF93RSZVF"
+                },
+                "Date": "on July 19, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "I would not recommend this book.  There are many grammatical errors that can not be overlooked. The information contained in the book can be found in other places, even written for young children.  If zero stars were possible that is what I would give."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-gifted-toddlers-03-Light/product-reviews/1483974103/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#507,822",
+    "Timestamp": "2015-05-24 13:50:02.874890",
+    "itemurl": "http://www.amazon.com/Physics-gifted-toddlers-03-Light/dp/1483974103"
+}

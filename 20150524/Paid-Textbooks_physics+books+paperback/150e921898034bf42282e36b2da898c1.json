@@ -1,0 +1,270 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$83.00",
+    "Name": [
+        "Quantum Mechanics: Concepts and Applications"
+    ],
+    "OfferPrice": "$60.11",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABBW2H206B68F"
+                },
+                "Date": "on May 21, 2010",
+                "Helpfulness": 0.9615384615384616,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SYJXG6R0Z491"
+                },
+                "Date": "on November 6, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UISK0M4WU3Q2"
+                },
+                "Date": "on May 1, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35R5REE6X84VF"
+                },
+                "Date": "on January 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18Q5S8I3FMS86"
+                },
+                "Date": "on December 15, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29MGZHX72KKTN"
+                },
+                "Date": "on November 1, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S0I4B6NQOKXD"
+                },
+                "Date": "on November 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29VCRTT0LKWRH"
+                },
+                "Date": "on May 3, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RCCPRSLQKPQF"
+                },
+                "Date": "on February 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Good and reasonably priced book to learn QM from on your own.  Nothing fancy and no thrilling unusual insights, just standard Quantum Mechanics presented in a systematic, structured manner.  You need the discipline to go systematically through it and do the problems,  it's not intended just for reading through.  After wearing out a few pens and filled more than a few legal pads with calculations you will be well prepared for advanced graduate-level courses.  Like with any serious QM text,  you should be familiar already with basic sophomore level math like differential equations and linear algebra before diving in."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A379WZZKJKV2N9"
+                },
+                "Date": "on December 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3302C6Y6MV86H"
+                },
+                "Date": "on March 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Zettili does a wonderful job of skirting the line between too much formalism and not enough rigor.  The large number of worked out example problems are a real boon to the student, and the topics are covered in a logical order.  Very good introductory text for advanced undergraduates or beginning graduate students (and possibly beyond - I haven't looked over the advanced topics in much detail)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25U1ABMB4U87F"
+                },
+                "Date": "on April 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1T5N48ADWX552"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I was surprised by the quality. Step by step problems and really wonderful. I used it for my undergrad Quantum class and will definitely keep it on my shelf. It really is a lot better than Griffiths."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUNBWOMOFMVNY"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "When I first tried to tackle this book as an Undergraduate I found it as digestible as fishing weight. In time however I grew bored with wordiness of Griffiths, moved on from basic quantum to more advanced topics, and discovered that this book is actually a real gem for its worked examples and breadth. It's a great book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35RDJFVLQH7XR"
+                },
+                "Date": "on March 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This has more approachable explanations than many physics textbooks for complex concepts, and some good historic context. As with all physics textbooks covering this topic that I've scanned over so far, I think it would benefit from a slightly more detailed historic context, as it sometimes jumps back and forth in time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14SLSK2V324Z4"
+                },
+                "Date": "on December 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Despite a few errors throughout the text, this is by far the best book on Q.M. I have come across. There are many worked out problems throughout the text as well as an additional section dedicated to solving more problems at the end of each chapter. This book has been my saving grace in my grad course this semester."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YMIHTD5E97LU"
+                },
+                "Date": "on September 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very nice book. Even with some minor mistakes, it's a very well-organized book. It has alot of solved examples at the end of each chapter so if you didn't understand the topic you can understand using the examples. Very good for basic learning about Quantum Mechanics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ISHBT20J2199"
+                },
+                "Date": "on September 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Absolutely the best 400-level quantum book out there. Loved the entirely worked-through examples - something really difficult to find amongst textbooks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13WMT2BZECBHS"
+                },
+                "Date": "on October 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Aside from a few inconsistencies in notation this is an acceptable quantum mechanics book. It is honestly very readable especially given the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELI92XSOT6H4"
+                },
+                "Date": "on May 2, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X06LJ0IHP51E"
+                },
+                "Date": "on January 14, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The first time I took Modern Physics I failed horribly, however, it should be noted that I didn't even try to read this book as I never seen a small book with so many weird symbols in it. I thought I was way in over my head.  The second time I forced myself to read this book...I felt like an idiot not reading it sooner. Although I ran away from being a physics major I still read it from time to time. It is very informative and actually is useful.  If only I wasn't so lazy at that moment in time maybe things would have turned out different. Some love to blame books for their short comings but this book I like it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y0RW31DBMMS1"
+                },
+                "Date": "on August 16, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PE6I35J75O0H"
+                },
+                "Date": "on June 15, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is a very good book to study quantum mechanics, it has a full description of every topic and an many different examples and demanding problems that every simple physicist should have an idea of get an solution and an interpretation,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGVXI8BP2RBNJ"
+                },
+                "Date": "on February 8, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Its a good text for undergraduate students"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADW5UEJF0SIG7"
+                },
+                "Date": "on January 30, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excelent"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R1O2KWBWUVU5"
+                },
+                "Date": "on February 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book is great. I recently bought this book because the television shop, Numb3rs sparked an interest for me and alot of topics covered in this book were talked about on Numb3rs. If you like quantum mechanics or wanna learn quantum mechanics, this is the book for you. The only problem for this book is that the reader will need some experience in physics, math and mechanics, not to worry as there's no need for all the high class math physics, just some experience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16Q24CRWSSSJR"
+                },
+                "Date": "on November 9, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I was hoping for more worked examples in this book. I use it for supplementary aid along side my class book. The Griffith book is better in my opinion because the solution manual is out there unlike this one or at least i couldn't find it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JUWCBXXYLEV0"
+                },
+                "Date": "on December 29, 2012",
+                "Helpfulness": 0.1,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Applications-Nouredine-Zettili/product-reviews/0470026790/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "28"
+    },
+    "Salesrank": "#48,179",
+    "Timestamp": "2015-05-24 13:00:14.559534",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Applications-Nouredine-Zettili/dp/0470026790"
+}

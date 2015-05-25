@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$32.00",
+    "Name": [
+        "Crystallography and Crystal Chemistry: An Introduction"
+    ],
+    "OfferPrice": "$30.40",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 20, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 4, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "You will not find a better written, more clearly illustrated book on this  subject.  This book is loaded with hunderds of illustrations depicting each  concept.  Every aspect of the subject is explained in detail with many  references to the original literature.  This is the book from which  contemporary authors turn for explanatory details.  Solid state chemists  or physicists, materials scientists or crystallographers should not be with  out a copy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystallography-Crystal-Chemistry-Donald-Bloss/product-reviews/0939950375/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,022,134",
+    "Timestamp": "2015-05-24 15:23:10.878931",
+    "itemurl": "http://www.amazon.com/Crystallography-Crystal-Chemistry-Donald-Bloss/dp/0939950375"
+}

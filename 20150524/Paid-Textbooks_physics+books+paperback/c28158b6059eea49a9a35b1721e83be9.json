@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$101.00",
+    "Name": [
+        "Physics of Glaciers, Third Edition"
+    ],
+    "OfferPrice": "$76.58",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 2, 1997",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FH7L2BZ4ZW3W"
+                },
+                "Date": "on April 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 2, 1997",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Glaciers-Third-W-Paterson/product-reviews/0750647426/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,160,881",
+    "Timestamp": "2015-05-24 13:18:58.257157",
+    "itemurl": "http://www.amazon.com/Physics-Glaciers-Third-W-Paterson/dp/0750647426"
+}

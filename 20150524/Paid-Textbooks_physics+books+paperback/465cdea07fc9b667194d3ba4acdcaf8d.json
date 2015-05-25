@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$54.60",
+    "Name": [
+        "Practice Book for Conceptual Physics Fundamentals"
+    ],
+    "OfferPrice": "$49.46",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PHKR5SYBONZ2"
+                },
+                "Date": "on January 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this book really helps tie in a lot of the things you will learn in an intro to physics class... instead of just reading from text all the time this gives you a way to actually apply those concepts to real like situations"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26AF8I3IFIDSG"
+                },
+                "Date": "on December 28, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It was much cheaper than buying it in the bookstore, and served the same purpose. Loved to have it, and by the way got a average 99% (A+) for this course."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practice-Book-Conceptual-Physics-Fundamentals/product-reviews/0321530748/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#182,979",
+    "Timestamp": "2015-05-24 12:35:18.699080",
+    "itemurl": "http://www.amazon.com/Practice-Book-Conceptual-Physics-Fundamentals/dp/0321530748"
+}

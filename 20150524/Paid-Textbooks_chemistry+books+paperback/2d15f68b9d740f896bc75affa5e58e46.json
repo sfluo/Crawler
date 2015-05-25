@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$30.00",
+    "Name": [
+        "Chemical Bonding (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$27.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B4UFPVPI8XRC"
+                },
+                "Date": "on May 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I went two years between General Chemistry and Inorganic Chemistry. This was reccomended to me as a review tool by my teacher and I can't say anything bad about this book. It was perfect for me: a seasoned undergraduate who needed a refresher on atomic orbitals, lewis structures, MO theory and the like. The book is very well written; not a word is wasted. The explanations are clear, concise and engaging. It may be in black and white but the diagrams and illustrations are also extremely helpful. This primer was a great reference for me throughout the semester. It's accessible enough for anyone but as the title of my review suggests, I think it works best for someone who is rusty on General Cehmistry and needs a high quality, low-price, easy-to-carry review tool, and this book fits that perfectly. Highly reccomended!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YMVPA7L7A6AV"
+                },
+                "Date": "on January 29, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is very well written. It clearly described chemical bonding in quantum mechanics perspective. I am doing EELS to study chemical bonds in some materials and the book helped a lot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12S5PHL54AIB5"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent text. Should be a good review or it will nicely complement a first course. Quick & efficient. No wasted time with this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JSIO75TU7RHK"
+                },
+                "Date": "on April 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great when I used it for my inorganic chemistry class!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4XY53BW3TPLP"
+                },
+                "Date": "on November 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "GOOD BOOK."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Bonding-Oxford-Chemistry-Primers/product-reviews/0198556942/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#874,185",
+    "Timestamp": "2015-05-24 15:14:57.061025",
+    "itemurl": "http://www.amazon.com/Chemical-Bonding-Oxford-Chemistry-Primers/dp/0198556942"
+}

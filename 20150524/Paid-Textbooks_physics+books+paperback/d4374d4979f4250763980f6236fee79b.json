@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics and Technology of Semiconductor Devices (Wiley International Edition)"
+    ],
+    "OfferPrice": "$177.66",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 7, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is one of the early written books dealing with silicon device physics. I use it every day in my research work since it provides a comprehensive theory of the semiconductor devices. It also provides a good  explanation of the physical mechanisms involved in these devices. Everybody  working in the electronics field, from device engineers to circuit  designers, should have this book in his library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A182P4KI4QUFQO"
+                },
+                "Date": "on March 16, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very systematic way to develop the theory. Easy to read. I read a few newer books in this field, no one even comes close to this classic book in terms of the treatment of the basic theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XWMBYAQOT9Z0"
+                },
+                "Date": "on February 4, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 14, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Detailed treatment of Semiconductor Physics.  A classic book in this field and a excellent source of reference for any Electrical Engineer."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P7RBR9KTZAPM"
+                },
+                "Date": "on July 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Book was in very good quality."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Technology-Semiconductor-Devices-International/product-reviews/0471329983/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,342,100",
+    "Timestamp": "2015-05-24 13:16:08.770612",
+    "itemurl": "http://www.amazon.com/Physics-Technology-Semiconductor-Devices-International/dp/0471329983"
+}

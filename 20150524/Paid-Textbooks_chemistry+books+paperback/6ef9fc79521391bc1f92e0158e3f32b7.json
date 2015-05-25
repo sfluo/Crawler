@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "THE BENEFITS OF BEHAVIORAL RESEARCH TO THE FIRE SERVICE: HUMAN BEHAVIOR IN FIRES AND EMERGENCIES"
+    ],
+    "OfferPrice": "$14.95",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7GXN66044C9S"
+                },
+                "Date": "on April 23, 2012",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/BENEFITS-BEHAVIORAL-RESEARCH-FIRE-SERVICE/product-reviews/0595485499/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,185,657",
+    "Timestamp": "2015-05-24 15:51:06.142229",
+    "itemurl": "http://www.amazon.com/BENEFITS-BEHAVIORAL-RESEARCH-FIRE-SERVICE/dp/0595485499"
+}

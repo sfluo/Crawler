@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Barron's Regents Exams and Answers: Physics -- The Physical Setting"
+    ],
+    "OfferPrice": "$7.99",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XVCJ6XTTCAPT"
+                },
+                "Date": "on December 3, 1999",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "This book is an outstanding study tool for students enrolled in college preparatory physics courses or AP Physics B courses.  I have found it an EXTREMELY valuable starting point for my own quizzes and tests. The  questions seem to be the perfect balance between conceptual and  computational assessments.  I use the books in this series as the ideal  curricular standard for the courses described above. Highest praise for the  authors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATDE9JYCPI0L1"
+                },
+                "Date": "on November 12, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This volume was a tremendous help for a child I know who graduated from a New York state high school in the last two years. The physics teacher assigned did a lousy job explaining the ins and outs of the physics examination for the N.Y. State Regents board. This book, however, helped the high school student earn well above average on the results. Nice book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HW8LV05GE15R"
+                },
+                "Date": "on July 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Worth getting in addition to review book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZCP87FCP34OR"
+                },
+                "Date": "on January 4, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37S4UNSJGS2GC"
+                },
+                "Date": "on February 6, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Thank you !"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Barrons-Regents-Exams-Answers-Physical/product-reviews/0812033493/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#19,557",
+    "Timestamp": "2015-05-24 12:25:22.030973",
+    "itemurl": "http://www.amazon.com/Barrons-Regents-Exams-Answers-Physical/dp/0812033493"
+}

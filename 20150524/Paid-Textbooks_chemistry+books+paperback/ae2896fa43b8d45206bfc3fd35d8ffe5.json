@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Molecules and Radiation: An Introduction to Modern Molecular Spectroscopy. Second Edition (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$22.34",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XOP5JUDRM4K9"
+                },
+                "Date": "on April 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book, by appearance, is in good shape and content-wise, met my expectations wholly.  It's an impressive book on spectroscopy with background concepts rooted in quantum mechanics. I am impressed!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecules-Radiation-Introduction-Molecular-Spectroscopy/product-reviews/0486441520/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#750,795",
+    "Timestamp": "2015-05-24 15:13:47.629455",
+    "itemurl": "http://www.amazon.com/Molecules-Radiation-Introduction-Molecular-Spectroscopy/dp/0486441520"
+}

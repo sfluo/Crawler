@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.80",
+    "Name": [
+        "Student Workbook for College Physics: A Strategic Approach Volume 2 (Chs. 17-30)"
+    ],
+    "OfferPrice": "$32.82",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZKS33CLFTTS8"
+                },
+                "Date": "on February 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "As described, thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VOLUJBOVXM1Z"
+                },
+                "Date": "on March 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "As Described, shipped quickly also. This is required when purchasing a used text book. Item is brand new and is correct."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A103BQSIOCS23J"
+                },
+                "Date": "on September 24, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This was a book for my daughter's physics class.  WHAT A BARGAIN.  BOOKS are ridiculously expensive and this filled the ticket!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Workbook-College-Physics-Strategic/product-reviews/0321596331/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#518,873",
+    "Timestamp": "2015-05-24 13:28:51.144478",
+    "itemurl": "http://www.amazon.com/Student-Workbook-College-Physics-Strategic/dp/0321596331"
+}

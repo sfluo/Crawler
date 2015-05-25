@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Six Ideas That Shaped Physics: Unit Q - Particles Behaves Like Waves"
+    ],
+    "OfferPrice": "$46.47",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V"
+                },
+                "Date": "on October 29, 2006",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HBA9GBMPMEEC"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a step by step and nicely explained book for an early understanding of quantum physics. It was a nice deal."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A193EMBMWXODAT"
+                },
+                "Date": "on March 23, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38CGI3QDZ6M6K"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is probably one of my favorite textbook series I've ever used (I used Unit R as well). The explanations are *so* clear and easy to read, and the exercises throughout the book are very helpful. The problems are really interesting, and in general this topic is just very cool. The way the book is laid out makes if fairly easy to learn from the book alone, which is very nice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SNX5VE02R2L5"
+                },
+                "Date": "on February 21, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Moore's Six Ideas, Unit Q, Quantum Mechanics, Chapter 6 was especially clear on the time evolution of quantum states."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M2B962GQXS8V"
+                },
+                "Date": "on October 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Soddisfatto,grazie"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWQ6BRAWNDI37"
+                },
+                "Date": "on January 28, 2013",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "Loved it. Got it on time and the book is in perfect shape. i cant wait to start class !"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Six-Ideas-That-Shaped-Physics/product-reviews/0072397136/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#456,781",
+    "Timestamp": "2015-05-24 13:27:38.462543",
+    "itemurl": "http://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0072397136"
+}

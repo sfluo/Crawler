@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Take-Home Physics: 65 High-Impact, Low-Cost Labs (PB240X)"
+    ],
+    "OfferPrice": "$24.95",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F75BOQ03UL9O"
+                },
+                "Date": "on August 7, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "1",
+                "Text": "Some of the labs in this book are good, but the format is so annoying it is impossible to ignore. This huge, 8 1/2 by 11 book is only printed on the inner half, and usually top third of the paper. This means they made a huge book out of what could have been a very small one, made it hard to read, and printed the labs in the most awkward position possible, if you want to zerox one. Needs to be redone."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FOHZT3ZF10XS"
+                },
+                "Date": "on April 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My husband teaches chemistry and physics. On a recent STEM seminar visit, he encountered this text, but was unable to purchase it  there. So when he returned home, we decided to see if such books were available on Amazon. He was delighted to find not only this one, but two others he had seen on the display tables. He was one happy science guy! He has just begun to use this one and is really excited by the students' reactions to the two experiments they have already done."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38KXKR3YGN5WC"
+                },
+                "Date": "on September 30, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "My students love doing these labs.  They are easy to use and well written.  By having students complete some labs at home I am able to cover more in depth content in class.  We've seen an increase in test scores, too, since we've been using these labs.  All around good thing for physics students.  :)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Take-Home-Physics-High-Impact-Low-Cost-PB240X/product-reviews/1935155059/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#749,831",
+    "Timestamp": "2015-05-24 13:40:46.054726",
+    "itemurl": "http://www.amazon.com/Take-Home-Physics-High-Impact-Low-Cost-PB240X/dp/1935155059"
+}

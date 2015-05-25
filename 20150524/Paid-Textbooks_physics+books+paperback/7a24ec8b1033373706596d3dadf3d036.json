@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$65.00",
+    "Name": [
+        "Statistical Mechanics: Entropy, Order Parameters and Complexity (Oxford Master Series in Physics)"
+    ],
+    "OfferPrice": "$56.38",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SAQV356DDQ4"
+                },
+                "Date": "on June 17, 2006",
+                "Helpfulness": 0.9629629629629629,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9UI1TKEZ6PPX"
+                },
+                "Date": "on January 8, 2008",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWDLPKMJVTI9"
+                },
+                "Date": "on October 20, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "I immensely enjoyed studying this statistical mechanics book. I think that the author, James Sethna, has a \"Feynman-like\" ability to explore his subject matter with much depth, insight, and many playfully creative excursions. The exercises cover such topics as the thermodynamics of Dyson Spheres and black holes; of how many shuffles it takes to fully randomize a card deck; and of whether an advanced, intelligent being or civilization can, from a thermodynamic standpoint, manage to process an infinite number of thoughts before the heat death of the universe, or whether they are limited to a finite number of thoughts. I think that there is a lot of wisdom and insights in this book which is missing in other books I've read on statistical mechanics and thermodynamics, where I often feel overwhelmed by a zoo of partial derivatives and thermodynamic equations with little guidance given on how the entire structure fits together. I strongly recommend this book for anyone who has studied some statistical mechanics and/or thermodynamics in a lower-level undergraduate course, and is looking for more advanced upper-level undergraduate or graduate-level text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ONAVKDPZQN5W"
+                },
+                "Date": "on March 1, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARR7VBH8SVYXR"
+                },
+                "Date": "on February 15, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HHSCH9YA57GL"
+                },
+                "Date": "on January 27, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21Q29DSAA4U7K"
+                },
+                "Date": "on November 2, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OJLPEOVZ18IA"
+                },
+                "Date": "on March 5, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EFX3EHYXID97"
+                },
+                "Date": "on October 28, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This books is reader friendly and very interesting. In the chapter about correlation function & linear response theory, the demonstration is very clear and self-consistent. As a student who is new to this topic, I think this chapter is even better than Chandler's book on this topic( I love Chandler's intro too). The problem set seems to be stimulating and may need more time than learning the main text. And more, the appendix is on Fourier Transform, a saver to the chemistry student like me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JCVK93GPTQQS"
+                },
+                "Date": "on June 1, 2010",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HAQF9ZDTP4R1"
+                },
+                "Date": "on July 24, 2010",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "1",
+                "Text": "This book is good only if you already know the subject from other books (like Donald Macquire or Pathria)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3885G2CWYITFM"
+                },
+                "Date": "on March 8, 2007",
+                "Helpfulness": 0.35294117647058826,
+                "StarRating": "2",
+                "Text": "This book is great, if you've already got an advanced physics degree and want a new/fresh look at Statistical Mechanics with a modern bent. The problems are very long and wordy, but that ususally means there's a lot of explanation...which is because none of it is explained in the text."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Entropy-Parameters-Complexity/product-reviews/0198566778/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#724,754",
+    "Timestamp": "2015-05-24 13:05:26.140955",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Entropy-Parameters-Complexity/dp/0198566778"
+}

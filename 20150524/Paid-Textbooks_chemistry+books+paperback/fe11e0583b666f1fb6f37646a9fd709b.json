@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Thermodynamics with Statistical Mechanics"
+    ],
+    "OfferPrice": "$99.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27RTQQ5IKNYDR"
+                },
+                "Date": "on November 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great book. One of the few that covers thermodynamics of equilibrium and non-equilibrium as single matter, instead of ripping it into pieces. Got a bit of trouble in receiving this hardcover edition and ended up changing it by the paperback one. Extremely profound, great at mathematic rigor, well-thought figures that really helps the reader throw the text. A must have for anyone going grad school on themodynamics, physical chemistry or chemical physics, among others fields. But keep in mind: I do not think it's for the \"first encounter\" with thermodynamics at undergrad - not saying it can't be usefull for such a reader: I would just consider a different first book on the field. Also, applied physics readers must keep in mind that this follows the \"physics sequence\" on learning thermodynamics (which reads as USHAG), instead of the \"applied sciences\" sequence (which is UHSAG), but this is definitly NOT a show stopper or deal braker even for those readers (such as me). Up to this moment, absolutely not a single bad thought about it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27RTQQ5IKNYDR"
+                },
+                "Date": "on November 22, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. One of the few that covers thermodynamics of equilibrium and non-equilibrium as single matter, instead of ripping it into pieces. Got a bit of trouble in receiving the hardcover edition and changed it by the paperback one. Extremely profound, great at mathematic rigor, well-thought figures that really helps the reader throw the text. A must have for anyone going grad school on themodynamics, physical chemistry or chemical physics, among others fields. But keep in mind: I do not think it's for the \"first encounter\" with thermodynamics at undergrad - not saying it can't be usefull for such a reader: I would just consider a different first book on the field. Also, applied physics readers must keep in mind that this follows the \"physics sequence\" on learning thermodynamics (which reads as USHAG), instead of the \"applied sciences\" sequence (which is UHSAG), but this is definitly NOT a show stopper or deal braker even for those readers (such as me). Up to this moment, absolutely not a single bad thought about it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Thermodynamics-Statistical-Mechanics-Helrich/product-reviews/3642099092/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,132,037",
+    "Timestamp": "2015-05-24 15:55:16.529715",
+    "itemurl": "http://www.amazon.com/Modern-Thermodynamics-Statistical-Mechanics-Helrich/dp/3642099092"
+}

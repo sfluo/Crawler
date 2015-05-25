@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$249.95",
+    "Name": [
+        "Cioffari's Experiments in College Physics"
+    ],
+    "OfferPrice": "$224.96",
+    "Reviews": {
+        "AverageStarRating": "2.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G39GTR54MK4A"
+                },
+                "Date": "on May 9, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book wasn't new but it was of great use to me. I was able to use it for several semesters. I took physics this semester and if I didn't still have it, I would have had to buy another one so I'm happy about that. It was in good shape too. All chapters were there. No writing in it etc. At this price, I definitely got my money's worth."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WDQZXOV5WX40"
+                },
+                "Date": "on February 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I am quite disappointed. I bought the used one and it missing the whole chapter 2. Aside from that everything is okay."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A246HZ7EOP2EOJ"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F09733QOCBOL"
+                },
+                "Date": "on February 3, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "This used book was absolutely junk.  There were whole missing chapters, making the book unusable.  It should not have been difficult to find the missing pages, as chapter one was missing.  I will not deal with this seller in the future, as there are plenty of good reliable seller available."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EF5HJ9L8LXCT"
+                },
+                "Date": "on July 11, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The positive description provided for this book was a bit misleading. Many pages were missing and ink marks could be found all over as well."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Cioffaris-Experiments-College-Physics-Edmonds/product-reviews/0669418307/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#469,074",
+    "Timestamp": "2015-05-24 13:33:51.601231",
+    "itemurl": "http://www.amazon.com/Cioffaris-Experiments-College-Physics-Edmonds/dp/0669418307"
+}

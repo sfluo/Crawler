@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$94.60",
+    "Name": [
+        "Student Workbook for Physics for Scientists and Engineers: A Strategic Approach with Modern Physics"
+    ],
+    "OfferPrice": "$74.87",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN3CJL5BMHLHD"
+                },
+                "Date": "on October 30, 2010",
+                "Helpfulness": 0.9375,
+                "StarRating": "1",
+                "Text": "If I could, I wouldn't buy this book. The reason it has so little value is that it doesn't have solutions for the problems anywhere. You could go through the workbook, but how would you know that you did the problems correctly?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38PPJK674ZBDH"
+                },
+                "Date": "on January 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "The questions in this were juvenile. Sometimes helpful, but not most of the time. Really did not like using this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MOJZHUMBTUPN"
+                },
+                "Date": "on September 23, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I needed this workbook for my college physics class and the seller shipped it very quickly and it arrived in about 2 days,and that was across country from Virginia to California. The workbook came as described which was near perfect condition, and also came very quickly, which saved my ass in my physics class. Highly recommended, would buy from again."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJJQ9URHNQJNT"
+                },
+                "Date": "on September 20, 2010",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": "I ordered this workbook in like new condition an I have not come across any writing in it so I am very pleased.  This workbook arrived well before the estimated date of delivery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWHVSH5X7WXEU"
+                },
+                "Date": "on October 17, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was an awesome deal and rather a lifesaver!  Great price, and as far as I can tell its in perfect condition."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/product-reviews/0321513576/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#588,267",
+    "Timestamp": "2015-05-24 13:21:54.944878",
+    "itemurl": "http://www.amazon.com/Student-Workbook-Physics-Scientists-Engineers/dp/0321513576"
+}

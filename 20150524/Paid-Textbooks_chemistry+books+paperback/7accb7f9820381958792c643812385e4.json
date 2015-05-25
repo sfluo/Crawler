@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$129.00",
+    "Name": [
+        "Physical Chemistry of Ionic Materials: Ions and Electrons in Solids"
+    ],
+    "OfferPrice": "$112.88",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14G31X2HKN98U"
+                },
+                "Date": "on November 9, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "As author's expression in this book, 'as simple as possible, as precise as necessary', it delivers concise but comprehesive aspects of ions and electrons in solids. It must be valuable for all materials scientist. In addtion, references in the end of the book are helpful for further studies."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physical-Chemistry-Ionic-Materials-Electrons/product-reviews/0470870761/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,355,935",
+    "Timestamp": "2015-05-24 15:22:44.867108",
+    "itemurl": "http://www.amazon.com/Physical-Chemistry-Ionic-Materials-Electrons/dp/0470870761"
+}

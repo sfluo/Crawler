@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$97.95",
+    "Name": [
+        "NMR Spectroscopy: Basic Principles, Concepts and Applications in Chemistry"
+    ],
+    "OfferPrice": "$89.37",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FVZKH9YNBWNS"
+                },
+                "Date": "on February 24, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Even though it's a good introduction to NMR spectroscopy, maybe some readers (as for me that I'm an undergraduate) can see a little bit difficult, and of course, some help to understand this topic may be required. Nevertheless, it's a great book for those who are searching for a reference text (from my point of view)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/NMR-Spectroscopy-Principles-Applications-Chemistry/product-reviews/3527330003/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#849,095",
+    "Timestamp": "2015-05-24 15:18:14.093658",
+    "itemurl": "http://www.amazon.com/NMR-Spectroscopy-Principles-Applications-Chemistry/dp/3527330003"
+}

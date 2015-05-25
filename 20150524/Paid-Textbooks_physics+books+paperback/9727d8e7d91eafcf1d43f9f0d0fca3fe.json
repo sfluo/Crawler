@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Solutions Manual: for Physics for Engineers and Scientists, Third Edition (Vol. 2)"
+    ],
+    "OfferPrice": "$30.73",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABLRU3FDK1X0U"
+                },
+                "Date": "on December 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VYDBUA45RBIL"
+                },
+                "Date": "on April 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This manual helps lay a conceptual foundation for the material covered in each chapter. I found it consistent with online Yahoo problems, and it helped me cover the material in a reasonable amount of time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14LRYCVWGYTTZ"
+                },
+                "Date": "on July 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Manual-Engineers-Scientists/product-reviews/0393929809/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#941,343",
+    "Timestamp": "2015-05-24 13:48:13.247313",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Manual-Engineers-Scientists/dp/0393929809"
+}

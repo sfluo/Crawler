@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$56.00",
+    "Name": [
+        "Theory Of Fundamental Processes (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$50.40",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SLLML7XWCLDN"
+                },
+                "Date": "on December 31, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 16, 1999",
+                "Helpfulness": 0.8125,
+                "StarRating": "5",
+                "Text": "As a Feynman fan and layperson with a reasonable understanding of his work I found this book lost me before I was halfway into the first chapter. It looks good coursework material and from what I can tell is packed with  amazing amounts of information. But without a strong fundamental grounding  in basic physics this book will remain on your bookshelf."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TP7YO9V2AT63"
+                },
+                "Date": "on June 25, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UH8ZHW93V0FW"
+                },
+                "Date": "on August 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is graduate/research level material - but Feynman explains like he was teaching undergrads!  This is one reason Feynman was a true genious!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Fundamental-Processes-Advanced-Classics/product-reviews/0201360772/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#688,680",
+    "Timestamp": "2015-05-24 13:27:59.371982",
+    "itemurl": "http://www.amazon.com/Theory-Fundamental-Processes-Advanced-Classics/dp/0201360772"
+}

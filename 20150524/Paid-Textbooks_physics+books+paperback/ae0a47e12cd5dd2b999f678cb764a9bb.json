@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Old Physics for New: a worldview alternative to Einstein's relativity theory"
+    ],
+    "OfferPrice": "$7.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YMQTDJNVDTV3"
+                },
+                "Date": "on October 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEOYD77WGHK12"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "After years of searching scientific papers, articles and books, I reluctantly started to believe that I was the first to discover that a major element of Einstein's Special Relativity could not be possible since it is inconsistent with experiment. What experiment? The GPS system. Special Relativity dictates that time dilation is a reciprocal effect (meaning that: a stationary clock runs slower from the perspective of the moving clock at the same time the moving clock is running slow from the perspective of the stationary clock).  A mind blowing concept but necessary for all of Einstein's relativity pieces to fit properly. In 2008 (along with more recent YouTube videos) I published my discovery that Ground and Satellite clocks (atomic clocks) could not properly sync and function in the way that they obviously do on a daily basis, if Einstein's necessary reciprocal effect were legitimate. But last year, I discovered that Phipps in fact beat me to this discovery! In the first edition of Old Physics for New (2006) he discusses this same obvious GPS fact that the rest of the physics community wasn't able to piece together (possibly because they are too busy concerning themselves with more exciting things such as: extra dimensions, super symmetric particles, time travel and other Disney science topics).  And for that reason alone he gets 5 stars!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F0Y989895P1X"
+                },
+                "Date": "on March 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Old-Physics-New-alternative-relativity/product-reviews/098649268X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,004,010",
+    "Timestamp": "2015-05-24 13:32:43.181765",
+    "itemurl": "http://www.amazon.com/Old-Physics-New-alternative-relativity/dp/098649268X"
+}

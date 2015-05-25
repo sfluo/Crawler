@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Physics for Game Developers: Science, math, and code for realistic effects"
+    ],
+    "OfferPrice": "$32.47",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QI0BVCBO4AU8"
+                },
+                "Date": "on February 11, 2014",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HGMA4Z8V1LI1"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMQCBKX7AMPPN"
+                },
+                "Date": "on April 28, 2014",
+                "Helpfulness": 0.625,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24YKD1V7A0E8D"
+                },
+                "Date": "on July 25, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "I have several physics game engine books. I was a bit confused until I got my hands on this book. I was able to implement most of the physics that I needed with what I learnt in this book. Simply Amazing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11XV2IOSH4BUU"
+                },
+                "Date": "on July 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Admittedly, I am not the brightest person on the earth (there is a reason I bought this book after all..) I wish I had this book years ago. I love it; all 12670 pages of it. Especially the part on Digital Physics whish is so important to game development today. I highly recommend this book to everyone, particularly game developers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DX4WK9Q3RYJZ"
+                },
+                "Date": "on December 21, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "Though this book was well written and is very dense full of information I was not able to make very much use of it.  I havent done any claculus since college many years ago and I was hoping this book would take me step by step on how to do physics for game development.  This book is for people who already have a good understanding of calculus and are already pretty strong in math.  I couldn't make it past the second chapter with the complicated stuff in this book.  I guess I need to refresh my calc skills before going back to this book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Game-Developers-Science-realistic/product-reviews/1449392512/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#533,082",
+    "Timestamp": "2015-05-24 13:00:07.423486",
+    "itemurl": "http://www.amazon.com/Physics-Game-Developers-Science-realistic/dp/1449392512"
+}

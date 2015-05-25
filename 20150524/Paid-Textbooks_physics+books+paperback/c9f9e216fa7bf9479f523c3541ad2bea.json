@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.90",
+    "Name": [
+        "Quantum Mind: The Edge Between Physics and Psychology"
+    ],
+    "OfferPrice": "$23.66",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13YW5N071MHSC"
+                },
+                "Date": "on December 23, 2012",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IHT58BLRDTCT"
+                },
+                "Date": "on March 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A03606252Y4C41D2AX3SL"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Challenging read but relevant to our time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WG08FJIQOWBK"
+                },
+                "Date": "on August 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "yet another amazing read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28OITJW9MB12K"
+                },
+                "Date": "on February 13, 2013",
+                "Helpfulness": 0.45454545454545453,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mind-Between-Physics-Psychology/product-reviews/1619710129/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#529,990",
+    "Timestamp": "2015-05-24 13:47:59.052996",
+    "itemurl": "http://www.amazon.com/Quantum-Mind-Between-Physics-Psychology/dp/1619710129"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "Solid-State Physics: An Introduction to Principles of Materials Science (Advanced Texts in Physics)"
+    ],
+    "OfferPrice": "$51.58",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARZ15W3YJA19Z"
+                },
+                "Date": "on December 17, 2010",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This text is very concise and made for the student or professional who want to get to the theory fast and keep the key concepts and derivations fresh in his mind. It may not be what some expect, like a Kittel type of book, full of pictures and conceptualizations. It is really meant for someone who has been through a properties oriented and somewhat encyclopedic book or course, and now wants to know the theory, derive and connect the dots and have a more analytical understanding of solid state problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JBD39IC40PJ5"
+                },
+                "Date": "on November 27, 2010",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "1",
+                "Text": "No clear explanation, no explicit logic, just hand-waving statements and experimenal data. If you don't wanna know how the physics ideas are reached, this book is fine. Or if you wanna develope the thoery of solid state matter yourself totally independently, this book would definitely not deprave your happiness of thinking. If you really really want this book, don't buy it--I can give mine to you for free. And I would be grateful to be provided a chance to get rid of it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Solid-State-Physics-Introduction-Principles-Materials/product-reviews/3540938036/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,051,794",
+    "Timestamp": "2015-05-24 15:40:32.120320",
+    "itemurl": "http://www.amazon.com/Solid-State-Physics-Introduction-Principles-Materials/dp/3540938036"
+}

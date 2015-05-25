@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Study Guide for Fundamentals of Physics"
+    ],
+    "OfferPrice": "$65.03",
+    "Reviews": {
+        "AverageStarRating": "2.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NA7IZIDT1UIS"
+                },
+                "Date": "on February 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "While it did cause me to say \"aha\" on a couple problems, and it's use does help me understand some concepts, it's not really worth the cost unless you find it pretty cheap. My teacher has a very thick accent, so I sit through her lectures pretty unaware of what she's discussing. The set-up of the study guide isn't very helpful at all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E3CP7VKHZT8Q"
+                },
+                "Date": "on March 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "The book is written in the from of a conversation between a professor and a student. It doesn't cover as much material as I hoped it would, and unfortunately for me some of the finer points I hoped were covered weren't even mentioned, but it gets 2 stars because it does a few questions and shows how to do them step by step."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWD9RULRE6HZP"
+                },
+                "Date": "on December 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a helpful study guide covering the topics in each chapter to help student prepare for the AP Exam.  I will be using it this year as an AP Physics teacher to help my students prepare for the exam in May."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6HZBRNL3NU9"
+                },
+                "Date": "on November 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is an excellent study guide, I could not have survived without it! Not only is it highly readable, it's succinct."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B66QSYDO018W"
+                },
+                "Date": "on June 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "this book is borderline pointless. it contains about 4 randomly selected solutions for each chapter. leaving about 200 problems which i did not understand. waste of money."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Study-Guide-Fundamentals-Physics/product-reviews/0470551828/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#217,334",
+    "Timestamp": "2015-05-24 13:16:42.567899",
+    "itemurl": "http://www.amazon.com/Student-Study-Guide-Fundamentals-Physics/dp/0470551828"
+}

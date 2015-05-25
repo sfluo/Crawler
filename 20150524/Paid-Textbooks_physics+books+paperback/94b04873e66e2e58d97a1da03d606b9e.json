@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$10.95",
+    "Name": [
+        "Electrodynamics: Volume 1 of Pauli Lectures on Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$10.17",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on February 25, 2001",
+                "Helpfulness": 0.8857142857142857,
+                "StarRating": "5",
+                "Text": "Pauli, who was rated by Born to be as good as Einstein, taught theoretical physics for many years at Technische Hochschule at Zurich. This book is labored on notes taken by students from his lectures on Electrodynamics. This is the book I consult when I am not happy with the explanations in the usual books. If it happens that Pauli touches the subject, I always get what I looked for: conceptual clarity and very good algorithms. Yes, because Pauli, one of the most profound physicists ever, believed that a physicist must calculate. He even \"practiced\" in his spare time! I especially like, in this book, the derivation of the laws for RLC circuits, rigorously in the field theory way, and absolutely clear and elegant. This is not an introduction to electricity. It is a rather sophisticated introduction to that part of theoretical physics called electrodynamics. In this role, it is certainly among the very best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7WD1TG3CPPXS"
+                },
+                "Date": "on October 18, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FTWZRVCBAGBU"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a short and light book that addresses the main subject clearly and concisely and, at various points, brings some different foci than those often dealt with by reference books. It worth have all six books of the serie. In addition, the book arrived within de estimated delivery time and in excellent condition. I recommend!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electrodynamics-Pauli-Lectures-Physics-Dover/product-reviews/0486414574/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#388,731",
+    "Timestamp": "2015-05-24 12:42:06.252423",
+    "itemurl": "http://www.amazon.com/Electrodynamics-Pauli-Lectures-Physics-Dover/dp/0486414574"
+}

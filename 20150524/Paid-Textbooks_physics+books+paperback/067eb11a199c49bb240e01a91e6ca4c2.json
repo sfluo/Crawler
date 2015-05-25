@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "States of Matter (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$21.84",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P0EEOZBXUEYX"
+                },
+                "Date": "on April 26, 2011",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TSV2ZNPLNE8U"
+                },
+                "Date": "on April 20, 1998",
+                "Helpfulness": 0.7,
+                "StarRating": "4",
+                "Text": "This book is a very good intro, discussing topics which are rarely found elsewhere. A must have for Graduate/PhD in Solid State Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z88UY3MY0NT8"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Awesome book!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/States-Matter-Dover-Books-Physics/product-reviews/048664927X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#844,086",
+    "Timestamp": "2015-05-24 12:28:39.886366",
+    "itemurl": "http://www.amazon.com/States-Matter-Dover-Books-Physics/dp/048664927X"
+}

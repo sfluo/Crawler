@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecular Collision Theory (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$12.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K00PHVDVUMWN"
+                },
+                "Date": "on April 25, 2011",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "I find that the first three chapters of this book are the best.  They present the theory for low energy quantum scattering.  The remaining chapters get very complicated very fast.  I have learned to go elsewhare for this latter material."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Collision-Theory-Dover-Chemistry/product-reviews/0486694372/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,405,359",
+    "Timestamp": "2015-05-24 15:13:40.164899",
+    "itemurl": "http://www.amazon.com/Molecular-Collision-Theory-Dover-Chemistry/dp/0486694372"
+}

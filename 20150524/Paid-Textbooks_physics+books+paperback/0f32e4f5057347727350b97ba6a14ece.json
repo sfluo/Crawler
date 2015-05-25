@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "An Elementary Treatise on Electricity: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U9ZOT757BRVS"
+                },
+                "Date": "on September 24, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Maxwell used to teach working class people physics (as part of his socialist convictions) at the University of London among other places and these elementary books are a product of those lectures. It must have been surreal to be part of those lectures and learn from the grand master of physics. It is such a great pity that he died at 47. Had he lived, he would easily have crafted The Special Theory of Relativity as well."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Treatise-Electricity-Second-Physics/product-reviews/0486438848/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,060,089",
+    "Timestamp": "2015-05-24 13:01:10.153713",
+    "itemurl": "http://www.amazon.com/Elementary-Treatise-Electricity-Second-Physics/dp/0486438848"
+}

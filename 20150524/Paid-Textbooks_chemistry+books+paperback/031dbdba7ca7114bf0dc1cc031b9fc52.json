@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.99",
+    "Name": [
+        "Essential Atlas of Physics and Chemistry"
+    ],
+    "OfferPrice": "$11.72",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3WEBBJ5RG9M"
+                },
+                "Date": "on March 16, 2009",
+                "Helpfulness": 0.375,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-Physics-Chemistry-Parramon-Studios/product-reviews/0764127136/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,006,452",
+    "Timestamp": "2015-05-24 15:20:28.698900",
+    "itemurl": "http://www.amazon.com/Essential-Physics-Chemistry-Parramon-Studios/dp/0764127136"
+}

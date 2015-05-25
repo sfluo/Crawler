@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Classical Field Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$12.30",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PAOW9QJKA405"
+                },
+                "Date": "on October 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a well written book on Classical Field Theory. Not for undergraduates, because a good knowledge on tensor calculus is required for being read without any difficulties. The subjects are given compactly, with the minimum and necessary formulations. Along the whole book the author gives the adequate physical view on the subjects, which is always very much appreciated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A787NHYNTQHHE"
+                },
+                "Date": "on October 6, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Extremely well written and formulated treatment of classical field theory. In particular his field theoretic treatment of fluids is very enlightening."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Field-Theory-Dover-Physics/product-reviews/0486462609/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#362,992",
+    "Timestamp": "2015-05-24 12:35:22.701027",
+    "itemurl": "http://www.amazon.com/Classical-Field-Theory-Dover-Physics/dp/0486462609"
+}

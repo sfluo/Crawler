@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Lie Algebras and Applications (Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$47.49",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37BEGMSFR238H"
+                },
+                "Date": "on December 10, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Algebras-Applications-Lecture-Notes-Physics/product-reviews/3662444933/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#644,012",
+    "Timestamp": "2015-05-24 13:37:59.421314",
+    "itemurl": "http://www.amazon.com/Algebras-Applications-Lecture-Notes-Physics/dp/3662444933"
+}

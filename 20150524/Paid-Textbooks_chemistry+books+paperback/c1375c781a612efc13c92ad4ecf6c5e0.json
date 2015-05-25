@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$50.00",
+    "Name": [
+        "Powder Metallurgy Technology"
+    ],
+    "OfferPrice": "$40.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BDLWV3SLRVE"
+                },
+                "Date": "on January 11, 2007",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book is jammed packed full of information. The only drawback is it throws you into the middle of the subject, so at the very least before purchasing this book you should be at least an intermeddiate level in your understanding of metallurgy/metal technology. However, that being said, it is a very informative book for those interested in powder metallurgy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Powder-Metallurgy-Technology-G-Upadhyaya/product-reviews/1898326401/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,190,843",
+    "Timestamp": "2015-05-24 15:40:08.991278",
+    "itemurl": "http://www.amazon.com/Powder-Metallurgy-Technology-G-Upadhyaya/dp/1898326401"
+}

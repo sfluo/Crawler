@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Physics of Scuba Diving"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q7R4XPCSV82S"
+                },
+                "Date": "on July 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LSYLHR8K9J3D"
+                },
+                "Date": "on September 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book provides what Agencies' books generally skip. That's the Maths and Physics behind the technique. I really appreciate such formulation. The whole subject matter is enriched with interesting exercises."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scuba-Diving-Marlow-Anderson/product-reviews/1907284788/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#785,242",
+    "Timestamp": "2015-05-24 13:49:47.009010",
+    "itemurl": "http://www.amazon.com/Physics-Scuba-Diving-Marlow-Anderson/dp/1907284788"
+}

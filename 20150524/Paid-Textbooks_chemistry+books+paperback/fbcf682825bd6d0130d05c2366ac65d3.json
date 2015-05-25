@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.00",
+    "Name": [
+        "Surfaces (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$29.75",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 25, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "i am an organic chemist considering expanding my research to surface chemistry.  as such, i was looking for a straightforward introduction to the field.  this book accomplishes that admirably."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Surfaces-Oxford-Chemistry-Primers-Attard/product-reviews/0198556861/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,032,295",
+    "Timestamp": "2015-05-24 15:24:02.482730",
+    "itemurl": "http://www.amazon.com/Surfaces-Oxford-Chemistry-Primers-Attard/dp/0198556861"
+}

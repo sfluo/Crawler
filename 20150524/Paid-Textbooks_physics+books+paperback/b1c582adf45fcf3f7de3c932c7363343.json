@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics Lab Experiments, Custom Publication"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11WL6BOQTOWT8"
+                },
+                "Date": "on February 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Perfect condition!! I was kinda scared about the lab book not being what i was expecting but exactly the same book thats assigned for my phy class. Thank u"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AL84F8QKNM5PO"
+                },
+                "Date": "on March 31, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Thank you..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV5BPCVLL9L5Y"
+                },
+                "Date": "on June 14, 2009",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "it was what i was looking for. no writtings in the book and all the pages were there. it was like a brand new book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Lab-Experiments-Custom-Publication/product-reviews/0618587675/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#712,501",
+    "Timestamp": "2015-05-24 13:20:14.093295",
+    "itemurl": "http://www.amazon.com/Physics-Lab-Experiments-Custom-Publication/dp/0618587675"
+}

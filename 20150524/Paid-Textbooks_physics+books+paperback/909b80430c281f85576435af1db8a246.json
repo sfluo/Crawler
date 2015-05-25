@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$73.00",
+    "Name": [
+        "Nuclear and Particle Physics: An Introduction"
+    ],
+    "OfferPrice": "$65.10",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZNUY66HCBNL6"
+                },
+                "Date": "on February 19, 2013",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": "This text was great for individual studies since the full answer key/partial solutions are in the back.  The text starts a little heavy and detailed, but has great depth and current information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E595EBS692WI"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "The e-book version is absolutely terrible.  It's riddled with typos, inconsistencies, factual errors, and incorrect equations.  Completely useless for my class.  DO NOT BUY THIS E-BOOK."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KWC146GMFSDE"
+                },
+                "Date": "on August 31, 2010",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": "I've used this book in class and I can say that of course anyone reading it should have a basic background knowledge of the source material (ie it is not a ----for Dummies book).  That said it is not an overcrowded subject when it comes to books that could be used and though some of the examples used seem a little dated already it is still quite decent in regards to the overall subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21YQVJ2RP82B5"
+                },
+                "Date": "on October 9, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29Y28TL4S3Y2B"
+                },
+                "Date": "on October 22, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "As a student of astronomy I find this a comprehensive account of required subject matter. It is well set out, includes many intriguing references for follow up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25JDKQH7LFC7G"
+                },
+                "Date": "on September 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "arrived early, right edition, everything as promised, good service"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Particle-Physics-Brian-Martin/product-reviews/0470742755/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#806,286",
+    "Timestamp": "2015-05-24 13:37:23.207499",
+    "itemurl": "http://www.amazon.com/Nuclear-Particle-Physics-Brian-Martin/dp/0470742755"
+}

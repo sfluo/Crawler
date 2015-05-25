@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$94.99",
+    "Name": [
+        "Mechanical Response of Polymers: An Introduction"
+    ],
+    "OfferPrice": "$82.09",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24BEM4XJDNT8S"
+                },
+                "Date": "on May 24, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is perhaps the best text available for the linear theory of viscoelastic material behavior.  The presentation is straightforward and quite thorough.  Primary focus is on the modeling of time or frequency dependent responses to arbitrary load and/or displacement histories.  Very useful for improving the fidelity of computer simulations of dynamic systems that incorporate elastomeric isolators (e.g. fea or multi-body system dynamics)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mechanical-Response-Polymers-Alan-Wineman/product-reviews/0521644097/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,759,106",
+    "Timestamp": "2015-05-24 15:42:50.645472",
+    "itemurl": "http://www.amazon.com/Mechanical-Response-Polymers-Alan-Wineman/dp/0521644097"
+}

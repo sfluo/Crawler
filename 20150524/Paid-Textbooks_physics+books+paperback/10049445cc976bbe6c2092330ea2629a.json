@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.99",
+    "Name": [
+        "Exact Space-Times in Einstein's General Relativity (Cambridge Monographs on Mathematical Physics)"
+    ],
+    "OfferPrice": "$81.21",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A340ASZXFWVEHQ"
+                },
+                "Date": "on January 12, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I do research on the field and I found this book precious. It is full of valuable information, easy accessible. It lists for most Einstein's space-times their basic properties. You don't need to reed from beginning to the end. I just read the chapter I need in that moment."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Space-Times-Einsteins-Relativity-Monographs-Mathematical/product-reviews/1107406188/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,441,817",
+    "Timestamp": "2015-05-24 13:38:18.298664",
+    "itemurl": "http://www.amazon.com/Space-Times-Einsteins-Relativity-Monographs-Mathematical/dp/1107406188"
+}

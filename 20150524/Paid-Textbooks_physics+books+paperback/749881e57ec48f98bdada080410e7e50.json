@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Functions of Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.01",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OWPGOU32GE6R"
+                },
+                "Date": "on April 24, 2009",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZEDLPI7KAPSG"
+                },
+                "Date": "on October 8, 2000",
+                "Helpfulness": 0.7368421052631579,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A367CBUN4K190J"
+                },
+                "Date": "on August 23, 2001",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Functions-Mathematical-Physics-Dover-Books/product-reviews/0486652149/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#907,276",
+    "Timestamp": "2015-05-24 12:42:02.557347",
+    "itemurl": "http://www.amazon.com/Functions-Mathematical-Physics-Dover-Books/dp/0486652149"
+}

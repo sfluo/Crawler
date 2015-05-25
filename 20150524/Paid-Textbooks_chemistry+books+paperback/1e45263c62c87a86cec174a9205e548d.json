@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Poison in the Well: Radioactive Waste in the Oceans at the Dawn of the Nuclear Age"
+    ],
+    "OfferPrice": "$23.70",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAPA4KQWA7UXN"
+                },
+                "Date": "on June 12, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Unequivocally, the most depressing book on Amazon. The most damning critique of industrialization. How anyone could have been stupid enough to dump tons of nuclear waste into the Baltic and waterways emptying into the Atlantic has got to be the terminal rhetorical question we will never live to answer.  I feel sick simply looking at this heavily documented tome. Yes. This mess really did happen. Who can help us?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LR4D3XTNU510"
+                },
+                "Date": "on July 18, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Having grown up in the span of time covered in this book,(and not paying much attention), I found myself often aghast at the waste disposal practices and the decisions made by the corporate \"they\" who determine our fate.  Green devotees will be appalled to learn the global history of cavalier dumping of toxic waste into our waterways.  This is not a sensational expose, but rather a well researched, extremely well-written illumination of what was going on with regard to radioactive waste in the beginning years of our modern nuclear age.  It should be required reading for all environmental studies."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Poison-Well-Radioactive-Oceans-Nuclear/product-reviews/0813546745/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,729,712",
+    "Timestamp": "2015-05-24 15:41:11.743762",
+    "itemurl": "http://www.amazon.com/Poison-Well-Radioactive-Oceans-Nuclear/dp/0813546745"
+}

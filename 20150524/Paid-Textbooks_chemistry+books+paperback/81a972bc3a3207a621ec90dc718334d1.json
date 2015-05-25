@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Kinetic Theory of Gases (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$18.70",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BX22OFAMN11L"
+                },
+                "Date": "on December 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Elementary but relatively complete, this book treats theory beyond that mentioned in other books such as those by Jeans, Loeb, and Present.  Kauzmann's treatment of real gases is particularly useful because there are no perfect gases.  He refers to a volume II in this book, which I would also like to acquire, but if it was ever published I don't know when or under what title.  Perhaps a kind reader could inform me of this information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37SW0Z605RZKZ"
+                },
+                "Date": "on July 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Kinetic-Theory-Gases-Dover-Chemistry/product-reviews/0486488330/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#317,370",
+    "Timestamp": "2015-05-24 15:13:58.494017",
+    "itemurl": "http://www.amazon.com/Kinetic-Theory-Gases-Dover-Chemistry/dp/0486488330"
+}

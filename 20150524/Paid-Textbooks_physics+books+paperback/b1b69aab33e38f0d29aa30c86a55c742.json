@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Fast Car Physics"
+    ],
+    "OfferPrice": "$20.68",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1493ZQTQ2ET"
+                },
+                "Date": "on July 15, 2011",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP9DZ0D3LTWRM"
+                },
+                "Date": "on March 17, 2011",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUREJ50XIHEER"
+                },
+                "Date": "on May 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JQUVUKHTVRML"
+                },
+                "Date": "on May 28, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVTLM15F9PF9M"
+                },
+                "Date": "on August 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I loved how it was about racing and how to relate a lot of what I thought useless things in high school in to reality. some of the subjects were way over my head but still made me think of things in a whole new way"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34AI5AERM39Q1"
+                },
+                "Date": "on March 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am an electrical engineer and now appreciate the complexity of car functions. The book is very good in its explanation of theory and practice"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5IFE326TUO2H"
+                },
+                "Date": "on April 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book.  Author gets the physics right and provides insight."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19TIVGZ6ID6SI"
+                },
+                "Date": "on May 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Item was not new as advertised.  Has writing in it..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fast-Car-Physics-Chuck-Edmondson/product-reviews/0801898234/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#450,320",
+    "Timestamp": "2015-05-24 13:18:21.567353",
+    "itemurl": "http://www.amazon.com/Fast-Car-Physics-Chuck-Edmondson/dp/0801898234"
+}

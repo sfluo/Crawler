@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$125.00",
+    "Name": [
+        "The Weak Hydrogen Bond: In Structural Chemistry and Biology (International Union of Crystallography Monographs on Crystallography)"
+    ],
+    "OfferPrice": "$108.93",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on July 25, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on December 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The hydrogen bond (HB) is one of the most important non-covalent interactions that occur both within and among molecules. Hence, chemists have devoted lot of efforts to study and classify them. It turns out that molecular crystals are important sources of structural information about HBs and other interactions that are important for biology and supramolecular chemistry. Obviously, with a the constant growth of crystal structures being solved with the aid of X-ray and neutron crystallography, it becomes possible to investigate many different type of interactions, especially HB interactions, using statistical tools. The book of Desiraju and Steiner provides a nice overview of the HB interactions that are weaker than the conventional HBs (X-H:::Y, where X,Y are electronegative elements such as O or N), namely C-H:::X (X=O,N) and other interactions that also involve pi-electrons. The information contained inside the book is not limited to crystal structures but thermodynamic and computational data along with historical information is given throughout its 500 pages. At the end, a list of references to the original literature is provided so as the interested reader can deepen his or her knowledge by consulting the original sources. Ultimately, this books shows what complexity means in the field of molecular chemistry. For a general overview on HBs, the reader can consult Jeffrey's book An Introduction to Hydrogen Bonding (published in 1997)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQU5H71N61XJW"
+                },
+                "Date": "on May 14, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Weak-Hydrogen-Bond-International-Crystallography/product-reviews/0198509707/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#3,132,020",
+    "Timestamp": "2015-05-24 15:21:01.229460",
+    "itemurl": "http://www.amazon.com/Weak-Hydrogen-Bond-International-Crystallography/dp/0198509707"
+}

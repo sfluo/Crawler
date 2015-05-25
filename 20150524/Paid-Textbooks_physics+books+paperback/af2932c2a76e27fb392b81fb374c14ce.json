@@ -1,0 +1,153 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "A Modern Approach to Quantum Mechanics"
+    ],
+    "OfferPrice": "$32.95",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 2, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21H5Q1N6BH4NU"
+                },
+                "Date": "on January 4, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 16, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 14, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Unlike other textbooks which cover very abstract notions from the first chapter on, Townsend does a very good job of explaining simple concepts that will prove to be invaluable towards sharpening one's physical intuition. Townsend does not pretend that it is profound and often cites other references that are more challenging to read so for the physics enthusiast, they appetite is satisfied nonetheless. In summary, his book is an excellent introduction to very fundamental aspects of wave mechanics using both bras and kets plus operator notation. A must-read if you want to ground your understanding of quantum mechanics in very accessible and tangible physical arguments, especially if you have a bad memory like me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 14, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Unlike other textbooks which cover very abstract notions from the first chapter on, Townsend does a very good job of explaining simple concepts that will prove to be invaluable towards sharpening one's physical intuition. Townsend does not pretend that it is profound and often cites other references that are more challenging to read so for the physics enthusiast, they appetite is satisfied nonetheless. In summary, his book is an excellent introduction to very fundamental aspects of wave mechanics using both bras and kets plus operator notation. A must-read if you want to ground your understanding of quantum mechanics in very accessible and tangible physical arguments, especially if you have a bad memory like me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARG6I29YOJ7U6"
+                },
+                "Date": "on February 7, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The author follows the unconventional approach first used in Volume III of Feynmann's \"introductory\" lectures, starting immediately with purely quantum phenomena (like spin) and reaching more familiar topics (wave mechanics, the harmonic oscillator, the hydrogen atom, ...) much later.  It's definitely not the first book or even the second that one should read on the subject!  But after struggling with Feynmann, Dirac, Weinberg et al., I found Townsend a kinder and gentler version that left me appreciating for the first time the fundamental role of symmetry transformations.  In that sense the book really did introduce me to \"the modern approach.\"  The final chapters -- time-independent perturbations, identical particles, scattering, photons and atoms -- make the connection with atomic and molecular physics and then prepare the ground for future study of QED and other field theories.  Altogether marvelous in my view, though I can understand why readers seem to either love it or hate it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AOO8YTBQ3AO2"
+                },
+                "Date": "on August 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G5VJ00HV3V5G"
+                },
+                "Date": "on August 1, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30R7AD4DFD23M"
+                },
+                "Date": "on July 6, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19XJPCTL3HYRD"
+                },
+                "Date": "on February 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Aside from giving detailed description of the book which other reviewers have already done, I want to express my respect for this book by saying: Even though I worked through almost all parts of the book and solved a greater portion of the problems with a library copy, I want to buy and keep a copy now--if it's appreciably cheaper than the current price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22Y1FMKOBCOTC"
+                },
+                "Date": "on November 25, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is, hands down, the best quantum book for a Junior-level or higher student.  I used this book in college and, six years later, still regularly use it as a reference.  It is compact, incisive, and covers almost everything you could want.  Being an experimental physicist, the one thing that I would've liked an additional chapter on is the density matrix formalism, which I feel isn't covered well anywhere and is quite important in practice.  But for an introduction to everything from Dirac notation to quantum optics, Townsend is the best book there is."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25EN7HA91X5KP"
+                },
+                "Date": "on December 14, 2006",
+                "Helpfulness": 0.52,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 8, 2001",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "2",
+                "Text": "Townsend says he was \"inspired\" by Sakurai's QM book \"Modern Quantum Mechanics\" in writing this text.  Inspired???  It's more like he copied 85% of Sakurai's book including exercises (he barely changed the title too).  Since Sakurai's book is good that makes this book not bad but I recommend you buy Sakurai and get it straight from the horse's mouth instead of from this plagorized text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 24, 2002",
+                "Helpfulness": 0.21428571428571427,
+                "StarRating": "3",
+                "Text": "Townsend's book gives good insight into Introductory QM, but lacks a lot of the rigor that other books at this level provide.  Basically, this book is a gentler version of Sakurai's \"Modern QM\", and it is somewhat annoying that the Townsend implies that Stern-Gerlach experiments are the be-all, end-all way to understand quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R6NDYOAUBGJO"
+                },
+                "Date": "on July 21, 2005",
+                "Helpfulness": 0.07272727272727272,
+                "StarRating": "1",
+                "Text": "The book is plain rubbish! Starts out with Stern Gerlach experiments and spin? Please ...."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Approach-Quantum-Mechanics/product-reviews/8130913143/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "15"
+    },
+    "Salesrank": "#433,244",
+    "Timestamp": "2015-05-24 13:49:11.733922",
+    "itemurl": "http://www.amazon.com/Modern-Approach-Quantum-Mechanics/dp/8130913143"
+}

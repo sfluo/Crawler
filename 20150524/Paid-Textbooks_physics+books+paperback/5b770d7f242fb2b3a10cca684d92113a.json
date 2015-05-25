@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Introductory Statistical Mechanics for Physicists (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.66",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on June 11, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introductory-Statistical-Mechanics-Physicists-Physics/product-reviews/0486453235/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,646,988",
+    "Timestamp": "2015-05-24 13:18:04.309893",
+    "itemurl": "http://www.amazon.com/Introductory-Statistical-Mechanics-Physicists-Physics/dp/0486453235"
+}

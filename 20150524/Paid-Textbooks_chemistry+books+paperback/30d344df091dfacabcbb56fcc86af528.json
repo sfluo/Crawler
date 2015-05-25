@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Liquid Crystals"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOVKOGMII04SP"
+                },
+                "Date": "on June 28, 2000",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A concise, entry level book for laymen, Collings covers the fundamentals of liquid crystals such as  phase diagrams, defects, applications, textures, etc.  The absence of derivations is either a plus or minus  depending on your background.  He gives the reader all the information  needed to start from ground zero."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31ROYG5BPLA3J"
+                },
+                "Date": "on March 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Though this is a textbook, it reads like a popular science book. Concepts are very well explained, and I found it a great read even though I didn't have any real reason to read this book (academic or professional). A great introductory book on liquid crystals."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IM1BS1XOP0ZX"
+                },
+                "Date": "on October 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "New, quick delievery. It was raining but the item is clean and dry. A little bit drawing but overall it's is great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VEBY5TZ56G7O"
+                },
+                "Date": "on May 18, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Liquid-Crystals-Peter-J-Collings/product-reviews/0691024294/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,717,651",
+    "Timestamp": "2015-05-24 15:29:24.566764",
+    "itemurl": "http://www.amazon.com/Liquid-Crystals-Peter-J-Collings/dp/0691024294"
+}

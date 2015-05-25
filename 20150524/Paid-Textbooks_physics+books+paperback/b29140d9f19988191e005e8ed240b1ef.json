@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Optical Resonance and Two-Level Atoms (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.28",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARUWTTW6SIDQK"
+                },
+                "Date": "on July 24, 2000",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Optical-Resonance-Two-Level-Atoms-Physics/product-reviews/0486655334/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#491,196",
+    "Timestamp": "2015-05-24 12:39:03.236544",
+    "itemurl": "http://www.amazon.com/Optical-Resonance-Two-Level-Atoms-Physics/dp/0486655334"
+}

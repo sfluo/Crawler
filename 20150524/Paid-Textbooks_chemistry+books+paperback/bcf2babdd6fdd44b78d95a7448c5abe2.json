@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$38.25",
+    "Name": [
+        "Chemical Bonds"
+    ],
+    "OfferPrice": "$32.30",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BEKX075LTS87"
+                },
+                "Date": "on March 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SU3S67Y5RR0W"
+                },
+                "Date": "on October 29, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great supplementary book for an introductory-level college chemistry course. It explains major concepts and theories in full detail, but refrains from the intense mathematical derivations of some functions that aren't required for a general chemistry course. Gray uses a common-sense approach in tackling complex functions, visually showing their physical counterparts (such as orbitals in the case of the Schrodinger Equation) rather than relying solely on equations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on May 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK2P9DR9GKVJN"
+                },
+                "Date": "on June 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Liked the  book! It is written by Professor Gray, emeritus Professor at Caltech. It is a brief book including some details about most of the chemical bonds. Nice material to learn(Gen Chem)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32CV5K22780QN"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "this was in great condition.  I think I bought it new????"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A4FNEL8W0LZI"
+                },
+                "Date": "on March 4, 2002",
+                "Helpfulness": 0.15,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemical-Bonds-Harry-B-Gray/product-reviews/0935702350/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#933,252",
+    "Timestamp": "2015-05-24 15:38:44.707513",
+    "itemurl": "http://www.amazon.com/Chemical-Bonds-Harry-B-Gray/dp/0935702350"
+}

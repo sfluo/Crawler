@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$185.00",
+    "Name": [
+        "Advanced Thermodynamics for Engineers"
+    ],
+    "OfferPrice": "$163.33",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A305ZOOTNDSVPM"
+                },
+                "Date": "on January 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "My opinion of this book is fairly positive.  There are quite a few worked examples, mostly related to combustion problems.  I worked through all of them and found that I benefited from the exercises.  The examples contain more information than I've seen in most thermodynamics books.  Again, there is a big emphasis on combustion, but within that orientation the discussion is well written."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OIPEJ73Z1YQU"
+                },
+                "Date": "on November 15, 2012",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book covers some advanced thermodynamic topics though the author chooses different variables than are used in most undergraduate text books, there aren't property tables to reference, and the examples are poor representation of how one would accurately solve a problem."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Advanced-Thermodynamics-Engineers-Winterbone-FIMechE/product-reviews/034067699X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,938,854",
+    "Timestamp": "2015-05-24 15:48:25.076681",
+    "itemurl": "http://www.amazon.com/Advanced-Thermodynamics-Engineers-Winterbone-FIMechE/dp/034067699X"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "Fundamental Formulas of Physics, Vol. 2"
+    ],
+    "OfferPrice": "$13.33",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 14, 1999",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "A great resource for any hard-core science cirriculum.  This book may not be a page-turner for some; however, it does provide invaluable information and is an easy to understand compliment to most physics classes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U88T3791C2D8"
+                },
+                "Date": "on May 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought this as a reference book and it looks real good for that.  What you don't (in my very often) you lose.  This kind of book helps when things are forgotten."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamental-Formulas-Physics-Vol-2/product-reviews/0486605965/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,246,860",
+    "Timestamp": "2015-05-24 12:45:45.183341",
+    "itemurl": "http://www.amazon.com/Fundamental-Formulas-Physics-Vol-2/dp/0486605965"
+}

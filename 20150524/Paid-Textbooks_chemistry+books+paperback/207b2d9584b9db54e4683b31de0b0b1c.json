@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$122.00",
+    "Name": [
+        "High Voltage Engineering Fundamentals, Second Edition"
+    ],
+    "OfferPrice": "$94.74",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MJMYLRTZ76ZX"
+                },
+                "Date": "on May 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6CQ8493MRNG3"
+                },
+                "Date": "on August 6, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book is invaluable not only to a professional engineer, but also if you are an amateur, who builds and runs high voltage generation devices, such as Van de Graaff generators and/or Marx generators. One of the valuable things, which is contained in this book, is the description of high voltage measurement (sure, if you want to generate high voltages, you have to have some means of measuring them !). The book contains a compilation of tables, which, given the gap size at which the discharge occurs between the two spherical electrodes of equal diameter, provides you with the estimate of the voltage at the moment of discharge. The tables contain the sphere sizes ranging from 6.25 cm to 2 m, the gap sizes from 5 mm to 2 m and give you the resulting breakdown voltages roughly from 17 kV to 2.6 MV. Having these tables, it is rather easy to estimate, for instance, the maximal output voltage of your Van de Graaff generator. Those, who want to build a Marx generator, will find a valuable discussion on the theory of operation of such generators, also dealing with some common misconceptions regarding their operation. In addition to this very practical information, for those, who want to understand the mathematics of calculation, for example, of the electrical field intensity between the electrodes of various shapes, an extensive mathematical treatment is given there as well. Also, there are the descriptions of the true commercial scale \"monster\" high voltage sources, and how they operate, which is very interesting. A nice addition is a discussion of the theory of lightning, lightning dangers and lightning protection. In short, there is a lot of  high voltage :-) \"bang\" for the buck!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GLXMB5CKS2ZK"
+                },
+                "Date": "on March 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADKXMN7HBMLVZ"
+                },
+                "Date": "on May 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is probably the best publication on high voltage you can buy today! Great source of information for HV projects."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FQR1G5RN55DD"
+                },
+                "Date": "on August 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31L0VLZT7MS3A"
+                },
+                "Date": "on April 13, 2001",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "5",
+                "Text": "Good Book on principles & practices of High Voltage Engineering."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/High-Voltage-Engineering-Fundamentals-Second/product-reviews/0750636343/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#982,636",
+    "Timestamp": "2015-05-24 15:35:05.189319",
+    "itemurl": "http://www.amazon.com/High-Voltage-Engineering-Fundamentals-Second/dp/0750636343"
+}

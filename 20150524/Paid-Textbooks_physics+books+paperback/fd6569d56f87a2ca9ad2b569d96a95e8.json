@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "University Physics with Modern Physics: Student Solutions Manual, Volume 1, 11th Edition"
+    ],
+    "OfferPrice": "$11.42",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A630T24R6R02H"
+                },
+                "Date": "on February 19, 2006",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "3",
+                "Text": "I had trouble solving the problems in the text that accompanys this book. I bought this in hopes that it would help me figure out where I went wrong in the solutions of the problems of the book and was disapointed in that it lists very few solutions. I was expecting it to be like my Calculus solution manual which lists all of the odd problems. I do not like that it lists very few problems, but the ones it actually does list helps me understand the material better, they were very thorough and easy to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VBXQKRM7A4JR"
+                },
+                "Date": "on May 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6AQJKPRW1P"
+                },
+                "Date": "on September 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "enjoyed this book & the service"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/University-Physics-Modern-Student-Solutions/product-reviews/0805387773/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#276,076",
+    "Timestamp": "2015-05-24 13:07:52.808017",
+    "itemurl": "http://www.amazon.com/University-Physics-Modern-Student-Solutions/dp/0805387773"
+}

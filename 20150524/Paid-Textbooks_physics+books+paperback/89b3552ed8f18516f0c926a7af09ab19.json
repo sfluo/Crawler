@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Laser Light Scattering: Basic Principles and Practice. Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.96",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A40V8MGX0H1I"
+                },
+                "Date": "on September 8, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "The title/author is listed wrong. This is not the ebook of the work by Benjamin Chu. The image represents what is the real book title/author. I was very disappointed."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Laser-Light-Scattering-Principles-Practice/product-reviews/0486457982/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,974,048",
+    "Timestamp": "2015-05-24 13:30:07.121334",
+    "itemurl": "http://www.amazon.com/Laser-Light-Scattering-Principles-Practice/dp/0486457982"
+}

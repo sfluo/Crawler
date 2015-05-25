@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.95",
+    "Name": [
+        "Miracle of Petrochemicals: Olefins Industry: An In-Depth Look at Steam-Crackers"
+    ],
+    "OfferPrice": "$89.92",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KEYH79KZXL1Y"
+                },
+                "Date": "on March 24, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This book contains a great deal of summary material that can be found for free on the internet. The only area where it would prove useful is in the description of the steam cracking process, which is limited to a single contractor: Linde. There is no discussion or examination of tradeoffs between different steam cracking licensors, and the section on Linde technology reads like a marketing pamphlet. Save your money and avoid this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PC3GMYKH8I9F"
+                },
+                "Date": "on March 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Miracle-Petrochemicals-Industry--Depth-Steam-Crackers/product-reviews/1599429152/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,015,664",
+    "Timestamp": "2015-05-24 15:48:06.402212",
+    "itemurl": "http://www.amazon.com/Miracle-Petrochemicals-Industry--Depth-Steam-Crackers/dp/1599429152"
+}

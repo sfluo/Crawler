@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Green's Functions and Condensed Matter (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.31",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on December 8, 2012",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A108HV6T3PQVEC"
+                },
+                "Date": "on December 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am thrilled to see this book being re-printed. This is a graduate level textbook suitable for students with a background in undergraduate QM, solids, stat mech. What makes this book different from say, AGD or Fetter/Walecka (which are both fine texts), is that towards the later part of the book there are more actual applications. The superconductivity chapter is particularly good and I like the metal-transport one as well. Since most people who are going to read this intend on doing research, you might want to pair it with another modern book since it does not include path integrals. I have a combination of this, bruus flensberg, negele/orland or atland/simons, and AGD floating around the office at most times."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Greens-Functions-Condensed-Matter-Physics/product-reviews/0486499847/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#866,727",
+    "Timestamp": "2015-05-24 12:42:09.675726",
+    "itemurl": "http://www.amazon.com/Greens-Functions-Condensed-Matter-Physics/dp/0486499847"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$92.00",
+    "Name": [
+        "Physics of Ferromagnetism (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$87.02",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PELVS1OKJOPU"
+                },
+                "Date": "on December 16, 1999",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10E6W7XB4BO5Q"
+                },
+                "Date": "on July 23, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUZW674F525ZG"
+                },
+                "Date": "on June 9, 2000",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "As an MSEE working as an assistant professor at a university, it is vital to be able to anwser a broad range of questions. These questions beeing your own or your students. This requires that you have ascess to a wide  range of text-books. I have found Chikazumi's book very usefull as a  reference, AND it is written in the SI-system of units!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Ferromagnetism-International-Monographs/product-reviews/0199564817/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,128,622",
+    "Timestamp": "2015-05-24 13:15:56.666613",
+    "itemurl": "http://www.amazon.com/Physics-Ferromagnetism-International-Monographs/dp/0199564817"
+}

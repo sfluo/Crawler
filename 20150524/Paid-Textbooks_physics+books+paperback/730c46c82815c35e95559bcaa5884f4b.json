@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Physics of Waves (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.23",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DA3SA7GMZARY"
+                },
+                "Date": "on December 19, 2001",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A5SXYI9NOIRW"
+                },
+                "Date": "on May 25, 2005",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YFSQMIASZRH7"
+                },
+                "Date": "on January 7, 2010",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OWPGOU32GE6R"
+                },
+                "Date": "on September 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on December 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a decent text that covers the physics of waves, predominately mechanical waves. Its no more than a simple introduction and does not offer much insight into interesting phenomena such as anisotropy and periodic composite materials. I don't have an extensive collection of texts of wave propagation in materials but I'm sure there are plenty out there that are better than this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MAQM238ZZPYN"
+                },
+                "Date": "on August 19, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is easily one of my favorite physics texts.  Derivations are concise and straightforward.  This is definitely not a \"bedtime reading\" textbook with lots of filler.  If you want to get down to business in a wide-range of wave phenomena and prefer a rigorous, theoretical treatment pick up this Dover book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Q7HBOIWKZKTK"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good reference book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O3ZHACGAV8DE"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book goes through the steps of explaining quite clearly how waves can be described using some basic math and that helps a lot those who are not familiar with the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PZF2E5837A7P"
+                },
+                "Date": "on June 28, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Waves-Dover-Books/product-reviews/0486649261/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#98,654",
+    "Timestamp": "2015-05-24 12:36:20.050830",
+    "itemurl": "http://www.amazon.com/Physics-Waves-Dover-Books/dp/0486649261"
+}

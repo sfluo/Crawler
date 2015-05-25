@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Elements of Statistical Thermodynamics: Second Edition (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$10.76",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VYU5IAMTJ3R7"
+                },
+                "Date": "on March 5, 2007",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15J3B5ISOLTO"
+                },
+                "Date": "on October 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on October 16, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QRBZLXHHBYSM"
+                },
+                "Date": "on November 16, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a must have, it was required for my undergrad thermodynamics class, well, technically it was a graduate course.  We had this really smart guy that was retired faculty (but back then an avid industrial consultant) teach us in what is called, the Harvard way, meaning no calculators allowed for any of his classes, homework, surprise quizzes, tests etc.  So we had to work out the problems in this little book by hand, meaning pages and pages of series functions, mainly Riemann-zeta functions, this was a fun class, but a tough one for being the only undergrad student in a pool of grad students.  Thank god for the UNAM students, they were trained in Group Theory and Clifford Algebras, that together with the theoretical math grad student helpers made this class really cool.  We used both of the Nash books, meaning it required Elements of Chemical Thermodynamics as well.  This was one of the best classes ever because of that.  I'm glad they now have the bound copy available, we had to get special permission from the publisher to get our paper photocopied version."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JX7JP4UCAE20"
+                },
+                "Date": "on December 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Oh how I wish this had been my introductory text book!  Instead I had to suffer through the usual historical treatment of thermodynamics.  I basically regurgitate this treatment for my advanced biochemistry students who have slogged through introductory thermodynamics the hard way, and all of a sudden the light bulb turns on.  I have looked at a lot of introductory texts and I think they are generally getting better with time, but there are none more clear and concise.  Just great teaching."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35CAIFVGLF2D1"
+                },
+                "Date": "on January 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HVP5GXP8F9OW"
+                },
+                "Date": "on August 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is useful for my \"biophysics 101\" course. Not for my classical thermodynamics course, though. It is smaller than I thought !"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elements-Statistical-Thermodynamics-Second-Chemistry/product-reviews/0486449785/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#221,752",
+    "Timestamp": "2015-05-24 15:13:42.117974",
+    "itemurl": "http://www.amazon.com/Elements-Statistical-Thermodynamics-Second-Chemistry/dp/0486449785"
+}

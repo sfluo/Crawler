@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$203.95",
+    "Name": [
+        "Basic Electricity for Electricians"
+    ],
+    "OfferPrice": "$155.24",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AITNA142IICL8"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "as advertised"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Electricity-Electricians-Multi-Amp-AVO/product-reviews/0827349173/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#748,400",
+    "Timestamp": "2015-05-24 15:34:47.218225",
+    "itemurl": "http://www.amazon.com/Basic-Electricity-Electricians-Multi-Amp-AVO/dp/0827349173"
+}

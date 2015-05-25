@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "Collision Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$35.45",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SWQ4NXJBHLSC"
+                },
+                "Date": "on April 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOKXNA8N8W58E"
+                },
+                "Date": "on August 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Classical book on quantum collision theory. The quality of book is actually very good although it is secondhand."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Collision-Theory-Dover-Books-Physics/product-reviews/0486435075/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,832,801",
+    "Timestamp": "2015-05-24 13:22:35.139206",
+    "itemurl": "http://www.amazon.com/Collision-Theory-Dover-Books-Physics/dp/0486435075"
+}

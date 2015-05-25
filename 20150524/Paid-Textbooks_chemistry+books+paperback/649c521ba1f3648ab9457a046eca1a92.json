@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$80.00",
+    "Name": [
+        "Symmetry and Structure: Readable Group Theory for Chemists"
+    ],
+    "OfferPrice": "$54.64",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 4, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In this text, Dr. Kettle presents the most lucent introduction available  for students wishing to attain an understanding of Group Theory for  chemical applications.  The text is not overly mathematical in its  presentation, setting it apart from the numerous other texts available on  this subject.  After having read this text, a student is amply able to  understand discussions of group theory with respect to spectroscopy or  otherwise."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A212DSP2Y6EVX5"
+                },
+                "Date": "on March 12, 2001",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Okay so Davisons out of print but it's so much better (and called Group Theory For Chemists)!  This book is a bit badly laid out, doesn't explain things very well and is pretty much useless unless you already have at least a simple grasp of Group Theory.  I don't know what awful libraries you lot in Cleveland have but this is certainly not a particularly good book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Symmetry-Structure-Readable-Theory-Chemists/product-reviews/0470060409/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,975,845",
+    "Timestamp": "2015-05-24 15:44:06.737057",
+    "itemurl": "http://www.amazon.com/Symmetry-Structure-Readable-Theory-Chemists/dp/0470060409"
+}

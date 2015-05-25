@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Electric-Dipole Polarizabilities Of Atoms, Molecules, And Clusters"
+    ],
+    "OfferPrice": "$56.00",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK5AZMXS1QA3"
+                },
+                "Date": "on January 8, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electric-Dipole-Polarizabilities-Atoms-Molecules-Clusters/product-reviews/9810224931/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,567,305",
+    "Timestamp": "2015-05-24 15:53:34.018276",
+    "itemurl": "http://www.amazon.com/Electric-Dipole-Polarizabilities-Atoms-Molecules-Clusters/dp/9810224931"
+}

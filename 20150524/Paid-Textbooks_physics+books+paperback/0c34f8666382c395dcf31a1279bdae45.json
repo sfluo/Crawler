@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Elementary Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.41",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on January 29, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GYE58YXT5GAH"
+                },
+                "Date": "on July 20, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B9ANJGPR3TJD"
+                },
+                "Date": "on April 9, 2002",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Quantum-Mechanics-Dover-Physics/product-reviews/048648596X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#749,636",
+    "Timestamp": "2015-05-24 12:44:50.561802",
+    "itemurl": "http://www.amazon.com/Elementary-Quantum-Mechanics-Dover-Physics/dp/048648596X"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$75.00",
+    "Name": [
+        "Liquid Crystal Elastomers (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$60.93",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GPYKV52F2F06"
+                },
+                "Date": "on June 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystal-Elastomers-International-Monographs-Physics/product-reviews/0199214867/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,383,110",
+    "Timestamp": "2015-05-24 15:43:10.943929",
+    "itemurl": "http://www.amazon.com/Crystal-Elastomers-International-Monographs-Physics/dp/0199214867"
+}

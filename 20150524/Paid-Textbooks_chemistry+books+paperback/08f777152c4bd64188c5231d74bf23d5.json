@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "The Mathematics of Physics and Chemistry"
+    ],
+    "OfferPrice": "$31.45",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17E7K3MQ5KKR5"
+                },
+                "Date": "on April 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A808JK3GOUC95"
+                },
+                "Date": "on June 23, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WKJUA50P5XOB"
+                },
+                "Date": "on June 2, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Physics-Chemistry-Henry-Margenau/product-reviews/1444627473/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,477,882",
+    "Timestamp": "2015-05-24 15:19:00.449446",
+    "itemurl": "http://www.amazon.com/Mathematics-Physics-Chemistry-Henry-Margenau/dp/1444627473"
+}

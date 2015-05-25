@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.00",
+    "Name": [
+        "Conceptual Foundations Of Quantum Mechanics: Second Edition (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$54.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GLXZGKD6H3RM"
+                },
+                "Date": "on October 18, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "D'Espagnat carefully presents a concise reconstruction of the theory of non-relativistic quantum mechanics in axiomatic form, as well as careful analyses of each of the major difficulties inherent in its interpretation.  His discussions of the metaphysical and epistemological questions surrounding the theory have played a significant role in setting the terms and temrinology of current debates in the philosophy of physics. For anyone seeking a better grasp of the nature and implications of quantum theory, whether he be a philosopher or physicist, this book is an essential read.  It is, by any reasonable account, a classic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YZ0YXXF657YE"
+                },
+                "Date": "on November 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the classic text on interpretational issues in quantum theory. No physicist or philosopher of science should be without it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Conceptual-Foundations-Quantum-Mechanics-Advanced/product-reviews/0738201049/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,393,209",
+    "Timestamp": "2015-05-24 13:29:58.086222",
+    "itemurl": "http://www.amazon.com/Conceptual-Foundations-Quantum-Mechanics-Advanced/dp/0738201049"
+}

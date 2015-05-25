@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Nonlinear Mechanics: A Supplement to Theoretical Mechanics of Particles and Continua (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$7.47",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14MHSR05L8VZW"
+                },
+                "Date": "on June 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "It is a very good extension for the classical mechanics books, it covers many examples with all the mathematics required."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DAQIMMNVF9SB"
+                },
+                "Date": "on February 23, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHXD6I4MP0DV1"
+                },
+                "Date": "on October 7, 2009",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "This book analyzes very complicated systems concisely, which I presume is why it is a supplement. Get this book if you're interested in the various solutions to certain complex systems and are not afraid of advanced mathematics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10ZQ3RMOOJKXV"
+                },
+                "Date": "on January 12, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This is the addendum book to Fetter and Walecka's \"Theoretical Mechanics of Particles and Continua\". And it's continua-ly annoying! Whoooo! Anyway, I don't like this book. Very few examples, very few questions for each chapter, and I didn't think it was presented in decent way."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nonlinear-Mechanics-Supplement-Theoretical-Particles/product-reviews/0486450317/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#880,361",
+    "Timestamp": "2015-05-24 12:44:29.950859",
+    "itemurl": "http://www.amazon.com/Nonlinear-Mechanics-Supplement-Theoretical-Particles/dp/0486450317"
+}

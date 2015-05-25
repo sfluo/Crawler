@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics, or Natural Hearing (William of Moerbeke Translation Series)"
+    ],
+    "OfferPrice": "$18.00",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R1P7175I5BQJ"
+                },
+                "Date": "on October 22, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a student of philosophy, brought up in a philosophical family. Currently I am studying The Physics and am finding that in every way this is a superior translation compared to every other. It is very faithful to Aristotle's ideas, and captures his meanings as well as, if not better than, any other possible translation. My father, who is also a professor of Philosophy, also strongly supports the purchase of this book for any serious student of Aristotle's philosophy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23DPNJ74GE5Z8"
+                },
+                "Date": "on January 18, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A271MJJN2SDA67"
+                },
+                "Date": "on June 27, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I bought this book for a introdutory philosophy course. I found the book interesting and the translation good, but difficult to follow. After the class lectures the book reading made much more sense. I would recommend for people with an interest in philosophy or logic but would have people who are just interested in casual reading to re-consider this purchase."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Natural-Hearing-Moerbeke-Translation/product-reviews/1587316293/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,054,468",
+    "Timestamp": "2015-05-24 13:49:18.965910",
+    "itemurl": "http://www.amazon.com/Physics-Natural-Hearing-Moerbeke-Translation/dp/1587316293"
+}

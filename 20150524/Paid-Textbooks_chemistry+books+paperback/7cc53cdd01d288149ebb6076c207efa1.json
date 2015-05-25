@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Surface Science: An Introduction"
+    ],
+    "OfferPrice": "$118.00",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J7HMCGW1AYDZ"
+                },
+                "Date": "on May 20, 2002",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 6, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "As a chemistry student trying to learn surface science, this book has done nothing but frustrate me. From the author's use of antiquated units, to horrid question writing, to lousy explanations, I would rather go into a  laboratory blind than have this book guide me. To sum up, find another book  if you aren't already an expert!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Surface-Science-Introduction-John-Hudson/product-reviews/0471252395/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,805,650",
+    "Timestamp": "2015-05-24 15:36:32.542007",
+    "itemurl": "http://www.amazon.com/Surface-Science-Introduction-John-Hudson/dp/0471252395"
+}

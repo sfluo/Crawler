@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$66.00",
+    "Name": [
+        "Crystal Structure Analysis: Principles and Practice (International Union of Crystallography Monographs on Crystallography)"
+    ],
+    "OfferPrice": "$62.74",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 28, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book should be one of the best introduction in crystal structure analysis for the beginners! Everybody wanting to start with x-ray structure analysis should read this book at the very beginning, since it's, in fact, a International Union of Crystallography Text on Crystallography. It covers the most important topics of x-ray structure analysis in an easy understandable language without boring the reader with mathematical details. You can get a good impression about what the basic principles and problems of x-crystallography are, and how they can be solved."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWKQKN546LIUD"
+                },
+                "Date": "on February 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's really new and has tight binding. No markings inside. Actually, it's perfect! I like it so much! 5 star"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HN6AIG45HA6C"
+                },
+                "Date": "on September 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Pretty good product. Nice book quality and fast shipment. This is really really good!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystal-Structure-Analysis-International-Crystallography/product-reviews/0199219478/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,795,072",
+    "Timestamp": "2015-05-24 15:43:48.961216",
+    "itemurl": "http://www.amazon.com/Crystal-Structure-Analysis-International-Crystallography/dp/0199219478"
+}

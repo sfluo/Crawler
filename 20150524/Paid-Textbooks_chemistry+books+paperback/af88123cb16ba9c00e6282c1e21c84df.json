@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Symmetry Analysis of Differential Equations with Mathematica\u00ae"
+    ],
+    "OfferPrice": "$92.87",
+    "Reviews": {
+        "AverageStarRating": "2.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV1H9CTLJEH65"
+                },
+                "Date": "on June 9, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VYYJ951EEC7T"
+                },
+                "Date": "on November 20, 2001",
+                "Helpfulness": 0.875,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFF0IHL8OZ411"
+                },
+                "Date": "on May 28, 2000",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "A good book. If you know Mathematica 3 or later, a little of differential geometry, is a good way to do symmetries in differential equations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Symmetry-Analysis-Differential-Equations-Mathematica%C2%AE/product-reviews/1461274184/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,407,214",
+    "Timestamp": "2015-05-24 15:40:25.086454",
+    "itemurl": "http://www.amazon.com/Symmetry-Analysis-Differential-Equations-Mathematica%C2%AE/dp/1461274184"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Superconductivity Of Metals And Alloys (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$54.00",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AM0T8G795B81"
+                },
+                "Date": "on November 28, 2000",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "5",
+                "Text": "Possibly the best superconductivity book I have ever read. He covers GL equations excellently - he builds them up from Landau theory of phase transitions, by constructing them using the Helmholtz free energy. As far as the microscopic theory goes, BCS is brought from the very beginnings, in a methodical, logical mannar. The book is, however, a little mathematical for most people's tastes. A fair knowledge of quantum mechanics is needed before this book should be read (for example: Dirac notation, matix algebra to mention a few)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U74HLTODVWA9"
+                },
+                "Date": "on September 30, 2004",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "It is not possibly the best superconductivity book I have ever read, it is certainly an everlasting standard for a texbook in physics. The generations of superconductivity researchers, including myself, have grown up as scientists upon reading this book. Even now, in the era of high temperature superconductivity, someone new in the field should read this book first."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UG5IO2KA07EB"
+                },
+                "Date": "on March 27, 2008",
+                "Helpfulness": 0.045454545454545456,
+                "StarRating": "3",
+                "Text": "When I saw this book, I thought I had found a book that would explain Superconductivity in a manor that I could experiment with in my spare time. Obviously this book is written for those who have a good background in Theory and college level math; not the weekend garage inventor. With so many formulas to swim through I was lost in references that I had never heard of, not to mention could even put to use with my limited knowledge of the subject. For those out there wanting something simpler, look for a book with more illustrated pictures of the formulas in action and not entire pages of numbers, sub-typed Greek letters and squiggly line graphs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 21, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I am interested in superconductivity and diffusion of superconductivity. I am studying superconductuvitiy and elektrodiffusion."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Superconductivity-Metals-Alloys-Advanced-Classics/product-reviews/0738201014/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,151,688",
+    "Timestamp": "2015-05-24 13:19:36.990554",
+    "itemurl": "http://www.amazon.com/Superconductivity-Metals-Alloys-Advanced-Classics/dp/0738201014"
+}

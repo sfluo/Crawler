@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Electrodynamics and Classical Theory of Fields and Particles (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$10.76",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ISPJYBE8XJSY"
+                },
+                "Date": "on March 22, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "On the subject of Classical fields, I have not read a better book than Barut's. It is clear and comprehensive. I discovered more about things like the Lorentz group and the Lagrangian formalism of fields than I thought  existed. It is an excellent book by all standards. If you need to learn  Quantum Field theory, start here first. Learn all about classical fields.  The equations in this book are ready for quantization."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CDVV7KSD5XVB"
+                },
+                "Date": "on November 8, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a concise, clear, friendly but unfussy little book on classical electrodynamics (CED), and relativistic fields. Simultaneously, it provides an easy introduction to the mathematical machinery of relativistic dynamics and fields. There is an agreeable emphasis on the Lagrangian formulations, a good-sized chapter devoted to radiation and radiation-reaction, and a (regrettably) short piece on action-at-a-distance CED. This book is about the structure of CED in general, and does not deal with particular arrangements of charges, currents, coils, etc. etc. in the manner of an undergraduate text on EM."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWNOFZLH7OKW1"
+                },
+                "Date": "on April 26, 2006",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K3K8O3MVORGE"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "One would need to go through a relativity book with heavy emphasis on notation before trying to do this. It's treatment of EM fields (chapter 3 and on) is great if one had this background, but it's first two chapters are essentially useless."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SB82PMLFPA2"
+                },
+                "Date": "on June 8, 2007",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": "This is an excellent book if you want to understand Electrodynamics for what it really is-a relativistic field theory!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electrodynamics-Classical-Theory-Particles-Physics/product-reviews/0486640388/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#487,520",
+    "Timestamp": "2015-05-24 12:37:28.289304",
+    "itemurl": "http://www.amazon.com/Electrodynamics-Classical-Theory-Particles-Physics/dp/0486640388"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Miracles and Physics"
+    ],
+    "OfferPrice": "$6.00",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24G1H61L0TQHN"
+                },
+                "Date": "on October 4, 2006",
+                "Helpfulness": 0.967741935483871,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E17AV8YW104C"
+                },
+                "Date": "on July 9, 2008",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JNCOY4A3MJUG"
+                },
+                "Date": "on February 20, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY068D04AWR18"
+                },
+                "Date": "on March 14, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The author wandered around the topic a bit, and referred far too often to his own works as references.  Nevertheless, his brilliance and grasp comes through, and I found it worth the effort to finish this book, and I look forward to reading some of his other works."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OZ66FTTYHE65"
+                },
+                "Date": "on March 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Jaki, with doctorates in Theology and Physics, has a better understanding of science and Christianity than most of us.  The book is a bit challenging, but his points are clearly made.  Will Rogers once said \"It ain't what you don't know that's the problem, it's what you do know that ain't.\"  Jaki explains that much of what we think we know about science is misleading or simply not true.  Even scientist are guilty of this, especially when they delve into philosophy.  Philosophers make poor scientist and scientist make poor philosophers.  It's not possible for me to summarize this book, but in a sentence his point is that one should not discount facts because of dubious ideas.  For example, Jaki talks about a theologian who stated (late 19th century) in these days of the light bulb and wireless, one cannot believe in miracles.  Yet, Jaki points out, nearly all the scientist who made the light bulb and wireless possible believed in miracles."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GMDXK40W2FR"
+                },
+                "Date": "on August 9, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "For my taste, the book was helpful but somewhat technical and more of an instructional or clinical approach to the topic of Miracles.  Worth the time it took to read a short book less than 100 pages."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Miracles-Physics-Stanley-L-Jaki/product-reviews/0931888700/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#942,617",
+    "Timestamp": "2015-05-24 13:29:50.702120",
+    "itemurl": "http://www.amazon.com/Miracles-Physics-Stanley-L-Jaki/dp/0931888700"
+}

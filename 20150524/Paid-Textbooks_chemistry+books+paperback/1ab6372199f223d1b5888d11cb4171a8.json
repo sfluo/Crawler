@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Modern Electrochemistry 2A: Fundamentals of Electrodics"
+    ],
+    "OfferPrice": "$87.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8J2K4CX7OIDL"
+                },
+                "Date": "on March 27, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Electrochemistry-2A-Fundamentals-Electrodics/product-reviews/0306461676/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#84,113",
+    "Timestamp": "2015-05-24 15:39:17.665460",
+    "itemurl": "http://www.amazon.com/Modern-Electrochemistry-2A-Fundamentals-Electrodics/dp/0306461676"
+}

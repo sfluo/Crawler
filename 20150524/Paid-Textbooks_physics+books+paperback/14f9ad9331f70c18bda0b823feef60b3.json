@@ -1,0 +1,270 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$8.95",
+    "Name": [
+        "Understanding Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$8.89",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A258HDMERSI6WJ"
+                },
+                "Date": "on December 6, 2003",
+                "Helpfulness": 0.9753086419753086,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW"
+                },
+                "Date": "on November 4, 2000",
+                "Helpfulness": 0.9787234042553191,
+                "StarRating": "5",
+                "Text": "Thermo is hard for two reasons. The equations are messy, and the properties are so abstract. Van Ness deals directly and only with the second problem.  His discussion of energy functions and energy transformations just as rules between observables is very helpful. Using that notion to get at what he means by a property and then making entropy understandable as a PROPERTY of a system is the core of much of the book. The derivation of some basic stuff in statistical mechanics is quite clear, and the logical relationship to classical thermo is very clear. An index would be nice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HWJ69NRTJ2ST"
+                },
+                "Date": "on May 12, 2005",
+                "Helpfulness": 0.9259259259259259,
+                "StarRating": "5",
+                "Text": "This book is an excellent conceptual introduction to thermodynamics.  It helps you to get the \"big picture\" without getting into mathematical details. The first few chapters are suitable for high-school students that are interested in the fundamental concepts and laws of thermodynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AW8XP45YVIIZ"
+                },
+                "Date": "on February 29, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This thin book is a must-have for anyone who wants to understand thermodynamics.  A better title for this book may be `Thermodynamics Companion'.  This it not a stand alone text, but a supplement to a text book or more advanced reference.  This author explains in detail (and without a lot of mathematical mumbo-jumbo) the basics of thermodynamics.  It is geared toward the advanced undergraduate or beginning graduate student in engineering or physics who wants to understand thermo.  The mathematics is simple (anyone with a little knowledge of calculus can handle it), so the reader won't get bogged down in the equations.  If you really want to get a handle on what thermo means (beyond just manipulating equations), this would be a great place to start.  This book contains the best discussion of entropy that I've ever found.  The notion of entropy is a difficult one for many new to thermo.  It is easy to learn how to manipulate the equations, another thing to really understand what they mean.  The latter is the author's goal in this book, and he has succeeded.  At less than $8, this is a no-brainer."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16C7LUNR1W22O"
+                },
+                "Date": "on January 3, 2006",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12DDZCUHJ8SS0"
+                },
+                "Date": "on August 29, 2006",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38UEITR2ERODS"
+                },
+                "Date": "on January 1, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Who knew that thermodynamics could actually be entertaining?  This book is a joy to read regardless of your technical background or interests. It isn't meant to be a text, or even a demonstration of the subject's importance, but, rather, an invocation of the sheer wonder that can lie in the most mundane things if only you can look at them from the viewpoint that thermodynamics offers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PUOXG9ERD13Y"
+                },
+                "Date": "on September 1, 2004",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": "This book is excellent. I have taken several thermodynamic courses but still the concepts seem too abstract to have a complete grasp of the subject. This books makes it clear. The combination of Understanding Thermodynamics and Thermodynamics by Fermi are a powerful refresher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HY80RS5JL7RK"
+                },
+                "Date": "on December 16, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Clear explanation on thermodynamics basics - just what I was looking for. I am not from engineering or physics background, but this book certainly gives a way to start. Simple and basics concepts for beginners who are interested in general concepts of conversion energy into work and heat."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU"
+                },
+                "Date": "on June 8, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X9ODJ4O60TU6"
+                },
+                "Date": "on April 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 19, 1999",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I would recommend this book highly to anyone who wants to learn thermodynamics. Van Ness uses very good analogies to illustrate some of the theoretical concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VSOGVNELYFTS"
+                },
+                "Date": "on August 18, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "Having had two very difficult--and fascinating--terms of TD in college long ago, I was interested enough to purchase this book to read during an overseas flight.  Upon starting the book, I quickly realized just how much calculus the author assumes the reader knows.  I did study calculus also--about 30 years ago--and even tho I enjoyed it and did well at it then, my skills are rusty.  At first I welcomed a little review but about halfway thru I just got bogged down with the calculations and was unable to continue.  Surely there are ways to explain TD to an interested lay reader that don't require familiarity with calculus.  I'm still interested but I'll be looking elsewhere.  If there are any reviewers who have suggestions for alternative books, please let me know."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36P2HWVH8CZL6"
+                },
+                "Date": "on February 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a very short book but does the best job I have seen so far of explaining thermodynamics concepts like entropy. Definitely recommended for any student of science and engineering that wants to better understand what the crazy formulas in your textbook mean! (Most textbooks I have seen pretty much avoid the topic of understanding what it means, and just throw formulas at you)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34IHMYN3TSMRT"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Highly recommended for those who would like to look into the thermodynamics from a different angle than the classical textbooks. Very concise and well written. This book is NOT a replacement for the textbook as also mentioned by the author, so I'd recommend reading this book after going through a textbook first."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on November 21, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEKFM17N363U3"
+                },
+                "Date": "on March 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The only one - among the modern treatises containing the correct and detailed analysis of the traditional (but nonetheless not completely understood) notions of thermodynamic reversibility, thermodynamic equilibrium ..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26FE6E4N6OHVK"
+                },
+                "Date": "on January 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I always felt thermodynamics to be a very difficult and deep subject both in my undergrad and grad school....never got hold of it completely...I guess no one can grasp everything in thermo....I credit my inability to a bad introduction to thermodynamic concepts....This book on the other hand, although small in size, packs a big punch....It takes a very different approach to explaining initial concepts like the laws of thermo and provides one of the best explanations of the concepts. I wish someone recommended this book initially in my undergrad days....thermo would have been a lot clearer and my grades a little higher!  :P"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GR6M2OPLDKXW"
+                },
+                "Date": "on April 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I went straight to the part about entropy, and after a short while I had it!  Finally, someone has actually explained what it is and where it came from!  I am so pleased, relieved, and so very glad that I bumped into this little book!  They tell you that entropy is this, or it is that, and they define it for you with an equation, but has anyone, apart from the author of this little book, actually been able to explain it?  If ever a university professor deserved an A++ for doing a good job of making sense to his students (or his readers in this case) in an important subject area, this one from Rensselaer certainly has!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JR20V3YUGB0Z"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was a great help to me in understanding some of the basics of Thermo. I suggest anyone read it that will be taking a course in thermo in the near future. It will make your first few lectures much easier and simple. If you already have a basis in thermo then this may be a little too light for you but it is interesting either way so if you are extra curious or love thermo then go ahead and purchase."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABKO2WHERUNEI"
+                },
+                "Date": "on December 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent basic material regarding thermodynamics. Prof. Van Ness explain the basic principles of thermodynamics in a clear language with great examples. It is not a book for those that are looking complex equations, but if you are looking an introduction do the subject and to refresh your knowledge regarding this fundamental discipline you can miss it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKV7YFU7ADW1M"
+                },
+                "Date": "on February 23, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great concise introduction displaying some of the fundamental concepts and their usage. I recommend this to anyone interested in thermodynamics, but especially to an engineering student taking his first dip into thermo. Its not gonna teach you the whole course but it brings the subject to life in a way that made be more interested."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UN3L3PJCZNGG"
+                },
+                "Date": "on February 16, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31UH4W1EVFGVN"
+                },
+                "Date": "on March 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This should be a supplemental text for every thermodynamics class.  Easy to read and relays fundamental thermodynamic concepts clearly.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IVJUOML0I5FD"
+                },
+                "Date": "on April 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The author has an extensive amount of knowledge about the subject of Physical Chemistry, particularly Chemical Thermodynamics. It was a good purchase."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP060CQNMHJ81"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "nice subject"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQV0Z3FAFTBWO"
+                },
+                "Date": "on March 19, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Well presented and good contents. It will be helpfull for its purpose. easy way to learn the topic of acrilic painting. Being helpful already"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FGF758RP88CE"
+                },
+                "Date": "on January 8, 2009",
+                "Helpfulness": 0.07692307692307693,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Thermodynamics-Dover-Books-Physics/product-reviews/0486632776/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "28"
+    },
+    "Salesrank": "#189,912",
+    "Timestamp": "2015-05-24 12:25:28.752486",
+    "itemurl": "http://www.amazon.com/Understanding-Thermodynamics-Dover-Books-Physics/dp/0486632776"
+}

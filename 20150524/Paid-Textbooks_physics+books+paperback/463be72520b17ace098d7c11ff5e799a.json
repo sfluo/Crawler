@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$17.95",
+    "Name": [
+        "The Classical Electromagnetic Field (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.90",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26BKV6R6XFJT6"
+                },
+                "Date": "on December 16, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "There is a tendency nowadays, especially if you are at Harvard, to think of a physicist as someone who only works on group-theoretical notions and topological structures in particle physics and cosmology, with everything  else that looks something like physics to be worked on by crude, practical  people in a electrical engineering department.  This book, however, which  was developed by a professor at Harvard's neighbor MIT, obviously has the  attitude that the solution of partial differential equations applied  to  idealized (and therefore analytically solvable) problems in electromagnetic  theory is still exciting physics.  As such, this book belongs in the same  class as Sommerfeld's \"Electrodynamics\" and Stratton's  \"Electromagnetic Theory.\" It is clearly written with good problem  sets and covers enough material for a beginning graduate course.  The units  used are Gaussian, which makes for a better discussion of relativistic  concepts.  The mathematics used includes contour integrals, Green  functions, and Hankel functions.  At first sight, the author's use of only  E and B and never D and H may come across as the fanaticism of the  ultra-pure physicist.  On the contrary, it makes for a clearer discussion  of the boundary-value problem at the interface of continuous polarized and  magnetic media."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on September 11, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book!  The treatment is accessible and the section on electrostatics is outstanding in comparison with many other books.  The author goes out of his way to both explain the subject in detail and to share his rather obvious enjoyment of the subject.  This is another case of \"if you read all these books then you will know electrodynamics\".  Not everything is here but it is a great supplemental text and reference.  I don't know if anyone is using it as a single textbook for a course however.  For the practical physicist in solid state, optics, electrodynamics, etc. this is a must have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A70FOX0NBI4UA"
+                },
+                "Date": "on December 25, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I recently took Electrodynamics with Jackson and frequently used this book as a backup/reference. I highly recommend it for that purpose, but it was not very useful as a learning tool by itself."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Electromagnetic-Field-Dover-Physics/product-reviews/0486639479/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,193,339",
+    "Timestamp": "2015-05-24 13:01:12.496487",
+    "itemurl": "http://www.amazon.com/Classical-Electromagnetic-Field-Dover-Physics/dp/0486639479"
+}

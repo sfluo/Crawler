@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$90.00",
+    "Name": [
+        "Statistical Mechanics of Solids (Monographs on the Physics & Chemistry of Materials)"
+    ],
+    "OfferPrice": "$83.99",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JQFC5KNH0IZJ"
+                },
+                "Date": "on April 4, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATZQGGGDEHC46"
+                },
+                "Date": "on September 24, 2004",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an excellent, well-tested textbook on statistical mechanics for materials scientists and engineers, both graduate students and practitioners who need a refresher on how to apply useful theoretical methods,such as mean-field models of phase transitions,to the analysis of experimental data or, perhaps, want to learn something about new developments in statistical mechanics which are not often covered in materials science and engineering courses, such as critical exponents and the renormalization group. You might wonder why there is a need for yet another textbook on statistical mechanics. Well, this is a book primarily for those interested in understanding or estimating the properties of solids, rather than dwelling on the foundations of statistical mechanics, and there is not another book quite like it.  It uses simple mathematics and makes much, fruitful use of simple methods like mean-field theory and simple ways of making improvements thereto.  It begins with three brilliantly explained, succinctly written chapters intoducing, or reviewing, the basic principles of thermodynamics and statistical mechanics, and then proceeds to cover their applications to a wide range of topics in the materials science of metals, semiconductors, and polymers. Some applications include bulk thermodynamic properties, surfaces, transport properties of electrons, phonons, and atoms,as well as phase transitions. There are eight appendices where helpful mathematical and methodological details are covered so that the expository prose in the main chapters does not get bogged down in unnecessary details. There are some useful topics covered in this book which are not easily found in other texts: for example, there are three chapters with a careful exposition of the foundations, and some applications, of the thermodynamics and kinetics of lattice defects, a topic of much importance for materials scientists and engineers; the useful and versatile Girifalco-Good method for estimating energies of interfacial adhesion is described; and the Kirkwood second-moment method for going beyond the mean-field approximation in order-disorder is derived and utilized to introduce the Landau theory of phase transitions. These are a few examples of useful topics for materials scientists not readily found elsewhere. There are also illuminating exercises at the end of each chapter. Professor Girifalco is a gifted pedagogical writer, and he has polished much of this material in his courses in the Department of Materials Science and Engineering at the University of Pennsylvania. I myself has used several chapters of this book as reference material for an advanced graduate seminar in the modeling of phase transitions in materials, and they were very successful.  I highly recommend this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Monographs-Chemistry-Materials/product-reviews/0195167171/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,178,342",
+    "Timestamp": "2015-05-24 15:24:12.413540",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Monographs-Chemistry-Materials/dp/0195167171"
+}

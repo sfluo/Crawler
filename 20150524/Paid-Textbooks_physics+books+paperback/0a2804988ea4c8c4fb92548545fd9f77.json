@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Birth of a New Physics (Revised and Updated)"
+    ],
+    "OfferPrice": "$12.65",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UIXU97JYCPZG"
+                },
+                "Date": "on July 18, 2009",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": "This is a very nice introduction to the great 17th century revolution in science.  Cohen concentrates on a single major issue; the emergence of modern dynamics and its ability to provide a universal explanation of motion on Earth and of the Solar system.  Cohen provides a nice precis of Aristotlean physics, the development of the Copernican system, and the contributions of Galileo and Kepler.  He concludes with a chapter on Newton's triumphant development of modern physics.  This is not a comprehensive history; there is little here about figures like Huygens or Descartes, but rather a thematic pursuit of a crucial issue.  Presented with a minimum of math, this is an excellent exposition of how theory and experiment interacted to produce the basis of modern physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 11, 2000",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "4",
+                "Text": "I found this to be a very enjoyable book written in a kind of history book style. There is enough information included to explain the discoveries of Newton and others without getting too technical. I read this book for a college paper on Newton's life."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8RZ1MRWTO2U9"
+                },
+                "Date": "on December 21, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "This book is a well-written introduction to the lives and discoveries of the three giants at the base of modern science.  It doesn't ascribe to the nonsense that most modern philosophers of science spout as defining science as simply a mathematical description of appearances.  The book avoids these philosophic aberrations and instead presents the discoveries of Newton, Kepler, and Galileo in a way that properly emphasizes the enormity of their genius, the scope of their inductions and the central importance of their contributions to the scientific method."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A336PDROMWEDWL"
+                },
+                "Date": "on October 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This was a great book I read in college, and enough of a good book I wanted to buy it to read again! Easy read and insteresting to see how the earliest scientist saw the world around them, at all different times."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K6LVBW7ILYRB"
+                },
+                "Date": "on March 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UJM9TQPR13IX"
+                },
+                "Date": "on June 17, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was required reading for my Sophomore history of science course and was a very good read. Cohen has a unique tone and gives a very good expanse of the subject."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Birth-New-Physics-Revised-Updated/product-reviews/0393300455/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#424,552",
+    "Timestamp": "2015-05-24 13:16:11.112172",
+    "itemurl": "http://www.amazon.com/Birth-New-Physics-Revised-Updated/dp/0393300455"
+}

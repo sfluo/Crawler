@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$23.99",
+    "Name": [
+        "Physics, Fun, and Beyond: Electrifying Projects and Inventions from Recycled and Low-Cost Materials"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AR34EOZ1ZMEM"
+                },
+                "Date": "on October 26, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O0ZH30ZKC7KI"
+                },
+                "Date": "on September 17, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm working as a senior high school physics teacher and I find that this book is an excellent help to my job. I have several similar books and this one is one of the best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RNP125GYBQ2M"
+                },
+                "Date": "on October 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "As a science teacher I thought this would be a great resource. It is weak for h.s, maybe it would be good for elementary."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35G85YSWO1IZT"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This is more middle school quality and I teach high school Honors/AP Physics. Very basic, I just would not recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KFZ684NWEL3L"
+                },
+                "Date": "on September 20, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book has some great really great projects and yes it does use low cost and recycled material BUT be warned to use this book to the T you will need some tools like a Caliper,clamps,a Vise,a few files,a few different saws and drill with drill bits!Now these are not something thatI have sitting in my garage,so something to keep in mind before buying this book.There are a few experiments that dont require you to use the above tools,so its not a total wash,just dont expect to open the book and start doing all the projects right away as you will need to make a trip to the hardware store!Just a fyi Iam using this in a home setting and not in a school."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FWV24RZRIBJK"
+                },
+                "Date": "on March 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "'twas a personal copy of a book i always use. now i dont hav to bother the library for one!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Fun-Beyond-Electrifying-Inventions/product-reviews/0131856731/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#632,062",
+    "Timestamp": "2015-05-24 13:16:36.824223",
+    "itemurl": "http://www.amazon.com/Physics-Fun-Beyond-Electrifying-Inventions/dp/0131856731"
+}

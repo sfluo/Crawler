@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Group Theory: The Application to Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHWLVQYYLV8J"
+                },
+                "Date": "on January 23, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DMOGF830H2P"
+                },
+                "Date": "on November 29, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Group-Theory-Application-Quantum-Mechanics/product-reviews/0486437981/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,091,200",
+    "Timestamp": "2015-05-24 13:18:02.568758",
+    "itemurl": "http://www.amazon.com/Group-Theory-Application-Quantum-Mechanics/dp/0486437981"
+}

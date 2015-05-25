@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.95",
+    "Name": [
+        "Molecular Electronic-Structure Theory"
+    ],
+    "OfferPrice": "$91.62",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C4J9CUHT3UXE"
+                },
+                "Date": "on September 17, 2007",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z463JVXO7A2T"
+                },
+                "Date": "on December 3, 2006",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "This is the Full CI expansion of quantum chemistry literature. High quality, but high price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATOOWZRIJ33NX"
+                },
+                "Date": "on April 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am so glad to find out this new edition for less than 100 bucks! This is the Bible of quantum chemistry! It covers all the important aspects of wave function theory calculations including practical aspect such as convergence algorithms and integral algorithms. The only thing I wish it covers more is the multi-reference CC and MRCI and DFT, but apart from that, this this the book you are looking for. You may not need this if you are a master degree seeking student, but if you are a phd student working on electronic structure calculation, look no further. If you are a faculty, I'll be surprised if you don't have this book already!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on May 14, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZEXBS3JTAIWS"
+                },
+                "Date": "on October 30, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good reference for quantum chemists."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Electronic-Structure-Theory-Trygve-Helgaker/product-reviews/1118531477/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#712,701",
+    "Timestamp": "2015-05-24 15:27:24.049012",
+    "itemurl": "http://www.amazon.com/Molecular-Electronic-Structure-Theory-Trygve-Helgaker/dp/1118531477"
+}

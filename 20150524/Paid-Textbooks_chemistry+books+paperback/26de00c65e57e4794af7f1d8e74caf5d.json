@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$42.00",
+    "Name": [
+        "Lessons from Nanoelectronics: A New Perspective on Transport (Lessons from Nanoscience: a Lecture Notes Series) (Volume 1)"
+    ],
+    "OfferPrice": "$39.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATVOB28N43WKH"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A very well written and instructive text that can be thought of as a simplified version of \"Electronic transport in mesoscopic systems\" by the same author. I like the fact that it gives emphasis to qualitative arguments more than strict mathematics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKBPL5Y9U42BQ"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good quality!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lessons-Nanoelectronics-Perspective-Transport-Nanoscience/product-reviews/9814335290/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,358,291",
+    "Timestamp": "2015-05-24 15:41:46.165661",
+    "itemurl": "http://www.amazon.com/Lessons-Nanoelectronics-Perspective-Transport-Nanoscience/dp/9814335290"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Plasma Confinement (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$23.91",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LXVU46T7CSM5"
+                },
+                "Date": "on February 11, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NVQTXQ4NH285"
+                },
+                "Date": "on November 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "One of the most complete, rigorous (and yet not too obscure) textbooks on plasma physics for magnetic fusion applications. I would recommend this textbook to any graduate student interested in the more theoretical aspects of magnetic confinement fusion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K5HQ1ULNXJ83"
+                },
+                "Date": "on July 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The book covered plasma research basic components very well. A necessary book in a plasma researcher's library. I like the book's logical layout and detail presentations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A321132ZZHBE7C"
+                },
+                "Date": "on July 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A good non-introductory plasma physics book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Plasma-Confinement-Dover-Books-Physics/product-reviews/0486432424/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#510,241",
+    "Timestamp": "2015-05-24 13:22:32.350348",
+    "itemurl": "http://www.amazon.com/Plasma-Confinement-Dover-Books-Physics/dp/0486432424"
+}

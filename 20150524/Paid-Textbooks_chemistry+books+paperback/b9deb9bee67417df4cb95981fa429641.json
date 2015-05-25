@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Introduction to Quantum Theory and Atomic Structure (Oxford Chemistry Primers, 37)"
+    ],
+    "OfferPrice": "$30.39",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 15, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on December 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "By no means is this an extensive treatment of Quantum Mechanics, but that's what I was expecting. This touches on all the trivial things on should keep in the back of their mind when learning QM. Using this as a primer for a thorough QM treatment will really help you master the material. The book is short and can be easily covered in about two weeks including working on the problems. Also the price is very attractive!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Quantum-Structure-Chemistry-Primers/product-reviews/019855916X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,551,952",
+    "Timestamp": "2015-05-24 15:19:51.468287",
+    "itemurl": "http://www.amazon.com/Introduction-Quantum-Structure-Chemistry-Primers/dp/019855916X"
+}

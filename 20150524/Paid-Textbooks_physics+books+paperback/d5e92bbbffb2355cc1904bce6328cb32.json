@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Relativistic Quantum Fields (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.46",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16NMJCCSGJADT"
+                },
+                "Date": "on May 22, 2012",
+                "Helpfulness": 0.3,
+                "StarRating": "5",
+                "Text": "This book is a little jewel ! Prof. Nash is extremely successful at welcoming and opening up to the reader the abstruse QFT subjects of renormalization and path integral methods"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Relativistic-Quantum-Fields-Dover-Physics/product-reviews/0486477525/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,807,454",
+    "Timestamp": "2015-05-24 13:22:37.849247",
+    "itemurl": "http://www.amazon.com/Relativistic-Quantum-Fields-Dover-Physics/dp/0486477525"
+}

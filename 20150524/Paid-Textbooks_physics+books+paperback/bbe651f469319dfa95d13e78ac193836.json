@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "Philosophical Concepts in Physics: The Historical Relation between Philosophy and Scientific Theories"
+    ],
+    "OfferPrice": "$83.06",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EC1IG3LOB0NF"
+                },
+                "Date": "on June 20, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "My be I was expecting more from the book based on the title of the book but after all I was satisfied. Author provides a good history of Physics from Greeks to Quantum Theory. In Quantum theory you feel some Philosophical discussions but otherwise it is a science book and a good one with formulas, schematics like a text book. What I liked most was the excerpts from the original writings as the author was making his point. Paragraph from Newton's, Kepler's , Maxwell's, Bohr's, Bell's writings, all those fellows. It is serious book and requires serious reading. Also there is good references for further readings."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WA5AMXMA61LS"
+                },
+                "Date": "on March 31, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "4",
+                "Text": "This book summarizes the history of scientific developments from antiquity to quantum physics. No prior knowledge of science or philosophy is assumed, except the general high school education. The author is a physicist  interested in philosophy, but the philosophical dimension of the book is  much less obvious than the scientific-historical aspect. It is a clear and  nice read, but it is physics rather than philosophy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20AAXWC0I3XQQ"
+                },
+                "Date": "on March 26, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This work reads more like a general overview of the history of ideas regarding the physical universe rather than a philosophical treatment of the ideas behind physics. The book merely presents in a linear fashion the major ideas that revolutionized our views of the physical world but goes no further than presenting the theories as matter of fact. There are no discussions into the interplay between the philosophy of ideas and the actual modeling of the physical world using the scientific method. It reads similar to Stephen Hawking's \"On The Shoulders of Giants\"(a much more interesting work)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A857M42038GRW"
+                },
+                "Date": "on May 26, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The perfect balance between physics and philosophy, getting to the social dimension of scientific quest its deserved place (usually ovelooked by many scientists, advocates of a (too) strong concept of rationality in science). I liked especially the chapters dedicated to modern physics, underdetermination and theory ladenness are really big problems for modern science, in no case are we entitled to underestimate them (I don't think that Bayesianism, objective or subjective, is enough to reject them). Overall a good reading, especially for those having some previous knowledge of physics, it shows clearly that one must go well beyond the usual cliche that science is only inductive and that we have enough probabilistic justification for the view that it surely approach at least approximate Truth."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Philosophical-Concepts-Physics-Historical-Philosophy/product-reviews/052157823X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#708,074",
+    "Timestamp": "2015-05-24 13:37:25.906585",
+    "itemurl": "http://www.amazon.com/Philosophical-Concepts-Physics-Historical-Philosophy/dp/052157823X"
+}

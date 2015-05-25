@@ -1,0 +1,144 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$162.00",
+    "Name": [
+        "Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience, 2nd Edition"
+    ],
+    "OfferPrice": "$133.30",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JGAP6BF3PP6L"
+                },
+                "Date": "on April 30, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OKRT6T3FOHZ1"
+                },
+                "Date": "on January 12, 2011",
+                "Helpfulness": 0.9375,
+                "StarRating": "4",
+                "Text": "This book is very easy to understand and has plenty of examples imbedded within the text. Perfect for upper division physical chemistry classes. I bought this specifically for a class but found that I enjoyed reading it. Dill (the author) lays out the facts of physical chemistry almost like a story that is fascinating to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVFBW8L60E6XP"
+                },
+                "Date": "on April 27, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Ken Dill brings a unique perspective to what he does, and focuses a great deal on making material accessible and easily understandable. That's true of this book, which is really excellent and well-regarded. What the book does well is clearly explain what it touches on, with examples, toy models, and interesting applications. However, it by no means covers every topic that could possibly be covered, nor does it necessarily provide every detail one might like. So if you are after a book that provides a complete picture of the area, this is not the book for you. On the other hand, if you're after a great introduction (at a level a talented, advanced undergraduate student in the sciences can understand) to this area, this is the book for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26BI0XYF47W8L"
+                },
+                "Date": "on October 26, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book illustrated important concepts very well without having to go through lengthy mathematical derivations. I say this coming from a life science background with minimal exposure to mathematics beyond calculus. I recommend this book for anyone in the sciences (and engineering) due to the broad applicability of the topics covered in the text. Great read and goes well with Israelachvili's Intermolecular and Surface Forces."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KRQJCW511PKI"
+                },
+                "Date": "on May 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The author does a great job in explaining complicated topics in a simple straight-forward manner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14GDBTBJ5JSN6"
+                },
+                "Date": "on August 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Helpful in course work, easy to follow"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28NH9BKD15VV1"
+                },
+                "Date": "on November 13, 2013",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "In class every day, our professor spends 50% of the time reading the textbook. 80% of that time is spent explaining how dill is wrong or technically incorrect EVERYWHERE. I do suspect that my professor has a bit of a grudge against Dill, but that doesnt make it's mistakes forgivable. If you want to learn Thermo, and this book is not required, please for your own sake don't use it"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PEU83MSP7YSE"
+                },
+                "Date": "on January 10, 2013",
+                "Helpfulness": 0.4,
+                "StarRating": "3",
+                "Text": "I tried to like this book, I really did. As a grad student in an advanced thermodynamics course, I found the text lacking in both derivations and caliber. It didn't go into depth on more important topics but did fixate on areas that weren't all that relevant."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HITIWXDLGXTH"
+                },
+                "Date": "on February 26, 2012",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "2",
+                "Text": "Based on the reviews for this text, I was looking forward to my second quarter of undergraduate-level biophysical chemistry (specifically, statistical thermodynamics). I was, however, thoroughly disappointed with the reading. While the mathematics was rigorous, I found that little insight was provided as to how to apply the knowledge at all. The chapters we read were mostly concerned with derivations, which was entirely unhelpful with regards to learning to solve the end-of-chapter problems. And since I find that only the act of solving problems can cement my understanding of abstract concepts, I feel as if the augmentation of my physical chemistry knowledge-base this quarter was minimal at best.  I consider my mathematical skills fairly decent (I took two years of calculus/differential equations/linear algebra before embarking on biophysical chemistry) but I feel that this book needs a signficant number of additional in-chapter examples in order to meaningfully instruct rising chemists who are planning careers in experimental/wet-lab work, as opposed to theoretical/computational chemistry. This text would be fairly decent as a reference, but is not sufficiently reader-friendly in order to serve as voluntary/bedtime reading for even the mathematically well-versed undergraduate chemistry student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARJR2Y0FRYFW8"
+                },
+                "Date": "on September 10, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Not a best book for starter. While, it's not so interesting when you've learned something elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V7XSKMLVJQPR"
+                },
+                "Date": "on March 29, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RISPLCCZOWQE"
+                },
+                "Date": "on July 10, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The textbook did get a little bit wordy/muddled up at most points, but gave a lot of information. The practice questions were really hard to find relevant to what was in the actual chapter. Also, it did go through most formula really in-depth, but it was hard to figure out the finished product."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EKAF5KDGZL0J"
+                },
+                "Date": "on February 12, 2011",
+                "Helpfulness": 0.3125,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S3ITROS8YW19"
+                },
+                "Date": "on February 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Driving-Forces-Statistical-Thermodynamics/product-reviews/0815344309/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "14"
+    },
+    "Salesrank": "#332,495",
+    "Timestamp": "2015-05-24 15:17:04.184482",
+    "itemurl": "http://www.amazon.com/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815344309"
+}

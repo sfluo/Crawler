@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.99",
+    "Name": [
+        "Quantitative Seismic Interpretation: Applying Rock Physics Tools to Reduce Interpretation Risk"
+    ],
+    "OfferPrice": "$83.42",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXMXZ4Y0720QY"
+                },
+                "Date": "on February 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "As much as I generally like this book and appreciate the authors' attempts to lay out the basic ideas and workflows used in quantitative seismic interpretation for a general earth science audience, the authors really need to revise this book for style (too much passive voice!!), readability, unnecessary jargon, and clarity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GASMD3SJ1RJK"
+                },
+                "Date": "on November 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "very good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantitative-Seismic-Interpretation-Applying-Physics/product-reviews/052115135X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#742,928",
+    "Timestamp": "2015-05-24 13:31:13.937784",
+    "itemurl": "http://www.amazon.com/Quantitative-Seismic-Interpretation-Applying-Physics/dp/052115135X"
+}

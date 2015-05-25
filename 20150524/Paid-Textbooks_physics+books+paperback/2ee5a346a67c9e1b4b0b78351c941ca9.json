@@ -1,0 +1,216 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "Mathematical Methods for Physics and Engineering: A Comprehensive Guide"
+    ],
+    "OfferPrice": "$93.88",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PJC2U3JR3VC5"
+                },
+                "Date": "on October 15, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK48KHEK979N"
+                },
+                "Date": "on May 29, 2007",
+                "Helpfulness": 0.96,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q5WMRSUI4NNE"
+                },
+                "Date": "on October 17, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHUGN67DWPP8"
+                },
+                "Date": "on September 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X5SY68DH1MIZ"
+                },
+                "Date": "on April 5, 2009",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T8QNJZ1XK1DF"
+                },
+                "Date": "on May 11, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I can't say enough good things about this wonderful book! It is an excellent resource as a reference for mathematical concepts that are commonly employed within the sciences and engineering. One caveat that others have pointed out is that the book does not go in esoteric detail and does not weigh heavily on the theoretical aspects of the material, and while this is true, it does not detract from the substance of the book. It still makes an excellent educational and reference resource and I highly recommend this to anyone wanting to add to their scientific and mathematical library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22L9WS4ZAMVMJ"
+                },
+                "Date": "on October 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BXQ9QDNWCHAO"
+                },
+                "Date": "on February 9, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RHGCFWH30XN1"
+                },
+                "Date": "on January 19, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "Very good book. Wide range of contents and written in British style, which may seem strange to some."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SI0D1BHPBSYT"
+                },
+                "Date": "on October 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is on the whole exactly what you need in a math textbook. It's very clear and the problems and hints are really useful. Occasionally it skims over something, but it's a pretty long book already, so you can't really blame them!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38T7T8LRDA2N0"
+                },
+                "Date": "on November 17, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "The book was in excellent conditions and its content have been very useful. This is the book with a high level but at the same time easier to follow and understand. The examples shown are illustrative enough to consider that the topic was completely covered and understood."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349HM4BN270VB"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BJFJM8UH0XB"
+                },
+                "Date": "on April 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book, have good examples , and exercises are excelent aplications of theory. Can be a little difficult in the begin, if didnt have see the point in other's books"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38VTO9XL456BD"
+                },
+                "Date": "on October 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Cover to cover math, all thing things you need to know as a practicing mathematician or just some one curious to know some neat math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZLT89S2XXC6Q"
+                },
+                "Date": "on March 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Essential mathematical methods with physics context.  Daughter using at major university.  Will be a good reference book later.  Higher level than others."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FE2B2X39IFJJ"
+                },
+                "Date": "on May 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38TXY1ZK2YJGA"
+                },
+                "Date": "on October 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Sometimes it lets behind steps for solving problems... May be a bit obvious but trust me if you are studying for more than two hours this is gonna be an issue! Generally, a great book!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SAWILG2MZVB5"
+                },
+                "Date": "on February 15, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "new book with great price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VZ8B3DX61FJ4"
+                },
+                "Date": "on March 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "LIKE NEW, EXCELLENT!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CJBCRKVXTUZL"
+                },
+                "Date": "on September 23, 2011",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O9MWQSOMS07W"
+                },
+                "Date": "on February 20, 2012",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": "This is decent review for topics that you already know. Otherwise, using it to learn from is a joke. The goal of the authors appears to be to present as much mathematics as possible, but in doing so they sacrifice any sort of rigor or in depth analysis or understanding. This makes it quite frustrating, leaving the reader with ample questions to deem this book unworthy of anything other than a quick review/reference for what you have already seen."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RP96R8RGFFLU"
+                },
+                "Date": "on April 24, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Comprehensive/product-reviews/0521679710/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "22"
+    },
+    "Salesrank": "#64,377",
+    "Timestamp": "2015-05-24 13:00:30.784154",
+    "itemurl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Comprehensive/dp/0521679710"
+}

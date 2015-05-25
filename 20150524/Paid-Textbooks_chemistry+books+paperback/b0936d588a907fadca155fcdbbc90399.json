@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$46.00",
+    "Name": [
+        "Understanding Batteries: RSC (RSC Paperbacks)"
+    ],
+    "OfferPrice": "$43.52",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J1BXR2S1SOWO"
+                },
+                "Date": "on January 1, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "It is difficult to understand why the authors of a book published in 2001 would include the sodium-sulfur battery as an advanced battery when it never reached the market place, but provide such a scant description of the lithium-ion battery, whose applications impacted all of us, even seven years ago. If it included the word 'History' in its title then the book's content would make more sense as it does a reasonable job of providing a background history for each of the battery types it describes. However, if the goal was to produce a book with widespread appeal to an audience seeking to understand the batteries encountered in daily life, then the book was a failure."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18J2QEV3MMWQ5"
+                },
+                "Date": "on May 14, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "If you want to understand batteries from a physical point of view, i.e., using basic physics then don't buy this book. I was expecting an in depth discussion of the physics and got zero. This book assumes you understand everything and starts from there."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Batteries-RSC-Paperbacks/product-reviews/0854046054/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,888,975",
+    "Timestamp": "2015-05-24 15:36:15.707024",
+    "itemurl": "http://www.amazon.com/Understanding-Batteries-RSC-Paperbacks/dp/0854046054"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$127.95",
+    "Name": [
+        "Principles of Nonlinear Optical Spectroscopy (Oxford Series on Optical and Imaging Sciences)"
+    ],
+    "OfferPrice": "$115.15",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 4, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Unfortunately, this book is pretty much the only comprehesive text on the subject, and if you're a grad student about to begin study in this field, you will need this book. Mukamel is certainly very knowledgable, and he gives a unified treatment of absorption, transient grating, and photon echo spectroscopies in terms of double-sided Feynman diagrams.  However, his treatment is highly algebraic and builds no physical intuition of the phenomena. If you can understand him, you probably thoroughly understood the topics before you read the book anyway. Self-study with this book will be frustrating, but it's an important resource for instructors and others who already understand the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 1, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent and very important book.  The subject of nonlinear optical spectroscopy is a rapidly emerging field that is important in chemistry, physics, biology, and materials science.  This book provides the theoretical underpinning for the entire field.  It deals with a large number of experimental methods and topics that are widely used.  This is a complex subject, and this is not a simple book.  To present the theory at a level that enables researchers to understand and design experiments, it is necessary to go into depth in subjects that are complex conceptually and mathematically.  A simplified version of the theory would be easier to follow, but it would not be useful.  This book is a must for anyone in the field of nonlinear optical spectroscopy, whether he is an experimentalist or a theoretician."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A313AKDBLMJJU6"
+                },
+                "Date": "on May 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "As a first-year graduate student in physical chemistry, this book is a great resource to check up on nearly any aspect of spectroscopy. It is thorough and complete. My only complaint would be that it would appear that there is not a single nontrivial or non-obvious solution in the whole text, if we are to take the author's hints properly. What Shaul Mukamel will assume is \"clear to see\" is often not, at least at my level of understanding. I am very fortunate in that I am actually taking the class with Prof. Mukamel himself, who fills in the various steps in the quantum mechanical during lecture. Otherwise, the text would be very difficult reading. I highly recommend learning from it, because it is such an excellent resource to keep referring to, but beware that it is very challenging for beginner graduate students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACT08IQHPQ4GA"
+                },
+                "Date": "on October 25, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Mukamel creates the \"language\" to discuss nonlinear spectroscopies. If you are in this promising field. You must have this book. And probably along with Boyd's Nonlinear Optics. The study curve is very steep, be prepared for that."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Nonlinear-Optical-Spectroscopy-Sciences/product-reviews/0195132912/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#766,646",
+    "Timestamp": "2015-05-24 15:23:52.607054",
+    "itemurl": "http://www.amazon.com/Principles-Nonlinear-Optical-Spectroscopy-Sciences/dp/0195132912"
+}

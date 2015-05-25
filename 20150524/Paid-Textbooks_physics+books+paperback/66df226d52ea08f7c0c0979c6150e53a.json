@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$27.50",
+    "Name": [
+        "University of Chicago Graduate Problems in Physics with Solutions"
+    ],
+    "OfferPrice": "$24.75",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 4, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ROJNY48QN55E"
+                },
+                "Date": "on January 16, 2002",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "4",
+                "Text": "This book is not as useful to me as the Major American Universities Ph.D. Qualifying Questions and Solutions books, however it still provides adequate examples of problems in most of the major disciplines within the field of physics. The book is organized such that the problems are presented in the first ~half of the book, and the rest of the book is dedicated to detailed solutions.  I would prefer that problems and solutions be printed together on the same page, however this setup is satisfactory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HTQH0YFLU918"
+                },
+                "Date": "on May 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book was mostly helpful for seeing what kind of problems I might expect.  The solutions part is not all that helpful for many of the problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/University-Chicago-Graduate-Problems-Solutions/product-reviews/0226121097/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#269,899",
+    "Timestamp": "2015-05-24 13:16:13.360647",
+    "itemurl": "http://www.amazon.com/University-Chicago-Graduate-Problems-Solutions/dp/0226121097"
+}

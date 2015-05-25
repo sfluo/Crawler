@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Quantum Chemistry (Special Edition - Chemical Principles Part 1)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFCR9LT2OW4VD"
+                },
+                "Date": "on February 8, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Seller was very nice and reliable. I discovered much later that my professor changed the required textbook for the course after I had purchased the book through Amazon. I immediately emailed the seller of what had happened and asked for a possible refund. They canceled the shipping and gave me a refund, which was very understanding of them. Would greatly recommend buying books from them, very reliable."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Quantum-Chemistry-Special-Principles/product-reviews/0495841471/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,242,766",
+    "Timestamp": "2015-05-24 15:37:04.425591",
+    "itemurl": "http://www.amazon.com/Introduction-Quantum-Chemistry-Special-Principles/dp/0495841471"
+}

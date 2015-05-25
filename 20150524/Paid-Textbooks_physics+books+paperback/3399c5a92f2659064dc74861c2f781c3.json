@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Brainteaser Physics: Challenging Physics Puzzlers"
+    ],
+    "OfferPrice": "$23.75",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KKY75YCLDL0P"
+                },
+                "Date": "on July 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The book is interesting for a geek, physics or technically oriented person. Some of the articles are not interesting but many are. It is good at a party or gathering where you want to get people thinking."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P4JMPW64262N"
+                },
+                "Date": "on January 7, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I am a Physics teacher. I was looking for a book that had questions that I could use in class to challenge the students. this book fit the bill. It asks good every-day questions with a physics answer. It provides several levels of answers depending on the intellectual level of the students. It is a great question book to open a class with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on June 9, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "BRAINTEASER PHYSICS: CHALLENGING PHYSICS PUZZLERS provides a fun, casual approach to learning the science of physics, through a series of fun question-and-answer 'puzzlers' posing both classic and new problems and answers. Diagrams, equations, and scientific discussions support teach brainteaser with a survey of scientific thinking and concepts, making this perfect for high school or general-interest collections seeking reinforcements to physics principles."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Brainteaser-Physics-Challenging-Puzzlers/product-reviews/0801885124/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#957,727",
+    "Timestamp": "2015-05-24 13:35:10.441362",
+    "itemurl": "http://www.amazon.com/Brainteaser-Physics-Challenging-Puzzlers/dp/0801885124"
+}

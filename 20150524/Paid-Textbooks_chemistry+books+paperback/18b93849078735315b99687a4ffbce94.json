@@ -1,0 +1,207 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.95",
+    "Name": [
+        "Molecular Quantum Mechanics"
+    ],
+    "OfferPrice": "$58.92",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ARA52HB238HT"
+                },
+                "Date": "on September 15, 2000",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JZUGERNK38IW"
+                },
+                "Date": "on October 9, 2007",
+                "Helpfulness": 0.7727272727272727,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 3, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I definitely recommend this text for anyone interested in theoretical chemistry and qunatum mechanics. It presents material which assumes the reader is familiar with multivariate vector calculus and the basics of quantum theory. The book is excellent in that it presents practically every facet of quantum chemistry in a cohesive manner which widens the reader's understanding and appreciation of the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 17, 1998",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "I recommend this book for anyone interested in intermediate level quantum chemistry. It provides very detailed information which has been very useful to me personally. It presents the material in a logical order and includes many detailed diagrams. You won't regret buying this one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R1VUH9MIOE5N"
+                },
+                "Date": "on April 16, 2009",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": "I have always thought that Atkins' textbooks were horrible. His worst book was Physical Chemistry, only the 2nd edition was good, then it deteriorated considerably (now I think it's up to the 8th edition!  very hard to read that book).  This one, Molecular Quantum Mechanics, has an excellent selection of topics, and is mostly a book that will teach you about spectroscopy techniques for the study of molecules (NMR, ESR, vibrational spectroscopy, rotational spectroscopy, etc). It does a fairly good job at teaching things with minimal assumed background. So anyone with basic calculus and some intro to QM should be able to read this book. Atkins derives much of the QM tools needed for the rest of the book (e.g. time-dependent perturbation theory). His presentation of the more \"mathematical\" topics is generally very lucid.  With the exception of the section on group theory, which I've always thought was incomprehensible.  You will find a MUCH better (and friendly) learning tool in D.C. Harris' (dover) book. Group theory is taught without any nonsense. I also like Bernath's textbook for group theory (that's about the only thing that's good in Bernath). Anyhow, Atkins IS a good buy. You will learn a lot from it, and it can serve as an excellent supplement to any course on quantum mechanics. He is very pedagogical, and the book includes tons of relevant worked examples.  Many of them are non-trivial too, so it makes you feel good, that you've learned new stuff and improved your skills.  I would say this is a good book, from an author who usually writes mediocre textbooks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 5, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27ZPBUKYSGWEF"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is the best quantum chemistry book. All issues are clear and didatic. I recommend, mainly because the frist chapters explains the postulates like no other book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DC76W51JTISG"
+                },
+                "Date": "on February 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Being four chapters into this textbook now, and with a decent background in mathematics, I feel very strongly that this book has set a bar for explanation of difficult phenomena. At no point does the ideas presented seem unreachable, and the build from topic to topic is masterful. Sincerely, I am glad to be using this text for this subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31F1ST8IBAC5F"
+                },
+                "Date": "on February 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "Used this book for a graduate quantum class. Atkins, despite having written several books in physical chemistry, is useless. This is a very basic textbook with several notation errors. Oxford books: find a physicist that will write a clear and descriptive quantum textbook for use across multiple disciplines."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UNWN9L2LB3D8"
+                },
+                "Date": "on January 6, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I used this text after struggling for the first few weeks in my quantum chemistry course at Berkeley. Recommended by my professor, this text made sense of things that I believed impossible. And, it includes a lot of graphs to boot! I found this book coupled with Griffith's Quantum Mechanics to have been the best possible undergrad combo in my junior year as a chemistry undergrad. In fact, I sold my required text and passed the class with flying colors using just the Atkins book and the Griffith text. Where Atkins is too wordy, Griffith's concise explanations help greatly. And, vice versa, when you need more info, turn to Atkins. Bon chance!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J007BT1OE3TY"
+                },
+                "Date": "on November 5, 2012",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Buy McQuarrie and Simon's \"Physical Chemistry\" or Griffith's \"Introduction to Quantum Mechanics\" instead of this book. The book is too concise, and it skips a considerable amount of math. The math is awkwardly addressed in his Mathematical Background and Further Information chapters. Also, the book is, overall, harder to understand. It may be the way the way the author words the sentences or the notation he uses for equations. I have spent hours trying to decipher what the author was trying to say in several chapters. I felt cheated on the time that I had to spent on this book to understand the concepts it illustrated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 13, 1997",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is probably the most didactic book for beginning students in the subject of quantum chemistry, is full of color ilustrations, solved exercices and detailed explanations.  I really recomended it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BWISQYAOGJ1R"
+                },
+                "Date": "on September 18, 2006",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "Okay, I'll admit that my background in quantum chemistry is pretty sketchy. However I feel much more lost than usual in this book when it comes to understanding the phenomena that they're trying to model. The problems at the back and the solutions that come with the 3rd edition of this book are even worse as he jumps around alot and don't teach you how to think about problems, just random ways of solving it. I guess this is an intermediate quantum course but I feel safer with Levine, which I used in undergrad physical chemistry. He/she (not sure if Ira is a guy) at least goes through the math so that you can follow it pretty easily. Atkins... Not my cup of tea!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28VLIV2QOCH9O"
+                },
+                "Date": "on June 11, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QPZP64O8YRDK"
+                },
+                "Date": "on October 18, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W1EGE7A9BOGY"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is great! Especially for someone who is the beginner of the QM. It is easy to understand and if you follow the book, you will learn a lot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18TG4QL7Q00CZ"
+                },
+                "Date": "on October 9, 1999",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "5",
+                "Text": "In the third edition of MQM a new standard of science text writing has been achieved. Marvellous in and of itself and extremely useful as an intermediate level text for anyone interested in quantum chemistry. A must  for any desert island."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A307HAFO842XFO"
+                },
+                "Date": "on October 19, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "Basic info for the layperson only.  Keep looking for a more robust explanation.  Hard to believe that this is used as a text book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1680K9HJUSZGL"
+                },
+                "Date": "on November 8, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A366TKYNF1L7A7"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CO750VRCXLIE"
+                },
+                "Date": "on December 28, 2001",
+                "Helpfulness": 0.25,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Quantum-Mechanics-Peter-Atkins/product-reviews/0199541426/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "21"
+    },
+    "Salesrank": "#274,753",
+    "Timestamp": "2015-05-24 15:35:31.981076",
+    "itemurl": "http://www.amazon.com/Molecular-Quantum-Mechanics-Peter-Atkins/dp/0199541426"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$13.95",
+    "Name": [
+        "Introduction to Statistical Optics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.83",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RCGE3WC0GXNB"
+                },
+                "Date": "on June 24, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O9IWXIQQC2RQ"
+                },
+                "Date": "on September 7, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I came to this book with a good background in signal processing (communications) and math, but not so much in modern optics. The book really brought out the connections. I was able to quickly grasp a lot of the early part of the book, once I stepped up from 1 to 2 dimensions (no big deal). Later parts were sometimes over my head, but still interesting and worth reading. Often I'd just scan slowly, getting the sense of the equations or physics without worrying about proving every detail, then read the concluding paragraphs of a section in more detail and get some understanding. If you have a background like mine, this is a terrific book. Probably pretty good for others, too, but I can't promise that."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DOAIHONJPLBI"
+                },
+                "Date": "on July 13, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Really great book for seeing the forest without getting clobbered by the trees. I came to the book a practicing optical physicist.  While I had seen all the pieces separately over the course of my education, I had never seen so much essential material presented so logically and so well.  I find it light years more readable than Goodman, or Born and Wolf.  O'Neill has the gift of being able to sense what is hard to swallow, and illuminating it like no other. I would elevate to an essential place on the shelf of any would be optiker of today.  Would make an excellent senior undergraduate course, or gift for a beginning graduate student in optics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Statistical-Optics-Dover-Physics/product-reviews/0486435784/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#727,074",
+    "Timestamp": "2015-05-24 12:44:12.658353",
+    "itemurl": "http://www.amazon.com/Introduction-Statistical-Optics-Dover-Physics/dp/0486435784"
+}

@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Standards of Brewing: Formulas for Consistency and Excellence"
+    ],
+    "OfferPrice": "$29.68",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW8E0QQQA9ABM"
+                },
+                "Date": "on August 6, 2004",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "This book was thorough and informative about big brewery quality controls.  But, be warned if you are a 5 gallon a time homebrewer the book will have little guidance/application for you.  Andrew Steele - New Zealand"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 17, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book addresses a great many of the problems that one encounters day to day in a beer quality laboratory. The writing is in a style that is easy to understand and I thought that the best part was that the book was written with a great sense of humour. I never thought that I would enjoy reading a chapter on  \"statistics and process control\" and yet the author guides you through it in such a way that he leaves you with a clear understanding of the concepts and you enjoy the journey. The author appears to be  superbly qualified to write the book from his experiences in the brewing industry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 23, 2002",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RW694OV7G8AI"
+                },
+                "Date": "on June 29, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS7DA2Z50ANQZ"
+                },
+                "Date": "on May 31, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I am a home brewer.  Much of what is in the book I will never use.  I knew this going into the book, but I am interested in the theoretical side of brewing.  It gives a good introduction into the various tests that can be performed on raw materials, wort, and finished product.  Recommended for brewers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TBH29DNUFH3I"
+                },
+                "Date": "on July 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear cut, as expected. Much more geared toward commercial brewers than home brewers but some principles translate. I bought this as the text book for Dr. Bamforth's practical brewing laboratory class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11IFQ2TYJA6A3"
+                },
+                "Date": "on October 19, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "For beginners only! The content is written for someone who doesn't have any background with quality control in an industrial setting.  Basically one course in statistics and food chemistry will greatly exceed the knowledge presented in this book.  The information that is presented is clear and well written, but lacking in depth or actual applicability.  I was disappointed in the amount of applicable equations, tables and data, especially based on the title of the book and the academic background/experience of the author.  The 200 pages are a result of a very small book size. This book wasn't worth the price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 3, 2003",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A wonderful book. I learned as much as I laughed. I would recommend this book to anyone that wants to know more about brewing. A++++!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31WQUIM83YIJ9"
+                },
+                "Date": "on August 10, 2007",
+                "Helpfulness": 0.06666666666666667,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Standards-Brewing-Formulas-Consistency-Excellence/product-reviews/0937381799/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#288,820",
+    "Timestamp": "2015-05-24 13:31:19.998300",
+    "itemurl": "http://www.amazon.com/Standards-Brewing-Formulas-Consistency-Excellence/dp/0937381799"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "On Physics and Philosophy"
+    ],
+    "OfferPrice": "$27.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C1Z1GS1K0K12"
+                },
+                "Date": "on January 10, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Simply first-rate thinking that cannot, should not be ignored in this mad postmodern world of ours. d'Espagnat has set the philosophical cat amongst the philosophical pigeons to good effect."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Philosophy-Bernard-dEspagnat/product-reviews/0691158061/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#603,821",
+    "Timestamp": "2015-05-24 13:48:02.707138",
+    "itemurl": "http://www.amazon.com/Physics-Philosophy-Bernard-dEspagnat/dp/0691158061"
+}

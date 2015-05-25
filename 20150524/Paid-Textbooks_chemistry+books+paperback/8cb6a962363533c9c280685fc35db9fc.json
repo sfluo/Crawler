@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecular Thermodynamics of Electrolyte Solutions"
+    ],
+    "OfferPrice": "$87.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LUVJH9KIBQ1K"
+                },
+                "Date": "on December 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Thermodynamics-Electrolyte-Solutions-Lloyd/product-reviews/9812814191/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,985,738",
+    "Timestamp": "2015-05-24 15:56:22.010704",
+    "itemurl": "http://www.amazon.com/Molecular-Thermodynamics-Electrolyte-Solutions-Lloyd/dp/9812814191"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Engineers and Scientists, Volume 2, Third Edition (Chapters 22-36 v. 2)"
+    ],
+    "OfferPrice": "$105.26",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FATOHOGARG25"
+                },
+                "Date": "on December 15, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "I appreciate the style in which the authors have dome with the series. It is a change of pace. it emphasizes the theory, with the practical which is something that I appreciated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C0JZN0MG5EQ4"
+                },
+                "Date": "on April 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Not nearly enough emphasis on theory, gives a decent description of the basic concepts, but if this is a \"weed-out\" class at your university this book will fall short of what you need. I recommend using your professors supplementary materials as well as MIT's open course ware to compensate for the lack of theory covered in this book. The worst part is the lack of a solutions manual. There is no solution manual online, and the only ones I have been able to find is the supplementary one sold for $30, which only solves out 50% of the odd-numbered problems, and then another through a $15/month chegg subscription. So if you find a problem you cannot solve you are stuck going to office hours because all this book gives you is the final answer for odd number problems. Overall you get a sub-par book that has a bunch of problems, but gives no help in solving those problems, i would not recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEKB53IDVF4BD"
+                },
+                "Date": "on September 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. It explains everything incredibly well. I understand everything in much greater detail than before. I would recommend this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IZ0GBOT1FBMW"
+                },
+                "Date": "on December 22, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Nothing much to say about this book. I needed it for class and it was in good condition so I bought it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Engineers-Scientists-Third-Chapters/product-reviews/0393930041/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#52,011",
+    "Timestamp": "2015-05-24 12:51:15.649640",
+    "itemurl": "http://www.amazon.com/Physics-Engineers-Scientists-Third-Chapters/dp/0393930041"
+}

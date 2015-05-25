@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "The Ultimate Book of Saturday Science: The Very Best Backyard Science Experiments You Can Do Yourself"
+    ],
+    "OfferPrice": "$23.12",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGV3PPHY1R6HQ"
+                },
+                "Date": "on July 18, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I7X1SBRGMLI3"
+                },
+                "Date": "on February 26, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "2",
+                "Text": "Interesting experiments--hard to imagine they could be done in a single Saturday.  Skills in electronics and circuit fabrication mandatory for many, if not most experiments."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXYPMCW5KWY2H"
+                },
+                "Date": "on April 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My eight year old has marked so many experiments in this fantastic book that we shall have a spring and summer filled with father/son activities that enrich us both. Neil Downie carries the subject off in a way that is fun, funny and very educational. Invest in our future...your kids. Buy this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ultimate-Book-Saturday-Science-Experiments/product-reviews/0691149666/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#321,058",
+    "Timestamp": "2015-05-24 15:22:20.104405",
+    "itemurl": "http://www.amazon.com/Ultimate-Book-Saturday-Science-Experiments/dp/0691149666"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "Neoclassical Physics (Undergraduate Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$75.24",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX5DVOFPEC9BZ"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I think this is an outstanding book.  I work in industry as an applied mathematician and I am one of the owners of a small technology company that develops light-weight, high precision radars for atmospheric sounding.  My responsibility in the firm is the development of the radar's signal processing algorithms as well as the development of mathematical models that describe what the radar sees.  From time to time I find that I need to know more about some particular area of theoretical physics.  Lately, it has been statistical mechanics.  Chapter 11 in this book provides an excellent overview of statistical mechanics and its connections to chemistry and probability theory.  It was just what I needed. The text even contains tables that show data from some of the fundamental measurements made by the pioneers in the field.  I found this to be very helpful in my study of this material.  I recommend this book to anyone who is trying to learn more physics, especially in a self-study situation."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Neoclassical-Physics-Undergraduate-Lecture-Notes/product-reviews/3319106465/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,289,713",
+    "Timestamp": "2015-05-24 13:31:10.008604",
+    "itemurl": "http://www.amazon.com/Neoclassical-Physics-Undergraduate-Lecture-Notes/dp/3319106465"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Electronic and Photoelectron Spectroscopy: Fundamentals and Case Studies"
+    ],
+    "OfferPrice": "$49.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAM7K4YWBFRRR"
+                },
+                "Date": "on July 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASVXT3KI600G"
+                },
+                "Date": "on November 27, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "As far as I've been able to tell so far, this book is well-written and the level is good for a graduate student in spectroscopy.  The kindle version has a table of contents, but no chapter breaks that allow the reader to navigate the book.  To me, that is a serious oversight, and I hope the publisher considers adding that key feature.  I will probably return this and get the paperback version."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electronic-Photoelectron-Spectroscopy-Fundamentals-Studies/product-reviews/0521520630/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,881,246",
+    "Timestamp": "2015-05-24 15:54:02.938554",
+    "itemurl": "http://www.amazon.com/Electronic-Photoelectron-Spectroscopy-Fundamentals-Studies/dp/0521520630"
+}

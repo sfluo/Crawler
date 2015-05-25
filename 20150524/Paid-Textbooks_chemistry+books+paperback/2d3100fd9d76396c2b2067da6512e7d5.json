@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Solid State Chemistry: Volume 1: Techniques"
+    ],
+    "OfferPrice": "$96.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 21, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As any serious student who buys advanced science texts knows, edited books with many authors are almost always dismal.  Cheetham & Day's book is a rare exception.  If you seek a solid state chemistry text, you still can't  find anything that is fully satisfactory.  An authoritative book that has  both the depth and breadth necessary to fill that role still doesn't exist,  but this book is one of a couple that are worth buying in the meantime."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I4DMTR15A6G0"
+                },
+                "Date": "on August 30, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It's a great introductory and quick reference book. Helps speed up learning curve for solid state experimentalist beginners (early year grad-students, like myself)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Solid-State-Chemistry-1-Techniques/product-reviews/0198552866/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,345,002",
+    "Timestamp": "2015-05-24 15:21:20.777993",
+    "itemurl": "http://www.amazon.com/Solid-State-Chemistry-1-Techniques/dp/0198552866"
+}

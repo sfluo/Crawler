@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics of Everyday Phenomena"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MMFTF9X7W15F"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Not sure what to say about this.  It's a required book.  I think it does a great job explaining the topic it covers.  However,  it's only as good as the professor teaching it.  Mine happens to be great."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26MH4L5S5SJ5K"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "So happy with my book.. It looked brand new!  Plus customer service was excellent! I needed it pretty fast for my class and they helped expedite the order process"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFU65I3QCQ2MT"
+                },
+                "Date": "on October 27, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Saved me a bunch of money exact same information as the hard copy just a different cover."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ENE6QKPQJPT7"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The international edition is perfect. Much cheaper, soft cover, and still in color. Even the page numbers are the same."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HCMBK9BI57OD"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It's okay for a rudimentary overview of college physics and I'm pretty sure that's the angle they pursued."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOLWY331Y91CM"
+                },
+                "Date": "on April 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The same as US version and wayy cheaper."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7JDOW82JXLQA"
+                },
+                "Date": "on September 14, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great price for renting !"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Everyday-Phenomena-W-Thomas-Griffith/product-reviews/1259094855/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#351,423",
+    "Timestamp": "2015-05-24 13:35:27.664341",
+    "itemurl": "http://www.amazon.com/Physics-Everyday-Phenomena-W-Thomas-Griffith/dp/1259094855"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Gearheads: An Introduction to Vehicle Dynamics, Energy, and Power - with Examples from Motorsports"
+    ],
+    "OfferPrice": "$79.95",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NP9F7HOZRD2U"
+                },
+                "Date": "on April 24, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QYBNC3Y3C1KV"
+                },
+                "Date": "on April 9, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Once in a great while a book comes along that totally captivates your interest, especially when it explains complex concepts and laws in plain, easy-to-understand English. Physics for Gearheads is such a book. If you ever wanted to get a better understanding of the forces that come into play when driving, turning, braking and racing your Corvette, this is indeed the book for you!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACALL2B2L4302"
+                },
+                "Date": "on May 13, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W30H5N59HS3S"
+                },
+                "Date": "on May 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM5ICRODJDY49"
+                },
+                "Date": "on May 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am very impressed with this Randy's new book. This is a book that is greatly needed in the automotive industry. I encourage my engineering students to take as many physics courses as they can, but many physics teachers make physics a dull and uninteresting topic. This book could change all that. I would like to see our physics department adopt this book as text. I commend the author for a great book that could really get automotive engineering students interested in physics."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Gearheads-Introduction-Dynamics-Motorsports/product-reviews/0837616158/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#449,032",
+    "Timestamp": "2015-05-24 12:39:14.708616",
+    "itemurl": "http://www.amazon.com/Physics-Gearheads-Introduction-Dynamics-Motorsports/dp/0837616158"
+}

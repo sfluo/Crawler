@@ -1,0 +1,495 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$20.00",
+    "Name": [
+        "Modern Physics and Ancient Faith"
+    ],
+    "OfferPrice": "$18.00",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWO6ZCBZLM1W4"
+                },
+                "Date": "on May 30, 2003",
+                "Helpfulness": 0.952,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B6J6T9JBUIR"
+                },
+                "Date": "on September 28, 2004",
+                "Helpfulness": 0.9534883720930233,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XZJ32DJS8YV2"
+                },
+                "Date": "on July 15, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H9PWLNBRUBZ8"
+                },
+                "Date": "on May 24, 2003",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18Q1I4W1HVSTW"
+                },
+                "Date": "on January 9, 2004",
+                "Helpfulness": 0.9310344827586207,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 29, 2003",
+                "Helpfulness": 0.90625,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB9UUX98KUWY6"
+                },
+                "Date": "on May 10, 2003",
+                "Helpfulness": 0.8490566037735849,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35MDYSUFZT7G7"
+                },
+                "Date": "on April 25, 2004",
+                "Helpfulness": 0.8846153846153846,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16995JWTFFXZR"
+                },
+                "Date": "on December 31, 2003",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14OJS0VWMOSWO"
+                },
+                "Date": "on June 21, 2003",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": "Written by Stephen M. Barr (Professor of Physics, Bartol Research Institute, University of Delaware), Modern Physics And Ancient Faith offers the fascinating postulate that the great discoveries of modern science are closer to the central teachings of Christianity and Judaism about God, than is the atheistic viewpoint of scientific materialism. Using five great discoveries ranging from the Big Bang Theory to Godel's Theorem to cast doubt on the materialist view and emphasize faith in the Judeo-Christian perception of God, Modern Physics And Ancient Faith is a thoughtful and thought-provoking read which is especially recommended for the philosophically inclined who are struggling with Faith/Science issues."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SU3TXON36T0X"
+                },
+                "Date": "on February 15, 2007",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NCKDPCAUOD4T"
+                },
+                "Date": "on June 22, 2005",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARLMMU8QTTLFV"
+                },
+                "Date": "on October 5, 2009",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HKFBINJGGQ26"
+                },
+                "Date": "on August 22, 2006",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W1JJGJHRPH4Y"
+                },
+                "Date": "on March 9, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28K6G5GYUOLDI"
+                },
+                "Date": "on October 16, 2013",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10KBOP1I8ITEQ"
+                },
+                "Date": "on October 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OGEXNNWBM12C"
+                },
+                "Date": "on April 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35KNHLBZ6Q2T9"
+                },
+                "Date": "on December 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really enjoyed reading this book.  Dr. Barr doesn't push any particular agenda but simply lays out evidence that is thought provoking and intriguing.  He avoids the abstruse language of his scientific discipline and has, rather, written a book that even lay folks like me can understand.  Great!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36INI889RM9J4"
+                },
+                "Date": "on March 17, 2004",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "5",
+                "Text": "Stephen Barr has a gift of writing about complicated philosophical or scientific issues in a clear and well readable style. Not only he has good style he presents deep arguments too. As a pretaste you might read online his excellent article: Retelling the Story of Science, [...]"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9RM7QFFFINDZ"
+                },
+                "Date": "on July 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Engaging, well researched, well argued---I'm impressed with Dr Barr's use of patristics, scholastics, physics, and mathematics to counter the materialist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADRX95LKKTKAX"
+                },
+                "Date": "on May 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R00BFPN86ZYO"
+                },
+                "Date": "on March 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The author exposes the achilles heel of materialist thinking to be just as fanatical and dogmatic as the extreme of religious dogma. And make a good point that any truth, be it religious or scientific, are never discovered in the extremes of human thinking but lie some where in the middle of these polar extremes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABLT1EKO0M5WQ"
+                },
+                "Date": "on November 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16PK96WVIELWO"
+                },
+                "Date": "on May 8, 2011",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A68QXK0H88J4I"
+                },
+                "Date": "on July 12, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NSUJYBA5A4FC"
+                },
+                "Date": "on October 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3891RWNRH1JH6"
+                },
+                "Date": "on December 15, 2005",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "Even though I do not have a math or science background, I found this book to be very understandable. Barr must be a marvelous teacher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ87C9I5LZQN2"
+                },
+                "Date": "on March 26, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book has taught me more than any other about how the discoveries in physics in recent years provide evidence for belief in God. The author knows his subject and is very fair-minded. It does not require a high level of scientific knowledge, but you need to be interested. Topics include the big bang, the design of the universe, freewill, quantum physics and the human mind."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24CG64RV9DO0"
+                },
+                "Date": "on November 1, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I don't agree with all of Barr's conclusions. For Evangelical Christians who want a book defending creationism, this isn't a great resource. But it does a great job at doing what it tries to do. It presents a strong philosophical/scientific case against materialism and introduces the layperson to the quantum universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 17, 2003",
+                "Helpfulness": 0.64,
+                "StarRating": "5",
+                "Text": "Mr. Barr is probably one of the most insightful people of the 20-21st century. His book, \"Modern Physics and Ancient Faith\" is truly astounding. His views are profound and deep, and the way he explains our Religious views, helps us to blend our Faith with our scientific teachings in a way that few people could achieve. Mr. Barr is a truly astounding person with knowlege of one who has seen the world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3409H1XTMR8NQ"
+                },
+                "Date": "on January 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is a substantial antidote to the new secular concerns about the true nature of religion and genuine faith reasonably grounded."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36KXNYDOY74ZW"
+                },
+                "Date": "on January 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Stephen M. Barr connects the dots and why faith and science can co-exist and support each other"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6DRQEFNT69W"
+                },
+                "Date": "on August 12, 2004",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UAUGPAOPX6ZW"
+                },
+                "Date": "on May 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 6, 2003",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A very compelling and thought provoking read. It also highlights that despite our impressive gains in knowledge, there is much about the universe we don't know."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CEMH6VXVTVRH"
+                },
+                "Date": "on September 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great book written for technical as well for the layman reader."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N5CLL74LEP82"
+                },
+                "Date": "on July 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Bought another copy for a friend I liked it so well"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANNTPQZIYHKQ8"
+                },
+                "Date": "on November 30, 2003",
+                "Helpfulness": 0.5925925925925926,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12C1BLWPTHZ6P"
+                },
+                "Date": "on August 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Arrived exactly as represented."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M6NYQ68WW1Q7"
+                },
+                "Date": "on December 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39Q3X9HMAFDJL"
+                },
+                "Date": "on July 5, 2007",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK8LVV3QIG6SL"
+                },
+                "Date": "on June 4, 2007",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "Modern Physics and Ancient Faith is another new Intelligent Design (ID) book that focuses on the evidence for ID in the physical creation instead of the biological creation as is common in ID books. As my area is biology, I feel ID is stronger in this area, but this book was very convincing to me, a non-physicist. My main concern is most of the arguments that Barr uses have already been covered in some detail in the ID literature, thus I was familiar with many of the arguments. Nonetheless, Barr covers them in more detail than most ID books and his work is better documented. If one wants to learn about ID, this is an excellent book that presents the arguments in a very readable and convincing way. I learned about it from my ID friends who recommended it highly. Also, a concern is Barr is not a biologist and tends to repeat some common misinformation about those who have problems with Darwinism. It must be added that he often adds the cravat \"Dawkins says\" or Dennett calls\" or related. Barr does a good job showing the \"age old argument from design\" has historically been by far one of the most compelling arguments for Gods existence and then shows why this argument is still very compelling (see chapters 9 and 10). He also explains in an excellent, but short, discussion why abiogenesis as required by Darwinism and most orthodox evolutionists today is not supported by science (page 74). The first link in evolution is a missing link and \"decades of attempts to solve this problem have borne little fruit\" (page 74). Barr adds the fact is the \"origin of life problem is made very hard by the fact that that first form 'primitive' life form was probably already enormously completed.\" I would add not \"probably', but, from all that is known today, the first life must have been \"enormously completed.\" Highly recommended for anyone wanting to learn more about ID."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z3CWJGV1UG2S"
+                },
+                "Date": "on October 6, 2003",
+                "Helpfulness": 0.5142857142857142,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYXHR0XXEZQTI"
+                },
+                "Date": "on March 8, 2007",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "Great book, and it was in the condition described by the seller."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X9LEBEPBJF5Q"
+                },
+                "Date": "on December 7, 2003",
+                "Helpfulness": 0.4098360655737705,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 12, 2003",
+                "Helpfulness": 0.35,
+                "StarRating": "4",
+                "Text": "The author is obviously very thoughtful, well informed and writes well. He clearly shows what our current limitations in knowledge are especially in the areas of astrophysics and the function of the human mind. Unfortunately in the end he is only arguing a sophisticated \"God of the gaps\" argument. If science ultimately provides more knowledge about these topics then his arguments will fail."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IQQ63T1AF8FR"
+                },
+                "Date": "on January 22, 2012",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FSGJYDNO8ZWN"
+                },
+                "Date": "on November 20, 2006",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NA3EZEKTPX6B"
+                },
+                "Date": "on August 1, 2013",
+                "Helpfulness": 0.13333333333333333,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21A6QVEKSFW2H"
+                },
+                "Date": "on October 7, 2014",
+                "Helpfulness": 0.09523809523809523,
+                "StarRating": "1",
+                "Text": "To hear fellow physicist Mark Perakh tell it, on the one hand, author Stephen Barr appears as a well qualified scientist in various fields of physics and adjacent disciplines, but on the other hand his repeated mantras against \"irrational\" materialism, lacking any serious arguments, seemed to display a mind \"closely confined to certain unsubstantiated notions apparently stemming from his religious upbringing\". Read Perakh's devastating review at Talk Reason dot org."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N726ODKCT4C5"
+                },
+                "Date": "on August 21, 2005",
+                "Helpfulness": 0.08888888888888889,
+                "StarRating": "3",
+                "Text": "i think it is a good book to be read by some sciantist that they think that sciance is the only way, it is good to be open and look to other opinias because they might be right"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TMRY0LXMVLQU"
+                },
+                "Date": "on August 24, 2003",
+                "Helpfulness": 0.06779661016949153,
+                "StarRating": "1",
+                "Text": "The five plot twists are a very weak argument for religious faith.  The observation that the universe is appropriate for life because of the values of fundamental constants of nature is totally circular. Religious faith is dogma and dogma is a dirty word."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Physics-Ancient-Faith-Stephen/product-reviews/0268021988/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "53"
+    },
+    "Salesrank": "#13,632",
+    "Timestamp": "2015-05-24 13:03:35.134569",
+    "itemurl": "http://www.amazon.com/Modern-Physics-Ancient-Faith-Stephen/dp/0268021988"
+}

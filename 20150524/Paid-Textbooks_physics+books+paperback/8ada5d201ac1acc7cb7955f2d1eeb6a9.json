@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.00",
+    "Name": [
+        "Beginning Physics II:  Waves, Electromagnetism, Optics and Modern Physics"
+    ],
+    "OfferPrice": "$17.13",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27K8IIKRW19P7"
+                },
+                "Date": "on September 27, 2001",
+                "Helpfulness": 0.7916666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FYBIG3EG05SP"
+                },
+                "Date": "on March 24, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EOOZ24IJHQB3"
+                },
+                "Date": "on October 27, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I had a very uninspired professor that was mad at life and refused to explain concepts clearly. He would yell at us alot. Anyway I bought this book to prepare myself for exams and engineering certifications that require you to know Modern Physics and related concepts. BIG HELP!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C5F2W8Y3Q2S2"
+                },
+                "Date": "on August 9, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OVXAYW75B2WN"
+                },
+                "Date": "on September 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This writer knows more than just physics, he can write and takes patient time in explaining the details you need to understand physics.  I am still working on his \"Beginning Physics I \" version of the text,  he does not use calculus expressions but sets up the explanation of line integrals so that the central concept is included in the student's mind. The student of calculus can connect the dots, making a summation expression into an integral expression."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG8H1P2JQDVSM"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "clear explanation of the problems"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Beginning-Physics-II-Electromagnetism-Optics/product-reviews/0070257078/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#366,674",
+    "Timestamp": "2015-05-24 13:01:04.302570",
+    "itemurl": "http://www.amazon.com/Beginning-Physics-II-Electromagnetism-Optics/dp/0070257078"
+}

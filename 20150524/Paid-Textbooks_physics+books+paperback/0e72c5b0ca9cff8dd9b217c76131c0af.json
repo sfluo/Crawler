@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Theory of Critical Phenomena (Frontiers in Physics)"
+    ],
+    "OfferPrice": "$4.79",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 22, 2000",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": "This is a very pedagogical introduction to critical phenomena, and the techniques to study it.  In particular, Ma really explains the conceptual aspects of the renormalization group, and provides enough steps in the  calculations of some standard theories that you can fill in the lines.  This book has really been my first exposure to this topic, and I am  definately applying it in my graduate studies!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC46G5WVP3UV"
+                },
+                "Date": "on July 4, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great introduction to the modern theory of phase transitions. The typesetting, while dated, is not much of a distraction, and the text is remarkably clear and written for the autodidact in all of us. It starts out by describing the macroscopic theory of phase transitions created by Lev Landau, and draws what conclusions it can from the theory. It then analyzes the flaws in the theory, and makes a very good intuitive and mathematical arguement for the existence of the renormalization group, and starts drawing results from it. If you're interested in phase transitions and critical phenomena, this book is a must-have."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YBEJRPI9S41A"
+                },
+                "Date": "on September 22, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "In this book, Ma explained every conceptual and technical detail of the renormalization group theory in first seven chapters. So far, this is the most understandable and well-written book on the topic I have read.  A unique feature about the book is that the author reduced mathematical difficulty to a minimal amount, and focused more on basic ideas and physical arguments.  The book may not cover as many topics as other book, but it was certainly a very enjoyable experience reading it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14SMJ6J539T9F"
+                },
+                "Date": "on April 22, 2006",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "The author passed away almost 25 years ago when he was only 43. So I don't see how it could be possible for him to retype it in latex."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 22, 2003",
+                "Helpfulness": 0.35294117647058826,
+                "StarRating": "2",
+                "Text": "I was very disappointed on receiving this book because of its poor quality typesetting.  It uses a very old-technology typesetting program which is mostly courier with integral and summmation symbols added.  The typesetting reminded me of the old Chi-writer version from graduate school days.  It just turned me off.  It would be easy enough for the author to rewrite the book with Latex which would improve it considerably.  It may seem to be a shallow reason, but one gets use to seeing pleasing typesetting which facilitates reading.  I would not have ordered this book if I was able to view some inside pages."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Critical-Phenomena-Frontiers-Physics/product-reviews/0805366717/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,721,300",
+    "Timestamp": "2015-05-24 13:02:28.990633",
+    "itemurl": "http://www.amazon.com/Modern-Critical-Phenomena-Frontiers-Physics/dp/0805366717"
+}

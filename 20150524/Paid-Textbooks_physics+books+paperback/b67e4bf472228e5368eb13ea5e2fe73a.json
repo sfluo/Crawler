@@ -1,0 +1,144 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Scientists and Engineers with Modern Physics"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IP53KFETRYZU"
+                },
+                "Date": "on February 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Okay text.  Covers several semesters.  Good index and plenty of challenging problems.  This is a monstrous text, and would have been better if broken up into three volumes for easier use."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KMKW1H3ZO00S"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great introductory text. The authors are concise and explain the basic principles of physics well. Although I recommend supplementary material, or even another text, for physics majors and those interested in studying advanced physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VSJAR2ILMUHB"
+                },
+                "Date": "on January 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U0G6WRPHSBV2"
+                },
+                "Date": "on February 13, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Its a $350 dollar workbook: the chapters are awfully written."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEVRIRW8ABC8Q"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Arrived super fast and in great shape. It comes in at over 1600 pages, so its a pretty big book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7D9XAR4VQ0VF"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The best way to save $$$ on college book costs. Great program."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5Z7X2RKFJIES"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Poor Text with poor explanations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F7QEKSIFE659"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "this book is really nice and new ! price is good, even better....... useful. good book for phy123 and other 2 class"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F26VGFVUSJ3"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great pricing"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FIEVFIJ5227F"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "Dope book, bruh."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15YZ5KOJ3DGOA"
+                },
+                "Date": "on October 17, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "If you're not required to buy this text, then I'd recommend buying something that's easier to read.  While I'm confident that the authors probably know what they're talking about, and have tried to bring the material down to the level of a college student working on first-year physics, but trying to read this book is like trying to read the Chinese translation of a Latin text (and for the record, I neither read nor speak Chinese or Latin).  There have been times, even in the first few chapters, that I have only been able to understand what they're trying to explain by drawing myself flowcharts as I read.  Unfortunately, this text was required for my classes.  While I am sure the authors are competent, maybe even brilliant, Physics professors, I might humbly suggest they consider a refresher course in \"Making Textbooks Understandable.\""
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RUC2I68VTY2J"
+                },
+                "Date": "on August 20, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "In like new condition as advertised. Good textbook as well. I like physics though, so don't blame me if you don't :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AESL5PDM00F88"
+                },
+                "Date": "on September 5, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "Didn't come with online access code for homework so essentially useless. Opt for 'hybrid' version if you need the online code (however, i've heard the 'hybrid' version does not come with book questions)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A133O8QWISM3UE"
+                },
+                "Date": "on May 1, 2013",
+                "Helpfulness": 0.36363636363636365,
+                "StarRating": "1",
+                "Text": "Absolutely useless. Had to use it for the entire physics sequence at my school. It wasn't until the last semester that I discovered Halliday & Resnick. Study from that instead."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Modern/product-reviews/1133953999/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "14"
+    },
+    "Salesrank": "#206,153",
+    "Timestamp": "2015-05-24 13:26:30.261705",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Modern/dp/1133953999"
+}

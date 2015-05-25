@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Scattering of Light by Crystals (Dover Science Books)"
+    ],
+    "OfferPrice": "$20.56",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13W3IBDQ2KCG1"
+                },
+                "Date": "on January 7, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Scattering-Light-Crystals-Dover-Science/product-reviews/048643866X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,233,150",
+    "Timestamp": "2015-05-24 13:13:18.149836",
+    "itemurl": "http://www.amazon.com/Scattering-Light-Crystals-Dover-Science/dp/048643866X"
+}

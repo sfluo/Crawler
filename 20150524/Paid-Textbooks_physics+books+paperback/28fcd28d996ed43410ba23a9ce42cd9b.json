@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.95",
+    "Name": [
+        "The Nuclear Rocket: Making Our Planet Green, Peaceful and Prosperous (Apogee Books Space Series)"
+    ],
+    "OfferPrice": "$20.85",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37FU3PXS0BP48"
+                },
+                "Date": "on June 4, 2010",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW8SV7XKOWC4I"
+                },
+                "Date": "on November 24, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a subject that the public in general has very little knowledge about.  The book is very well written about a very technical subject.  It reveals possibilities that, I'm sure, NASA engineers are well aware of but are reluctant to discuss openly with the public in that there is such a public outcry by a very vocal minority opposing anything nuclear.  The only possible future for significant utilization of space as a resource is nuclear propulsion.  Imagine using high impulse nuclear rockets to create huge solar power satellites in space!  Nuclear propulsion is the only way it will ever happen.  I highly recommend it to give you an overview of what the future in space exploration could look like."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AL4JSDZJNXHHM"
+                },
+                "Date": "on February 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The book is interesting and well worth reading for the story of this fascinating technology, although one might wish it had been written a little more elegantly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A186WA7PVI7TA6"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a terrific book for anyone who longs for the United States to return to leadership in rocket propulsion"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Rocket-Making-Peaceful-Prosperous/product-reviews/189495999X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,320,069",
+    "Timestamp": "2015-05-24 13:48:28.869023",
+    "itemurl": "http://www.amazon.com/Nuclear-Rocket-Making-Peaceful-Prosperous/dp/189495999X"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Men Who Made a New Physics: Physicists and the Quantum Theory"
+    ],
+    "OfferPrice": "$23.51",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A392AASAU8UDK2"
+                },
+                "Date": "on September 3, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book outlines the personalities of the major figures of physics, Rutherford, Bohr, Plank, Einstein, Schrodinger, Dirac, Born, etc. while explaining the development of quantum theory. The book also talks about relativity and compares it to quantum theory; that is, it compares the thought processes of the creators of both theories. To quote the book, 'in one important sense relativity theory is not a radical departure from traditional scientific thought. It does not challenge determinsim, the burning question, Erwin Schrodinger called it.' Quantum theory does challenge determinism; that is, in quantum theory, one cannot obtain exact information, and as a consequence, make exact predictions. This is due to the uncertainty principle of Heinsenberg. Einstein did not like this, and the book in the end details the conversations between Einstein and Bohr at the Solvay conference and beyond."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FNDSS5KSMF7P"
+                },
+                "Date": "on May 24, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The period from the late 1800's through the mid-1900's was a period of dramatic change in physics, from \"there is little more to discover\" to the (still-continuing) search for a grand unification theory.  The author does a superb job of telling the story of the people and their thought processes in layman's language and in a way which allows the reader to follow the continuity.  Begins with the work of Helmhlolz, Rutherford and Planck in classical physics and continues through the work of Bohr, Einstein and others through to Heisenberg and Schroedinger. Not an easy story with multiple research streams occurring simultaneously ... highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZNPB66DH1IRO"
+                },
+                "Date": "on June 23, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 1, 1997",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "For an exiting layman's visit to the physics of the 20th century and an intimate biography of the men who created the new physics this book is easily the first on my lis"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 11, 1999",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QLGEILGHNM7P"
+                },
+                "Date": "on May 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book wasin excellent condition, and I got it for a very reasonable price."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Men-Who-Made-New-Physics/product-reviews/0226110273/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#222,215",
+    "Timestamp": "2015-05-24 13:37:11.871843",
+    "itemurl": "http://www.amazon.com/Men-Who-Made-New-Physics/dp/0226110273"
+}

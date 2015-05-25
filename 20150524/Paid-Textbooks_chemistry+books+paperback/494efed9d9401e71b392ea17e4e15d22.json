@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$339.95",
+    "Name": [
+        "Introduction to Spectroscopy"
+    ],
+    "OfferPrice": "$289.43",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HGVYQACD5T0N"
+                },
+                "Date": "on December 11, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "So much better book than Lambert"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Spectroscopy-Donald-L-Pavia/product-reviews/128546012X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#437,209",
+    "Timestamp": "2015-05-24 15:34:45.283435",
+    "itemurl": "http://www.amazon.com/Introduction-Spectroscopy-Donald-L-Pavia/dp/128546012X"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$189.00",
+    "Name": [
+        "Free Energy Calculations: Theory and Applications in Chemistry and Biology (Springer Series in Chemical Physics)"
+    ],
+    "OfferPrice": "$169.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38IBSLP1ULRZ5"
+                },
+                "Date": "on June 17, 2007",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N82ZC7MIHM5Z"
+                },
+                "Date": "on March 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I really enjoyed reading this book---it's a very nice reference on free energy calculation in general, and at the mean time, provides in-depth explanations of specific methods that are commonly used in computational chemistry, i.e., TI, FEP, ABF, Jarzynski.. The one thing I like the most is that the text is very well written. Even though it has quite a lot of statistical mechanics content (and many many equations), it doesn't feel hard to read at all. Overall, I'd highly recommend this book to anyone who wants to learn more about the theory of free energy calculations and the various methods out there."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Free-Energy-Calculations-Applications-Chemistry/product-reviews/3540736174/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,663,570",
+    "Timestamp": "2015-05-24 15:17:38.476559",
+    "itemurl": "http://www.amazon.com/Free-Energy-Calculations-Applications-Chemistry/dp/3540736174"
+}

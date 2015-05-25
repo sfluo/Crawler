@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$90.00",
+    "Name": [
+        "Coordination Chemistry"
+    ],
+    "OfferPrice": "$63.87",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28NZ12MP8FLFY"
+                },
+                "Date": "on October 26, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FVZKH9YNBWNS"
+                },
+                "Date": "on February 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "There are many books about Coordination chemistry and some of them go beyond (others not) about the usual topics that are published in reference textbooks, but somehow, I liked the information presented in this book, as well as the distribution of the chapters. It was concise, explaining topics where it required. A good acquisition as for my point of view."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X4UBBY64CED7"
+                },
+                "Date": "on October 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good textbook, needed for my PhD program."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Coordination-Chemistry-Joan-Ribas-Gispert/product-reviews/352731802X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,495,822",
+    "Timestamp": "2015-05-24 15:18:58.564982",
+    "itemurl": "http://www.amazon.com/Coordination-Chemistry-Joan-Ribas-Gispert/dp/352731802X"
+}

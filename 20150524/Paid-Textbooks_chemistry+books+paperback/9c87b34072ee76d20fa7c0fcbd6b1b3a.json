@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$84.99",
+    "Name": [
+        "Applied Mineral Inventory Estimation"
+    ],
+    "OfferPrice": "$67.43",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17WMAY9X3ZNS4"
+                },
+                "Date": "on August 20, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent book covering all aspects of the subject including data collection, verification, and analysis along with geostatistics. Good sections on making sure that the statistically derived answers make geologic sense, a most important aspect. Anyone in the mineral inventory estimation field should get a copy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34FDKZV3G73FA"
+                },
+                "Date": "on October 24, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good book, good combination between theory and practice, and good explanation & examples. I hate the super theory-documents, so this book for me is excellent."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38F64AZWLZROW"
+                },
+                "Date": "on July 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you have anything to do with resource estimation, this is a very good book to have.  Covers in enough detail each sub topic required to produce as reliable as possible the estimation parameters.  Recommended.  One of the other reviewers just likes to through stones.  The methods are industry accepted."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C80UZLTZDQ9X"
+                },
+                "Date": "on April 25, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Between 1965 and 1970 Professor Georges Matheron's most gifted disciples stripped the variance off the distance-weighted and called what was left a kriged estimate to honor D G Krige. Infinite sets of kriged estimates and zero kriging variances are but aberrations in applied statistics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN9VMCUNRFOLR"
+                },
+                "Date": "on January 6, 2005",
+                "Helpfulness": 0.15384615384615385,
+                "StarRating": "1",
+                "Text": "This textbook is based on the premise that the true variance of the distance-weighted average can be replaced with the pseudo kriging variance of a set of degrees-of-freedom and variance-deprived functionally dependent kriged estimates. The distance-weighted average was reborn as an honorific kriged estimate but that could not possibly make its variance vanish without a trace. Just another textbook were the requirement of functional independence and the concept of degrees of freedom are ignored with impunity."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applied-Inventory-Estimation-Alastair-Sinclair/product-reviews/0521021820/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,570,528",
+    "Timestamp": "2015-05-24 15:41:09.356462",
+    "itemurl": "http://www.amazon.com/Applied-Inventory-Estimation-Alastair-Sinclair/dp/0521021820"
+}

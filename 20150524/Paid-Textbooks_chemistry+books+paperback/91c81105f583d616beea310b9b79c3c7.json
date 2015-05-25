@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Orbitals in Chemistry: A Modern Guide for Students"
+    ],
+    "OfferPrice": "$119.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JBV3B91T01UE"
+                },
+                "Date": "on April 22, 2005",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I'm currently struggling through the quantum mechanics portion of a physical chemistry course. \"Orbitals in Chemistry\" is invaluable in explaining the concepts behind the complex derivations and cryptic explanations found in Levine's \"Physical Chemistry\". Nothing can make physical chemistry easy.  This book included.  But it is a book definitely written for students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Orbitals-Chemistry-Modern-Guide-Students/product-reviews/052166649X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,726,533",
+    "Timestamp": "2015-05-24 15:24:38.354268",
+    "itemurl": "http://www.amazon.com/Orbitals-Chemistry-Modern-Guide-Students/dp/052166649X"
+}

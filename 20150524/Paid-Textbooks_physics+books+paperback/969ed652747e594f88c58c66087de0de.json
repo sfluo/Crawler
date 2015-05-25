@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Quantum Mechanics for Applied Physics and Engineering (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$22.85",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DQKC661Z5VCK"
+                },
+                "Date": "on January 11, 2000",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": "I have had little background in QM, but this book seems to explain the basics along with the fundamentals in a logical order. (Nice philosophical and logical development of Schro's Eqn and operators too) Arranged in a  somewhat strange manner, it definitely uncovers some of the more  misunderstood concepts (such as Dirac notation and dispersion relations),  and at this price it's probably well worth it!  Mostly based on  applications dealing with solid state physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARXX0FYMKZJ7P"
+                },
+                "Date": "on July 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O8EAT165MSHM"
+                },
+                "Date": "on August 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23B6L5DTHK1U5"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book \"Quantum Mechanics for Applied Physics and Engineering\" by Fromhold is one of the best books on quantum mechanics to serve as foundation for study of physics of semiconductor devices."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Applied-Physics-Engineering/product-reviews/0486667413/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,763,598",
+    "Timestamp": "2015-05-24 12:55:45.115478",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Applied-Physics-Engineering/dp/0486667413"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics, , Solutions Manual"
+    ],
+    "OfferPrice": "$41.82",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FCSW058J1S2A"
+                },
+                "Date": "on August 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This a good book. It arrived in good condition for me. It contents many solutions (but not all of them) of both odd and even problems of the two volumes of Physics by Halliday,Resnick and Krane, 4th edition. The book is typewritten and has 385 pages. For whom like this 4th edition, it is worth acquiring it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Solutions-Manual-David-Halliday/product-reviews/0471518603/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,178,443",
+    "Timestamp": "2015-05-24 13:07:36.941546",
+    "itemurl": "http://www.amazon.com/Physics-Solutions-Manual-David-Halliday/dp/0471518603"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$75.00",
+    "Name": [
+        "Introduction to 3+1 Numerical Relativity (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$60.63",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28UDEH677ANQ2"
+                },
+                "Date": "on January 28, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELI92XSOT6H4"
+                },
+                "Date": "on February 11, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABG140IGXYZZ1"
+                },
+                "Date": "on May 1, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I'm only an undergrad, who has learned some GR from various books. The review of GR in this book is fantastic! Much clearer than many other books, I don't like his notation for the ADM 3+1 Formalism, but he also explains that very clear and concise. I haven't got past chapter 2 yet, but so far its great!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Numerical-Relativity-International-Monographs/product-reviews/0199656150/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,347,687",
+    "Timestamp": "2015-05-24 13:34:56.071498",
+    "itemurl": "http://www.amazon.com/Introduction-Numerical-Relativity-International-Monographs/dp/0199656150"
+}

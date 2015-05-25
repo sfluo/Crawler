@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Introduction to Light: The Physics of Light, Vision, and Color (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.41",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UO2KQQMB7BW5"
+                },
+                "Date": "on June 10, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD2871D0DKXS0"
+                },
+                "Date": "on August 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Book is a little dated. It deserves to be read carefully since some areas are ambiguous. Author is careful not to over-reach. Would like to have seen more on the visible spectrum and how the eyes see color."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GKTPSIX4MQUA"
+                },
+                "Date": "on November 6, 2006",
+                "Helpfulness": 0.20512820512820512,
+                "StarRating": "1",
+                "Text": "I did not buy this book, I leafed through it at the bookstore. It is in all black and white; no color! A book whose topic is the physics of light and color should contain color illustrations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Light-Physics-Vision-Color/product-reviews/048642118X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#411,937",
+    "Timestamp": "2015-05-24 12:26:48.979413",
+    "itemurl": "http://www.amazon.com/Introduction-Light-Physics-Vision-Color/dp/048642118X"
+}

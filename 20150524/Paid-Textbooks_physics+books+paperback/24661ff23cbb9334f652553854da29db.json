@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Scientists and Engineers: Vol. 3 Modern Physics, Quantum Mechanics, Relativity, & the Structure of Matter (Physics for Scientists & Engineers, Chapters 36-41)"
+    ],
+    "OfferPrice": "$3.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MMSHNBOUL1PE"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good Clean Copy and good packaging."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QNXFXKILBJHD"
+                },
+                "Date": "on January 12, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Good book for people taking a class requiring it the book.  It is a little hard to understand in certain chapters.  Overall a good book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Mechanics-Relativity/product-reviews/157259490X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,167,431",
+    "Timestamp": "2015-05-24 13:02:15.871086",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Mechanics-Relativity/dp/157259490X"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Basic Engineering Thermodynamics (Oxford Science Publications Monographs)"
+    ],
+    "OfferPrice": "$74.00",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU4C0XOLRNNXS"
+                },
+                "Date": "on July 11, 2002",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "This book does not cover the basic topics but instead covers some unnecessary operations and complex calculations from beginning to end. For engineers, I srongly do not recommend this item."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Engineering-Thermodynamics-Science-Publications-Monographs/product-reviews/0198562551/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,757,486",
+    "Timestamp": "2015-05-24 15:48:22.974179",
+    "itemurl": "http://www.amazon.com/Engineering-Thermodynamics-Science-Publications-Monographs/dp/0198562551"
+}

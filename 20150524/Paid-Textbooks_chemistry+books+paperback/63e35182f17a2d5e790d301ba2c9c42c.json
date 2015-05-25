@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Soap Bubbles: Their Colors and Forces Which Mold Them"
+    ],
+    "OfferPrice": "$7.95",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALX01FD8VOL2Z"
+                },
+                "Date": "on May 27, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1582E9LOQWJMU"
+                },
+                "Date": "on December 26, 2001",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Boys book is about 100 years old and is flat out the best first book on bubbles.  It takes you through a lot of interesting experiments that Boys did into areas that are very remote from soap and bubbles.  Full of \"oh, wows\", it is a book that I reread about once a year (I do bubbles professionally, and every rereading contains new insights for me)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30HX8TI52S3AM"
+                },
+                "Date": "on May 29, 1998",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AUP9BEGX8D2S"
+                },
+                "Date": "on January 25, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUTXJ1CQP7HO0"
+                },
+                "Date": "on August 14, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a classic, informative, and a fun read. If you teach science you should have this book. If you know a student that would be engaged by it, give them one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28I4PPJ1CU0QY"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Soap-Bubbles-Their-Colors-Forces/product-reviews/0486205428/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#355,397",
+    "Timestamp": "2015-05-24 15:18:22.833729",
+    "itemurl": "http://www.amazon.com/Soap-Bubbles-Their-Colors-Forces/dp/0486205428"
+}

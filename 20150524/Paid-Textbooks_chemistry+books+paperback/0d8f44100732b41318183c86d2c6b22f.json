@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Electronic Structure and the Properties of Solids: The Physics of the Chemical Bond (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$22.06",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJSKFFXEBS62R"
+                },
+                "Date": "on January 22, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 7, 2000",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK5AZMXS1QA3"
+                },
+                "Date": "on November 27, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IZHU7X83RAM5"
+                },
+                "Date": "on February 29, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "The idea behind this book is that a beginning graduate student can do approximate electronic structure calculations, solving nothing more than the quadratic equation, with the approximations provided.  The approximate models are said to aid understanding and train intuition.  It's a nice idea, but given the easy accessibility to electronic structure codes and powerful computers these days, it's antiquated: ones first approach would instead be to calculate!  Worse, the pedagogical style in the book is such that it doesn't really train intuition either.  I spent a lot of time trying to understand this book and I can't say that my effort was rewarded.  Positive features: scope, historical interest, and low price from Dover."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electronic-Structure-Properties-Solids-Chemical/product-reviews/0486660214/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#299,287",
+    "Timestamp": "2015-05-24 15:16:50.830170",
+    "itemurl": "http://www.amazon.com/Electronic-Structure-Properties-Solids-Chemical/dp/0486660214"
+}

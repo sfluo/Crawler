@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$95.95",
+    "Name": [
+        "Modern NMR Spectroscopy: A Guide for Chemists (Oxford English Monographs)"
+    ],
+    "OfferPrice": "$82.53",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BSUX8337V9PM"
+                },
+                "Date": "on December 21, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Good book, however, it was not in such an excellent shape as promised... The shipment was rapid. The book is excellent for a beginner in NMR."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OM6ZA212LZ2N"
+                },
+                "Date": "on August 25, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I highly recommend this book for advance and graduate level chemistry majors and students.  As with most highly technical-analytical text, this book is full of information and guides, and as for me, I find it very helpful in my line of work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C8AM2GZYVAPJ"
+                },
+                "Date": "on August 27, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book was shipped quickly and was in exactly the same condition as was described.  Best price I could find."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-NMR-Spectroscopy-Chemists-Monographs/product-reviews/0198555679/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#839,593",
+    "Timestamp": "2015-05-24 15:30:22.015667",
+    "itemurl": "http://www.amazon.com/Modern-NMR-Spectroscopy-Chemists-Monographs/dp/0198555679"
+}

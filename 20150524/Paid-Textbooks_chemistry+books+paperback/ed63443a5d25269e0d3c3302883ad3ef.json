@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$177.00",
+    "Name": [
+        "Molecular Modelling: Principles and Applications (2nd Edition)"
+    ],
+    "OfferPrice": "$152.91",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3INZ7NWIVUDE8"
+                },
+                "Date": "on November 20, 2002",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on July 1, 2005",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "In this book, Andrew Leach has done a great job in describing almost every important concept, sundry as well as significant, from the field of computational chemistry and molecular modeling. From basic but very useful topics like atom types, Z matrices, and force field parametrization, to advanced ones like Ewald Sums and Low Mode Monte Carlo conformational searching, Leach gives due importance to everything. The discussions on quantum mechanics in the first few chapters are moderate on the mathematics without shying away from it, and provide just the right amount of detail. Later chapters cover the whole gamut of computational techniques, from molecular dynamics and molecular mechanics, to molecular similarity and QSAR. Examples that are relevant in chemistry and biology are scattered throughout the book and illustrate every key idea. There are many good books for computational chemistry and molecular modeling, and some are good for a few topics, others for other ones. However, if one wants to get a grip on all important topics in the area, I think this is the most comprehensive reference that one can look up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 4, 2004",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1G2QGUJK69S"
+                },
+                "Date": "on February 12, 2003",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "If you could choose only one book about molecular modelling - this should be it. Everything is covered, more or less thourough, from ab initio to molecular docking, algorithms, force fields, molecular dynamics, etc. It is well written, but also works well if you want to look up single key words. The book can be read by novices to molecular modelling as well as it is useful for experts. I can highly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V2HQ58P60HJE"
+                },
+                "Date": "on January 26, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ORLNZZ4YZSZP"
+                },
+                "Date": "on June 8, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M5UUB5S4EKCU"
+                },
+                "Date": "on March 9, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "As we all know it's a great book on the subject, so there's nothing much to say about the book itself. The delivery was faster than expected and the book was in good shape. 5 stars !!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE18JBY5YS5XO"
+                },
+                "Date": "on June 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Modelling-Principles-Applications-2nd/product-reviews/0582382106/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#760,420",
+    "Timestamp": "2015-05-24 15:36:04.785794",
+    "itemurl": "http://www.amazon.com/Molecular-Modelling-Principles-Applications-2nd/dp/0582382106"
+}

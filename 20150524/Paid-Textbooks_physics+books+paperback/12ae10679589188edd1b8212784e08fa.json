@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Electromagnetic Fields and Interactions (Blaisdell Book in the Pure and Applied Sciences)"
+    ],
+    "OfferPrice": "$28.70",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 18, 1998",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "5",
+                "Text": "Yes, this is the result of a research by Gerald Holton, the great science historian from Harvard. This is the latest rendition of the famous Abraham-Becker, which, in turn, descended from the text by Foppl, where Einstein scribbled his doubts. A great book for anyone, though. Crisp, conceptually very sound. Great discussion, and elegant use of the Helmholtz theorem on vector fields (\"if you know the Div and the Curl, you know everything\"). Very good treatment of relativistic electromagnetism, perhaps the best, very concrete and tied to experiments. Becker was a great science writer. In this Dover edition you get the bonus of Becker's lectures on Quantum Mechanics, very valuable by themselves. I love this book, and have taught from it many times."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35NFOZ6XS6XIE"
+                },
+                "Date": "on March 15, 2006",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OMUWSW2KW9TK"
+                },
+                "Date": "on January 25, 2009",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "I love this book too.  You can take it with you to a remote island and totally digest Maxwell and Dirac without need for any other books.  Very self contained and clearly written.  It's a keeper."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electromagnetic-Interactions-Blaisdell-Applied-Sciences/product-reviews/0486642909/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,178,769",
+    "Timestamp": "2015-05-24 13:38:16.236267",
+    "itemurl": "http://www.amazon.com/Electromagnetic-Interactions-Blaisdell-Applied-Sciences/dp/0486642909"
+}

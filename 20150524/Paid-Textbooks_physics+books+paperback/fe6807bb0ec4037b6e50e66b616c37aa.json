@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Foundations of Space-Time Theories: Relativistic Physics and Philosophy of Science (Princeton Legacy Library)"
+    ],
+    "OfferPrice": "$50.00",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APYBZ7U4GTENC"
+                },
+                "Date": "on May 26, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 17, 2004",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QFFW6898IKNG"
+                },
+                "Date": "on June 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It is a pity that during my whole education as a physicist, I never heard about \u201cform/content distinction\u201d. It seems to me it is a very illuminating idea that I got after reading M. Friedmans\u2019s book \u201cFoundation of Space-Time Theories\u201d. It could be a little romantic, but I would rather call it \u201chuman/nature distinction\u201d."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QRZ06JM57LS6"
+                },
+                "Date": "on September 25, 2013",
+                "Helpfulness": 0.625,
+                "StarRating": "3",
+                "Text": "page XV: \"All that is absolutely presupposed is an acquaintance with basic ideas of analysis and linear algebra on the level of an undergraduate course in advanced calculus.\"  \"The present book makes heavier mathematical demands than the reader may be used to in the philosophy of science.\"  If you are not at this math level, I would not buy this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Foundations-Space-Time-Theories-Relativistic-Philosophy/product-reviews/0691610428/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#2,518,777",
+    "Timestamp": "2015-05-24 13:15:25.738193",
+    "itemurl": "http://www.amazon.com/Foundations-Space-Time-Theories-Relativistic-Philosophy/dp/0691610428"
+}

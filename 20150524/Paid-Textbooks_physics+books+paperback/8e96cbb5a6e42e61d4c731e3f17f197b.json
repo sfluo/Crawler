@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Idiot's Guides: Quantum Physics"
+    ],
+    "OfferPrice": "$15.90",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BA2D4RD2MK8B"
+                },
+                "Date": "on February 5, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book does an excellent job of explaining the history of quantum physics and the transition from classical physics, and explains in very easily understandable terms where we get such concepts as complimentarity, wave functions, entanglement and more. The book also does a great job of not getting too bogged down in the maths while avoiding the overly metaphysical approach many other popular accounts of quantum physics take. I did, however, notice two or three typos, and the pictures of Pauli and Dirac are in each others respective bios, so maybe the editor could have been a little less sloppy. But overall, this is the best account I've read so far for anyone who wants to dig a little further into quantum physics, but not too far."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32NKX5G58Z76V"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very understandable discussion of quantum mechanics. I wish this was available in 1970 when I had an undergraduate course in quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG2PSEKY5TQCM"
+                },
+                "Date": "on February 2, 2015",
+                "Helpfulness": 0.125,
+                "StarRating": "2",
+                "Text": "There is a glaring error on page 172. There is a brief bio of Paul Dirac on this page; however the photograph accompanying the bio is that of Wolfgang Pauli and not Paul Dirac."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Idiots-Guides-Quantum-Marc-Humphrey/product-reviews/1615643176/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#535,547",
+    "Timestamp": "2015-05-24 13:14:58.098552",
+    "itemurl": "http://www.amazon.com/Idiots-Guides-Quantum-Marc-Humphrey/dp/1615643176"
+}

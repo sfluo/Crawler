@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Science of Polymer Molecules (Cambridge Solid State Science Series)"
+    ],
+    "OfferPrice": "$104.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 28, 2001",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book indicates the principal chemical routes to polymeric materials and the analytical methods to characterize them (with particular reference to molar mass determination). It clearly states the theory of end-to-end distances, the theory of chains in solution, the theory of rubber elasticity and the theory of bond conformation population. This book could be very useful to chemists requiring a quick prediction of the properties of their materials or a brief, easy-to-read, introduction to the most important and simple mathematical models in macromolecular science."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-Polymer-Molecules-Cambridge-Solid/product-reviews/0521565081/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,329,597",
+    "Timestamp": "2015-05-24 15:46:38.927750",
+    "itemurl": "http://www.amazon.com/Science-Polymer-Molecules-Cambridge-Solid/dp/0521565081"
+}

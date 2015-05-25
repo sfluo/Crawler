@@ -1,0 +1,189 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecular Driving Forces: Statistical Thermodynamics in Chemistry & Biology"
+    ],
+    "OfferPrice": "$5.84",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 2003",
+                "Helpfulness": 0.8157894736842105,
+                "StarRating": "5",
+                "Text": "The topic of this book, the physical chemistry of molecules, especially those relevant to biology, is one of the most  challenging courses to a college student in chemist.  But these authors have tried to make it easy for you - and they succeed.  They used figures, pictures and analogies to help you to understand some of the most sophisticated concepts in science.  For example entropy.  The authors are leading researchers in the field and they brought a unique perspective to the subject; the writing is very lucid."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BWISQYAOGJ1R"
+                },
+                "Date": "on January 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I used this excellent book by Ken Dill for my stat mech class along with Chandler. Dill eases the student through the sometimes painful world of stat mech. The many examples and pictures help the understanding of material. Also, derivations are shown in baby steps so that math and physics deprived students like me can handle the material. Chandler is more eloquent but for a student unfamiliar with the material, it's way above my head at times. The two books are very complementary."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LNTH2ZF7AM8K"
+                },
+                "Date": "on December 19, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book covers pretty much everything you need to know for a statistical mechanics class: it starts with a brush-up on statistics and necessary calculus skills and moves on to the basics of thermo and then stat mech. The authors are excellent writers and make the text almost entertaining (compared to other textbooks in my field). In my case, the only part that wasn't useful was the lack of coverage on the Ising Model. Problems are great for reviewing for tests as well. I used this book for my chem eng grad school class and found it helpful for untangling the mess of derivations and equations in my notes into something more meaningful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P9XLHLF9XD5R"
+                },
+                "Date": "on October 19, 2010",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "2",
+                "Text": "I am a student, so if any professor out there would like to get a student's perspective on this book, here it is: I had many difficulties using this text.  The first problem is it is too concise, even for the graduate level chemical thermodynamics class it was being used for.  There were many topics that were covered in mere paragraphs, sometimes with no illustrating examples.  This made doing homework problems difficult.  Next, there was very little application to actual chemistry, so it was hard to put what was being presented into context.  Many of the problems are doing mathematical gymnastics, which is a good mental exercise, but applying concepts to chemical systems and perhaps data you might see from an experiment would be nice.  Lastly, there are NO solutions.  Anywhere.  No odds, or selected solutions in the back, no solutions manual, nothing.  Without any reference to check your solutions against, you feel like you're flying blind and without conformation that you did something right or wrong, it ultimately makes to more difficult to learn the material.  I would not recommend this text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WVLZIJ68H61U"
+                },
+                "Date": "on March 9, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have this book assigned as a text book for one of my classes and it is superb.  Very clear explaination from the very basics of statistics and how it builds up to thermodynamics and beyond.  The book succintly explains all of the necessary math and has instructive examples to drive the point home.  I really like this book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T21L27AV519X"
+                },
+                "Date": "on April 22, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book covers a broad field of topics not present in similar books more than usual ones. A great value for a teacher or for advanced undergraduate students!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M831U4D1PUYV"
+                },
+                "Date": "on February 9, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dill's book is the perfect introduction to statistical mechanics, especially for those in the biological sciences.  I'm a graduate student and read his  book before McQuarrie's - which worked out very well.  He uses lattice models a lot so that more difficult topics become intuitive.  For some, the book may be a little basic.  But for those who don't have a solid background in probability or physical chemistry, this book is perfect.  Even for the more advanced student, this book is truly a fun read and can inspire creativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U34JEFRFJMGR"
+                },
+                "Date": "on January 4, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book gives a overview for statistical mechanics in biophysics. It will be an application oriented book for physicists. The way the book is written might be bit daunting for people completely new to physical sciences. It is an important book for biophysicts and can be used to brush up concepts for people who are already into the field"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on May 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI405IGAUEB21"
+                },
+                "Date": "on July 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K1H9TV07JS9P"
+                },
+                "Date": "on December 18, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ORLNZZ4YZSZP"
+                },
+                "Date": "on June 20, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5VXMD0CWRXE5"
+                },
+                "Date": "on February 24, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I always consult this book when I need to brush up my stat. Mech. Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NMINQ04Q2SBE"
+                },
+                "Date": "on August 4, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm a grad student in chemistry, and I adore this text. Assuming you have a basic calculus and thermo background, this is all one needs as a reference to accessing more advanced / specialized texts. Even at that, the first few chapters provide a useful refresher on vector calculus and chemical potentials, etc, though I wouldn't rely on this text as your soul source to learn about those more fundamental topics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V72M58KXX5LA"
+                },
+                "Date": "on October 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Thermodynamics is Swahili to me (and no, I don't speak Swahili), but this book makes the subject interesting and understandable. You'll actually use this textbook, and it's excellent. Highly recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQZJLHBO41MIK"
+                },
+                "Date": "on September 29, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is pretty good. It fit all levels of students who want to learn statistical thermodynamics. It introduces abundant examples in chemistry and biology to make theories simpler to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EKS74IQNF2SU"
+                },
+                "Date": "on March 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A158UU6V3TBH5Q"
+                },
+                "Date": "on November 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "One of the best books ever for studying statistical thermodynamics. Has many examples throughout the text book which makes it easier to understand basic concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JQ8QW16JCTHE"
+                },
+                "Date": "on September 20, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I feel no need to explain this. This book is absolutely great. Buy and read it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Driving-Forces-Statistical-Thermodynamics/product-reviews/0815320515/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "19"
+    },
+    "Salesrank": "#228,670",
+    "Timestamp": "2015-05-24 15:16:16.400413",
+    "itemurl": "http://www.amazon.com/Molecular-Driving-Forces-Statistical-Thermodynamics/dp/0815320515"
+}

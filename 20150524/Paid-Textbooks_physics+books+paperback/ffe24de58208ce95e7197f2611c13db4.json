@@ -1,0 +1,351 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.99",
+    "Name": [
+        "String Theory For Dummies"
+    ],
+    "OfferPrice": "$15.68",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34N354Z3NR0QF"
+                },
+                "Date": "on December 13, 2009",
+                "Helpfulness": 0.9795918367346939,
+                "StarRating": "5",
+                "Text": "Andrew Zimmerman Jones, who is the Physics Guide for About.com, does a fabulous job of making the most complex scientific theory ever devised absolutely understandable.  This is a first-rate introduction to the field.  One would almost think it impossible to make something as recondite as sting theory clear to laypeople, but Jones pulls it off with wit and panache.  Despite being part of the well-established \"For Dummies\" publishing franchise, this book is a worthy companion to Hawking and Mlodinow's A BRIEFER HISTORY OF TIME.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4Q6UMXPXLRAD"
+                },
+                "Date": "on December 21, 2009",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A211HI6U5EXSJ4"
+                },
+                "Date": "on June 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a very good introduction to the string theory. No math and the author does a pretty good judge of exampling very complex science in plan English. It also goes somewhat beyond String theory, by laying a good background in Newtonian Physics, Quantum Mechanics and Relativity. My only real knock against the book is that it does seem to skip around a bit. Clearly the author wanted to make it easy to pick up, look at the index and jump to topics. But if you read it front to back, it can be just a bit distracting. That is just a minor complaint though. I recommend String Theory for Dummies to any novices who are interested in the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G9ZAO7DEQ0I3"
+                },
+                "Date": "on April 26, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V7Q7NXJLANFL"
+                },
+                "Date": "on August 28, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EJKGO169BZVS"
+                },
+                "Date": "on June 29, 2010",
+                "Helpfulness": 0.725,
+                "StarRating": "1",
+                "Text": "I was really looking forward to a lucid explanation of string theory. For me, a lucid and interesting explanation would follow the lines of Heinz Pagels, who wrote \"The Cosmic Code\" and \"Perfect Symmetry.\" Both wonderful books that leave the reader feeling like they learned something. When I read the reviews of this book, String Theory for Dummies, I was impressed and thought I would give it a try. I was dismayed. I read the intro, which laid out the game plan of the book, then in Part 1, I found that I was reading a re-run of the introduction, another game plan of the book.  So now I had two parts of the book telling me what the book was going to tell me. The first goal of the book was my main interest - that is, \"...to understand sting theory...\"  However, in no place in the book can I find an explanation of string theory, other than \"...the universe is composed of vibrating filaments of energy, expressed in precise mathematical language.\"  After that, all the author does is say that that is what it is.  Then, the book continues on never explaining strings but only repeating that they are mathematical things.  The author states: \"if you subscribe to Popper's view (and many scientists don't), then string theory is certainly not scientific - at least not yet.\" Indeed, I am a scientist and I know many others, and the general trend is that we do follow Popper as correct most of the time. So now we see that string theory isn't even scientific. Basically, I got so disappointed with the book that I couldn't read it through, and instead, skipped and jumped around to see if it got better, and when I found that it didn't, I gave up.  Now I am still looking for a good book to explain string theory.  Or, perhaps I am looking for another physicist writer, such as Pagels (may he rest in peace), who can actually explain something - Greene, Randall and Smolin are also certainly NOT Pagels."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T9VQD8MFM0OJ"
+                },
+                "Date": "on September 15, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH1HXN20AYVHJ"
+                },
+                "Date": "on November 14, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I found this to be very helpful in explaining a complex sciencific theory. It was very easy to follow and was frequently very humorous. I think it gave a better explanation of this Theory than anything else I have read. I would recommend it for any non-physicist who is interested in String Theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17DN0AX5R3BFV"
+                },
+                "Date": "on December 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This is String Theory For Dummies. So you know what you will get. One of the main goal of this book is \"to avoid mathematics at all cost\" (p.2). When you do that you are going nowhere. It's like doing number theory without numbers, or doing photography with your eyes closed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27C53DD0FBT4N"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Like most string theory books for the non-mathematical reader, this one has lots of history about ST, but not much about the details. Lots of references to \"more detailed\" explanations elsewhere in the book, sometimes forward, sometimes back. But, the explanations are unsatisfactory either way. Some authors can explain science to the layman and convey some valid understanding of the subject. This one doesn't. For what it does, history, it is good. But, that's it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2977U4U7VA3AV"
+                },
+                "Date": "on October 16, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "Having a degree in Physics, I bought the book to get understand  of what String Theory is all about.  The book turned out to be a waste of time It spent way to much explaining why people feels there is a need for string theory and not what string theory.  It gave me the impression that String Theory only purpose was to give the Physics world something to do.  I gave up half way and it now sitting on my book self next to my collection of Dilbert books."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARWYGDFBGCRRR"
+                },
+                "Date": "on February 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was the best among several I bought to get a good overview of string theory. Clear and concise and well laid out. Strongly recommend to anyone. Was able to grasp material through this better than than other authors popular books on the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q7WGOZ68S8LB"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A nice read, but the author/editor should re-check the typesetting of the Kindle edition. In several cases there are errors in number formatting: for instance the number of string theories should 10 to the power of 500, but it appears as 10500."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LX6GA3ZXG13O"
+                },
+                "Date": "on February 1, 2010",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": "It's a fun read that gives an overview of the development of String Theory with no math.  If the reader has a strong background in science and math this book will have you wanting more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NUAHSPWS9XGG"
+                },
+                "Date": "on September 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "easy to understand  so that you have plenty to coalesce in your thoughts. Book as expected it really maqkes a confusing difficult subject readable"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OSG6KYW2DBPB"
+                },
+                "Date": "on July 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good book, easy to understand, and a fun read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XTUWSO3DFRL6"
+                },
+                "Date": "on January 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Did the author miss anything?  I think he covered every inch of String Theory.  He even included theories that compete with  with String Theory.  He also provided excellent background information on the physics that led to String Theory.  He did leave out the math, but his target reader is the layperson--so this book is perfect!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R9CPK21DCT58"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Great for lay people like me.  Straight forward, simple language.  Great for reference. I can see myself referring to it often"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEJV8BTPJBUSL"
+                },
+                "Date": "on February 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For those of you who are like me and are interested in sceince, and trying to get some undersatanding of what \"string theory\" is, this book explains it very well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAFMCYCF1MVD7"
+                },
+                "Date": "on February 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Not 100% accurate, but a good description. Also includes nice reviews of relativity, quantum mechanics, particle physics, and cosmology."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G2S8SWWT51H2"
+                },
+                "Date": "on September 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book for basic string theory education. It is fun for me to read it. I could not stop reading it until I finished it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1W4ZDFLKQEFMZ"
+                },
+                "Date": "on June 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Presented me with a much better understanding of the subject.  This was exactly the type of information that I was looking for."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQE5Z3IXRD8RM"
+                },
+                "Date": "on November 19, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Never got a chance to write a review for this amazing book in Amazon. Better late than never. It was the one of the books that motivated me to learn and appreciate quantum mechanics and to write my own book which I hope to publish. This is a gem .It has a profound effect on me. As a result I read books by Lisa Randall, Hawking , Mlodinow, Greene and Sean Carroll etc. I have even had emails from some of these famous authors. The book simplifies the concepts of Dirac and Feynman`s approach to Quantum Field Theory while capturing and maintaining your interest.  The book will examine everything from entanglement to wormholes.  Thank you Andrew. I had tried beginner books before but none like this. It opened up a new world for me. It will for others ,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKFF8JVM2WSIV"
+                },
+                "Date": "on March 30, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Broke down string theory in an easy to understand way"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RGT22EJDQ78H"
+                },
+                "Date": "on May 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Makes complicated things easy to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BSYRVI5LECV"
+                },
+                "Date": "on December 29, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Like all the dummy books, it gives basic information that has sometimes been a clincher to getting the question.  However sometimes the info is too basic or vague for my university student needs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DQXMKQVPVEV6"
+                },
+                "Date": "on February 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent intro to String Theory"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A359P4W7G74BYX"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great easy to understand"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DTXQME146G7L"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S5YVC95QGTHY"
+                },
+                "Date": "on January 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWUBPKAMUVWR3"
+                },
+                "Date": "on November 8, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Good explanation about the theme. It is not a scientific book but interesting. Gives us a overview about string theory and other physics topics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CE7LHH37KIR9"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "As advertised. Good book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B4YHRJ1ZNFE4"
+                },
+                "Date": "on August 17, 2012",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36FFBUGEEBYEH"
+                },
+                "Date": "on September 18, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "I'm about half-way through the book so my assessment at this point may be premature.  It is great on identifying scientific terms, nomenclature, history, etc., and results but so far doesn't really demonstrate string theory at work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARVOB0CD3OP10"
+                },
+                "Date": "on June 17, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This book and the theories it describes shows that scientists have discovered faith, admitting they aren't able and won't be able to prove modern theories.  It boils down to \"In the beginning God ...\"  Of course man-made theories make sense as far as they go.  Everything that exists may be minuscule strings of energy.  OK, that makes sense, since matter is nothing but congealed energy as Einstein described in E = mc^2.  Where did that energy come from?  The Source of all energy and the intellect necessary to formulate theories must have some origin ... but what?  Call the Source what you will.  Or, like the ancients, call it God."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32OPCSB4164T6"
+                },
+                "Date": "on February 13, 2012",
+                "Helpfulness": 0.29411764705882354,
+                "StarRating": "5",
+                "Text": "i wanted to understand better how my guitar worked. This book helped not so much but was real intristing anyweigh. Was still physics I reckon. NOT ABOUT GUITARS BASSES AND WHATNOT. But about little tiny tiny strings inside of the first bible dude adam, and i guess the rest of us, also the barkeep on deepspace nine, and other stuff. I later saw some dude in a wheelchair with a sweet robot voice talking about it on youtube. I really miss robot voice from breakdance music."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/String-Theory-Dummies-Andrew-Zimmerman/product-reviews/047046724X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "37"
+    },
+    "Salesrank": "#104,774",
+    "Timestamp": "2015-05-24 13:13:11.859209",
+    "itemurl": "http://www.amazon.com/String-Theory-Dummies-Andrew-Zimmerman/dp/047046724X"
+}

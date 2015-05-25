@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Reactor Design for Chemical Engineers"
+    ],
+    "OfferPrice": "$87.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HCAXWUQCILAA"
+                },
+                "Date": "on April 7, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Reactor-Design-Chemical-Engineers-Winterbottom/product-reviews/0748739920/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,810,387",
+    "Timestamp": "2015-05-24 15:54:04.579096",
+    "itemurl": "http://www.amazon.com/Reactor-Design-Chemical-Engineers-Winterbottom/dp/0748739920"
+}

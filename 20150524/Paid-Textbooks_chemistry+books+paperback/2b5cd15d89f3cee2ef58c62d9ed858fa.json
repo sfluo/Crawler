@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$73.00",
+    "Name": [
+        "Mass Spectrometry: Principles and Applications"
+    ],
+    "OfferPrice": "$49.53",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RVJQFK9VXLJA"
+                },
+                "Date": "on February 4, 2001",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "4",
+                "Text": "This book was the text in my first course in mass spectrometry.  The book is a good introduction to MS for advanced undergrads and graduate students.  I felt the book was very helpful, it covers the multitude of ionization sources, mass analyzers, and even tandem MS.  I give it a thumbs up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10RHYA8B2K9QT"
+                },
+                "Date": "on January 8, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a good quick-reference book for mass spectrometry if you want some information available on your shelf without always having to look up in the literature.  I do wish, though, that the book contained more information about interpretation of fragmentation peaks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKCEJSRCHRC9G"
+                },
+                "Date": "on October 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C4D734GCVYT7"
+                },
+                "Date": "on October 2, 2008",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "It is a must have for the Mass Spec beginner as well as the advanced with it's readily understood language and descriptions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VFM6BSMERHSJ"
+                },
+                "Date": "on April 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is great for anyone in the Mass Spec field. The text quickly, yet thoroughly identifies the most important pieces of information required for understanding and provides the means by which to continue investigation. Highly Recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZS8C7R8QX08X"
+                },
+                "Date": "on February 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GEE2LZROLO02"
+                },
+                "Date": "on September 29, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book sets great principles for the applications of mass spectrometry. My professor uses it for the bases of his lectures and then adds on what ever he thinks is necessary for a discussion. Good basic principles of mass spectrometry. Nothing in too much of detail but good enough for a basic understanding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18C94LZ5XCYBL"
+                },
+                "Date": "on August 27, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Although the buying information indicated that this book was used, I believe that it was brand new! It is in absolutely wonderful condition. The book itself is great, too, but, being translated from French, there are definitely some interesting phrases to say the least"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QT77K4PTSP2H"
+                },
+                "Date": "on December 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good overall summary for me.  I work with mass spectrometers but I am an electrical engineer, not a chemist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOJMZ8S3FODG8"
+                },
+                "Date": "on March 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Great reference.  Not as comprehensive as expected but still a good tool and reference for the lab chemist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WLJU58TAWF0O"
+                },
+                "Date": "on February 17, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I received my book on the day it was promised. The book was cheap on Amazon compared to anywhere else. I trust them, I'm very much satisfied with the seller and will sure do business next time."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mass-Spectrometry-Applications-Edmond-Hoffmann/product-reviews/0470033118/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#364,288",
+    "Timestamp": "2015-05-24 15:38:37.980003",
+    "itemurl": "http://www.amazon.com/Mass-Spectrometry-Applications-Edmond-Hoffmann/dp/0470033118"
+}

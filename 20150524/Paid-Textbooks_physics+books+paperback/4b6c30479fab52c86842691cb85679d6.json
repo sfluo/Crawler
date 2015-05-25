@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "Laser-Tissue Interactions: Fundamentals and Applications (Biological and Medical Physics, Biomedical Engineering)"
+    ],
+    "OfferPrice": "$67.37",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CDLPEXD8O31L"
+                },
+                "Date": "on June 12, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent book for anyone working in this field. The book covers everything from the basic theory to the latest applications. Detailed descriptions of each type of interaction mechanism and detailed references on each type of application are given. The second edition has been completely revised and updated. Highest ratings by Prof. Berns and Prof. van Gemert in their own classes. A MUST for your book shelf."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 9, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book provides a concise review of laser-tissue interaction. It begins by introducing a brief theoretical foundation in tissue optics and moves on to describing various interaction and ablation mechanisms. The chapters are very well organized, the materials are well presented, and equations are used only when necessary. A large chapter is dedicated to introducing various medical applications of lasers in different clinical fields. The materials in this book are very suitable for scientists, engineers, and physicians involved in biomedical optics.  However, since the release of this book, significant progress has been made in this area, which requires the author to substantially update information and development in the next edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G23TIMP2EWSL"
+                },
+                "Date": "on September 22, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I placed an order on Aug, 21st, but now it is Sep, 21st already...I have not received my book!!!!!!!!!!!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Laser-Tissue-Interactions-Fundamentals-Applications-Engineering/product-reviews/3540721916/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,264,857",
+    "Timestamp": "2015-05-24 13:33:04.881331",
+    "itemurl": "http://www.amazon.com/Laser-Tissue-Interactions-Fundamentals-Applications-Engineering/dp/3540721916"
+}

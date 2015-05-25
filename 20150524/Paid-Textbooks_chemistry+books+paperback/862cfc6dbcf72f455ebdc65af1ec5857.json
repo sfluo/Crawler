@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.99",
+    "Name": [
+        "Surfactants: Fundamentals and Applications in the Petroleum Industry"
+    ],
+    "OfferPrice": "$76.43",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATAHA69795QMQ"
+                },
+                "Date": "on February 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Surfactants-Fundamentals-Applications-Petroleum-Industry/product-reviews/0521157935/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#300,801",
+    "Timestamp": "2015-05-24 15:35:02.292179",
+    "itemurl": "http://www.amazon.com/Surfactants-Fundamentals-Applications-Petroleum-Industry/dp/0521157935"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Molecular Hydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.81",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14ZU3KI18Q9YC"
+                },
+                "Date": "on July 31, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an excellent monograph. The authors beautifully introduce and motivate the need to go beyond the long wavelength hydrodynamic model in order to understand, for instance, the dispersive character of linear waves in fluid medium by accounting for short range structural order. Morever, it serves as a very good text for learning classical statistical mechanics and see it being used. Many thanks to the authors for sharing their knowledge and devoting their time to produce this exhaustive and pedagogical text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26T6PY3S90Y3O"
+                },
+                "Date": "on May 24, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I would highly recommend this book to any researcher in the field.  It has an enormous amount of material that you simply cannot find anywhere else.  The book is well written and makes a nice connection with experiment and numerical simulations."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Hydrodynamics-Dover-Books-Physics/product-reviews/0486669491/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,251,535",
+    "Timestamp": "2015-05-24 12:50:03.090033",
+    "itemurl": "http://www.amazon.com/Molecular-Hydrodynamics-Dover-Books-Physics/dp/0486669491"
+}

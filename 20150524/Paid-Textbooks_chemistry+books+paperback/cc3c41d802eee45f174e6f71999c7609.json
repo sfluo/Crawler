@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Organic Structure Determination Using 2-D NMR Spectroscopy: A Problem-Based Approach (Advanced Organic Chemistry)"
+    ],
+    "OfferPrice": "$19.28",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NA1OFOMRLBUU"
+                },
+                "Date": "on February 28, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I have not spent my professional scientific career as an organic chemist but this was an exceptional book on 2-D NMR.  Not unnecessarily complicated yet not oversimplified."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30SH1G33MFC5"
+                },
+                "Date": "on July 12, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Organic-Structure-Determination-Using-Spectroscopy/product-reviews/0120885220/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,792,842",
+    "Timestamp": "2015-05-24 15:32:49.665572",
+    "itemurl": "http://www.amazon.com/Organic-Structure-Determination-Using-Spectroscopy/dp/0120885220"
+}

@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.95",
+    "Name": [
+        "Electromagnetic Fields and Waves (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.11",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A258HDMERSI6WJ"
+                },
+                "Date": "on May 27, 2000",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10QJ5MA1YQ05I"
+                },
+                "Date": "on August 28, 2004",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 9, 1998",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "Professor Rojansky does a great job explaining clearly with numerous  illustrated examples starting with mathematical notes and ending with a  brief summary in several appendix. In the body of the text his examples and  demonstrations are clear and illustrated. He chooses to use both mks and  cgs units for historical and practical reasons. Development of a topic is  as the cover describes \"explicit and unhurried\". This book is a  nice text or a good supplement. Not a collection of solved problems but a  good teaching text. Other books that I like include: \"Classical  Electrodynamics by Jackson\", so the \"age\" of this book is of  no concern to me. At the price offered for \"Rojansky\" how can you  go wrong!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7HO31Y0B3DW"
+                },
+                "Date": "on February 16, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "The author is exceptionally clear and careful in his definitions. These definitions always -- always -- tie back to how to measure a quantity. I like this very much. The pace is a bit slower than most books. This is a great book for self study. Suitable for 2nd or 3rd year physics, or a refresher."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KXYFZEYNGBFD"
+                },
+                "Date": "on April 16, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Thoroughly enjoyable, patiently explaining most of the mathematical concepts. This is the clearest and most accessible exposition of Maxwell's eqns I have seen."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3W3EJKHGYC9VQ"
+                },
+                "Date": "on March 13, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I liked this book very much -- it starts with basic concepts such as scalar fields, and slowly builds upon mathematical and physical concepts to eventually arrive at Maxwell's equations. The book develops rather than assume the advanced principles needed for understanding of electromagnetism at an advanced level.  Having said that, it would be very difficult for someone who hasn't had college level calculus and who doesn't have a reasonable level of mathematical maturity to get much from this book.  This book is inappropriate for someone who wants a basic explanation of how a radio works.  This book is appropriate for someone who has a solid understanding of electricity, magnetism, and intermediate mathematics, and who wants to go to the next level of understanding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AECLZ4BU8KLNM"
+                },
+                "Date": "on October 28, 2006",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": "I am sorry if you have been told you have to use this book for class.  The information is all there - E&M; doesn't exactly change, but the format is amazingly confusing.  The typeface is offensive and the symbols are not the standards.  Other little things, like the way previously defined equations are referenced (43^19 means section 43 EQ19) are confusing and so over used that you can't read one page of the book without haveing to look something up elsewhere in the book.  The book is cheap for a reason, corners were cut to print such a small book.  If you have not done any E&M; it might be ok because you won't be looking for the standard symbols and formatting.  Otherwise, if you have the choice, use a different book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LUOIX4PCCS2Y"
+                },
+                "Date": "on November 23, 1998",
+                "Helpfulness": 0.09523809523809523,
+                "StarRating": "1",
+                "Text": "The author talks of electromagnetics but he barely touches on how they work, he just talks of the concepts and future possibilities.  He should rewrite it for us \"Dumber\" readers."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electromagnetic-Fields-Waves-Dover-Physics/product-reviews/0486638340/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#420,031",
+    "Timestamp": "2015-05-24 13:25:28.165111",
+    "itemurl": "http://www.amazon.com/Electromagnetic-Fields-Waves-Dover-Physics/dp/0486638340"
+}

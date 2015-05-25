@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Magnetic Atoms and Molecules (Dover Books on Physics & Chemistry)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XB12NEW8CKV0"
+                },
+                "Date": "on April 5, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Just as its title implies, this book is devoted to electron paramagnetic resonance (EPR) properties of atoms and molecules containing unpaired electrons. Written by one of the most senior, and best known, authorities  on EPR of small molecules, it is unique in its hands-on approach to the  understanding and analysis of the experimental EPR spectra. Started as a  practical introduction into the theory of EPR spectra for new co-workers  arriving to Prof. Weltner's laboratory, this book enables a student or  scientist already comfortable with the concepts of spin and quantum  mechanics, but not yet intimate with the field of EPR, to enter this new  area as rapidly, and as painlessly as possible. The bulk of the book goes  through a careful analysis of experimental EPR results for representative  systems, paying careful attention to the physical sources of interactions  observed in the spectra. A special emphasis, lacking in most other sources,  is given to the relationship between gas-phase and matrix isolation  experiments. The book is accompanied by a comprehensive review of  experimental data for small molecules published before 1983. Although  somewhat dated, this data is still immensely useful, and is not easy to  find otherwise. This book will is a welcome, and little known, addition to  a bookshelf of any researcher working in the field."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Magnetic-Atoms-Molecules-Physics-Chemistry/product-reviews/0486661407/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,101,392",
+    "Timestamp": "2015-05-24 15:18:01.394769",
+    "itemurl": "http://www.amazon.com/Magnetic-Atoms-Molecules-Physics-Chemistry/dp/0486661407"
+}

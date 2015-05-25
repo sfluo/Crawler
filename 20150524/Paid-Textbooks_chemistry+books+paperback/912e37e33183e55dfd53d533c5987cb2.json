@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Handbook of Stochastic Methods: for Physics, Chemistry and the Natural Sciences (Springer Series in Synergetics)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 11, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book.  The different chapters are very clearly written and each of them could be applied as a tool for solving similar problems, one may encounter in his (hers) research.  Although the text is not  introductory, with some effort, the reader could avoid going through more  elementary books on the subject first."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J8X1WJZYCIDH"
+                },
+                "Date": "on July 14, 2007",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XWI40C3J2HEX"
+                },
+                "Date": "on November 14, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QM3TSSKLHDSJ"
+                },
+                "Date": "on September 10, 2003",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "This is a great book on stochastic processes.  The author has a unique perspective on the subject and elegantly moves from one topic to the next.  A great help in understanding difficult concepts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Handbook-Stochastic-Methods-Chemistry-Synergetics/product-reviews/3540208828/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#3,185,665",
+    "Timestamp": "2015-05-24 15:30:56.298440",
+    "itemurl": "http://www.amazon.com/Handbook-Stochastic-Methods-Chemistry-Synergetics/dp/3540208828"
+}

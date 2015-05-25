@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.95",
+    "Name": [
+        "X-Ray Diffraction: In Crystals, Imperfect Crystals, and Amorphous Bodies (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.02",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FKYMZZC4GRK7"
+                },
+                "Date": "on June 11, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "Well...this book is definitely a \"must have\" book on diffraction if you're interested in this field. Dr. Guiner,for those who are not familiar with diffraction, was one of the leading scientist in the field and contributed much to the development of x-ray diffractometry. The book is definitely not for the beginner. However, for someone who has made his/her initial steps into the world of x-ray crystallography, this book might be rewarding to read for it discusses the fundamentals rigorously. The book is very affordable as well, making it a very attractive buy indeed...I highly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TNZUIM51ZHW0"
+                },
+                "Date": "on August 14, 2005",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AR5PPS57ZVBCN"
+                },
+                "Date": "on August 6, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Together with Warren's \"X-ray diffraction\", this small but complete textbook on x-ray diffraction is a must. Guinier (the same one of the Guinier-Preston zones) explains with detail and completeness the mathematical and physical treatment of diffraction in ideal and real crystals and polycrystalline materials."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KQI5M1TF7EGD"
+                },
+                "Date": "on March 8, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "If you like equations, well, this is the book to read about X Ray diffraction. Very good if you like details and maths!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/X-Ray-Diffraction-Crystals-Imperfect-Amorphous/product-reviews/0486680118/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#414,635",
+    "Timestamp": "2015-05-24 13:40:21.764662",
+    "itemurl": "http://www.amazon.com/X-Ray-Diffraction-Crystals-Imperfect-Amorphous/dp/0486680118"
+}

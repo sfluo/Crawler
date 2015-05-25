@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Theoretical Solid State Physics, Volume 1: Perfect Lattices in Equilibrium (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$25.41",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33ZVG72PT4S3S"
+                },
+                "Date": "on June 19, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIUWDT795XBTQ"
+                },
+                "Date": "on October 2, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OPJTR4D6GLCC"
+                },
+                "Date": "on February 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am a Chinese theoretical chemical-physicist and I found this book far better than any other solid-state textbook in Chinese, even though it was written some 40 years ago. It gave a very systematic, general to example approach to solid state problems. Recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RBO68PJJ2CRS"
+                },
+                "Date": "on July 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I have not read thoroughly, but so far I liked. It is not expensive since it is an older book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Solid-State-Physics-Equilibrium/product-reviews/0486650154/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,316,270",
+    "Timestamp": "2015-05-24 12:42:49.020540",
+    "itemurl": "http://www.amazon.com/Theoretical-Solid-State-Physics-Equilibrium/dp/0486650154"
+}

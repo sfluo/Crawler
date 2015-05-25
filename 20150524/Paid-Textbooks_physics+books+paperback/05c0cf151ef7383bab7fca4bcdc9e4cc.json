@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "The Many-Body Problem in Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.65",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on January 3, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Many-Body-Problem-Quantum-Mechanics-Physics/product-reviews/0486687546/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,924,679",
+    "Timestamp": "2015-05-24 13:32:22.379556",
+    "itemurl": "http://www.amazon.com/Many-Body-Problem-Quantum-Mechanics-Physics/dp/0486687546"
+}

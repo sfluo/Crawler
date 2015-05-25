@@ -1,0 +1,162 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Inside Interesting Integrals: A Collection of Sneaky Tricks, Sly Substitutions, and Numerous Other Stupendously Clever, Awesomely Wicked, and ... (Undergraduate Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$47.49",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASA5B0AUI9ZZE"
+                },
+                "Date": "on November 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12HIZD8POOHUB"
+                },
+                "Date": "on January 28, 2015",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WBW6ADA2LO6O"
+                },
+                "Date": "on December 10, 2014",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "The book is wonderful in its depth and variety of proof techniques.  It is also a plus that the proofs are step-by-step exercises in achieving the results.  It is a genuine blend of the application and the art of problem solving coupled with historical perspective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VZCKXXUREACY"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": 0.8095238095238095,
+                "StarRating": "5",
+                "Text": "I really love this book. It shows you all kinds of cool techniques to solve difficult integrals. Until now there hadn't been many books like this. Maybe Victor Moll's Irresistible integrals was one that I like. Victor Moll is also coming out with a collection of papers where he solves from integrals from gradshteyn and ryzhik. That also is nice. I think with more integration techniques being taught we can make the normal calculus curriculum to not just ponder over mediocre results. It's nice that pure calculus as a research field is still alive. My only gripe about the book is that it seems to be typeset in Mathtype rather than latex. Some of the derivations show too much detail. You can say do this substitution and you arrive at this formula. I like that the style is not abstract math but more down to earth calculations like a physicist might do. It would have been nice to see some things done using mathematica, because Maple is not that great. I definitely encourage you to buy this book there are not many like it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4IPJU30XEORF"
+                },
+                "Date": "on March 3, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHEWUJAJXUZ77"
+                },
+                "Date": "on November 12, 2014",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "The book is strictly for those who like to do integrals.  But you learn a lot of mathematics along the way.  The author is very clear in his explanations.  I rate it as an excelent book and highly recomend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31TFDYEPLY8DZ"
+                },
+                "Date": "on March 29, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "For those who love math, this book is a party. In it the reader will find a large collection of tricks for solving integral, some well known, some real gems"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7U0BPLSIJ9W"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Jesus, this book is hard.  Fascinating but hard.  Buy a copy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DL1DPHQS9M8R"
+                },
+                "Date": "on May 8, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A good math book for integral calculus learner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5LS8JF34MTS4"
+                },
+                "Date": "on December 3, 2014",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "Best book I have ever bought!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12S5PHL54AIB5"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "4",
+                "Text": "Highly recommended. Good writing & interesting problems. Very entertaining."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7TAHMOE4GT2"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Very satisfied"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABQZP4RHANN48"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": 0.30666666666666664,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXS2DH6GDC807"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent book!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F8HDG6RQPQOO"
+                },
+                "Date": "on October 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Having a lot of fun with the integrals."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SRM0WAOG4GTI"
+                },
+                "Date": "on October 17, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Brilliant."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Inside-Interesting-Integrals-Substitutions-Undergraduate/product-reviews/1493912763/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "16"
+    },
+    "Salesrank": "#112,174",
+    "Timestamp": "2015-05-24 12:50:47.294279",
+    "itemurl": "http://www.amazon.com/Inside-Interesting-Integrals-Substitutions-Undergraduate/dp/1493912763"
+}

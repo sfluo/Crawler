@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Guidebook for the Scientific Traveler: Visiting Physics and Chemistry Sites Across America"
+    ],
+    "OfferPrice": "$17.16",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JHN94QSO97KH"
+                },
+                "Date": "on January 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATX6WF0SJ05SS"
+                },
+                "Date": "on February 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Guidebook-Scientific-Traveler-Visiting-Chemistry/product-reviews/081354730X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,405,340",
+    "Timestamp": "2015-05-24 15:21:12.889792",
+    "itemurl": "http://www.amazon.com/Guidebook-Scientific-Traveler-Visiting-Chemistry/dp/081354730X"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$44.99",
+    "Name": [
+        "Kaplan MCAT Physics Review Notes (Kaplan Test Prep)"
+    ],
+    "OfferPrice": "$34.07",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KZZ45S75OJP3"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Exactly what I wanted. The info is all there- scored a 32 with only 2 months of prep with these books."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Kaplan-MCAT-Physics-Review-Notes/product-reviews/1609786262/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#938,452",
+    "Timestamp": "2015-05-24 13:15:15.100816",
+    "itemurl": "http://www.amazon.com/Kaplan-MCAT-Physics-Review-Notes/dp/1609786262"
+}

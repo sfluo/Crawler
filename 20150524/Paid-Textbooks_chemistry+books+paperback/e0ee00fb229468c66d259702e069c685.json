@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$27.95",
+    "Name": [
+        "NMR Spectroscopy in Inorganic Chemistry (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$26.13",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NVY705EUYN0H"
+                },
+                "Date": "on June 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book has served me many times as an invaluable quick reference guide for interpreting various spectra throughout my research. I always keep it nearby, and it is not often that I don't reference it at least once when interpreting and assigning my spectra. The book does provide chapter or two of introductory background, but novice researchers not yet thoroughly familiar with NMR fundamentals will find themselves better served with a less advanced text. However for those with an at least intermediate level working knowledge of NMR spectroscopy will surely benefit from this reference. Also, as the title clarifies, this particular book is applicable mostly to INORGANIC NMR (H-1, H-2, P-31, and Si-29 isotopes, to name a few of the covered topics): Researchers in other fields (e.g. organic chemistry) who do not have a common need for non-carbon or non-proton NMR might be better served by a reference more specific to their field. I also highly recommend \"Inorganic Spectroscopic Methods\" by Alan K. Brisdon, also from the Oxford Chemistry Primers series, as another invaluable quick reference for mass spectrometry, UV-Visible spectroscopy, and infrared spectroscopy as they apply to inorganic chemistry. Hope this helps."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectroscopy-Inorganic-Chemistry-Oxford-Primers/product-reviews/0198558902/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,008,550",
+    "Timestamp": "2015-05-24 15:14:59.489235",
+    "itemurl": "http://www.amazon.com/Spectroscopy-Inorganic-Chemistry-Oxford-Primers/dp/0198558902"
+}

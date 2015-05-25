@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$124.00",
+    "Name": [
+        "Ligand-Receptor Energetics: A Guide for the Perplexed"
+    ],
+    "OfferPrice": "$124.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVOE4RYDFPBCW"
+                },
+                "Date": "on April 13, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "This is an excellent book that reviews the pitfalls of a very fundamental effort of quantitating protein-ligand binding.  There are wonderful examples of what not to do and the determinate errors that happen when the  practioner does not check to see what is assumed.  the discussions leading  into data assessments and data analysis make it a fine book for senior  undergraduate and graduate students in biochemistry.  This is a concise  book which highlights the steps required to get good ligand binding data.  buy it for your reference library"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X7GSQTVEYWDU"
+                },
+                "Date": "on June 13, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I wanted to learn about energetics of ligand binding and came across this book in my library. As soon as I read a few chapters, realized that it was good book to own. Well written by a I.M.Klotz."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ligand-Receptor-Energetics-Perplexed-Irwing-Klotz/product-reviews/0471176265/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,052,761",
+    "Timestamp": "2015-05-24 15:43:12.765944",
+    "itemurl": "http://www.amazon.com/Ligand-Receptor-Energetics-Perplexed-Irwing-Klotz/dp/0471176265"
+}

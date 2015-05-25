@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Theory of Intermolecular Forces (International Series of Monographs on Chemistry)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on January 31, 2003",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "Intermolecular forces pervade the whole of chemistry and biology. Just think about two molecules that are going to initiate a chemical reaction, or about the transduction of biochemical signals via ligand-binding at the active site of a membrane protein. These are but few fundamental processes without which life would not exist. However, in spite of the overwhelming importance of intermolecular interactions, few books have been fully devoted to this subject. Stone's book attempts to illustrate the theories and models that have been developed so far by physical-chemists in order to describe the forces acting among molecules. Across 13 chapters you will find in-depth descriptions about electrostatic interactions, atom-atom potentials, intermolecular perturbation theory, distributed multipoles, etc. The mathematical treatment is rather advanced and it requires a basic knowledge of quantum mechanics. Future editions (if any) might include some material about the theoretical treatment of interactions within large molecular systems, such as DNA-protein and protein-protein complexes. All in all this is a good and comprehensive book which is worth of being in your bookshelf. Another book on the same subject is \"Intermolecular and Surface Forces\" by Jacob N. Israelachvili."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KEC9DLIGYEE7"
+                },
+                "Date": "on October 12, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I have to say again that this book is beautifully written. Ideas and concepts are very well articulated, making it a very useful book that one can refer to on a daily basis. It's a must-get for those who are dealing with intermolecular forces in their work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK5AZMXS1QA3"
+                },
+                "Date": "on January 24, 2005",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Intermolecular-International-Monographs-Chemistry/product-reviews/019855883X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#3,270,328",
+    "Timestamp": "2015-05-24 15:32:51.629163",
+    "itemurl": "http://www.amazon.com/Theory-Intermolecular-International-Monographs-Chemistry/dp/019855883X"
+}

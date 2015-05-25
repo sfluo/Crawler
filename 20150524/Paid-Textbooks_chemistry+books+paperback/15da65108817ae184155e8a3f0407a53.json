@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "50 and More Essential NMR Experiments: A Detailed Guide"
+    ],
+    "OfferPrice": "$85.00",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G72P5LRW2C3A"
+                },
+                "Date": "on November 13, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/50-More-Essential-NMR-Experiments/product-reviews/3527334831/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#732,617",
+    "Timestamp": "2015-05-24 15:39:15.737506",
+    "itemurl": "http://www.amazon.com/50-More-Essential-NMR-Experiments/dp/3527334831"
+}

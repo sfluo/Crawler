@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Ionospheres: Physics, Plasma Physics, and Chemistry (Cambridge Atmospheric and Space Science Series)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APV6GSX2HLFNS"
+                },
+                "Date": "on September 9, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For anyone who's at Postgrad or Postdoc level, this book is an invaluable addition to your library.  Undergraduates may struggle with some of it, but I'm sure that any bright student could pick it up because it's written in clear, concise language.  My only gripe is that the production quality of this paperback isn't what it should be for the money & I really wish I had bought the hardback version."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ionospheres-Physics-Chemistry-Cambridge-Atmospheric/product-reviews/0521607701/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,938,870",
+    "Timestamp": "2015-05-24 15:33:04.722133",
+    "itemurl": "http://www.amazon.com/Ionospheres-Physics-Chemistry-Cambridge-Atmospheric/dp/0521607701"
+}

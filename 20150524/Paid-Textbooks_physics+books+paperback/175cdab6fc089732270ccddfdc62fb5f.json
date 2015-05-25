@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.60",
+    "Name": [
+        "Physics: Student Study Guide Vol. 2, Sixth edition"
+    ],
+    "OfferPrice": "$49.97",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5HX84CO1MPXQ"
+                },
+                "Date": "on December 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Provide more examples in questions format.  It also summarizes the chapters and displays all equations pertaining to that particular chapter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUSKXCKJ67MSK"
+                },
+                "Date": "on March 27, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Bought this book used and it serves its purpose well. It arrived promptly, and I had no problems at all."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Student-Study-Guide-Sixth/product-reviews/0131465570/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#267,939",
+    "Timestamp": "2015-05-24 13:07:26.513067",
+    "itemurl": "http://www.amazon.com/Physics-Student-Study-Guide-Sixth/dp/0131465570"
+}

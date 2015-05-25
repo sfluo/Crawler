@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$146.95",
+    "Name": [
+        "Hybrid, Electric and Fuel-Cell Vehicles"
+    ],
+    "OfferPrice": "$101.21",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MK925R8X5Z0G"
+                },
+                "Date": "on July 24, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This was required text for a hybrid/fuel cell class I recently took at a local community college's alternative fuel technology program.  For the most part it clearly explained the systems, components, hardware and software that are integrated in hybrid/electric and fuel cell vehicles.  The only drawback to this book is that the technology is advancing very rapidly so this book is obsolete in some chapters, I suspect that future editions will be significantly updated.  It does cover the basics very well and provides a strong starting point for students interested in alternative fuel technology."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FWSIA3CD8H0N"
+                },
+                "Date": "on March 1, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T2M22E4B5EL9"
+                },
+                "Date": "on December 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have been away from my studies for the last five years and this is a required text for my next semester. Since I have been away from the \"scene\" as they say I felt that even after 2 years of study and more years of practice that I would just brush up my knowledge before walking into the class/labs again. I have not finished this book yet but have gotten a good idea on the text and writings thus far. This is a very captive read despite it being more electrical basics and chemistry it does keep your attention. Not many textbooks can say that especially on something that you would rather just be elbows deep in some engine instead of memorizing terms etc. However, I have been pleasantly surprised and have actually learned HISTORY of hybrids in this text. Most people just think they've been a concept of the last 20-30 years but it actually goes back to the mid-1800's. I hope that the technology will be perfected in future and be made readily and affordable in the near future. I am excited for this course and happy I have a textbook that keeps my focus."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q1IZZ0FVZ0GS"
+                },
+                "Date": "on August 2, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hybrid-Electric-Fuel-Cell-Vehicles-Erjavec/product-reviews/1401881084/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,025,872",
+    "Timestamp": "2015-05-24 15:39:56.920678",
+    "itemurl": "http://www.amazon.com/Hybrid-Electric-Fuel-Cell-Vehicles-Erjavec/dp/1401881084"
+}

@@ -1,0 +1,360 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$33.00",
+    "Name": [
+        "Entropy Demystified: The Second Law Reduced to Plain Common Sense"
+    ],
+    "OfferPrice": "$24.95",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QSBE0YW68J41"
+                },
+                "Date": "on February 21, 2008",
+                "Helpfulness": 0.8773584905660378,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU918L27HCSFM"
+                },
+                "Date": "on October 15, 2007",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVACQER3AGODM"
+                },
+                "Date": "on October 16, 2007",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6RI04DNRUUAA"
+                },
+                "Date": "on November 7, 2007",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "\"... Arieh Ben-Naim invites the reader to experience the joy of appreciating something which has eluded understanding for many years -entropy and the second law of thermodynamics\". This statement on the back cover for sure will reflect the experience of many who read this book. I highly recommend it to anyone who wants to understand or teach the mysterious concept \"entropy\". Just sit back, open this delightful book, and experience how your foggy ideas are cleared up within just a couple of enjoyable hours. You need no prior knowledge; if you have learned how to read and how to count numbers between one and ten you possess all qualifications needed to read and appreciate all of its contents. The author not only succeeds to brilliantly explain the meaning of entropy, its statistical interpretation and why common sense leads us to conclude entropy (most likely) is ever-increasing - he moreover provides compelling arguments to do away with the second law altogether: \".. because science will find it unnecessary to formulate a law of physics based on purely logical deduction\". This concluding sentence by Ben-Naim will be further substantiated in a forthcoming book by the same author. In addition to the present book, which I highly recommend to everbody who wants to learn about entropy in general, I also want to recommend another recent book by Ben-Naim on molecular theory of solutions to students and scientists interested in the entropy of solvation processes. The scientific literature on this topic is huge and -above all - utterly confusing. Ben-Naim's clearly formulated ideas have helped me a lot in understanding the subject better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RP96R8RGFFLU"
+                },
+                "Date": "on January 2, 2009",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TFC136RPBKTZ"
+                },
+                "Date": "on February 13, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKESOZSJ9KKYJ"
+                },
+                "Date": "on August 31, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "In this book, Arieh Ben-Naim gives a very clear exposition of the Second Law of Thermodynamics--one of the most important principles of modern science. Moreover, the author lays out a compelling argument for why this \"law\" is not deeply mysterious, as is commonly believed, but natural and intuitive.  The argument is based on an analogy with a class of easily understood dice games, which are analyzed in great detail.  The essential features of the dice-game model--that is, the features which exhibit the exact behavior predicted by the Second Law--are then extrapolated to various real-world thermodynamic systems in a very lucid way.  The book includes nice introductions to probability theory and information theory, although only the bare rudiments of these theories are needed to understand Ben-Naim's arguments.  The author concludes the book with a critique of some commonly held views among the scientific community regarding the Second Law.  In particular, it is argued that if the atomic theory of matter had preceded the formulation of the Second Law, rather than visa-versa, the Second Law would have been understood in a much more intuitive way from its inception, and thus would never have gained the near mythical status it has commanded over the past 150 years."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AANXPOFW14QKC"
+                },
+                "Date": "on May 4, 2009",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UIXU97JYCPZG"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This short book is a very nice introduction to the somewhat slippery concept of entropy.  Ben-Naim is a very thoughtful teacher who adopts an effective approach to demonstrating the essentially statistical-probabilistic nature of the Second Law.  Ben-Naim starts with basic concepts probability and in a series of straightforward and intuitively accessible exercises, demonstrates the basic properties of the Second Law.  The expositions of what are usually thought of as sophisticated concepts such as basic axioms of probability and information theory are clear and grasped easily.  Given Ben-Naim's skill as a teacher, I would have liked a greater exposition of the use of Shannon entropy but for what this book aims to do, it is highly successful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39MWV494T0YLZ"
+                },
+                "Date": "on September 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I can't think of anyone that uses such a reader friendly approach as the one used by the author in this book.  I enjoyed the book a lot--it is one of the best books I have read in a long time--clear, but most of all, unpretentious and this last quality makes it truly unique.  The only other books that I have read that have this same \"honest\" underlying subtext are Gandhi's \"The story of my experiments with truth\" and perhaps \"My Life as a Quant: Reflections on Physics and Finance\" by Emanuel Derman.  If you want a clear introduction to entropy, this is a good place to start, especially if you are a \"lay-person\" when it comes to math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29OA5MKCNGADW"
+                },
+                "Date": "on August 19, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DAYD353J8OAB"
+                },
+                "Date": "on July 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3U10RJ3IR5A5E"
+                },
+                "Date": "on January 25, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27MDX3CS92LNZ"
+                },
+                "Date": "on September 18, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20G3IK4EZSRVP"
+                },
+                "Date": "on January 14, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M0O6GCARDJHA"
+                },
+                "Date": "on June 18, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VX6A9UZBLEPI"
+                },
+                "Date": "on February 11, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "In this easy-to-read book, the author explains the nature of entropy using vary basic probabilistic arguments. The author assumes that the reader knows no mathematics, nor has any knowledge of physics but can use ordinary common sense in reasoning things out. Most of the arguments make use of dice and coins until near the end where real systems, e.g., gasses, are discussed. The writing style is very clear, authoritative, highly accessible and friendly. Some concepts and conclusions are deliberately repeated; this can be quite useful to readers who are new to this subject. The book's level is very basic and could be easily understood by any interested general reader or high school student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YC7ARMD4SFLE"
+                },
+                "Date": "on February 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book contains an informative history about entropy.  The concepts are presented in such a way that I think any layman reading the book can easily understand them.  The author then provides his own interpretation of entropy in a logical way.  Someone who knows little to nothing about the subject will learn a great deal and there is something new here for those with knowledge of the field.  I bought this book two years ago and didn't open it because of the subject matter.  I thought this was going to be a difficult read.  It is the exact opposite.  I have to say this is probably the best popular science book  I have read to date when it comes to understanding a physical concept with an ease of reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EWCQI495C81O"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As a teacher of the course \"Molecular physics and thermodynamics\", I highly recommend this book to all physicists. It is interesting and useful for students who meet for the first time from 1 law of thermodynamics and the concept of entropy. It is also useful to students studying the physics of gases, liquids and solids. It is useful to all those researchers who are engaged in the physics of matter, including biophysics. I also recommend it to chemists and structural biologists. This book allows the reader to clearly understand the meaning of entropy and its connection with the information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PBP7UYPRC1KD"
+                },
+                "Date": "on April 8, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU4NDE3Q6X5HB"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For readers that want to pick a book that reveals entropy\u2019s true meaning without a lot of complexity, this book by Professor Ben-Naim is the book for you.  This book and the more advanced \u201cA Farwell to Entropy\u201d, contain a great number of historical references as well as documentation of modern scientists views and writings.  He presents rigorous details and examples to show the true nature of entropy.  The author also presents a fascinating story of how \u201centropy\u201d morphed into solipsistic ideas over time.  A fun and educational read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABUHK1AY48P6"
+                },
+                "Date": "on July 10, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGY2U3CNXDOEC"
+                },
+                "Date": "on October 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Entropy Dymystied does as advertised.  It takes a very complex and difficult topic and makes it understadable.  Professor Ben-Naim uses simple examples in probability to bring clarity to an otherwise obscure subject.  Many aha! moments.  I highly recommend this book and his other on the topic of Entropy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TNNCED8SGPJ7"
+                },
+                "Date": "on February 2, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32HY9YWHJU8OK"
+                },
+                "Date": "on July 25, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LEWOQLTSUM46"
+                },
+                "Date": "on April 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Even though I have a degree in physics and maths, after reading this book I still wondered what all the fuss about entropy was. The text did not explain to me the importance of entropy or its uses in physics and engineering."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVX7AEJL6B81L"
+                },
+                "Date": "on February 12, 2008",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Arieh Ben-Naim, a distinguished scientist from the field of solution physical chemistry, guides readers to grasp basic principles of the second law of thermodynamics. In the book the author provides clear examples of how widely prevailed use of 'increase in disorder' to explain the underlying microscopic mechanism of the second law can be subjective and misleading. The statements made in this regard are reinforced by his decades of incomparable contribution to the understanding of hydrophobicity. One may recognize longstanding controversial aspects in the interpretation of the second law from the author's conclusion of the necessity of changing the unit of the absolute temperature. The book is written in a lucid manner, which can be done only by individuals who understand the essence of the subject in depth. It is telling we may need to go back at least once to the simplest question after having worked on the every possible detail. Thorough repetition of examples as introduced in the book may be a necessary attitude to tackle on any most difficult subject. The book is recommended not only to readers in fundamental physics and chemistry but to ones in biologically related science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A180CZUFLAP6MB"
+                },
+                "Date": "on November 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Unconventional, but convincing approach to the subject; Very useful for explaining to an audience of people who had no background in physics!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4NBBBFYL47NB"
+                },
+                "Date": "on August 16, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "Think again. This book is instructive on this fuzzy subject. It is funny, and delivers knowledge (atomistic-Non atomistic), history, and will deliver a much clearer picture of what was somehow obscure. Some quiz and icons will keep you almost laughing. I would recommend it for all ages (G rated!)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX4WT9X4BSODE"
+                },
+                "Date": "on January 13, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UJ0WKIE9RTVJ"
+                },
+                "Date": "on April 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Book well written and interesting as well as enlightening."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A147ZPICS3X0OG"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35KP4XYU9HRAI"
+                },
+                "Date": "on January 14, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I'm a sociologist/social worker by training who has also studied a fair amount of statistics and physical science. I'm interested in the trend involving physicists using tools from statistical mechanics to study social issues, and this is why I turned to Entropy Demystified. The book is simply superb. Ben-Naim does a masterful job of explaining the relatively obscure notion of entropy in terms of everyday objects like coins or dice. He also carefully points out where analogies between these things and real particles work and where such analogies might be overdrawn. The book uses some math, but anyone who has finished high school or, perhaps, middle school should be able to handle it. In short, the book really does what it set out to do. It makes the concept of entropy crystal clear, and I look forward to reading Ben-Naim's new book on statistical thermodynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NJE1MIYTCF5B"
+                },
+                "Date": "on February 28, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIQK55FG2HW5Q"
+                },
+                "Date": "on August 15, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A book very nice to read, full of important knwoledge, you must read it from the preface to the last page, every detail is important. If you want to know what entropy is, this is the book. Three months ago I was completely new in the entropy world, now I'm writing a paper about entropy applications in computer vision. U$29.00? very very cheap, you must buy it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UB3DLGTRBHVT"
+                },
+                "Date": "on December 25, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIFRADN5KPR7F"
+                },
+                "Date": "on April 22, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "50 years too late!  This book would have been a great help when I was introduced to Thermodynamics.  At least the current generation will benefit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25GB5B8OTX8PR"
+                },
+                "Date": "on December 29, 2009",
+                "Helpfulness": 0.5833333333333334,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Entropy-Demystified-Second-Reduced-Common/product-reviews/9812832254/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "38"
+    },
+    "Salesrank": "#866,569",
+    "Timestamp": "2015-05-24 15:37:11.844104",
+    "itemurl": "http://www.amazon.com/Entropy-Demystified-Second-Reduced-Common/dp/9812832254"
+}

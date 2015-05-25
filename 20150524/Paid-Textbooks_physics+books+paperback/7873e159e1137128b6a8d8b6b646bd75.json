@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$47.50",
+    "Name": [
+        "Physics for Today and Tomorrow"
+    ],
+    "OfferPrice": "$45.12",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LETMFWQFG7L0"
+                },
+                "Date": "on May 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I would recomend this book to everyone who wants a quick but thorough review of principles of Physics. Awesome compendium of imporatant topics!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Today-Tomorrow-Tom-Duncan/product-reviews/071954002X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,088,902",
+    "Timestamp": "2015-05-24 13:49:57.549712",
+    "itemurl": "http://www.amazon.com/Physics-Today-Tomorrow-Tom-Duncan/dp/071954002X"
+}

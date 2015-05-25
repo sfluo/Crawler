@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Mass Spectrometry: Analytical Chemistry by Open Learning"
+    ],
+    "OfferPrice": "$147.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GI7MKV1WGHT5"
+                },
+                "Date": "on March 31, 2000",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "This book is great!  If you don't have access to college courses or the time to take them then this is a book for you.  This book is clearly written and its exercises guide you through properly interpreting mass  spectra.  The first edition of this book is also excellent.  If you compare  this book to McLafferty's (Interpretation of Mass Spectra) this is much  more effective for teaching the beginner.  I highly recommend this book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mass-Spectrometry-Analytical-Chemistry-Learning/product-reviews/0471967629/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,655,340",
+    "Timestamp": "2015-05-24 15:23:19.463201",
+    "itemurl": "http://www.amazon.com/Mass-Spectrometry-Analytical-Chemistry-Learning/dp/0471967629"
+}

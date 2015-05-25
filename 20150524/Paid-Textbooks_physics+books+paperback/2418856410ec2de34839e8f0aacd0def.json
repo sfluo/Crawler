@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$104.99",
+    "Name": [
+        "Theoretical Concepts in Physics: An Alternative View of Theoretical Reasoning in Physics"
+    ],
+    "OfferPrice": "$90.81",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U9ZOT757BRVS"
+                },
+                "Date": "on November 30, 2005",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": "Although it does not teach you methods in Theoretical Physics(such as Morse and Feshbach or Theoretical Physics by George Joos), it does tell you how the great physicists got to bring about the great physical \"Theorems\". But to be fair, he tells you enough about each great theory there is out there by taking it up as a case study based on some fundamental(amthematical and physical) knowledge. I think it's a brilliant book from both a historical perspective as well as from a informative standpoint. I've had it for years and love the book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABEKR10VRHFL7"
+                },
+                "Date": "on July 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C1142YJW6NL5"
+                },
+                "Date": "on April 17, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Historical introduction to the world of advanced physics.  Use for a British honors seminar.  I keep a copy on my bed stand.  It's the best read for opening to random passages on the development of Maxwell's equations, thermodynamics, special relativity, etc.  I gave one to my nephew.  The blue one is the US edition, the red is full of authentic colour!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 17, 1998",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I recommend this book for final undergraduate and beginning graduate students in the Physical Sciences. As a PhD student in Astrophysics, this book has been very valuable and enjoyable for me. The historical perspective is also a very nice aspect of this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Concepts-Physics-Alternative-Reasoning/product-reviews/052152878X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#615,120",
+    "Timestamp": "2015-05-24 13:34:27.575343",
+    "itemurl": "http://www.amazon.com/Theoretical-Concepts-Physics-Alternative-Reasoning/dp/052152878X"
+}

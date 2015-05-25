@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Crystal Structure Determination (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$31.02",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7N3O97TUR85X"
+                },
+                "Date": "on August 30, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is one of the best introduction in crystal structure analysis  that I have ever seen! Due to it's limited size (and price !!) it covers  the most important topics of x-ray structure analysis in an easy  understandable language without boring the reader with mathematical  details. You really get a good impression about what the basic principles  and problems of x-crystallography are, and how the can be solved. Everybody  wanting to start with x-ray structure analysis should read this book at the  very beginning."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21LPICTWFKBMC"
+                },
+                "Date": "on August 17, 2008",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32UHX0YY53NP2"
+                },
+                "Date": "on November 18, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GOHJWFN5DMQQ"
+                },
+                "Date": "on May 8, 2008",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "3",
+                "Text": "The book is a perfectly fine text. It's quite understandable and informative. I've had tremendous problems with the index, however. It consists of only one page, and it has thousands of laughable omissions. I can't believe Dr. Clegg (and associates) allowed this book to be published with such a terrible, terrible index. This is a text book, kids. It needs a thorough index."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16HAIHS8KCWFI"
+                },
+                "Date": "on November 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This short book is highly recommended if you want to learn the basics of crystal structure determination using syngle crystal X-ray diffraction. If you are starting to work on this topic, this is the perfect book for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D3LJFQAC8CTG"
+                },
+                "Date": "on March 9, 2006",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystal-Structure-Determination-Chemistry-Primers/product-reviews/0198559011/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#1,248,833",
+    "Timestamp": "2015-05-24 15:15:56.506994",
+    "itemurl": "http://www.amazon.com/Crystal-Structure-Determination-Chemistry-Primers/dp/0198559011"
+}

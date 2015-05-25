@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$114.99",
+    "Name": [
+        "The Art and Science of Optical Design"
+    ],
+    "OfferPrice": "$108.73",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18RQ0L6N9DYMU"
+                },
+                "Date": "on September 7, 1999",
+                "Helpfulness": 0.875,
+                "StarRating": "3",
+                "Text": "The book covers a topic badly in need of a comprehensive text. This book seems to be a dump of information by the author with no successful attempt to organize it well. Large blocks of text with no subheadings and  inadequate figures make the material confusing to someone who does not  understand the material beforehand. References to radiometry are a  disaster. In one paragraph on page 95 there are no less than five separate  mistakes. The confusion between radiance and irradiance is total. On the  other hand, in the absence of any other text, the book is a valuable and  complete reference on the use of ray-trace analysis in optical design."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXS4AGL0PH8R4"
+                },
+                "Date": "on September 3, 1998",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "2",
+                "Text": "This  book coves the subject of optical design in detail. The content is  good, and comprehensive. However, the material is not well organized. Some  of the material is too theoretical, and not related to practical problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Art-Science-Optical-Design/product-reviews/0521588685/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,157,601",
+    "Timestamp": "2015-05-24 15:43:08.569646",
+    "itemurl": "http://www.amazon.com/Art-Science-Optical-Design/dp/0521588685"
+}

@@ -1,0 +1,441 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.99",
+    "Name": [
+        "The Physics of Baseball (3rd Edition)"
+    ],
+    "OfferPrice": "$10.07",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NAJDFNWMSS3C"
+                },
+                "Date": "on October 3, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent treatment of the variables that affect the flight of a thrown or batted ball. Reveals facts that explain why the ball does, or doesn't do what people think it does.  For example, most players, coaches and  spectators are not aware that a fastball decelerates on its' flight from  the pitcher to the catcher at a rate of about one mile per hour for every  seven feet of travel.  Thus the ball speed, as it reaches the batter, 60  feet six inches away, is about 8-9 MPH slower than the speed when it leaves  the pitcher's hand.  The Professor also explains the dynamics of the curve  ball; and why a ball hit at Coor's Field travels farther than those hit at  most other ballparks. His theories are interesting, enlightening, and  provocative.  I strongly recommend the book to any baseball fan who wants  to understand why a thrown or batted ball does what it does."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1K1JW1C5CUSUZ"
+                },
+                "Date": "on July 1, 2000",
+                "Helpfulness": 0.9534883720930233,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10EBAP0TYPDTD"
+                },
+                "Date": "on March 20, 2000",
+                "Helpfulness": 0.9354838709677419,
+                "StarRating": "4",
+                "Text": "Ever wondered why a curve ball curves? Why major leaguers stretching for third often take a wide turn between first and second? Why bats seem to break much more often than they used to? This wonderful book contains the  answers. Written by a Yale physicist, it contains well-documented but  sometimes densely worded explanations of why and how a baseball, a bat and  even the players behave as they do. Any serious fan of baseball will finish  this book with an enhanced appreciation for the game. Not to mention the  ability to speak intelligently about how grip and mechanics differ between  pitchers throwing curves and sliders. The author has wisely chosen to  address the questions posed most frequently by baseball lovers who aspire  to higher knowledge. His only failure is his heavy reliance on technical  academic language and somewhat mysterious graphs. It makes for a very  enlightening but slow read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 1, 1998",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "4",
+                "Text": "Before my wife and I married, she had to pass the \"basketball\"  test by sitting through a University of Illinois game in a crowded bar and  at least feigning interest.  The first nights of our honeymoon were taken  up with the World Series (luckily for her, the winning team swept the  series).  I thus consider myself a sports fan (I am obviously a reader).  Accordingly, I was delighted to receive for a recent birthday Robert K.  Adair's The Physics of Baseball.  The book itself, however, did not quite  meet expectations.  I encountered two key problems.  First, Adair writes in  the dry, passive-voice-laden prose of the scientist lacking a good editor.  Second, much of the scientific analysis was simply beyond me.  What I  enjoyed -- and found useful -- were the qualitative discriptions of the  game: how and why curveballs curve; how far a batted ball can be hit; the  differences between metal and wood bats.  While I could not follow each  step of his scientific description, the general, non-technical account  which he also gave was clear and persuasive.  From henceforth, I will watch  the game somewhat differently."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19S3JSCAIWS26"
+                },
+                "Date": "on August 26, 2001",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "The author does a very good job of explaining the basic physics behind national pastime for those who are willing to understand and do a bit of their homework (you just need to be able to read figures and graphs). The various aspects of the game such as the flight of baseball, breaking balls, batting the ball, and the effect of the properties of bats are discussed concisely, without being bogged down into the details of physics. Since the book is targeted for the mass audience (though not including casual baseball fans), readers who studied physics and math at high school or first-year college level should find it very manageable to read and understand. The use of equations is kept at minimum (the author does not use much of mathematical argument anyway), so mathematically challenged readers can also enjoy and extract the most important part of discussions fully. It somewhat reads like a textbook, and will turn away those who have no fond memories in school. The otherwise fine book has its own place in the library of baseball books, since it is the only book in its class for over a decade. This is a very unique baseball book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALWPIW06K2Q4V"
+                },
+                "Date": "on April 12, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALJLYQ249RH7F"
+                },
+                "Date": "on February 15, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A fantastic book for any baseball fan with a scientific interest.  Discusses in straightforward terms (with equations relegated to back of chapters) such things as why and how much a spinning ball curves, the  interaction of bat and ball, how an outfielder gauges a fly ball, effects  of atmospheric conditions, etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 5, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A274I6G6GGETCT"
+                },
+                "Date": "on June 1, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MMXTHORKWREI"
+                },
+                "Date": "on December 3, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZV10U7LAJQON"
+                },
+                "Date": "on December 11, 2003",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 14, 2004",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A274I6G6GGETCT"
+                },
+                "Date": "on June 1, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SPMZM03VV3DS"
+                },
+                "Date": "on June 24, 2003",
+                "Helpfulness": 0.7,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALVXVEV7B3QO8"
+                },
+                "Date": "on October 20, 2004",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "some parts are a little technical for me, but overall the book was one of the most interesting and educational books I've read in a long time.  it changed the way I watch baseball and gives me even more respect and admiration for those who can play at the professional level.  It takes what seems to be a simple act of hitting or throwing and makes me wonder how any can actually do this, then I think about how amazing the human body is to be able to perform like that.  wow."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN237S5G9GPXC"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SS8L0N3EE3WX"
+                },
+                "Date": "on December 8, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NOBJVJNVC3P5"
+                },
+                "Date": "on April 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I found The Physics of Baseball, by Robert K. Adair, to be a very fascinating book.  I play softball so the information in the book is very interesting to me.  I can use the information that I learning in the book to apply it to my playing and improve.  I have truly found myself wandering about most of the information I learned in this book.  Mr. Adair found a way to intertwine players within the information to give examples that I could remember and relate to.  I would definitely go further and read any other information on baseball that he has published because he demonstrated a very clear and working knowledge of baseball.  Adair managed to take something that can be dull, physics, and give it life by putting it with the livelihood of America, baseball.  Adair acknowledged the American love of baseball and used it to his advantage by mentioning players that everyone knows and loves, such as Babe Ruth.  Robert K. Adair brought a new way of seeing baseball by putting names and equations to concepts that every tee-ball and Major League player use.  He described how outfielders find trajectory in their minds in a split second before reacting and made models of the physics behind those trajectories.  I would definitely recommend this book to anyone with a passion for baseball and knowledge"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C956O01MMTLL"
+                },
+                "Date": "on December 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "In the opening chapter to this book, Adair indicates that it is \u201cdirected toward those interested in baseball, not physics.\u201d To me, this sums up the book. This is a book about baseball, with physical principles incorporated\u2014not the other way around. As first a fan, not a physicist, I felt that this book was very readable for the lay person. Adair discusses various physical topics including drag forces, trajectories, velocities, etc and their effects on aspects of America\u2019s pastime. To the fan with a long time love of the game, this is a fun way to look at the game and consider elements that may have previously been overlooked. This isn\u2019t, however, a book that\u2019s going to get a non-baseball fan to become one\u2014so don\u2019t give it to your ten your old. This also isn\u2019t a perfect physical discussion of the game. Adair has a fair amount of loosely calculated values and assumptions, leading to broad and perhaps flawed results. To his credit, however, Adair looks at countless elements of the game and gives an otherwise quiet discussion on baseball and physics some attention. Worth reading by the avid fan or budding physics student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EXOZ9JE7S4E8"
+                },
+                "Date": "on April 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good book overall.  A hardcore baseball fan will love this in depth look at the game they love.  Adair goes into great detail on every part of the game.  From stealing to hitting, pitching to fielding, this book covers it all.  It is backed up with in depth stats and a lot of research.  It is a fascinating book with page after page of facts written by someone who obviously knows a lot about both physics and baseball.  While he may bore some readers with a good amount of math, it is not the focus of the book, as most of it sticks to the science part of baseball.  Great for any baseball fan who wants to deepen their knowledge of the game they love.  The detail of each subject is amazing and will fascinate a physics major, while not totally boring and losing interest of a casual fan.  Adair did a good job of not overwhelming readers with intellectual physics but still getting his point across.  Very informative and interesting overall.  Anyone who loves baseball, physics, or both should read this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A274I6G6GGETCT"
+                },
+                "Date": "on June 1, 2001",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A182JRT3HJA6CL"
+                },
+                "Date": "on November 29, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HL7UUPSXJYSN"
+                },
+                "Date": "on October 17, 2005",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JK0ELXRTRZA5"
+                },
+                "Date": "on October 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Should be titled , The Physics of Baseball for Dummies. Not much new here for me. I sent the book over to Miller Park, hopefully The Brewers pass it around to the coaches and players before next season."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6TPHIXWU4Y7K"
+                },
+                "Date": "on December 23, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Physics class - required reading; book discusses how the laws of physics are appliacble to the sport of baseball; author is very practical in its delivery."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19WS5M0M6LBZC"
+                },
+                "Date": "on February 26, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very concise and illuminating treatise for the thinking fan. Adair makes the physics accessible without requiring any advanced science background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FD4EBOSY6HJ8"
+                },
+                "Date": "on May 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Not too mathematical, just right. OK even if you are a hockey fan or love to fish, boat or even play tennis."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TNIPT30CGCSX"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Bought for my Grandson who is a sophomore in high school. Baseball player who is studying advanced physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 23, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Dr Adair has written a wonderful book on the physics involved in that greatest of sports - baseball!  It is well-written and easily understood, even by those with only a minimal understanding of physics.  For those interested in more detailed discussions, the mathematical appendices should appease.  A book every serious baseball fan should read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A318GW7U8NY0J3"
+                },
+                "Date": "on November 28, 2004",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book technically describes the physics of baseball.  It contains descriptions of techniques of how you pitch and hit the ball. The book goes into every single detail of what angle the bat could hit the ball.  If you are interested in baseball and you think you know the game, you don't because this book provides information that you could not have thought of.  For the serious baseball player, I recommend reading this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KMIC7QS9I3Z7"
+                },
+                "Date": "on November 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Fun read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12387207U8U24"
+                },
+                "Date": "on March 24, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Many interesting topics are covered in this book, such as bat types, various pitches, and flight of the ball, just to name a few. Several myths are dispelled, including the use of corked bats and \"rising\" fastballs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABO8417RECZZ4"
+                },
+                "Date": "on February 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Some of the math explained in the book is a little off. He has linear functions for things that are mathematically parabolic. It at least gets you thinking correct directionally."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A274I6G6GGETCT"
+                },
+                "Date": "on June 1, 2001",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LFQUXMG8EU8P"
+                },
+                "Date": "on May 18, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is great at explaining why things happen the way they do. I am actually using it as a reference for a study on the physics of softball."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1807DSQNEJM98"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "ok"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2S6LYU30FZAFN"
+                },
+                "Date": "on April 14, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Robert Adair did a fantastic job writing The Physics of Baseball. I just read this book and loved it. I play baseball at Milton High School and this book not only helped me better understand the game of baseball but will also help me excel in the sport.  The physical evidence resulting from the tests performed and the various charts and graphs made all of the information easy to understand.  Coaches always say that \"the little things\" win and lose ballgames.  In the novel, \"the little things\", such as laying bunts down and many more are covered and can help teams win games.  I recommend this book to all players of the sport and definitely to all coaches of teams.  It may change the style of coaching but for the better by making the coach pay more attention to small things and winning games.  I also recommend this book to any people that do not play or coach anymore or have kids or grandkids playing anymore.  The information is can be helpful but can also be interesting to the average person. This book is great for anyone that just loves the game of baseball or any physics geek that is curious how things work in America's past time. I hope that Robert Adair will continue this \"Series\" and write a couple more books regarding the great sport of baseball.  I would also like to see other authors write similar novels about different sports, such as basketball and football. This book was a GREAT BUY!!!!!!!!!!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34OQT9D6M0EMD"
+                },
+                "Date": "on August 6, 2001",
+                "Helpfulness": 0.5294117647058824,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOT6YLDKBW5B6"
+                },
+                "Date": "on January 24, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "Remember that physics teacher you had who was clearly brilliant but just had no clue how to explain anything?  You got him right here in \"The Physics of Baseball.\"  What could have been an engaging study for physicists and ordinary fans alike is a highly technical and terribly dull look at the forces that affect balls, bats, and the game itself.  Adair makes no effort to explain technical terms, uses no anecdotes, and leaves ordinary readers far behind.  Just be glad you're not in his class, or sitting next to him at a game."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 22, 1998",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book explains everything. It is very easy to understand. It shows diagrams and graphs and has everything you ever wanted to know about the physics of baseball. It really helped me on my science project."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 20, 2001",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "I never thought I'd say this, but this book is just too technical to be any fun.  It is SOOOO detailed in its explanation of the various physical forces at work in a baseball game that the book takes way too long to get anywhere.  Worse still, the book isn't organized very well, so if you want to just skip to the \"punchline\" to figure out what the author's trying to tell you (e.g. curveballs really do curve, fastballs don't really rise, corked bats don't help), it's very difficult to do.  I love physics, and I love baseball, so I thought I'd love this book, but I'm sorry to say that it left me cold."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19GLE4LF86MXH"
+                },
+                "Date": "on July 30, 1999",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "This Book will give insight into why the \"freaky things\" in baseball actually occur. Great reading. \"To know you is to love you\" and you will love baseball deeper after reading this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 25, 1998",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was amazing and really helped me on my science project. My  science project was about teh physics of baseball and i was amazed at all  the info. this book gave me. The book also helped my game. I hope another  will coem out and teach me even more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A356W570RTIMCP"
+                },
+                "Date": "on February 18, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I know this book is about the \"physics\" of baseball, but for the average fan/baseball enthusiast, it is a little too heavy on the theory side of explaining the mechanics of baseball.  Overall an interesting read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 24, 2002",
+                "Helpfulness": 0.1875,
+                "StarRating": "5",
+                "Text": "Carl, you criticize the \"typo's\" (sic) in Bill James book, and you bemoan the fact that such careless editing went into his work.  However, your little note is filled with mistakes (e.g., I found the use misuse of \"it's\" particularly amusing).  Two questions:  (i) based on such mistakes, am I able to trust your review of the book? and (ii) are you lazy or just stupid?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 12, 2002",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "2",
+                "Text": "I couldn't finish this book. I thought it would be in simplier terms and more interesting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 26, 1998",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "it didnt give many details and didnt give info on many physics of hittin"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Baseball-3rd-Robert-Adair/product-reviews/0060084367/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "47"
+    },
+    "Salesrank": "#45,198",
+    "Timestamp": "2015-05-24 12:26:23.286420",
+    "itemurl": "http://www.amazon.com/Physics-Baseball-3rd-Robert-Adair/dp/0060084367"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Elasticity (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.60",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28VNQ8328YO0N"
+                },
+                "Date": "on February 28, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XAQ9NQM6327P"
+                },
+                "Date": "on October 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elasticity-Physics-Robert-William-Soutas-Little/product-reviews/0486406903/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#695,889",
+    "Timestamp": "2015-05-24 12:41:03.444525",
+    "itemurl": "http://www.amazon.com/Elasticity-Physics-Robert-William-Soutas-Little/dp/0486406903"
+}

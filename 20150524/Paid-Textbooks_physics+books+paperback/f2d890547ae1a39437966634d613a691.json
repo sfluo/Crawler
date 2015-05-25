@@ -1,0 +1,333 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.50",
+    "Name": [
+        "Quantum Mechanics and Experience"
+    ],
+    "OfferPrice": "$25.31",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASD5W4RU4T8G4"
+                },
+                "Date": "on January 22, 2004",
+                "Helpfulness": 0.96,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18D7V4BR9HBPB"
+                },
+                "Date": "on November 16, 2005",
+                "Helpfulness": 0.926829268292683,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B9Q710R2ATBT"
+                },
+                "Date": "on September 27, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALVLLSCI6TDLS"
+                },
+                "Date": "on February 13, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": "This book is a very good introduction to Quantum Mechanics. I thought that the first three chapters on \"Superposition\", \"The Mathematical Foundation and \" Nonlocality\" were particularly  interesting and well written and alone worth reading. Later chapters are of  a lesser quality and the writer seems tired towards the end of the book.  Also be warned this book needs effort, review will be required, and if you  don't have some talent for mathematics its going to be hard going. Overall  I think that the knowledge to be gained will be proportional to the work  put in by the reader and I believe that this book is well worth the  required effort."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FMKL22SRYJJW"
+                },
+                "Date": "on January 20, 2003",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": "This book will not please everyone (this much should be clear from the reviews).  Those with a weak math background will find Albert's presentation of linear algebra hard to follow, and those seeking a detailed, technical treatment will likewise be frustrated.  Rather, this book seeks a middle ground.  The potential reader should bear this in mind, and the potential reviewer should not blame the book for being what it is.  Having said this, the book is written in a breezy style that, I suspect, closely matches the way Albert speaks; this tone is not for everyone.  Albert's presentation of superposition and the measurement problem is the clearest I have seen, and this is a major attraction of the book.  His solution to the measurement problem, the Many-Minds theory, is strange, but the phenomena for which it seeks to account are strange.  He discusses, and finds fault with, several other interpretations in a manner that may lead the reader to delve more deeply into these rival accounts.  This is good, for Albert has not written -- nor has he intended to write -- an encyclopedic tome covering the entire history of philosophical musings on this subject.  This should not be the only book you read on this topic, but it is a valuable text for your collection, if for no other reason than the clear and clever way Albert details the problem of quantum mechanical collapse."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35G5520UZAR5F"
+                },
+                "Date": "on September 29, 2002",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATJO9G2PFF3R2"
+                },
+                "Date": "on December 10, 1999",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "Albert's book is an excellent introduction for the lay reader.  He begins by taking the reader through the basic mathematics needed, and goes on to introduce the measurement problem.  He then goes on to examine the various  pros and cons of proposed solutions to the problem, in a way that is  wonderfully lucid.  This book is a valuable resource for anyone looking to  learn where things stand with regards to the measurement problem,  regardless of ones previous knowledge of topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P1UA4F0KO795"
+                },
+                "Date": "on November 14, 2009",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": "If you want a book that explains quantum mathematics without condescending to the reader and are not afraid of a little math, this is the book for you.  Virtually all books on QM unfortunately go to one extreme or the other -- either avoiding any mathematical formulas altogether, so that you can't possibly understand the theory and simply have to take what the author says on faith, or overdoing the math and becoming far too technical.  Albert, a philosopher, is brilliant at selecting just the minimal amount of math that you need to know to understand what's going on; he simplifies where possible but does not oversimplify.  He also explains things very clearly in words. Some may be put off by the colloquialisms of his language (he loves to say things like \"cook up\" and \"cool,\" and perhaps he overuses italics for emphasis.  But these are extremely minor flaws.  It is simply mystifying why there are so many negative reviews of this excellent work.  To be sure, it is not an easy read and demands quite a bit of the reader.  But if you want to have a grasp of the real nature of QM, you have to make the effort, and Albert is as good a guide as you will find."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35QHC2DWI1Q0E"
+                },
+                "Date": "on December 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The style is eccentric because that's how he speaks in class; the book is practically a transcript of a course he gave at Columbia--and still gives. I think, though presumably it has changed somewhat in the decades since I took it as an auditor shortly before the book's publication.  His approach is unique, unlike anything I've seen in any other treatment of QM (both a plus and a minus), and the class was great fun, as he was continually engaging with students, very open to questions and available after class, even to a mere auditor.  I particularly liked his exposition of superposition as a state of affairs that simply cannot be described in ordinary language; it should forever inoculate you against expressions like \"the particle is in two places at the same time,\" which try to make it sound weird but actually understate the weirdness.  He picks up some of the same themes in his later book, Time and Chance, which shows an evolution of his views on the Ghirardi, Rimini and Weber theory of wave function collapse, of which he was highly skeptical in his class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KJBCDHSUW5D3"
+                },
+                "Date": "on September 5, 2007",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IGHVIOOE3F3J"
+                },
+                "Date": "on May 15, 2004",
+                "Helpfulness": 0.6521739130434783,
+                "StarRating": "2",
+                "Text": "I took his class, for which this book is required reading.  Other reviewers are correct in saying the writing is pretty poor.  Even if you can look past the distracting prose style, I still think most readers would be better served looking elsewhere for books covering similar material.  It says on Albert's bio on the philosophy department website where he teaches that his work is so highly theoretical that he can proceed without a laboratory.  But nor is he a philosopher primarily.  He's a middling, and so is this book.  I think the result is that the science is short changed as well as the broader treatment of the philosophical implications of the material.  Perhaps he knows his stuff inside and out from BOTH angles, but all readers get is a strange half-breed that is almost unreadable.  Some scientists have the enviable ability to look up from their work and give the rest of us a good look at the most fundamental problems posed by their work, and in dashing fashion.  Albert is not one of these."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VM47LWY5U9AN"
+                },
+                "Date": "on March 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I use this book when teaching foundational issues in undergrad quantum mechanics. It provides a simple intro to the mathematics needed for \u201cBringing home the atomic world: Quantum mysteries for anybody,\u201d N.D. Mermin, Am. J. Phys. 49, Oct 1981, 940-943 and \u201cEntangled photons, nonlocality, and Bell inequalities in the undergraduate laboratory,\u201d D. Dehlinger and M.W. Mitchell, Am. J. Phys. 70, Sep 2002, 903-910, for example."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A42WXB09K68KN"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OOD8DAL9CGAW"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Like many e-books, this one fails to provide scalable fonts for the mathematics.  Its equations are bit-mapped images of an inscrutably small font size.  Also, image backgrounds are not transparent, which is incompatible with setting one's e-reader to a black background, e.g. for night reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 24, 1996",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FQ0G5B3Z0OT5"
+                },
+                "Date": "on June 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I used the early chapters in this book as a basis for a short unit on QM, and students responded well, and were able follow along conceptually. The second chapter got beyond their mathematical backgrounds however."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U0XHQB7MMH0E"
+                },
+                "Date": "on January 16, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8570D9FLPGE9"
+                },
+                "Date": "on March 18, 2001",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "This is one of the best discussions that I have read on what Quantum Mechanics really means. He goes through the conventional interpretations and explains what is wrong with them. Read Bell's book, then read this (or the other way around)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATO9XRWKWG13I"
+                },
+                "Date": "on March 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good product and good service."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29KOUMEOY9CBT"
+                },
+                "Date": "on February 23, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XL80HWJPDICH"
+                },
+                "Date": "on July 29, 2000",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11XITSILD35JW"
+                },
+                "Date": "on April 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FMJ901SY7SBA"
+                },
+                "Date": "on November 27, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "I had a reasonable idea of what the book consisted on before I ordered it. I had followed Prof. Muller's recommendation (see \"Physics for Future Presidents\" on YouTube). Reading it now, I find the book to be extremely interesting and, although not containing too advanced math, requiring a lot of attention and curiousity from the reader, as it is \"deep\" in the author's own way. Great piece of work!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 30, 1999",
+                "Helpfulness": 0.5263157894736842,
+                "StarRating": "1",
+                "Text": "I was very confused by this book.  Although I have a B.S. degree in physics (I really do) I could not follow the points the author was  apparently trying to make.  It's not just the math that's difficult to  understand, the non-mathematical explanations are also very confusing.  I  read over some sections three or four times attempting to grasp the logic  the author was using, but ended up just giving up.  I was looking for a  deeper understanding of quantum mechanics but I really didn't get anything  out of this book at all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31I6UAAW61L4P"
+                },
+                "Date": "on March 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is a spectacular book that seems to have slipped from popularity.  There is no other that I know of that is so sophisticated and technically correct without the use of advanced mathematics and symbolic logic.  This is science exposition at the very highest level."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23CJ847S6A4AB"
+                },
+                "Date": "on March 8, 1998",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "5",
+                "Text": "For anyone who's hungry to get quantum mechanics demystified, to understand the actual problems without a condescending \"popular science\" author weaving weird metaphors, this is *the* book. --Viresh Ratnakar"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 12, 1999",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "1",
+                "Text": "I purchased this book in the hope of learning something more about the concepts of quantum mechanics.  I had hoped the book would allow me to understand the theory better.  After reading through the entire book,  though, I can only say I am even more confused than when I began.  The  author does a miserable job at explaining the concepts of the theory.  His  explanations are confusing and inadequate.  The math he uses does not help.  He skips many math steps making it impossible to know how he is arriving  at his conclusions.  I would not reccomend this book to anyone."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 8, 2002",
+                "Helpfulness": 0.45454545454545453,
+                "StarRating": "1",
+                "Text": "I was very disappointed by this book.  The worst part was the author's writing style. It was full of misplaced or useless parenthetical interjections, and he couldn't seem to get his point across without half a page of footnotes for each paragraph.  This was not an easy read -- I felt as though I was stumbling around on the pages. I never seemed able to squeeze a clear and concise idea out anywhere in the book.  It also requires more math than I was hoping for."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 10, 1999",
+                "Helpfulness": 0.38461538461538464,
+                "StarRating": "1",
+                "Text": "The problem with this book is that the author jumps around from topic to topic, never fully explaining anything in particular.  He never makes a single point that is worth remembering.  The topics he does try to explain,  such as superposition, are discussed in a very confusing and inconsistant  manner.  At times he sounds like he is talking to a grade school child,  explaining elementary points in painful detail, then in the next paragraph  he jumps to mathematical descriptions that only a Ph.D physicist would  comprehend.  It's really bizarre.  In the end you feel like you've read 200  pages but gained absolutely nothing.  It's like eating cotton candy, it  looks impressive at first, but it disolves to nothing when you actually  partake of it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GP7RLGI732V3"
+                },
+                "Date": "on February 23, 2012",
+                "Helpfulness": 0.23076923076923078,
+                "StarRating": "1",
+                "Text": "Don't be duped by this book's claim to be accessible to anyone with a high school education.  Albert embraces the esoteric appeal of mathematical and scientific symbols and terms just as thoroughly as anyone else, and if you don't already know what he's talking about you'll probably never catch on.  It's a beginner's guide for people with a subject vocabulary beyond the beginner's level; in other words, it is useless."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SELHGTVV0Y8D"
+                },
+                "Date": "on May 7, 2013",
+                "Helpfulness": 0.125,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 5, 1999",
+                "Helpfulness": 0.23076923076923078,
+                "StarRating": "1",
+                "Text": "The author does not explain anything in a way that can be understood.  Sometimes his explanations conflict or contradict each other throughout the chapters.  There were also many mathematical errors throughout the book.  You begin to wonder if the author really knows what he is writing about -  or if it was meant as some big joke on the reader.  I would not recommend  this book to anyone."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OT3AOCTJ1XMY"
+                },
+                "Date": "on May 6, 2006",
+                "Helpfulness": 0.2641509433962264,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QG7GLRY2RMZD"
+                },
+                "Date": "on September 24, 2005",
+                "Helpfulness": 0.14634146341463414,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16WH28IW47CX6"
+                },
+                "Date": "on December 9, 2006",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Experience-David-Albert/product-reviews/0674741137/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "35"
+    },
+    "Salesrank": "#548,158",
+    "Timestamp": "2015-05-24 13:26:48.749973",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Experience-David-Albert/dp/0674741137"
+}

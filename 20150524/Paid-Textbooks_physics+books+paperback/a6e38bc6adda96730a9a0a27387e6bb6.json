@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Quantum Physics Workbook For Dummies"
+    ],
+    "OfferPrice": "$18.38",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ1NK2KT5ZB4P"
+                },
+                "Date": "on March 11, 2010",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3XLQAD45KGSU"
+                },
+                "Date": "on June 29, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFGRCGMEEXEK"
+                },
+                "Date": "on June 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This is a useful book for practice in problem solving.  My main disappointment is that the treatment is not as comprehensive as I expected.  There are a number of topics covered in elementary texts on QM that do not appear to be represented in the book.  For instance, there is nothing on density matrices/operators so far as I can see."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN4GBMV1Q2RUE"
+                },
+                "Date": "on October 1, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33IR5DLCFUL4U"
+                },
+                "Date": "on February 7, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "the outline is excellent at presenting the course basics. However, I needed a pre-course reference. I am not a physics major.  Only a reader and I was expecting something more basic that  introduced me to  the math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GG0I93SF1JV"
+                },
+                "Date": "on August 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Intense intense intense more intense then kinda hard but realy intense, but I'm still going to try and learn it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BSYRVI5LECV"
+                },
+                "Date": "on December 29, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Like all the dummy books, it gives basic information that has sometimes been a clincher to getting the question.  However sometimes the info is too basic or vague for my university student needs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BNXZ3X3399TJ"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Too early to tell just HOW helpful. Bought for my son in class and he seems to think it will help!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HECEZHSQIZ8Y"
+                },
+                "Date": "on May 8, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Nice book if you have problems with quantum mechanics. Its simple to understand with the step by step approach by the author. Don't hesitate to get one for your library and use, you not gonna regret it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA4EV7MTZBEJ"
+                },
+                "Date": "on May 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great book even for dummies"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT6AQJKPRW1P"
+                },
+                "Date": "on September 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good book and service"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RDFAMZ81ACAE"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Outstanding !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11BO8XS8WS5Q5"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As described"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Physics-Workbook-Dummies-Holzner/product-reviews/0470525894/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#341,179",
+    "Timestamp": "2015-05-24 12:40:22.102926",
+    "itemurl": "http://www.amazon.com/Quantum-Physics-Workbook-Dummies-Holzner/dp/0470525894"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Infrared Spectroscopy"
+    ],
+    "OfferPrice": "$21.30",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "we need suva grafic infrared liniair of R123 and R11 and R141b suva product (propurties indentification by infra red scanner lab. version"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Infrared-Spectroscopy-Barbara-Stuart/product-reviews/0471959170/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,868,741",
+    "Timestamp": "2015-05-24 15:37:33.421365",
+    "itemurl": "http://www.amazon.com/Modern-Infrared-Spectroscopy-Barbara-Stuart/dp/0471959170"
+}

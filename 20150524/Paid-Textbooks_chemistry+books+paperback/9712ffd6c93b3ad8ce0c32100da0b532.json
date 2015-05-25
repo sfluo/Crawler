@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$110.00",
+    "Name": [
+        "Band Theory of Solids: An Introduction from the Point of View of Symmetry"
+    ],
+    "OfferPrice": "$93.50",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AMGOWUXNFIYI"
+                },
+                "Date": "on June 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book explains the most advanced concepts related to the band theory of solids in a relatively easy-to-follow manner. The author also points out many important implications of symmetry on the band structure, not always mentioned in other books dealing with this subject. This book is an excellent reference for chemists, physicists and material scientists interested in crystalline materials."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Band-Theory-Solids-Introduction-Symmetry/product-reviews/019855866X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#859,370",
+    "Timestamp": "2015-05-24 15:39:24.768131",
+    "itemurl": "http://www.amazon.com/Band-Theory-Solids-Introduction-Symmetry/dp/019855866X"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$132.60",
+    "Name": [
+        "Physics for Scientists and Engineers: A Strategic Approach, Vol. 1 (Chs 1-15) (3rd Edition)"
+    ],
+    "OfferPrice": "$114.77",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N8P3C28OGY5B"
+                },
+                "Date": "on February 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "Seems like this edition was rushed.  The book leaves out important details - which are always being filled by the instructor.  It does a good job on some of the concepts, but some topics could use more clarification and maybe examples.  The answers in the back of the book are wrong quite a bit of the time as well and simply use answers from older versions with different problems.  Guys, this is a tough class without dealing with book errors.  But with so many I'm often left guessing...not where I need to be in a class like this.  I like that plenty of practice is provided, but with so many wrong book answers, I'm not sure it isn't working against me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35GAB2TG5PX94"
+                },
+                "Date": "on March 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good condition for cost."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YBYBXNUBTE2C"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "This book is the first 15 chapters of the larger set, I chose to buy this one and later I can get the next volumes. This is both cheaper and easier to carry around. The book is soft cover so it is not as durable as the hard cover version, but is is much lighter."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/product-reviews/0321752910/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#116,833",
+    "Timestamp": "2015-05-24 12:37:24.277599",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0321752910"
+}

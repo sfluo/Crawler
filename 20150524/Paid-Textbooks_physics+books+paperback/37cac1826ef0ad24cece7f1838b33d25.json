@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics for Scientists and Engineers Volume 1 Custom Edition for University of California, San Diego"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U50OU6Q9D21J"
+                },
+                "Date": "on May 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Scientists-Engineers-University-California/product-reviews/0558564925/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,406,180",
+    "Timestamp": "2015-05-24 13:36:25.011315",
+    "itemurl": "http://www.amazon.com/Physics-Scientists-Engineers-University-California/dp/0558564925"
+}

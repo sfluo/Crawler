@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$87.50",
+    "Name": [
+        "Air and Water"
+    ],
+    "OfferPrice": "$83.16",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 15, 1999",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "Mark Denny compiles tons of awesome work into one book.  It reads well, and explains it all.  This helped me finish my thesis."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Air-Water-Mark-Denny/product-reviews/0691025185/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#934,947",
+    "Timestamp": "2015-05-24 12:44:18.787654",
+    "itemurl": "http://www.amazon.com/Air-Water-Mark-Denny/dp/0691025185"
+}

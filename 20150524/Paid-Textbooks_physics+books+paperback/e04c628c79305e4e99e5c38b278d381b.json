@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Lectures on Theoretical Physics: Optics (Lectures on Theoretical Physics volume iv) (Volume 4)"
+    ],
+    "OfferPrice": "$72.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4L0V4V7YPIYK"
+                },
+                "Date": "on August 17, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Calling young physicists!  Hear this.  This book contains the first and (naturally) the only exact solution to the problem of diffraction of a plane wave by a straight edge. The method is rather miraculous to behold,  and the rest of the book is something that any theoretician would benefit  from reading.  (See also the review by H. Fleming of his book: Mechanics of  Deformable Bodies [Lectures on Theoretical Physics, Vol 2].)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lectures-Theoretical-Physics-Optics/product-reviews/0126546762/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,172,557",
+    "Timestamp": "2015-05-24 12:49:46.393850",
+    "itemurl": "http://www.amazon.com/Lectures-Theoretical-Physics-Optics/dp/0126546762"
+}

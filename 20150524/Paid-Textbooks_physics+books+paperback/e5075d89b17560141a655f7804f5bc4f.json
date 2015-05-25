@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.95",
+    "Name": [
+        "Thermodynamics and Statistical Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.26",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 22, 1998",
+                "Helpfulness": 0.9375,
+                "StarRating": "2",
+                "Text": "This is a curious book. It starts with a set of axioms wherefrom all thermodynamics should follow up. But, at least to me, these axioms are too vaguely stated, in a highly abstract setting (set theory). When I follow the derivations, again, I am not convinced that everything follows from the axioms. Axiomatic expositions of thermodynamics are OK: I think the first chapters of Stellar Structure by S. Chandrasekhar is an extremely good course of Thermodynamics using the Caratheodory axiomatics, as is the article by Lande' in the old Handbuch der Physik. Perhaps Landsberg should have used more words, or examples, to illustrate his axioms and derivations therefrom. Also, the thermodynamics of equillibrium radiation is treated too briefly by the trick of mirrored walls. One needs the help of other texts for understanding the arguments. The choice of topics is excellent. Locally it is a very good book. Perhaps a new introductory chapter should solve the problems I met."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Statistical-Mechanics-Dover-Physics/product-reviews/0486664937/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,961,737",
+    "Timestamp": "2015-05-24 13:40:33.820846",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Statistical-Mechanics-Dover-Physics/dp/0486664937"
+}

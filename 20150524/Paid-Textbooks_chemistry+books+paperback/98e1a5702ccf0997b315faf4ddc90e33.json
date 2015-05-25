@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$76.95",
+    "Name": [
+        "Thermal Physics, Second Edition (Physics and Its Applications)"
+    ],
+    "OfferPrice": "$68.87",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K588DIIFBE66"
+                },
+                "Date": "on February 14, 1999",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "This is a very well written book about the basic notions one might have to be introduced to Thermodynamics.It is clear, concise, and does not avoid the subtleties of the subject.By focusing the concept of entropy of a  closed system,the author gives a quite good discution over the meaning of  the thermodynamic functions, a difficult topic for beginers.The first  chapter of the book is also very interesting, for it has an up-to-date  introduction to the field of thermometry.This book may be used as a  companion to a book like Fermi's classic \"Thermodynamics\" and  gives the reader a sound basis for further studies, using a book like  Callen's for instance."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 5, 1998",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": "All I have to say is...I came...I read...I understand!  By the end of the book I could explain to my classmates how to complete problems, and I could also go up to the board in front of the class and answer problems.  I had  NO fear of being called on by the professor to answer questions in class.  BUY THIS BOOK!!!!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABG140IGXYZZ1"
+                },
+                "Date": "on December 15, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FO0ZXC9400WQ"
+                },
+                "Date": "on November 10, 2006",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": "I enjoyed most of this book. It has helped me with getting to grips with Thermodynamics. The last few chapters did not keep me very interested. However I am now reading more advanced material on Thermodynamics, so this book has been very helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EKHG8FL5UKM"
+                },
+                "Date": "on October 21, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is a great book for learning Thermodynamics.  It's fairly easy to read and gets right to the point."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermal-Physics-Second-Its-Applications/product-reviews/0748743790/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#2,052,581",
+    "Timestamp": "2015-05-24 15:45:28.077283",
+    "itemurl": "http://www.amazon.com/Thermal-Physics-Second-Its-Applications/dp/0748743790"
+}

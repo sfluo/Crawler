@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Causality and Chance in Modern Physics"
+    ],
+    "OfferPrice": "$16.25",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MF338Q12XI3H"
+                },
+                "Date": "on January 16, 2002",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 17, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "This book is a bold and original investigation of the philosophical foundations of physical science. David Bohm, as a superb physicist with a  major textbook on quantum mechanics, is qualified for what he undertakes to  do in this book. The book is devoted partly to a detailed exposition of  \"mechanical philosophy\". Bohm describes in detail the sources and  implications of this philosophy as it appears in classical mechanics,  statistical physics, and quantum mechanics. Bohm argues that mechanical  philosophy is not a necessary consequence of the formalism or of the  well-known success of these theories. It is one possible, albeit  widespread, interpretation. According to Bohm, the mechanical philosophy is  a result of assuming the validity of a scientific theory in all possible  situations and contexts. Bohm shows how other more reasonable  interpretations of specific theories can be developed. Bohm's own  interpretation involves various levels, described by qualitatively distinct  theories. These may be related but are not necessarily reducable to a basic  level. In particular, Bohm discusses quantum mechanics from this point of  view. This serves as an introduction to what Bohm elsewhere turned into a  technical research programme. The book is pervaded by a sense of Bohm's  deep and unified vision of the physical world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFW8FP6HE95B5"
+                },
+                "Date": "on April 20, 2002",
+                "Helpfulness": 0.7647058823529411,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on February 19, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD9DRTA3N35EQ"
+                },
+                "Date": "on August 12, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q1EIA1SVWP7M"
+                },
+                "Date": "on October 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "In this book David Bohm explains his understanding of causality that is not so well covered in his later works. It is a valuable gem from a special mind (Bohm) for anyone looking for truth and its relationship with science"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BXRINTCZN7TX"
+                },
+                "Date": "on May 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "just great !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EC1IG3LOB0NF"
+                },
+                "Date": "on August 4, 2001",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "Bohm in this book attacks to Standard Interpretation of Quantum Physics. He starts with definition of Physical Theories, Laws of Nature, discusses Statistical Mechanics and goes into Deterministic Mechanicstic Philosophys and indeterminist Mechanistic Philosophy. He attackes Bohr and Heisenberg on their stand that Uncertainity Principal is the rule of the nature and foundation of Quantum Physics.Claims it is not conclusively proven as a rule and than argues that one can always find new Theory that can be fundemantally different from Uncertainity Principle, yet could explain nature better and yields current Quantum Physics as complimentarity. Although he claims that Heisenberg's claim is with no foundation, I believe he fails to prove that Nature can not be explained completely with limited number of laws and concepts.His argument against Heisenberg could be reversed and used against his own argument"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Causality-Chance-Modern-Physics-David/product-reviews/0812210026/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#971,209",
+    "Timestamp": "2015-05-24 13:23:07.567566",
+    "itemurl": "http://www.amazon.com/Causality-Chance-Modern-Physics-David/dp/0812210026"
+}

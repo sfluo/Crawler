@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "An Introduction to the Theory of Elasticity (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI9EIHVBHFPC"
+                },
+                "Date": "on February 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29CM3I8I7UCOA"
+                },
+                "Date": "on February 18, 2007",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "Exellent elementary introduction to the theory of elasticity. Clear and concise exposition of the basic principles, with many valuable applications and exercises. Requires only basic knowledge in physics, calculus incl. vector analysis and linear algebra. Good starting point for more advanced treatments of the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW22UY988XDW8"
+                },
+                "Date": "on July 13, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I read the first three chapters because I am only interested in finite strains. It is very well written and easy to follow but some concepts need more elaboration such as the 2nd PK stress, or for example there is no mention of Green-Lagrange strain. So it's a good introduction but doesn't go into a lot of detail as  you can tell from the volume of the book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Theory-Elasticity-Dover-Physics/product-reviews/0486442411/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#917,633",
+    "Timestamp": "2015-05-24 12:28:11.590016",
+    "itemurl": "http://www.amazon.com/Introduction-Theory-Elasticity-Dover-Physics/dp/0486442411"
+}

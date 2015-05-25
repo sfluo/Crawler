@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.40",
+    "Name": [
+        "The Practice Book for Conceptual Physics"
+    ],
+    "OfferPrice": "$45.26",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23OKX3LB9IEKN"
+                },
+                "Date": "on February 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This practice book is actually helpful!  I liked all the different practice problems to help me better understand my physics book!  All of the answers are in the back of the book so you don't have to guess weather you got them right or not."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YP6F6P8W0MH1"
+                },
+                "Date": "on November 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Definitely has helped with my class - worth every cent!  It does have the answers in the back if one wants to know."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC8ZRQ4M15WP"
+                },
+                "Date": "on June 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great addition to the textbook. Although the textbook has plenty of exercises, this practice book adds other problems which don't appear in the textbook. I'm glad I bought it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3535JQXYAKDDI"
+                },
+                "Date": "on September 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "It has a good format with the answers but doesn't cover a lot of subjects that are in the textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15YBYMGCS7FYG"
+                },
+                "Date": "on April 10, 2013",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EI0A6PQB6U6H"
+                },
+                "Date": "on September 22, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": "Gives a lot of practice problems, but does not explain how to do any of them or why they are solved in such a way. Unless you already know how to work the problems, this book is useless."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TPKMGRT5XQEI"
+                },
+                "Date": "on July 14, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I am learning a lot about basic physics.  Love the illustrations and examples. I hope to learn basic physics concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATRDGCP20B3KI"
+                },
+                "Date": "on September 10, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "all good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K9NZRPSX513O"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A08407131WZKDSUQ98KMM"
+                },
+                "Date": "on November 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I ordered an actual book but received a practice book. I was disappointed because it was useless for me. thanks"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H3CGP90JZL4M"
+                },
+                "Date": "on August 29, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15FL3NC0F8A4G"
+                },
+                "Date": "on November 4, 2011",
+                "Helpfulness": 0.1,
+                "StarRating": "3",
+                "Text": "WAS PRETTY RIPPED AND WORN AROUND THE EDGES.  FEEL LIKE I COULD HAVE GOTTEN A BETTER PRODUCT FOR MY MONEY"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practice-Book-Conceptual-Physics/product-reviews/0321662563/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#134,225",
+    "Timestamp": "2015-05-24 12:32:42.297466",
+    "itemurl": "http://www.amazon.com/Practice-Book-Conceptual-Physics/dp/0321662563"
+}

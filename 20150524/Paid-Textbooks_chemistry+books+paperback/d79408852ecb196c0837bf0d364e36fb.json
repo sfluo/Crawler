@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Spectroscopy of Polymers (Acs Professional Reference Book)"
+    ],
+    "OfferPrice": "$27.49",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TRDFD91W28VS"
+                },
+                "Date": "on July 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Purists and theoreticians might not like this book, but I found it clear, practical, and a joy to read.  This textbook describes all the common spectroscopic techniques used on polymers with a slant toward applications: why you'd use one technique instead of another, what the strengths and weaknesses of each technique are, and what you have to consider differently when working with polymers as opposed to small molecules.  The theory is a bit light (usually there's just enough to describe how each technique works), but there are references to the literature if you need more theoretical depth.  Perhaps best of all is Koenig's writing style, which makes even discussions of NMR pulse sequences fun to read (I had the pleasure of taking a course with Dr. Koenig before he retired, and his dark sarcasm and anecdotes made a potentially numbing class quite enjoyable).  If he could have generalized this book to include subjects other than polymers and plastics (e.g. biophysics and environmental chemistry), it would have become a classic."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectroscopy-Polymers-Professional-Reference-Book/product-reviews/0841219249/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,745,513",
+    "Timestamp": "2015-05-24 15:33:01.155094",
+    "itemurl": "http://www.amazon.com/Spectroscopy-Polymers-Professional-Reference-Book/dp/0841219249"
+}

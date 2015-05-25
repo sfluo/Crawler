@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.99",
+    "Name": [
+        "Kaplan AP Physics B & C 2014 (Kaplan Test Prep)"
+    ],
+    "OfferPrice": "$14.80",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DB1CFY3T1J1R"
+                },
+                "Date": "on October 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Simple review: helped me to get a 5 on the AP physics B, and it helped my roommate to get a 5 as well on AP physics C"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Kaplan-Physics-2014-Test-Prep/product-reviews/1618652575/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#118,947",
+    "Timestamp": "2015-05-24 13:22:09.997714",
+    "itemurl": "http://www.amazon.com/Kaplan-Physics-2014-Test-Prep/dp/1618652575"
+}

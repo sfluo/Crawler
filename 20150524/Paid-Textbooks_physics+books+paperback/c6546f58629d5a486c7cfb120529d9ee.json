@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$65.00",
+    "Name": [
+        "Quantum Optics: An Introduction (Oxford Master Series in Physics)"
+    ],
+    "OfferPrice": "$55.25",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LNUVQCDEBIGF"
+                },
+                "Date": "on May 10, 2007",
+                "Helpfulness": 0.9642857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYCOPQAPQAH4B"
+                },
+                "Date": "on July 10, 2008",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Fox does a great job explaining a complex and dense field from an intuitive and experimental standpoint. I read this book after one term of 1-D introductory Q.M. and everything made sense. The experiments and set-ups described throughout the book are a great tool and were particularly handy since I was using the book to get ready for a summer internship in a Quantum Optics group. The only downside is that the book is quite lacking from a theoretical standpoint. If you are a bit more comfortable with Q.M., say at the level of Shankar, Liboff, or Sakuri, try Knight instead. Nonetheless, this is a great book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR"
+                },
+                "Date": "on January 19, 2008",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3I8S8IGBH4HNL"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book is directed to undergrads, and that seems like a fair description.  It is perhaps a bit elementary for more advanced students and probably would not be described as encyclopedic. Still, it is quite useful and the presentation seems very clear and easy to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3POPBE32SB43D"
+                },
+                "Date": "on February 16, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "unlike most books on \"quantum optics\" are too difficult to read, this is a very good book for beginners"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XKD9TLJFF5J6"
+                },
+                "Date": "on February 11, 2008",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "This is our textbook and is easy to understand. It also has answers for the exercise questions. That helps a lot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V8F0RILFIZG2"
+                },
+                "Date": "on March 17, 2011",
+                "Helpfulness": 0.3,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Optics-Introduction-Oxford-Physics/product-reviews/0198566735/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#742,194",
+    "Timestamp": "2015-05-24 13:39:59.972155",
+    "itemurl": "http://www.amazon.com/Quantum-Optics-Introduction-Oxford-Physics/dp/0198566735"
+}

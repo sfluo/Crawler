@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$80.00",
+    "Name": [
+        "Methods in Theoretical Quantum Optics (Physics)"
+    ],
+    "OfferPrice": "$67.48",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5KLBAT3NROH7"
+                },
+                "Date": "on October 18, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Methods-Theoretical-Quantum-Optics-Physics/product-reviews/0198563612/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,421,398",
+    "Timestamp": "2015-05-24 15:43:56.525936",
+    "itemurl": "http://www.amazon.com/Methods-Theoretical-Quantum-Optics-Physics/dp/0198563612"
+}

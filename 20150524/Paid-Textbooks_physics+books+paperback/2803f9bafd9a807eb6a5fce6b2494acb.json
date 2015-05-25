@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics Super Review"
+    ],
+    "OfferPrice": "$9.95",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SZA0N6R00E16"
+                },
+                "Date": "on November 9, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I found this book very helpful for my basic physics class. It had all of the equations I needed, and although the sample problems were a little tricky, it is all in all a good book. Great if you need a little extra help in understanding the basic concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JWF9IG8PJAOA"
+                },
+                "Date": "on October 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI9LIYCI0543Q"
+                },
+                "Date": "on January 8, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Too difficult for me, but I have a friend who is a physics teacher so I will give it to him. Very nice book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22DZJEOOZC5TQ"
+                },
+                "Date": "on April 13, 2009",
+                "Helpfulness": 0.25,
+                "StarRating": "1",
+                "Text": "I have Super Reviews on both Physics and Chemistry.  These are poorly written, poorly presented, and wrought with errors. In my opinion, they are a waste of money. The layout format seems to have been cranked out by a word-processor that is ill fitted to professional publishing.  I would recommend \"Cliffs Quick Reviews\" or \"Teach Yourself Books\"."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Super-Review-Editors-REA/product-reviews/0878910875/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,189,287",
+    "Timestamp": "2015-05-24 12:41:14.693992",
+    "itemurl": "http://www.amazon.com/Physics-Super-Review-Editors-REA/dp/0878910875"
+}

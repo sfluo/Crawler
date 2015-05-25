@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.00",
+    "Name": [
+        "Mathematical Physics (Chicago Lectures in Physics)"
+    ],
+    "OfferPrice": "$31.50",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B388R4X1U0G6"
+                },
+                "Date": "on February 18, 2001",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "4",
+                "Text": "Robert Geroch's \"Mathematical Physics\" is a stunningly beautiful exposition of basic mathematics needed for science using the minimal amount of category theory not to be insane from the modern mathematical perspective (he cleverly hints at more category theory in the problems).  I would consult this book first on basically any of the subjects that he covers.  You will find the most elegant, original and to the point discussions there.  There nothing on differential geometry, however."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 25, 2000",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "4",
+                "Text": "Geroch chooses category theory (or the theory of metamathematics) as an exploratory tool that could conceivably provide unified treatment of the various algebraic and topological structures encountered in  \"fancy\" mathematics.  This is his masterplan for introducing  theoretical physicists to abstract mathematical concepts.  While the  categorical language is admittedly a bit heavy for (most) physicists, the  book itself is clearly written, and Geroch does a fine job of delineating  the key topics.  That is why I have decided to give this book 4 out of 5,  thus betraying my partiality towards mathematical rigor in physics.  My  personal favorite is Geroch's insightful discussion of dynamical systems  and topological spaces.  The only objection that may be raised is the  layout of the book.  The main definitions and theorems are not set apart  from the rest, and this makes the text appear denser than it really is."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HHSCH9YA57GL"
+                },
+                "Date": "on November 26, 2004",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFGXLBKNJRWM3"
+                },
+                "Date": "on September 19, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": "I first read this excellent book about 6 years ago when I was beginning to realize that my undergraduate physics education wasn't going to teach me the math I wanted to know, especially since my main interest in physics was of a more theoretical bent.  This book provides an excellent outline of many of the mathematical concepts that are rarely covered (or at least rarely covered well) in most physics curriculums.  Running the gamut from category theory to basic group theory to algebraic topology  and beyond, this book provides much of the basic mathematical framework that many modern physical theories rely on.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXH546HQFQ7TR"
+                },
+                "Date": "on June 28, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on October 28, 2011",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6KMLNG1YR531"
+                },
+                "Date": "on May 27, 2008",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D2IR6O3342N"
+                },
+                "Date": "on September 21, 2009",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQEWU8G8BWLQW"
+                },
+                "Date": "on September 14, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book came to my attention because it starts with category theory in the first chapters and then moves to traditional contemporary mathematical physics topics. The author also provides physical examples along the way. The flow of this mathematical text is very smooth (proofs can be omitted from reading) and explanations are very intuitive. The latter seems to be the main goal of this text. It is also structured into 56 chapters so it can be possible to casually read this book in 2 months. One strange thing I noticed though is the avoidance of the manifold terminology: the author only uses the word \"manifold\" only once and without an explanation what it is about so you may even not notice that."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X7LEHLFPE2EN"
+                },
+                "Date": "on July 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Physics-Chicago-Lectures/product-reviews/0226288625/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#492,110",
+    "Timestamp": "2015-05-24 12:57:09.455138",
+    "itemurl": "http://www.amazon.com/Mathematical-Physics-Chicago-Lectures/dp/0226288625"
+}

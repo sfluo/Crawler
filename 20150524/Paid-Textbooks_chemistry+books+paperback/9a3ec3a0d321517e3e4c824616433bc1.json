@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.95",
+    "Name": [
+        "Electrolyte Solutions: Second Revised Edition (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$28.54",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YWLDEGP7BQ1V"
+                },
+                "Date": "on August 20, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "4",
+                "Text": "A very good introductionary book for students or engineers. Considers main classical conspects of ion transport, thermodynamics and conductivity. I've found a number of concepts in the contemporary papers and books that would be derived from the basics, described by the book. It would also be helpful for scientists/engineers who are not in the chemistry physics or chemistry. Requires basics of calculus. And yeah, much much less than $$$ XXXX pages useless \"all-included\" type of handbooks). The only disadvantage is that the bibliography can be extended according to the modern needs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QZEP3R307PTB"
+                },
+                "Date": "on April 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electrolyte-Solutions-Second-Revised-Chemistry/product-reviews/0486422259/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#979,931",
+    "Timestamp": "2015-05-24 15:14:39.696414",
+    "itemurl": "http://www.amazon.com/Electrolyte-Solutions-Second-Revised-Chemistry/dp/0486422259"
+}

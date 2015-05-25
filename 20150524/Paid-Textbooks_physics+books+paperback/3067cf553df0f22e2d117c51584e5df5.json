@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$65.00",
+    "Name": [
+        "Statistical Mechanics: Algorithms and Computations (Oxford Master Series in Physics)"
+    ],
+    "OfferPrice": "$61.75",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H3I5TT06DRUQ"
+                },
+                "Date": "on April 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I wanted to learn some Stat. Mech., so I audited the MOOC taught by this author. The details in the book helped with the MOOC's homework. The two combined did the trick: I learned enough about Stat. Mech. to be satisfied."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3YBKZ7W5NBNO"
+                },
+                "Date": "on April 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ATBFACSGDHCM"
+                },
+                "Date": "on April 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is an excellent introduction suitable for senior level undergraduates and graduates in physics interested in statistical mechanics and MCMC simulations. The survey of Hard Disks, Bosons, and Ising Lattices showcases the emergence of entropic forces in random systems and takes readers through the mathematics and history of both computational simulation, and the physics the simulations try to solve. While the book does require some understanding of quantum mechanics through the 3rd and 4th chapters, the footnotes and well-maintained appendices at the end of each chapter keeps readers focused on a \"need-to-know\" track, while giving options for readers who need supplementary information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31TWGQXK3L6V1"
+                },
+                "Date": "on March 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very clear in computational concepts of statistical mechanics, I enjoy tihis book, the author shown modern concepts in molecular simulations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ET2G03H1BVGS"
+                },
+                "Date": "on March 21, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "mix math, physics and algorithms - based on Statiscal Mechanics, presents Physics and Math Theory and how to convert these concepts in algorithms."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Algorithms-Computations-Physics/product-reviews/0198515367/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#446,946",
+    "Timestamp": "2015-05-24 12:57:18.264437",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Algorithms-Computations-Physics/dp/0198515367"
+}

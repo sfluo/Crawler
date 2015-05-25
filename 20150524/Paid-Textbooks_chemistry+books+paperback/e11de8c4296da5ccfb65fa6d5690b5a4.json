@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$155.00",
+    "Name": [
+        "NMR Spectroscopy: Basic Principles, Concepts, and Applications in Chemistry, 2nd Edition"
+    ],
+    "OfferPrice": "$112.47",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R1VUH9MIOE5N"
+                },
+                "Date": "on April 29, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZRUIPPEI6SGI"
+                },
+                "Date": "on June 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I strongly recommend this book about NMR principles by Harald Gunther. I study chemistry and it was useful for me in structural analysis of organic compounds. I think its most atracttive feature is the the clear and comprehensive way that uses to describe the NMR principles and experiments (including pulse experiments and 2D NMR). You understand what you read without having to read it once again. This book is also very complete and includes some solved exercises"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BD4I83W6IO9R"
+                },
+                "Date": "on March 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A nice book to have : It covers pretty much everything of the fundamentals of NMR spectroscopy (coupling, second order, chemical shifts and trends, multi dimensional NMR, NOE , etc...). It is however a little dated, monochrome and does not really deal with real-life aspects such as the actual instrument, shimming, solvents, references, etc..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/NMR-Spectroscopy-Principles-Applications-Chemistry/product-reviews/047195201X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,843,959",
+    "Timestamp": "2015-05-24 15:25:52.325605",
+    "itemurl": "http://www.amazon.com/NMR-Spectroscopy-Principles-Applications-Chemistry/dp/047195201X"
+}

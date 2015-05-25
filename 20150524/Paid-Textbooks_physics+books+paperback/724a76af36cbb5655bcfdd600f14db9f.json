@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics, Chapters 1-17 (Volume 1)"
+    ],
+    "OfferPrice": "$9.45",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PLGB52VCSYHG"
+                },
+                "Date": "on February 5, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MH68WVI0IG9B"
+                },
+                "Date": "on July 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This textbook does very well in explaining the details and concepts of physics. With step by step examples of problems and how to approach them it has helped me learn quickly. It is definitely a book worth having."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS9PK8CR3PAQF"
+                },
+                "Date": "on February 11, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This is a pretty good book to learn physics. Was cheaper to buy here then from my school."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4DDBMTUCQ2OD"
+                },
+                "Date": "on September 27, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This was a great transaction. I received the book about 3 days after I ordered it and it was in excellent condition. Would definitely buy from this person again."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASGJY8K86IDCM"
+                },
+                "Date": "on February 16, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "very satisfactor; pleases with the shipping and handling time as well as the condition of the book itself"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Chapters-1-17-John-Cutnell/product-reviews/0471663166/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#254,183",
+    "Timestamp": "2015-05-24 13:18:31.455433",
+    "itemurl": "http://www.amazon.com/Physics-Chapters-1-17-John-Cutnell/dp/0471663166"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.99",
+    "Name": [
+        "Structure and Bonding in Crystalline Materials"
+    ],
+    "OfferPrice": "$78.48",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JNWZ5NO6GIKC"
+                },
+                "Date": "on November 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This book is more like a gathering of different papers and sections of other books. The concepts are not explained in a clear way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EK89YEH2R6AG"
+                },
+                "Date": "on October 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "An alright book if you've already got a good background in crystallography. But is rather dry and lacks useful diagrams when compared to other options."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GJBBNXS4KG64"
+                },
+                "Date": "on July 7, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Great source of information for bonding. I used it in a graduate introductory materails science class and found the chapters on bonding to be very helpful in understanding the concepts. Did not look too much into crystal structures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16Y95NHCSAT90"
+                },
+                "Date": "on November 26, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The book Amazon sent me was printed using their print on demand service.  The print quality is quite poor, with many equations missing subscripts, superscripts, minus signs, etc.  It almost seems like they were lost during data compression of the image sent to the printer.  I thought all copies of this book had this problem, but then compared it to a classmate with a nearly identical book that was printed during a normal commercial printing run.  His book had none of the missing text mine has, and overall has darker printing that is easier to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARTC0VYY646EH"
+                },
+                "Date": "on February 18, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Surprisingly useful and good book! I have low expectations of books that look like this, and of college 2nd year textbooks (After you stop using the pretty ones that were also used in high school AP classes). This book is not in color, but I love the organization and the simple yet detailed explanations. It has an index which is awesome. I love reading this textbook. (compared to the x-ray diffraction by cullity textbook that is also required for my Materials Science class on Atomic Structure). Everything is written in an understandable way. I suck at chemistry and haven't taken it for 2years but this book was great for me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EJ0C25N48N8H"
+                },
+                "Date": "on February 6, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The book came in great condition.  However, if you need it for a class, you better order it after the first day of class, because it took a looooong time to get to me and other people in the class."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Structure-Bonding-Crystalline-Materials-Gregory/product-reviews/0521663792/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#972,757",
+    "Timestamp": "2015-05-24 15:28:49.341721",
+    "itemurl": "http://www.amazon.com/Structure-Bonding-Crystalline-Materials-Gregory/dp/0521663792"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.99",
+    "Name": [
+        "Electromechanics of Particles"
+    ],
+    "OfferPrice": "$66.53",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OTXAIOE5ETEW"
+                },
+                "Date": "on May 25, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JR3O92FFF05T"
+                },
+                "Date": "on May 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHY9JLZ4LJ6P3"
+                },
+                "Date": "on July 20, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book basically talks about the calculation of dielectrophoretic force and torque by effective moment method, which uses simpler math and are feasible for more different situations than Maxwell tensor. So people who want to calculate the electric field-induced force and/or torque of dielectric materials. This one is a good reference. This book also talks about the magnetic field-induced force and torque. But I don't read it so I have no comment on this part."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electromechanics-Particles-Thomas-B-Jones/product-reviews/0521019109/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,332,756",
+    "Timestamp": "2015-05-24 15:46:29.629483",
+    "itemurl": "http://www.amazon.com/Electromechanics-Particles-Thomas-B-Jones/dp/0521019109"
+}

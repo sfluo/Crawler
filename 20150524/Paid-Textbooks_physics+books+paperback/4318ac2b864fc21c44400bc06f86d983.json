@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$71.00",
+    "Name": [
+        "Understanding Physics"
+    ],
+    "OfferPrice": "$63.97",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVMLMV2SSPY65"
+                },
+                "Date": "on December 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IL2MT944PWW0"
+                },
+                "Date": "on January 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book gives a comprehensive introduction to today's physics, and is nicely written, illustrated, and laid out.  One warning: it gets into calculus within the first few pages, so consider it a text only for the serious student."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HC319KX0A4VB"
+                },
+                "Date": "on October 29, 2011",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": "Although the contents of the book are good, please note that the binding quality of the book is very bad. Just after reading it once, pages are coming loose and the book is practically falling apart. Multiple other students at my university have the same problem."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Physics-Michael-Mansfield/product-reviews/0470746378/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,146,059",
+    "Timestamp": "2015-05-24 13:25:56.577828",
+    "itemurl": "http://www.amazon.com/Understanding-Physics-Michael-Mansfield/dp/0470746378"
+}

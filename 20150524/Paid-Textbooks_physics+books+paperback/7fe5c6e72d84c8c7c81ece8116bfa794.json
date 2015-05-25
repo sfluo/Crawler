@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Quantum Theory of Fields (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.23",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DOWUEI43AW4"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "\"stars\" are enough for me"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Fields-Dover-Physics/product-reviews/0486432459/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,826,956",
+    "Timestamp": "2015-05-24 13:24:33.355755",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Fields-Dover-Physics/dp/0486432459"
+}

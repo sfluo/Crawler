@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Applying Maths in the Chemical and Biomolecular Sciences: An Example-Based Approach"
+    ],
+    "OfferPrice": "$69.35",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JN8I92CG1ZGQ"
+                },
+                "Date": "on September 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A great book for understanding maths applied in biological and chemical science. It is a great source for those who wants to improve their maths understanding and a very good resource for teachers as well who teaches maths to biology and chemistry students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applying-Maths-Chemical-Biomolecular-Sciences/product-reviews/0199230919/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,473,486",
+    "Timestamp": "2015-05-24 15:52:08.880575",
+    "itemurl": "http://www.amazon.com/Applying-Maths-Chemical-Biomolecular-Sciences/dp/0199230919"
+}

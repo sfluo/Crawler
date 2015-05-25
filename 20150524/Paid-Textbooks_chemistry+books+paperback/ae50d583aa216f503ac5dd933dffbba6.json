@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$42.00",
+    "Name": [
+        "An Interpretive Introduction to Quantum Field Theory"
+    ],
+    "OfferPrice": "$36.32",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 8, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 17, 1997",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "I should say first that I write as a mathematician who is not a physicist, but who is interested in the subject.  For readers with some knowledge of nonrelativistic, single particle quantum mechanics, this is a good place to get an idea of what quantum field theory is about.  The opening chapters are more philosophical than the later ones, which are more mathematical, but one should be willing to consider the topic from both these angles in order to get the most from this book.  The development of the occupation-number formalism and Fock space is very clear and enjoyable, but matters get more difficult later on.  The occasional excursions into relativistic field theory frankly lost me a couple of times.  The last chapter, on renormalization, however, is again very lucid and accessible to someone with even a modest background.  It seems to me that much of the interpretive work Teller undertakes is to understand the relationship and possible differences between quantum field-theory -- i.e., QFT as quantization of classical fields -- and quantum-field theory -- i.e., a field theory of 'quanta' which lack radical individuation, or as Teller says, \"primitive thisness.\"  Along these lines he gives some very good cautions against interpreting Feynman diagrams literally.  Since the work is highly introductory in nature, being much less technical and extensive than books of similar titles by Sterman, Kaku, et al., it seems a little expensive at its full $35 hardcover price, but is certainly worth the $16.95 asked for paperbound"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on February 17, 2003",
+                "Helpfulness": 0.9,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Interpretive-Introduction-Quantum-Field-Theory/product-reviews/0691016275/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,483,112",
+    "Timestamp": "2015-05-24 15:34:36.005091",
+    "itemurl": "http://www.amazon.com/Interpretive-Introduction-Quantum-Field-Theory/dp/0691016275"
+}

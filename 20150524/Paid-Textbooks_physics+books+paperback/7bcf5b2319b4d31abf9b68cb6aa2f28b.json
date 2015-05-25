@@ -1,0 +1,162 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$170.00",
+    "Name": [
+        "Quantum Mechanics, Vol. 1"
+    ],
+    "OfferPrice": "$120.64",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22OJLKCOKNH7K"
+                },
+                "Date": "on January 24, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book starts from scratch and works through every aspects of QM someone who studies QM is supposed to know. My advice would be to read every single line of this book, including the small print explanations and  the complements. You'll be amazed at what you'll learn."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A330N9CRSU15RT"
+                },
+                "Date": "on September 7, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A complete introduction of QM full of explainations and examples. Even  though it might seem verbose to some advanced readers, it is well suited  for the introductory level. The only drawback might be the organization  which often requires you to do a lot of page-flipping ie.\"refer to  equation 13 in complement H and example 4 in section 2 of chapter 8\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 17, 1999",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 21, 1997",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "This amazing book gives a very good introduction into both physical and mathematical backgrounds of this somehow difficult subject. No further than undergraduate knowledge in maths and theoretical physics is needed to explore even tricky problems- the book gives you all the instruments you need."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 12, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Many solved exercises. A very good math introduction. And as co-author, the recentely Nobel Laureate Mr. Cohen make this book a must."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19106OHB74KZO"
+                },
+                "Date": "on October 9, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I own the original edition and learned QM from it.  I had and still have OTHER QM books - but I really learned it from this book.  It is very well written and basic concepts are front and center.  The more complicated concepts are located at the end of each chapter but they are clearly denoted as additional concepts.  I wish more books were written in this manner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J007BT1OE3TY"
+                },
+                "Date": "on July 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "There are several other QM books out there that are as good as this one (Griffiths, Shankar, Galitski et al). However, what sets this book apart from other books is its thoroughness, number of exercises, and its use/reference to mathematics. The book builds upon itself; it constantly refers back to equation presented on previous chapters. Volume 1 & 2 are a total of 1500 pages (this includes indexes and appendixes however). The book is grouped into chapters and supplementary sections. Each chapter contains the bones of the theory and the supplementary sections show how to use them and include applications. It is a good introductory book and is suitable for self-learning. I personally liked the method of Cohen-Tannoudji et al. better than the one used by McQuarrie and Atkin whom relied more on abstract concepts than in mathematics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17PQBQ7J45S5C"
+                },
+                "Date": "on December 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This has been one of the best physics texts that I have worked out of. I am not sure how well it will do as a reference, but the presentations of the material are complete and orderly. I am not sure that there is a way to make this material easy to access, but the authors did a lot to keep the book from adding to the frustration. The structure of the text is used well by the authors. I found that while I would often reference other sections of the book for added depth, I could do so after finishing a section. Said another way, I did not have to read the book with each finger and a few scrap pieces of paper holding multiple locations in the text so that I could piece together what was presented in the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UZ3U2WHIW3JS"
+                },
+                "Date": "on April 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book along with volume 2, are a truly wonderful addition to my little library of quantum mechanics books. These books are not, however, for someone who wants to learn quantum mechanics for the first time. On that front I would suggest Griffiths. This book, however is an amazing reference book and higher level textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 17, 1997",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYBV4U6OMU0VT"
+                },
+                "Date": "on September 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY2UYHDDVAEOY"
+                },
+                "Date": "on October 3, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "1",
+                "Text": "The content of the book is great. But when it reached me, and I just used it for several days, some pages are starting to peel off, I already have one peeled page, very poor quality. And I should say that the printing is also not very good.  A good book should be with good quality,  not to mention a so expensive one."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 7, 1999",
+                "Helpfulness": 0.4666666666666667,
+                "StarRating": "2",
+                "Text": "This is not a textbook. It is a reference book for those who have already had 1st year graduate quantum mechanics.  It appears that the authors tried to solve every basic QM problem in the hopes that their students would  never have to apply the often poorly communicated lessons.  The appendixes  associated with each chapter are usefull if your problem is covered.  If  you want to learn 3D, nonrelativistic QM, I would suggest reading Liboff's  Intro to QM book front to back a few times instead."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 10, 1999",
+                "Helpfulness": 0.3611111111111111,
+                "StarRating": "1",
+                "Text": "Hello,  I do not agree with other reviews. Clearly, this two volume set reflects very much the teaching of physics in France, which is mostly brainfilling, but not much understanding while a student. Cohen-Tanoudjii,  certainly a reference book on QM, is really only a highly technical text,  and has been claimed in France to have nothing to do with QM. There exist  by now more modern and more appropriate treatments on QM. In the very  preface of the set, the authors apologize for not discussing the  interesting aspects of QM (like measure theory), claiming that readers  should first master the theory. I think that anyone teaching QM today, and  **not** reduction of operators, or tensor operators will agree with me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LU528ZC9BL6T"
+                },
+                "Date": "on October 24, 2008",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NQSZBKDPAVG7"
+                },
+                "Date": "on March 14, 2008",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "5",
+                "Text": "The service was very good and swift. The book was in excellent condition. Thank you."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Vol-Claude-Cohen-Tannoudji/product-reviews/047116433X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "16"
+    },
+    "Salesrank": "#680,471",
+    "Timestamp": "2015-05-24 13:41:01.911390",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Vol-Claude-Cohen-Tannoudji/dp/047116433X"
+}

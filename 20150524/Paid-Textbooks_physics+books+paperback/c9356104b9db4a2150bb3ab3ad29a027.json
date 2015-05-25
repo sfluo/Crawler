@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$55.00",
+    "Name": [
+        "Optical Properties of Solids (Oxford Master Series in Physics)"
+    ],
+    "OfferPrice": "$41.39",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 21, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NM4F31OVVG07"
+                },
+                "Date": "on November 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear and concise. A good qual study book for physical chemistry students wanting a quick refresher or more background in some physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWYT2BFH2QN2L"
+                },
+                "Date": "on May 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've just read the first six chapters but I can firmly say that this book is clear in its explanations, meticulous and well ordered! It takes a very good and deep look at band gaps in materials. I'd recommend it to anyone in optics, electronics or anyone dealing with semiconductor materials."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ2SNYNDZB362"
+                },
+                "Date": "on January 4, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book is much less formal than traditional texts (Kittel, etc.) and much more focused.  Some readers may find this to be a shortcoming, but I feel the book is more accessible than the alternatives."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SH26PV1JXT01"
+                },
+                "Date": "on August 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I liked this book!  It's too bad my professor stopped using it three weeks into the semester.  Recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20FLQYP0LF07A"
+                },
+                "Date": "on October 11, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is one of the classics on optical properties. It's generally considered to be the standard in the field."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Optical-Properties-Solids-Oxford-Physics/product-reviews/0199573379/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#364,353",
+    "Timestamp": "2015-05-24 13:12:14.024144",
+    "itemurl": "http://www.amazon.com/Optical-Properties-Solids-Oxford-Physics/dp/0199573379"
+}

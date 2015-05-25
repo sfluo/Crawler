@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Fluorescence Microscopy (Royal Microscopical Society Microscopy Handbooks)"
+    ],
+    "OfferPrice": "$76.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQLHXP873BE5U"
+                },
+                "Date": "on January 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I was looking for an introduction and practical guide the fluorescence microscopy, and this is definitely it.  My only qualm is that the introductory chapters are physics heavy.  As a biologist, I do have a working knowledge of basic physics, but some of it was cumbersome.  Again, this is not necessarily a negative thing, as I will most likely use it as a reference in the future, it was just a bit much for my current needs."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fluorescence-Microscopy-Microscopical-Society-Handbooks/product-reviews/1872748848/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,639,987",
+    "Timestamp": "2015-05-24 15:54:32.604841",
+    "itemurl": "http://www.amazon.com/Fluorescence-Microscopy-Microscopical-Society-Handbooks/dp/1872748848"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Physics of Time Asymmetry"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VXVH4P85N73K"
+                },
+                "Date": "on October 12, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG0ZLM7Y9YV6J"
+                },
+                "Date": "on December 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Math is at graduate level, and I battle with following it.  Discussion and conclusions are insightful.  I bought this book to have a mathematical treatment of Paul Davies more recent (1995) book, About Time, which I enjoyed."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Time-Asymmetry-P-Davies/product-reviews/0520032470/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#368,227",
+    "Timestamp": "2015-05-24 13:20:20.118549",
+    "itemurl": "http://www.amazon.com/Physics-Time-Asymmetry-P-Davies/dp/0520032470"
+}

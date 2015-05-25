@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "What Light Through Yonder Window Breaks?: More Experiments in Atmospheric Physics (Dover Science Books)"
+    ],
+    "OfferPrice": "$12.03",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16BRLZGBWV1UC"
+                },
+                "Date": "on December 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12V3XU1ZYPP55"
+                },
+                "Date": "on October 24, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've only read a couple select chapters at this point but if you liked the first book, you will like this one as well.  I train k-12 science teachers and it is great to be able to dig a little deeper on various topics and be able to prepare for all sorts of questions.  Also, I am sure many people have wondered why various phenomena occur and it is great to have some insights into them.  Highly recommend this book!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D4MD34IKGW49"
+                },
+                "Date": "on March 15, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This was a light hearted explication of some elementary atmospheric phenomena.  Even some of the items I knew well like light polarization upon reflection  were presented in a fresh light. Perhaps the best explication for me was the discussion of how an increase in atmospheric carbon dioxide and methane led to an increased emissivity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3U2F4FI1BYDWU"
+                },
+                "Date": "on May 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I bought this book to have a handy-dandy reference to several cool atmospheric optics phenomena.  I am pleased with it and glad that I now own it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Light-Through-Yonder-Window-Breaks/product-reviews/0486453367/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#897,757",
+    "Timestamp": "2015-05-24 12:50:00.913356",
+    "itemurl": "http://www.amazon.com/Light-Through-Yonder-Window-Breaks/dp/0486453367"
+}

@@ -1,0 +1,171 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Quantum Physics (The M.I.T. Introductory Physics Series)"
+    ],
+    "OfferPrice": "$46.05",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y7EDZE7EU055"
+                },
+                "Date": "on November 26, 2002",
+                "Helpfulness": 0.967741935483871,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 23, 2003",
+                "Helpfulness": 0.9310344827586207,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CKCIKPTQTZRH"
+                },
+                "Date": "on December 21, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Although I would agree that this is probably the best book to begin your study of quantum mechanics with, there are still serious flaws with the book.  I just finished taking a class that used this text and I found that a major problem is that it never actually 'get's to the point.'  Instead of telling you how to apply a technique to solving problems, the text simply assumes that you'll be able to figure that out yourself.  So much of the notation goes unexplained and important points go unemphasized.  I would suggest using this book if you're a first time student of quantum mechanics but supplement it with another book that explains how to do problems (Liboff or Griffiths)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVLTXKQU222Z1"
+                },
+                "Date": "on January 2, 2000",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": "This is one of the clearest and well thought out introductions on quantum physics that I've seen.  It is beautifully written with abundant diagrams and examples.  The chapter on photons and polarization is an excellent  pedagogical approach to understanding state vectors.  This will also come  in handy later on in a more advanced course when trying to understand the  motivations behind the postulates of quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EC1IG3LOB0NF"
+                },
+                "Date": "on February 10, 2001",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "3",
+                "Text": "This is a typical college text book written in intoductory level. Its approac is classical and explains the concepts relatively slow with examples. The mathematical language used is not modern in a sense that does not use operator language with high symbolizm but rather more classical approach. For students that are used to apply more classical Diff.equations or Real anaylsis, it is much easier even though they implicitly do the same with or without operators. If I were to chose only one book to read, I would have to select the book written by Resnick but obviously the more you read the more view points you will have and of course you will have less time to develop your own. In my opinion this is better than Feynmann Vol.3."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 2, 2003",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 1, 2001",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KO47TAP3R4XN"
+                },
+                "Date": "on July 15, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HZDVXHGMUMXE"
+                },
+                "Date": "on January 15, 2002",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "This volume, part of the MIT Introductory Series, is appropriate for the advanced undergraduate in physics or the graduate student changing majors from engineering to physics, as a prerequisite to taking a graduate Quantum Mechanics course at the level of Cohen-Tanoudji.  Presupposing a solid foundation in partial differential equations and boundary value problems as well as dynamics and electrodynamics, the authors develop quantum theory in a logical manner and in a very readable style.  The text is full of examples that reinforce the material throughout.  Moreover, there are abundant illustrations to aid in grasping trends in analyzing wave functions and probability densities.  The artful introduction of the Dirac notation, formalism, quantum states and state vectors is accomplished using photons and polarization.  Although not intended as a core graduate student level text for Quantum Mechanics, the volume integrates its scope with more advanced topics including the WKB method and perturbation theory.  Included are problem sets at the end of each chapter that reinforce the presented materials.  This text is an excellent bridge between basic undergraduate quantum mechanics and graduate quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 30, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is very pedagogical.  It follows a logical order in presenting the very complicated development of quantum physics.  It's like taking a step back and collecting your thoughts.  No physics student or physics  teacher should be without it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU9UGBD3L2AVU"
+                },
+                "Date": "on October 12, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Congratulations on job well done. Hello from Shailesh Kadakia, the author of book True Physics of LIght, Beyond Relativity. Recently, I took GRE Physics Subject test to fulfill my admissions requirement for Doctorate program at Rochester Institute of Technology. I used this book to review the principles of quantum mechanics. I liked this book because it begins with some history and experiments associated with the concepts. Then it provided in depth analysis/details and supplemented the theoretical explanations with some numerical examples which utilized experimental data. Specifically, I admire the way it explained the contributions of Schrodinger's ideas to quantify behavior of particles in potential wells. Also, I like the way the book handled the concepts and details of the topic Polarization of light in Crystals. Overall, I was highly satisfied with how the book reads. I find it easy to understand, though I felt that some of the concepts related to creation of radiation energy waves inside atoms are not discussed in details to the extent that would satisfy my curiosity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SNR907WDXGJ2"
+                },
+                "Date": "on August 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great book on introductory quantum mechanics written by two outstanding teachers. It covers what I call a 'classical' course on quantum mechanics, Old QM, the experimental basis of QM, Sch\u00f6rdinger's equation in one and three dimensions and its solutions and many other topics. Even if a bit dated by modern standards (no Bell's theorem, entanglement, and the like) it is a joy to read it. Good set of problems at the end of each chapter. I bought the paperback edition and it is a pity that such a fine book is plagued by poor printing of some pages and figures, specially some of the figures."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28FS92O3CJSUO"
+                },
+                "Date": "on November 7, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I took a Quantum Physics course when I was an Undergraduate student, and this was the professor's choice. This is a good book to be used with another title like Griffith's book. The Mathematics involved here are not hard and the historic topics are interesting enough to beginners. This is a great choice to a Modern Physics course, but if you're trying to use it as a main reference to a Quantum Physics course, be aware that there are better choices."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SC74EB60WBMS"
+                },
+                "Date": "on March 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear and concise!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 15, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "This book is pretty average.  It doesn't generate much excitement about the subject, and it really doesn't give as much detail as it should.  This book *should* be seen as an introduction to an introductory course in quantum mechanics.  A better, albeit more expensive book, is the one by Gasiorowicz or Griffiths."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 24, 1999",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "1",
+                "Text": "I disagree completely with the previous reviewer.  When I took my first quantum physics course, we used this book and I found it largely incomprehensible.  Too many concepts were not explained adequately, and the  presentation of the topics lacks logical progression.  I found Eisberg and  Resnick a much better introductory quantum physics text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFX8T8PDCYBY"
+                },
+                "Date": "on October 19, 2001",
+                "Helpfulness": 0.4,
+                "StarRating": "2",
+                "Text": "I used this book for my intro to Quantum Physics class at Cornell.  Although some of the problems are nice, the book itself blows.  The topics are not covered in depth at all, kinda reads like an outline of another book rather than an independent textbook.  So many topics are missing or the important parts of topics are just ignored (how can you not cover electron spin precession!?!)  Well all I gotta say is that I wound up reading Feynman's Lectures On Physics and Eisberg and Resnick instead.  Eisberg and Resnick is one of the best books that I seen on an intro to QP(it is very wordy, but you get all the nice detail, be it hard or easy).  So I can't say F&T is a good book, but I'll give it 2 stars for the problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Quantum-Physics-M-I-T-Introductory/product-reviews/0393091066/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "17"
+    },
+    "Salesrank": "#334,796",
+    "Timestamp": "2015-05-24 12:57:12.849039",
+    "itemurl": "http://www.amazon.com/Introduction-Quantum-Physics-M-I-T-Introductory/dp/0393091066"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Science and Information Theory: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z0GIQ9IWBZOL"
+                },
+                "Date": "on April 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "The one star applies only to the Kindle addition of this book, which is flawed. The book itself is an excellent discussion of the interplay between information and entropy in understanding how information works in the physical world. It requires a lot of mathematical equations, almost all of which are simple expressions, but the Kindle edition does not capture them all accurately. Some equations are missing, some have the wrong symbols, and some are garbled. It looks like the Kindle edition was produced by a machine with character recognition and never proof read by a person. I finally bought the paperback edition just so that I could finish the book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-Information-Theory-Second-Physics/product-reviews/0486497550/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#890,742",
+    "Timestamp": "2015-05-24 12:49:58.536433",
+    "itemurl": "http://www.amazon.com/Science-Information-Theory-Second-Physics/dp/0486497550"
+}

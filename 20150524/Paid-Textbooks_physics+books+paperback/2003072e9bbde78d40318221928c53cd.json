@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$173.00",
+    "Name": [
+        "College Physics: A Strategic Approach Volume 1 (Chs. 1-16) (2nd Edition)"
+    ],
+    "OfferPrice": "$139.52",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LY1OEK8808N1"
+                },
+                "Date": "on February 25, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The book was not in the great shape when I received it. The cover of the book was slightly damaged. There were also a couple of pages in the book were torn."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A06DNNDZB9GL"
+                },
+                "Date": "on February 6, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "It has chapters 1 through 16 and my PH202 class goes up to Ch. 16 this term which works out perfect. I can even sell this book back at the end of term, which is something that I could not do if I bought the custom edition from my school bookstore. Yay! I plan on getting the Volume 2 book from amazon next term and skipping the custom edition again. It is way cheaper, too."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK8GGVZIPKA9Y"
+                },
+                "Date": "on February 8, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I like it because it's not the big hard cover book that you have to carry around, it's light and has everything I need"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A311EYW6TALZCM"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good physics text"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A149QCPDEO87PA"
+                },
+                "Date": "on October 9, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Got the book in the time specified and was well packaged. Book was in condition stated and I had no problems with this order. If possible I will order again."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F7SFYAN9709X"
+                },
+                "Date": "on August 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "No torn pages. Nothing was bent. Clean. As expected"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-Strategic-Approach-Chs/product-reviews/0321611144/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#90,371",
+    "Timestamp": "2015-05-24 12:59:19.753660",
+    "itemurl": "http://www.amazon.com/College-Physics-Strategic-Approach-Chs/dp/0321611144"
+}

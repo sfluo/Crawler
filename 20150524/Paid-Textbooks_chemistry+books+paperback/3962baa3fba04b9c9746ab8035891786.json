@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Description of High-Resolution NMR in Liquids (International Series of Monographs on Chemistry)"
+    ],
+    "OfferPrice": "$96.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 9, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dr. Goldman's treatise is the text for rigously applying quantum mechanics to the description of NMR spectroscopy.  The author begins with a short review of the classical description of NMR and then proceeds to lay out the quantum formalism to be used in later chapters.  Spin mechanics and operators are discussed in some depth before preceeding to a review of quantum statistical mechanics.  The first 4 chapters provide the tools for chapter 5, the quantum description of NMR, and beyond. Once upon firm quantum soil, several applications are discussed including J spectroscopy, shift correlation, intra-molecular multi-quantum coherences, and relaxation theory.  The meat of these 4 chapters makes heavy use of the machinery presented in the initial 5 chapters.  I recommend this book to physicists or physical chemists looking for deeper understanding of the quantal nature of NMR spectroscopy.  Given the recent developments in multiquantum coherence spectroscopy the importance of the material in this book cannot be overstated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D574BUUAAXEH"
+                },
+                "Date": "on May 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is suitable for learning about theoretical aspects of NMR, although a very old book but still quite useful for people working on NMR experiment development."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Description-High-Resolution-International-Monographs-Chemistry/product-reviews/0198556527/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,910,103",
+    "Timestamp": "2015-05-24 15:26:46.792944",
+    "itemurl": "http://www.amazon.com/Description-High-Resolution-International-Monographs-Chemistry/dp/0198556527"
+}

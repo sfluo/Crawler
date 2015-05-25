@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Complete Stick Figure Physics Tutorials"
+    ],
+    "OfferPrice": "$24.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHIY3RC9VHAKP"
+                },
+                "Date": "on June 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJ2PPTWZ0IIJS"
+                },
+                "Date": "on January 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a collection of short books (also published separately) about different aspects of physics. Each tutorial features a series of simple diagrams and the simplest equations used for understanding what they reveal about an aspect of physics. This is not to say it's an easy physics book: You will need a basic familiarity with calculus for some of the sections and algebra for all of them. However, you do not need to be a rocket scientist to apply the mathematical concepts to the physics of, say, rocket science, that come up here. If you've ever found yourself looking at basic physics equations and had no idea what to do with the symbols or explanations, this book shows you a few practical uses for the equations and clear diagrams for seeing what goes with what. Good review for physics students or basic physics for the mathematically inclined."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0T0PY5IMEFX"
+                },
+                "Date": "on February 20, 2014",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": "This book is like others in this series.  If you have a brain for math this book is going to bore you to distraction.  If you have trouble with math this book gives inadequate explanations for the problems.  Most physics problems are not set up to relate to common people.  It would be much better to try and figure out how much force operates on a car engine piston or perhaps the drive shaft.  Or try to figure out how much extra energy it takes to pull a triple trailer semi up a hill vs a single trailer.  The point isn't exactly what is used, but the problems should relate to things one sees everyday."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Complete-Stick-Figure-Physics-Tutorials/product-reviews/1508768005/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#928,712",
+    "Timestamp": "2015-05-24 13:07:42.802610",
+    "itemurl": "http://www.amazon.com/Complete-Stick-Figure-Physics-Tutorials/dp/1508768005"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Incineration Technologies (SpringerBriefs in Applied Sciences and Technology)"
+    ],
+    "OfferPrice": "$49.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ENAFM70OZAVR"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Purchased during research for a project so I would not need to take a college course that I had to pay for helped to provide the accurate information I needed."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Incineration-Technologies-SpringerBriefs-Sciences-Technology/product-reviews/1461457513/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#5,571,669",
+    "Timestamp": "2015-05-24 15:56:27.795623",
+    "itemurl": "http://www.amazon.com/Incineration-Technologies-SpringerBriefs-Sciences-Technology/dp/1461457513"
+}

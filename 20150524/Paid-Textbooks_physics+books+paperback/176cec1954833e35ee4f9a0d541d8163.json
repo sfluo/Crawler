@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "Equations of Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$38.20",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F7PQL3IJHUHI"
+                },
+                "Date": "on January 13, 2012",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": "This is a very important book.  The authors put Rayleigh's potential theorem on a rigorous foundation.  Had it been available earlier, it would have altered some of the standard acoustical literature. For example, the Helmholtz integral equation has been widely used to treat certain acoustic diffraction and scattering problems. This is because it has a 30 year head start in the English language literature.  Potential theory was put on a rigorous basis by Russian mathematicians, but the translations did not become widely available until the 1960's."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UWC87WBYV1UK"
+                },
+                "Date": "on March 2, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A136FINXK6HJVM"
+                },
+                "Date": "on January 15, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37B1YCC9NSB1Q"
+                },
+                "Date": "on March 14, 2009",
+                "Helpfulness": 0.023255813953488372,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Equations-Mathematical-Physics-Dover-Books/product-reviews/0486664228/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,237,328",
+    "Timestamp": "2015-05-24 13:17:48.464102",
+    "itemurl": "http://www.amazon.com/Equations-Mathematical-Physics-Dover-Books/dp/0486664228"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Problems in Metallurgical Thermodynamics and Kinetics: International Series on Materials Science and Technology (Materials Science & Technology Monographs) (Volume 25)"
+    ],
+    "OfferPrice": "$63.80",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3C8A7IL8JRW26"
+                },
+                "Date": "on January 21, 2002",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Lots of us rely on computer programs to perform calculations in metallurgical thermochemistry, but when it's time to review  theroy and assumptions, this is the book to use.  It covers (and gives great examples) calculatons of enthalpy, entropy, and free energy.  The book also provides a good introduction to kinetic theroy."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Metallurgical-Thermodynamics-Kinetics-International/product-reviews/0080208649/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,702,218",
+    "Timestamp": "2015-05-24 15:36:27.015307",
+    "itemurl": "http://www.amazon.com/Problems-Metallurgical-Thermodynamics-Kinetics-International/dp/0080208649"
+}

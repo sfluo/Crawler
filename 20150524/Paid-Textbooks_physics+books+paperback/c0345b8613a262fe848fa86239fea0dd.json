@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "University Physics for the Physical and Life Sciences: Volume I"
+    ],
+    "OfferPrice": "$115.58",
+    "Reviews": {
+        "AverageStarRating": "1.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EV5U1JVZZD17"
+                },
+                "Date": "on November 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "This book contains way too many mathematical errors. I use this for a basic physics class at Brown University. I am continuously frustrated while studying for exams due to the large number of mathematical errors in the answer key and the examples. I am no physicist (I am actually really bad at physics), but I still can see that the people who wrote this book have made numerous mistakes in calculations. Sometimes, the answer key provides an answer that does not match the question. When the key does provide an answer, it is often off by a certain factor that results from a multiplication of division error. This book is downright terrible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31KECXAGZIEPO"
+                },
+                "Date": "on June 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "This book dances around the math underlying the concepts by attempting to give more intuitive explanations, but I found it more confusing than dealing with math. The problems are often vague and the solutions in the back are laden with typos and offer no explanations to find the solutions to the many bizarre problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANAGDDI1GHN7A"
+                },
+                "Date": "on September 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAC64SMKI3YM2"
+                },
+                "Date": "on March 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "My professor chose this book, but it's full of typos and errors. The sample problems proposed are not useful and don't reflect the material well. The wording is small and so are images. I've never read a chapter in this book, I have to rely on class notes, but I do all the problems at the back of each chapter for practice. The other volume is just as bad too. If you have a choice DO NOT get this one"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T3SITN3UWJDI"
+                },
+                "Date": "on June 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Probably the worst book out there. It's way of teaching is horrible. Professor at SCU is great in teaching, but books sucks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q3XTK9H4EOOG"
+                },
+                "Date": "on January 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I found this textbook confusing. I would recommend"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/University-Physics-Physical-Life-Sciences/product-reviews/1429204931/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#575,452",
+    "Timestamp": "2015-05-24 13:18:15.400394",
+    "itemurl": "http://www.amazon.com/University-Physics-Physical-Life-Sciences/dp/1429204931"
+}

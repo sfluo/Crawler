@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Mathematical Methods in Physics and Engineering (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.14",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 31, 2000",
+                "Helpfulness": 0.9787234042553191,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH867PG8KZ5J8"
+                },
+                "Date": "on March 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It's ok, I guess, especially for the price. But if you want to spend a few dollars more, go for http://www.amazon.com/gp/product/0521679710/ref=cm_cr_ryp_prd_ttl_sol_4, the paperback can be purchased for $51 and it's a much much better book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Dover/product-reviews/0486656497/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,554,955",
+    "Timestamp": "2015-05-24 13:32:27.046091",
+    "itemurl": "http://www.amazon.com/Mathematical-Methods-Physics-Engineering-Dover/dp/0486656497"
+}

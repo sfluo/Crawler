@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$182.20",
+    "Name": [
+        "Nuclear Magnetic Resonance Spectroscopy: An Introduction to Principles, Applications, and Experimental Methods"
+    ],
+    "OfferPrice": "$166.36",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on August 12, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Spectroscopy-Introduction/product-reviews/0130890669/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,948,912",
+    "Timestamp": "2015-05-24 15:44:04.507689",
+    "itemurl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Spectroscopy-Introduction/dp/0130890669"
+}

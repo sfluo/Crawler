@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Local Quantum Physics: Fields, Particles, Algebras (Theoretical and Mathematical Physics)"
+    ],
+    "OfferPrice": "$79.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T0WRHNUYJTCY"
+                },
+                "Date": "on October 12, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on April 16, 2002",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E59IFSTIPXS2"
+                },
+                "Date": "on April 26, 2002",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BCBH4UCWYR3Y"
+                },
+                "Date": "on May 1, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30HGOTVONKCGC"
+                },
+                "Date": "on August 25, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I found this book particularly useful as an introduction to Algebraic Quantum Field Theory. It is sufficient as a first step to this branch of mathematical physics, as full comprehension of this book is enough to comprehend lectures on AQFT conferences."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Local-Quantum-Physics-Theoretical-Mathematical/product-reviews/3540610499/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,282,972",
+    "Timestamp": "2015-05-24 13:28:07.907084",
+    "itemurl": "http://www.amazon.com/Local-Quantum-Physics-Theoretical-Mathematical/dp/3540610499"
+}

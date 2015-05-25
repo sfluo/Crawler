@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics Made Simple"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B3W9NXZ7CSMB"
+                },
+                "Date": "on July 14, 2001",
+                "Helpfulness": 0.7948717948717948,
+                "StarRating": "2",
+                "Text": "A bit too simplistic for the HS physics student. This book, instead, seems more aimed towards pre-HS students seeking a healthy head-start on physics concepts w/o being innundated w/ physics problem sets or mathematical equations and confusion. A small glimpse of the concept w/ emphasis on practical applications clearly present physics in a earnest manner to readers. Serves home-schooled students extremely well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6A5W1ERA9Z5I"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L59HPIPE49SC"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent - a good supplement"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ELD1S9N3CCIJ"
+                },
+                "Date": "on September 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Very helpful book.... bought for my granddaughter she said it was good...  I needed 8 more words to summit review, so this last line is just wasted space..."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Made-Simple-Ira-Freeman/product-reviews/0385087276/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#365,469",
+    "Timestamp": "2015-05-24 13:19:14.603635",
+    "itemurl": "http://www.amazon.com/Physics-Made-Simple-Ira-Freeman/dp/0385087276"
+}

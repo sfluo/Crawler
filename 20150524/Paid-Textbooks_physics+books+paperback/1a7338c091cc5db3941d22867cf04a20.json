@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$85.00",
+    "Name": [
+        "Applied Physics for Radiation Oncology, Revised Edition"
+    ],
+    "OfferPrice": "$80.75",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IX3ML3FGUZNU"
+                },
+                "Date": "on May 31, 2006",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D3J8QFSFPTSR"
+                },
+                "Date": "on January 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "recommended for any first year resident in radiation oncology. Gives you the basics in a much better way than Meredith and Massey."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AO3FR7IIG0ABU"
+                },
+                "Date": "on November 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just the book I need as I study for my radiation therapy boards."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIG785UI17TVF"
+                },
+                "Date": "on November 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book. Very straightforward."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Applied-Physics-Radiation-Oncology-Revised/product-reviews/1930524404/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#325,917",
+    "Timestamp": "2015-05-24 12:58:30.829124",
+    "itemurl": "http://www.amazon.com/Applied-Physics-Radiation-Oncology-Revised/dp/1930524404"
+}

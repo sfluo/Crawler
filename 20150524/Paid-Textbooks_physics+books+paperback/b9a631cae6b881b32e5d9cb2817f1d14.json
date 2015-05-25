@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Fundamentals of Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$21.52",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQRH00THASAVD"
+                },
+                "Date": "on November 12, 2010",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "5",
+                "Text": "Great book for physics students for advanced undergraduate level and graduate level. This book however is not a self contained course, it's utility comes as a kind of dictionary for readers who actually manage the subject in question and just want some refreshment or even a different approach. However, I think any serious physics student an even mathematics students should consider this book as a really helpful tool. The amazing property of this book is the fact that information comes in a very synthetic way but yet the mathematical level is appropriate. The book covers mostly all the basic subjets a serious physicist should know at least. So I recommend this book for engineers who want to expand their mathematical knowledge concerning the methods applied on physical problems, and of course physics students taking a course on mathematical physics and even for those who want a good reference book for research, an even mathematicians who like a synthetic and applied approach towards some aspects of mathematical analysis, differential equations, functions and vector calculus. In sum, this book contains the basics of the actual advanced mathematical machinery in which physics is laid on."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XVT3NJQONXGO"
+                },
+                "Date": "on May 3, 2011",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UTGHOQCR35HI"
+                },
+                "Date": "on April 5, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "I loved this book, and also his next book. The great thing about Kraut is how he helps you see the unity that the  math brings for example through Lagrange and Hamilton's work and the calculus of variations. The Euler-Lagrange equation carries us from the macro level of Newton's three laws all the way through quantum mechanics, where it shows how one derives the Schrodinger wave equation."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fundamentals-Mathematical-Physics-Dover-Books/product-reviews/0486458091/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,100,727",
+    "Timestamp": "2015-05-24 12:42:46.197557",
+    "itemurl": "http://www.amazon.com/Fundamentals-Mathematical-Physics-Dover-Books/dp/0486458091"
+}

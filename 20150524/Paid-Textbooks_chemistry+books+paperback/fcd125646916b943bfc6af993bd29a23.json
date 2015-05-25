@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$51.95",
+    "Name": [
+        "Electron Flow in Organic Chemistry: A Decision-Based Guide to Organic Mechanisms"
+    ],
+    "OfferPrice": "$36.86",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW04DVSU5XP3B"
+                },
+                "Date": "on July 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V655NBSDECVR"
+                },
+                "Date": "on September 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a computational chemistry major and this book is reasonably easy to read and is extremely useful. All the flowcharts, matrices and tables are extremely helpful as reference materials and will likely carry me through all the way to the end of grad school. It's very small, but very concise and makes organic chemistry, a subject which often kills with information overload, something very simple to understand, without losing any of the complexities inherent to the field. I would recommend it to anyone studying organic chemistry; it teaches a way of thinking that is often overlooked in courses teaching this subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ACRTAJ8CNWYS"
+                },
+                "Date": "on April 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For anyone looking for a way to learn Organic, that isn't based on memorizing two thousand flash cards, this is the best book you can buy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HUUB0OH45GXM"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "No solutions to practice problems."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electron-Flow-Organic-Chemistry-Decision-Based/product-reviews/0470638044/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#145,445",
+    "Timestamp": "2015-05-24 15:17:08.736409",
+    "itemurl": "http://www.amazon.com/Electron-Flow-Organic-Chemistry-Decision-Based/dp/0470638044"
+}

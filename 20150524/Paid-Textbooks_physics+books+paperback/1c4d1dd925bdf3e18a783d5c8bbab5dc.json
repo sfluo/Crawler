@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.99",
+    "Name": [
+        "Relativity and Quantum Physics For Beginners"
+    ],
+    "OfferPrice": "$14.03",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33OODFWOE6WRA"
+                },
+                "Date": "on June 5, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I thought the book did a much better job with quantum theory than relativity.  For example, the twins paradox is not discussed at all in the relativity section (the first part of the book), but the modern interpretation of electrons as an ever changing collection of virtual particles is discussed in some detail toward the end of the book.  I felt I learned something there.  Otherwise the book just covered \"the usual suspects\" in pretty standard ways.  The graphics are fine, and the text easy to read.  In the end, I got my money's worth, in a break even sort of way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R7MXVQRGGIQ9"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36AW4HWH495SZ"
+                },
+                "Date": "on July 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Nice intro."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DON4KNR3GJQQ"
+                },
+                "Date": "on October 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I am too dense to follow all this so I got little out of it. In all fairness, though, I did learn a fair amount!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Relativity-Quantum-Physics-Beginners-Steven/product-reviews/1934389420/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#339,253",
+    "Timestamp": "2015-05-24 12:40:25.196474",
+    "itemurl": "http://www.amazon.com/Relativity-Quantum-Physics-Beginners-Steven/dp/1934389420"
+}

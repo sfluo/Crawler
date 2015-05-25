@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$38.00",
+    "Name": [
+        "IB Physics Study Guide: Oxford IB Diploma Program"
+    ],
+    "OfferPrice": "$36.10",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G7FAFR9Y2D1"
+                },
+                "Date": "on May 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great study guide for the IB physics exams. the book gives clear and concise explanations of all the core topics and options, both HL and SL. Also, the practice tests after each section are very helpful. However, remember that this is a study-guide, and thus it should not be the main source for studying. a more in-depth book should be purchased for more than just a review."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VIW7WXFD2NZN"
+                },
+                "Date": "on December 17, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As an IB student myself, the series has proven useful. Recommended by myself and my teachers. Helpful and handy for an all review for topics covered in the course."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MPUY1XBX45Y9"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "good for review... read the text book"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/IB-Physics-Study-Guide-Diploma/product-reviews/0198390033/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#547,452",
+    "Timestamp": "2015-05-24 12:57:45.843079",
+    "itemurl": "http://www.amazon.com/IB-Physics-Study-Guide-Diploma/dp/0198390033"
+}

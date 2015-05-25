@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Mammoth Book of Golden Age Science Fiction: Short Novels of the 1940's"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OD9DU3A0NCCI"
+                },
+                "Date": "on February 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AISPDE5N41WJG"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Anthologies are hard to characterize, but overall, I would recommend this book. Scan the stories and find the ones you like."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mammoth-Book-Golden-Science-Fiction/product-reviews/0881844802/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#742,551",
+    "Timestamp": "2015-05-24 23:18:39.475342",
+    "itemurl": "http://www.amazon.com/Mammoth-Book-Golden-Science-Fiction/dp/0881844802"
+}

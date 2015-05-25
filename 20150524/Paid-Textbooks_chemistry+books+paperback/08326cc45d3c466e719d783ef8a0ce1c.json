@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.95",
+    "Name": [
+        "Chemistry of Atmospheres: An Introduction to the Chemistry of the Atmospheres of Earth, the Planets, and their Satellites"
+    ],
+    "OfferPrice": "$99.95",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XSS7YAVUS5KG"
+                },
+                "Date": "on October 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Such a great text. This book gives you the basics and more. I'd highly recommend it to Graduate students in this field of science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAQ9NJ480N9W5"
+                },
+                "Date": "on January 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Even thought this book is out of date, it contains an immense amount of important information and is still relevant."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DK5AZMXS1QA3"
+                },
+                "Date": "on August 18, 2003",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "3",
+                "Text": "I read this book as part of a class I took on environmental chemistry.  It is thorough and extensive in the subject matter it covers, and was not too difficult to read.  Alas, I find the subject matter boring before reading this book, and left with my opinions unchanged."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemistry-Atmospheres-Introduction-Planets-Satellites/product-reviews/019850375X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#581,495",
+    "Timestamp": "2015-05-24 15:18:05.624380",
+    "itemurl": "http://www.amazon.com/Chemistry-Atmospheres-Introduction-Planets-Satellites/dp/019850375X"
+}

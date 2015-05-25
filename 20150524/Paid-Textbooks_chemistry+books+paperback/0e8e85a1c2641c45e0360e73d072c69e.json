@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Magnetism and Transition Metal Complexes (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$13.41",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KNT0UQLRFGQA"
+                },
+                "Date": "on March 22, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have found the book Magnetism and Transition Metal Complexes a valuable piece of scientific writing providing systematic discussion on the magnetism of compounds including the transition metals. I think it will be very useful in my current and future research."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30BFX4C1JR8QN"
+                },
+                "Date": "on November 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZOZPN8Y1FXUT"
+                },
+                "Date": "on October 3, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "this book works very well for my chemistry class.Our lecture need this book, so I buy one. The price is ok for students"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Magnetism-Transition-Metal-Complexes-Chemistry/product-reviews/0486462846/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,290,017",
+    "Timestamp": "2015-05-24 15:13:37.241939",
+    "itemurl": "http://www.amazon.com/Magnetism-Transition-Metal-Complexes-Chemistry/dp/0486462846"
+}

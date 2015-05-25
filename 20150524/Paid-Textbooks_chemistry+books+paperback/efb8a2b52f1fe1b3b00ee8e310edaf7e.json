@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Bases of Chemical Thermodynamics: Volume 2"
+    ],
+    "OfferPrice": "$25.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 27, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJBCSINUZFX3O"
+                },
+                "Date": "on April 12, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Bases-Chemical-Thermodynamics-2/product-reviews/1581127715/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#3,134,216",
+    "Timestamp": "2015-05-24 15:47:30.974801",
+    "itemurl": "http://www.amazon.com/Bases-Chemical-Thermodynamics-2/dp/1581127715"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Lab Manual for Applied Physics"
+    ],
+    "OfferPrice": "$29.60",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZI6FVE215XIP"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Fast Shipping! Excellent condition and the price was very fair. Thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FTUXZ892W9B9"
+                },
+                "Date": "on July 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Never did rate: great."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lab-Manual-Applied-Physics-Narasinga/product-reviews/0132109271/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#863,397",
+    "Timestamp": "2015-05-24 13:39:41.194209",
+    "itemurl": "http://www.amazon.com/Lab-Manual-Applied-Physics-Narasinga/dp/0132109271"
+}

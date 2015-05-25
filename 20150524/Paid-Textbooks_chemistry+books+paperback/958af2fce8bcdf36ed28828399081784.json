@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Surface Plasmons on Smooth and Rough Surfaces and on Gratings (Springer Tracts in Modern Physics) (Volume 111)"
+    ],
+    "OfferPrice": "$94.05",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYHJM0LIJ8I5K"
+                },
+                "Date": "on June 3, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Surface-Plasmons-Surfaces-Gratings-Springer/product-reviews/3662151243/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,915,615",
+    "Timestamp": "2015-05-24 15:36:34.638089",
+    "itemurl": "http://www.amazon.com/Surface-Plasmons-Surfaces-Gratings-Springer/dp/3662151243"
+}

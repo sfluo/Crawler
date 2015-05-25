@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Theoretical Physics: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.41",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14AWWTA1VTEE5"
+                },
+                "Date": "on June 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I had a copy of this text while an undergrad a number of years ago.  Found it useful to at the time compliment more of the mainstream texts, since the approach is somewhat Russian flavored.  In getting a new copy, which is essentially a slightly revised from the original version, it's served as a nice compliment and a refresher for different ways to consider problem solution alternatives.  Regarding Kompanayet's take on all the theories, he emphasizes the usuals: Mechanics, E&M;, and QM, not necessarily the most current way of presenting, yet useful in filling in concepts that may no longer get attention.  He finishes with a reasonably good coverage of Statiistical Physics, which may or may not be as common today as when he first published.  Overall, his book provides a nice reference work for any working physicist's toolkit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZMOHX5W0HUFP"
+                },
+                "Date": "on September 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Arrived safely"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Physics-Second-Dover-Books/product-reviews/0486609723/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,812,682",
+    "Timestamp": "2015-05-24 13:17:54.606534",
+    "itemurl": "http://www.amazon.com/Theoretical-Physics-Second-Dover-Books/dp/0486609723"
+}

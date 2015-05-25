@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Symmetry in Chemistry (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$8.57",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on November 8, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "This is a decent book if your an organic chemist who wants to understand the fundamentals of group theory. It is inexpensive and short, so it a great read for someone who is looking to do some self studying."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Symmetry-Chemistry-Dover-Books/product-reviews/0486421813/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,074,160",
+    "Timestamp": "2015-05-24 15:15:38.894812",
+    "itemurl": "http://www.amazon.com/Symmetry-Chemistry-Dover-Books/dp/0486421813"
+}

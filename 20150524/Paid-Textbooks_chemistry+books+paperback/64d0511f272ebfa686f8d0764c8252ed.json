@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Monte Carlo Methods in Physics and Chemistry (Nato Science Series C:)"
+    ],
+    "OfferPrice": "$189.00",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A372GLOWAIKNUP"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "For this price, I would expected much better printing quality."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Methods-Physics-Chemistry-Science/product-reviews/0792355520/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#6,349,359",
+    "Timestamp": "2015-05-24 15:32:10.209089",
+    "itemurl": "http://www.amazon.com/Quantum-Methods-Physics-Chemistry-Science/dp/0792355520"
+}

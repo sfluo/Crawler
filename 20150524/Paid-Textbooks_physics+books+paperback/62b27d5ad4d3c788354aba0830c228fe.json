@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.99",
+    "Name": [
+        "A Dictionary of Physics (Oxford Dictionary of Physics)"
+    ],
+    "OfferPrice": "$18.04",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13F8VO3WGWOD1"
+                },
+                "Date": "on April 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a review of the 6th edition, published in 2009. A new edition has come out every 4-5 years since the first edition came out in 1985, so check before you buy to make sure you're getting the latest and greatest. Anyway, this is a super dictionary. Its 596 pages of concise, clearly written definitions are accompanied by helpful illustrations, charts and tables. There are 6-7 definitions per page, on average, which means there are around 4,000 definitions in the book. A 20-page appendix of tables, timelines and lists is on pages 597-616. Typographically, it's a beautiful book. This is a great reference for libraries, college students, and working professionals in a wide range of industries."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E6SFGJNIYWVE"
+                },
+                "Date": "on June 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KK0DLEU4CXET"
+                },
+                "Date": "on March 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I was looking for a physics dictionary that I could keep on or near my desk that would help me understand a range of physics terms.  This book does just that, and it came quickly in the mail.  Thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17508X93WAY0Y"
+                },
+                "Date": "on February 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great !!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A360JFAVMND6WQ"
+                },
+                "Date": "on December 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This item was in very good condition. I am happy that I made the purchase. I am very happy with the choice."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UAN7SAJOJK6"
+                },
+                "Date": "on November 3, 2010",
+                "Helpfulness": 0.375,
+                "StarRating": "3",
+                "Text": "First, This is a great resource and the information written in a way that is both compact and understandable.  I use this book everyday.  That being said I hate the cover art.  Oxford Products usually have a nice plain to the point cover which is great.  I have covered mine with masking tape because I get motion sickness every time I look at it.  If you think it looks bad in the picture wait til you see it in person. I would give five stars for a different cover."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dictionary-Physics-Oxford/product-reviews/0199233993/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#399,733",
+    "Timestamp": "2015-05-24 13:04:48.290350",
+    "itemurl": "http://www.amazon.com/Dictionary-Physics-Oxford/dp/0199233993"
+}

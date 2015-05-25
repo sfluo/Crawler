@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Conceptual Foundations of the Statistical Approach in Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$12.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ6ALGGFVHJ50"
+                },
+                "Date": "on August 5, 2000",
+                "Helpfulness": 0.375,
+                "StarRating": "5",
+                "Text": "Excelent text by the Ehrenfest's clearing up the subject by 1912. A must  by Dover for those starting on Stat. Mech."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Conceptual-Foundations-Statistical-Approach-Mechanics/product-reviews/0486662500/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,465,148",
+    "Timestamp": "2015-05-24 12:57:04.507785",
+    "itemurl": "http://www.amazon.com/Conceptual-Foundations-Statistical-Approach-Mechanics/dp/0486662500"
+}

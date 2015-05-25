@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$84.99",
+    "Name": [
+        "Statistical Mechanics: A Concise Introduction for Chemists"
+    ],
+    "OfferPrice": "$68.79",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5KZURNUX39I4"
+                },
+                "Date": "on September 1, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JBY16JLB5I70"
+                },
+                "Date": "on August 7, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Widom does a fantastic job at articulating both the impact of statistical thinking on the real world and the complexities of mathematics required to infer knowledge about chemical systems. This book has everything a chemist needs to know about statistical mechanics, without watering down the subject. I read this book four years after taking a formal statistical mechanics course, and I understand it better now than I did in the course! I wish this book was provided as a supplement to my formal course work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32HY9YWHJU8OK"
+                },
+                "Date": "on December 1, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "As suggested by the tittle, the book is concise but, nevertheless, very complete, clear and rigorous. In fact, I found it much clearer than many other lenghty books on this difficult subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z4YYMGQM2MZY"
+                },
+                "Date": "on December 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The author has produced something slightly more wordy than the College Outline Series - which I find to be perfect as a reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZXLLC9M48P45"
+                },
+                "Date": "on March 6, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The prices of this book were somewhere in the low $100's. When I saw this book advertised for $40 I thought it would be in tatters, but no, its in perfect condition and was shipped promplty. I would reccomendboth this book and this store."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Concise-Introduction-Chemists/product-reviews/0521009669/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,481,335",
+    "Timestamp": "2015-05-24 15:42:31.106655",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Concise-Introduction-Chemists/dp/0521009669"
+}

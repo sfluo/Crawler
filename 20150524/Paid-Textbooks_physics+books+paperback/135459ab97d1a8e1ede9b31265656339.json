@@ -1,0 +1,144 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.99",
+    "Name": [
+        "Geometrical Methods of Mathematical Physics"
+    ],
+    "OfferPrice": "$43.98",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IEV3REXKOAB6"
+                },
+                "Date": "on November 6, 2000",
+                "Helpfulness": 0.9814814814814815,
+                "StarRating": "4",
+                "Text": "This is a very enjoyable and clearly written book. From a physics point of view the approach is rather abstract, so although differential geometry is developed from 'scratch', it is probably better to have studied a more elementary text on the theory of 2-surfaces in 3-space first (eg Faber's book Differential Geometry and Relativity Theory ). The first chapter sets the mathematical background expected of the reader. The rudiments of analysis, topology, calculus of many variables and basic linear algebra is reviewed.The ensuing chapters cover differential geometry from a 'modern' viewpoint but the style is quite relaxed and the links to 'co-ordinate approach' are well explained. The exercises concentrate on the abstract approach. Throughout the book the underlying structure of manifolds is concentrated upon. No extra 'structure' eg connections and 'distance' concepts are added until the final chapter on Riemannian spaces. For example the metric tensor  throughout the body of the book is merely used as a map between a tangent space and its dual space. It is only used as a 'distance' operator in the final chapter.For the purposes of independent study this is a sound book, there are hints and partial solutions for many of the exercises, which is always a welcome feature for those studying entirely on their own."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HX6QSV6BDYVR"
+                },
+                "Date": "on July 2, 1999",
+                "Helpfulness": 0.9705882352941176,
+                "StarRating": "5",
+                "Text": "A heuristic and intuitive intro. to manifolds, fiber bundles, connections etc. Some applications are briefly touched upon. This is a good book to study for those that feel they didn't learn enough geometry from their GR  class. Note: no complex algebraic geometry here, so this book would be  considered too elementary for those looking for a mathematics book for  strings."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8SDOCQWS4B4I"
+                },
+                "Date": "on May 7, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YHWLVQYYLV8J"
+                },
+                "Date": "on September 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADGMK91A665B1"
+                },
+                "Date": "on August 7, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book presents the basic concepts of differential geometry in a clear,  concise manner using modern notation. Schutz's writing style is very  readable and there is a considerable breadth of coverage. In areas where  one might wish for greater depth, Schutz provides excellent references. My  only regret is that the physical applications chapters weren't longer. An  excellent starter book and a good quick reference if you continue in  differential geometry, GR or field theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17E7K3MQ5KKR5"
+                },
+                "Date": "on January 21, 2004",
+                "Helpfulness": 0.85,
+                "StarRating": "3",
+                "Text": "Written in a attractive and even seductive way, relying more on Lie algebraic language than is typical, this book is probably as stimulating an intro. to modern geometry as you can find, within certain limits. The section on noncoordinate bases might have been more clearly written, however. Frobenius's theorm is discussed, something that Fomenko et al should have covered, and the section on connections can be worked throuigh independently of the heavy machinery of exterior differential forms, which is attractive for physics students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADGMK91A665B1"
+                },
+                "Date": "on August 7, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book presents the basic concepts of differential geometry in a clear,  concise manner using modern notation. Schutz's writing style is very  readable and there is a considerable breadth of coverage. In areas where  one might wish for greater depth, Schutz provides excellent references. My  only regret is that the physical applications chapters weren't longer. An  excellent starter book and a good quick reference if you continue in  differential geometry, GR or field theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BHYHZQAI7B8A"
+                },
+                "Date": "on January 13, 2009",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELI92XSOT6H4"
+                },
+                "Date": "on September 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QQ7G4XZE4797"
+                },
+                "Date": "on December 21, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I have used this book as a student (junior level and up) and I recommend it to undergraduate students making their way to general relativity and gauge theories. It is clear, simple and intuitive enough for a young student but goes thouroughly through the most important details and techniques."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HW7CNKLHO5XH"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "It is just what I wanted, this book was new, cheaper and very good material for someone who wants to learn more about geometrics methods in physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NEDED8S1IEDS"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I rarely love reading/learning math.. sigh.. This one is ok though. It's intuitive/physics enough to follow through."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20POZVUM92HJC"
+                },
+                "Date": "on October 22, 2001",
+                "Helpfulness": 0.5625,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DLMQG0AZU3OD"
+                },
+                "Date": "on December 29, 1999",
+                "Helpfulness": 0.06542056074766354,
+                "StarRating": "1",
+                "Text": "I am very angry with paying this much money for a book which obviously dosen't live up to it's name.  Think I that Schuz's writing \"exposition\" is no more than symbolic buffoonery. If you want a  book that will knack ya sax off than get a copy of Schutz's \"A First  Course in General Relativity\". <end transmission>"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometrical-Methods-Mathematical-Physics-Bernard/product-reviews/0521298873/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "14"
+    },
+    "Salesrank": "#512,920",
+    "Timestamp": "2015-05-24 13:19:08.339634",
+    "itemurl": "http://www.amazon.com/Geometrical-Methods-Mathematical-Physics-Bernard/dp/0521298873"
+}

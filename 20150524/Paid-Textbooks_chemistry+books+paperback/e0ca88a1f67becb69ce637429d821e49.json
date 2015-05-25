@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "Basic Elements of Crystallography"
+    ],
+    "OfferPrice": "$65.45",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21OYZ4XBMYRZT"
+                },
+                "Date": "on April 12, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "A published review of this book by M. Nespolo (2012) Acta Cryst. A68 is available at [...] The interested reader should consult the review before purchasing this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elements-Crystallography-Nevill-Gonzalez-Szwacki/product-reviews/9814241598/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,457,885",
+    "Timestamp": "2015-05-24 15:40:42.575244",
+    "itemurl": "http://www.amazon.com/Elements-Crystallography-Nevill-Gonzalez-Szwacki/dp/9814241598"
+}

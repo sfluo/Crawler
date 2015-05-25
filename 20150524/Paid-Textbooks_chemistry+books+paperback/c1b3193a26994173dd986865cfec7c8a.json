@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$129.00",
+    "Name": [
+        "Explosive Effects and Applications (Shock Wave and High Pressure Phenomena)"
+    ],
+    "OfferPrice": "$103.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 3, 2001",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": "This is a great book for engineers who want to gain some basic knowledge about explosives.  The book has detailed chemical descriptions and design equations.  It is a very valuable book, especially for me, since I will be going into the Air Force.  I would reccomend this book to anyone, but engineers will get the most out of it.  My only negative comment is that the price is rather high, but that is pretty normal for engineering texts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DPVJ8I8A789K"
+                },
+                "Date": "on April 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Explosive-Effects-Applications-Pressure-Phenomena/product-reviews/0387955585/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#592,718",
+    "Timestamp": "2015-05-24 15:28:56.083734",
+    "itemurl": "http://www.amazon.com/Explosive-Effects-Applications-Pressure-Phenomena/dp/0387955585"
+}

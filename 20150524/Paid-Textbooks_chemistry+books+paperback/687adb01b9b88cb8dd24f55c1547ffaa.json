@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.99",
+    "Name": [
+        "An Introduction to Polymer Physics"
+    ],
+    "OfferPrice": "$85.14",
+    "Reviews": {
+        "AverageStarRating": "1.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L9H2PSYQAP1H"
+                },
+                "Date": "on October 29, 2008",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 22, 2003",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "The text is okay for general information, but it really does lack in some critical thinking areas. Some of the examples had mistakes."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Polymer-Physics-David-Bower/product-reviews/052163721X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,306,638",
+    "Timestamp": "2015-05-24 15:42:57.487855",
+    "itemurl": "http://www.amazon.com/Introduction-Polymer-Physics-David-Bower/dp/052163721X"
+}

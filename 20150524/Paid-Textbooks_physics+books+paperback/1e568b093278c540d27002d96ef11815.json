@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Space Rescue: Ensuring the Safety of Manned Spacecraft (Springer Praxis Books / Space Exploration)"
+    ],
+    "OfferPrice": "$29.96",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARY6UVYX84QHS"
+                },
+                "Date": "on April 3, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "The title told clearly what's the problem of this book....too much American and to few of the others,Soviet/Russian,European and Chinese.Please next time try to title it right."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Space-Rescue-Ensuring-Spacecraft-Exploration/product-reviews/0387699058/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#801,874",
+    "Timestamp": "2015-05-24 13:13:42.163443",
+    "itemurl": "http://www.amazon.com/Space-Rescue-Ensuring-Spacecraft-Exploration/dp/0387699058"
+}

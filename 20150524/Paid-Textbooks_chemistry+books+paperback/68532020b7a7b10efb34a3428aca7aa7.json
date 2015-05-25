@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$110.00",
+    "Name": [
+        "Optical Spectroscopy of Inorganic Solids (Monographs on the Physics & Chemistry of Materials)"
+    ],
+    "OfferPrice": "$67.23",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZHEGCVB9Z5T"
+                },
+                "Date": "on February 14, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I bought it before Amazon raised the price. Fortunately, I received an ad from Oxford University Press the day I purchased it. It took them almost twenty years to realize that it was getting hard to obtain. Few Universities around the world had a copy of the book. Best book of the very few available on this subject. Unfortunately it's a reprint and not a revised edition of the book. The book needs updating on experimental techniques, and broadening of materials being studied, specially now that nanoscience and nanotechnology is the hot topic of this new born millenium. Also, research into the luminescence of un-doped and doped semiconductors has been in the forefront for quite some time, so there you have some more material to be added. The chapter on rare earth luminescence also needs updating and expansion, among other things. This book should enjoy extended life through new editions like classical textbooks, ex. gr. Halliday & Resnick's physics book, E. Kreyszig's engineering mathematics book, etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A324LDHG5OR7QB"
+                },
+                "Date": "on September 21, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book has all the fundamental knowledge I can think of in the related topics. It discusses the background, assumption, and key equations and key concepts, but skips the unnecessary details. I wish I learn about this book a few years earlier. I think the other reviewer is very right about the book should have someone to update the content, so it will continue to be helpful for more people."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spectroscopy-Inorganic-Monographs-Chemistry-Materials/product-reviews/0199298629/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,182,821",
+    "Timestamp": "2015-05-24 15:27:49.659901",
+    "itemurl": "http://www.amazon.com/Spectroscopy-Inorganic-Monographs-Chemistry-Materials/dp/0199298629"
+}

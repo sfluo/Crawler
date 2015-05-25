@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$198.40",
+    "Name": [
+        "Introduction to Quantum Mechanics in Chemistry"
+    ],
+    "OfferPrice": "$185.69",
+    "Reviews": {
+        "AverageStarRating": "2.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UNWN9L2LB3D8"
+                },
+                "Date": "on January 25, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YNZ9BT3YFS0"
+                },
+                "Date": "on December 20, 2002",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I don't know why more people don't use this book or the authors' more advanced version, \"Quantum Mechanics in Chemistry\", but I think they are both fantastic. This book in particular is very clearly written with explicit examples and and relevant end-of-chapter exercises...with detailed solutions to the odds (very rare)! It focuses more on on many-electron problems and methods, which is essential for understanding chemical problems. If your an undrgraduate chemistry major or a beginning graduate student in chemistry who needs a refresher before taking a more advanced class, you would be well served by this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A795A2E5YXBKK"
+                },
+                "Date": "on June 22, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34CUGJWRFTWNA"
+                },
+                "Date": "on February 22, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "The book looked like it had been sat on by elephants and the spine was not attached to the pages. I wanted to send it back, but I needed it for homework. Overall this was a bad buy, I hope whoever sold this to me would have taken better care of it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CY5D2TBC0ETO"
+                },
+                "Date": "on September 30, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "buy it if it's required for class, but it is difficult to find what you're looking for, and not so easy/fun to read.  It serves, but maybe not as well as some other book could."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Quantum-Mechanics-Chemistry-Ratner/product-reviews/0138954917/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#1,695,479",
+    "Timestamp": "2015-05-24 15:19:25.200637",
+    "itemurl": "http://www.amazon.com/Introduction-Quantum-Mechanics-Chemistry-Ratner/dp/0138954917"
+}

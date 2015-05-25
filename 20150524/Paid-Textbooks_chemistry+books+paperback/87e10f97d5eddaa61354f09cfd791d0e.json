@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$88.00",
+    "Name": [
+        "Properties of Materials: Anisotropy, Symmetry, Structure"
+    ],
+    "OfferPrice": "$67.07",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TNZUIM51ZHW0"
+                },
+                "Date": "on August 13, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on December 23, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVRZW1N2I0KE0"
+                },
+                "Date": "on December 5, 2008",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "For anybody who is interested in doing serious materials modeling this book belongs on your book shelf. As Materials Scientists, we don't have the luxury to assume materials behavior is isotropic. This book explains how crystal symmetry (or lack thereof) brings about anisotropic material responses to applied stresses, electric fields, composition gradients, etc... I found this book easy to read and helpful when I was studying piezoelectric behavior for an exam."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIM0B4MOWVBYO"
+                },
+                "Date": "on December 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A must-have if you deal with materials science or condensed matter physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28BRNKC5I0MLN"
+                },
+                "Date": "on October 24, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I found this book easy to read even my background in physics  is not so solid. However, it would be best if the author can use one chapter to describe experimentally how the materials are classified into different crystal classes and how the physical properties are characterized."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14MAHKORHJFF9"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "exact item and fast shipping"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MFYZWONZPI9N"
+                },
+                "Date": "on February 18, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Book was in good condition when I received it and was way cheaper than buying it at a book store"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Properties-Materials-Anisotropy-Symmetry-Structure/product-reviews/019852076X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#828,016",
+    "Timestamp": "2015-05-24 15:23:43.644366",
+    "itemurl": "http://www.amazon.com/Properties-Materials-Anisotropy-Symmetry-Structure/dp/019852076X"
+}

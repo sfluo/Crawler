@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$44.95",
+    "Name": [
+        "In Search of Dark Matter (Springer Praxis Books / Space Exploration)"
+    ],
+    "OfferPrice": "$27.05",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GPFHWJ1SSIHE"
+                },
+                "Date": "on May 10, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A174SIK4VS2R86"
+                },
+                "Date": "on March 22, 2009",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19QB4U5KCUBZ4"
+                },
+                "Date": "on December 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3619VAU8TI2LI"
+                },
+                "Date": "on February 22, 2007",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "5",
+                "Text": "The book is very well organized and enjoyable to read.  Well done!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6WHT437GAF0"
+                },
+                "Date": "on August 3, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "5",
+                "Text": "I found this book to be very informative, up to date, and could be understood by the layman"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Search-Matter-Springer-Praxis-Exploration/product-reviews/0387276165/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#632,644",
+    "Timestamp": "2015-05-24 13:18:25.775931",
+    "itemurl": "http://www.amazon.com/Search-Matter-Springer-Praxis-Exploration/dp/0387276165"
+}

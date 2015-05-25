@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "Hydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$23.45",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 31, 1998",
+                "Helpfulness": 0.8636363636363636,
+                "StarRating": "5",
+                "Text": "The first edition of this book was issued, I believe, about a hundred years ago! Nowadays it is not the techniques of fluid dynamics that have changed but the computing power and methodology to solve these inherently complex problems. That said, this book is \"The Classic\" text on, what are termed, 'Potential Flow' problems. As such it is essential reading for anyone serious about the subject of Fluid Dynamics. After one has learned the fundamental techniches, covered in this book, the solving of these simplified fluid flow problems are simply delightful. The book provides a very good insight into the working of both analytical and computational fluid dynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5E9URLYDX8RJ"
+                },
+                "Date": "on April 7, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book was written in a time when ideas established by men such as Kelvin and Rayleigh were still exciting and new, and it evolved over the decades to remain a classic reference. You'll find many interesting discussions of fundamental ideas in fluid dynamics that most modern books take for granted, as well as novel approaches to some classic problems. There is more emphasis on the set of \"exactly-solvable\" problems than more modern books, because of the arrival of the computer and the availability of the numerical solution. Finally, this is not quite a textbook but more of a collection of articles, so much so that the earlier articles often reference later ones in the book. It's a good place to learn about aspects of fluid dynamics, but it's not an introduction. It's often not an easy read for someone stil unfamiliar with the required mathematics or dynamical principles, but you do get a unique and valuable perspective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BH49ZKESHDID"
+                },
+                "Date": "on June 24, 2002",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": "The first edition of this book was published in 1879 when Sir Horace Lamb was a much younger person (he was serving as an officer in international associations in the 1920's).  It remains a standard classic text in hydrodynamics, covering the fundamentals of the subject.  The basic science has not changed, but solutions to problems have become much more advanced as some processes are better understood, and as computational methods become more advanced.  The text covers the basic equations of motion, irrotational motion, fluid motion in two dimensions and problems in three dimensions, the motion of solids through a liquid, vortex motion, tidal waves, surface waves, waves of expansion, viscosity, and rotating fluids.  It is recommended as a standard reference for hydrodynamics and physical oceanography."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZNK5EWWK527Z"
+                },
+                "Date": "on August 18, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As noted by other reviewers, this is a classic fluid mechanics reference text, but not suitable for detailed explanations or beginners.  It also suffers from the usual fluid mechanics problem of notation, and the notation in this book is a little dated.  However, once you get used to the \"short article\" layout (vs chapters) and the notation, you will treasure and use this book a long time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BO1VM9CSCWW1"
+                },
+                "Date": "on March 15, 2003",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": "This is, of course, a classic text on fluid dynamics. Expect some work to get through it, though. It is very mathematical and not for the feint-hearted."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34VVYW0FR6TBO"
+                },
+                "Date": "on July 19, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very very good book providing explanations on the basis of hydrodynamics. Covers various topics: NS-equation derivation, irrotational motion, potential fluids, vortexes, waves, viscosity issues and some more. Every step is very well explained. I think is one of the best references in basic fluid dynamics. Only cons: there is no extensive list of the cited papers (at least in my edition, sixth edition/first american edition, 1945), but only a list of the authors."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TYLC9O4NWZHZ"
+                },
+                "Date": "on May 23, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EG1USD4LKU1M"
+                },
+                "Date": "on May 14, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This is an encyclopedic collection of the classical results. And the role this book plays in fluid dynamics is just like Carslaw's classical book does in heat conduction area. It really takes time and endeavor to digest."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YV9IG838NORT"
+                },
+                "Date": "on October 26, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The owner took good care of this 1945 issue. It is a clean copy and I am glad to have it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q92NX6LO3FZ9"
+                },
+                "Date": "on October 11, 2008",
+                "Helpfulness": 0.4666666666666667,
+                "StarRating": "1",
+                "Text": "This is a very classical book on the subject of fluid mechanics, and I was very happy to find a hardcover version. But this version is a big disappointment! Obviously this is a copy of a library book with the call number,  the name of the library and other people's writing in it. The worst things are: it is not complete, and it is so blurring that I was not able to read it at all!  I found a printing statement in the book saying that this is \"due to the very old age and scarcity of this book\". I really think Amazon should put this statement in the description of this book! Too bad that  I eagerly put my name in the first page, otherwise I definitely will return it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hydrodynamics-Dover-Books-Physics-Horace/product-reviews/0486602567/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#81,151",
+    "Timestamp": "2015-05-24 13:02:19.684486",
+    "itemurl": "http://www.amazon.com/Hydrodynamics-Dover-Books-Physics-Horace/dp/0486602567"
+}

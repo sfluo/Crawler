@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Quantum Theory: Concepts and Methods (Fundamental Theories of Physics)"
+    ],
+    "OfferPrice": "$87.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JLDYUSV1SHZC"
+                },
+                "Date": "on September 21, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The essential logic of this book is stated at 'Preface': \"quantum phenomena do not occur in a Hilbert space, they occur in a laboratory\".  The author's view is stated on p.26: \"The essence of quantum theory is to provide a mathematical representaion of states (that is, of preparation  procedures), together with rules for computing the probabilities of the various outcomes of any test.\"  Also, on p.183: \"The only meaning of \"quantum state\" is: a list of the statistical properties of an ensemble of ideally prepared systems.\"  The above pragmatic view of quantum theory is truly innovative, and expected to settle the longstanding controversies over the meaning of quantum theory.  The author's view seems to correspond to Einstein's instrumental interpretation of quantum theory, one of Einstein's three interpretations of qunatum theory. (see, A. Fine in \"Einstein in Context\" pp.257-273: http://www.amazon.com/Einstein-Context-Science-Mara-Beller/dp/0521448344/ref=sr_1_2?ie=UTF8&s;=books&qid;=1223250841&sr;=1-2 )"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQMBVCKN57ES"
+                },
+                "Date": "on September 2, 2007",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9EXDU7JCJH8W"
+                },
+                "Date": "on April 14, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17I3RN51P5FYI"
+                },
+                "Date": "on March 22, 1998",
+                "Helpfulness": 0.782608695652174,
+                "StarRating": "5",
+                "Text": "One of the rare books that give a deep and balanced account of Quantum Theory... Concepts are emphasized as much as techniques. Anyone who wants to understand (as opposed to merely use) quantum mechanics should at least have a brief look through such a book..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFMJ8PAANSLWS"
+                },
+                "Date": "on January 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APLQUT3IGZZEB"
+                },
+                "Date": "on January 4, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "I don't have a physics background. I wanted to understand from the scratch the connections between thermodynamics, information theory and the quantum world. Also I wanted to understand the issue of quantum entanglement a little deeper. I wouldn't say that I found everything that I was looking for in this book. But it did give me a very good start and more pointers for what to look for."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LN1HYSWOA19T"
+                },
+                "Date": "on February 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8V1OW2QBYBLG"
+                },
+                "Date": "on April 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/product-reviews/0792336321/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#394,572",
+    "Timestamp": "2015-05-24 13:39:57.362058",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Concepts-Fundamental-Theories/dp/0792336321"
+}

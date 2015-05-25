@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Introduction to Mathematical Fluid Dynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S1SZVK8JWJZX"
+                },
+                "Date": "on October 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Excellent mathematical book on fluid mechanics. Engineers and scientistis beware! Some topology required. There will not be much physical insight on fluid mechanics in this book but the mathematics is explained in gorey detail."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25ZLA0XAI72VV"
+                },
+                "Date": "on December 21, 2011",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Mathematical-Fluid-Dynamics-Physics/product-reviews/0486615545/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#709,333",
+    "Timestamp": "2015-05-24 13:06:29.387511",
+    "itemurl": "http://www.amazon.com/Introduction-Mathematical-Fluid-Dynamics-Physics/dp/0486615545"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$38.00",
+    "Name": [
+        "Understanding Advanced Organic And Analytical Chemistry - The Learners' Approach"
+    ],
+    "OfferPrice": "$36.10",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2G28MVZPHWWZ8"
+                },
+                "Date": "on June 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book which tell you why and what behind every organic chemical reaction. It tells you why a certain reagent(s) or condition is used. If you are keen to find out more than just memorising facts, Look no further."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Advanced-Organic-Analytical-Chemistry/product-reviews/9814374989/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,353,665",
+    "Timestamp": "2015-05-24 15:18:10.066334",
+    "itemurl": "http://www.amazon.com/Understanding-Advanced-Organic-Analytical-Chemistry/dp/9814374989"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Singular Integral Equations: Boundary Problems of Function Theory and Their Application to Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$22.46",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK99V5JOX5D1J"
+                },
+                "Date": "on May 29, 2000",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11YOT86X3M4GU"
+                },
+                "Date": "on May 23, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "To be honest, I have not gone into a thourough and complete reading of the texbook, but I picked up several and sparse subjects in order to get a better understanding about some issues relating linear transport theory. But also in a limited use like that I cannot help recognizing that, even after half a century, this book remains a milestone in integral equations and boundary problems. Deep, clear, and available also to ready-to-use requests, it may seem a bit out of fashion for the light use of geometrical formalism, but also this latter feature makes it to be very strict to the point, if you need to strengthen the theoretical building of numerical calcualtions to be performed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18TGDITWJ9YFI"
+                },
+                "Date": "on April 12, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32WC03SERRYQM"
+                },
+                "Date": "on June 2, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Good to see this reference that had been hard to obtain republished by Dover. Classic refernce on this topic. Suitable for graduate students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Singular-Integral-Equations-Application-Mathematical/product-reviews/0486462420/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,398,074",
+    "Timestamp": "2015-05-24 13:06:31.542328",
+    "itemurl": "http://www.amazon.com/Singular-Integral-Equations-Application-Mathematical/dp/0486462420"
+}

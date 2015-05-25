@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Transforming Your STEM Career Through Leadership and Innovation: Inspiration and Strategies for Women"
+    ],
+    "OfferPrice": "$37.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BME4QWM3HSDJ"
+                },
+                "Date": "on February 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z162UCA63RF6"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a former engineer, I wish this book was there for me. Thank you for this book, giving hope to others who have struggled with the glass ceiling."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Transforming-Career-Through-Leadership-Innovation/product-reviews/012396993X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,816,421",
+    "Timestamp": "2015-05-24 15:42:53.166637",
+    "itemurl": "http://www.amazon.com/Transforming-Career-Through-Leadership-Innovation/dp/012396993X"
+}

@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$67.00",
+    "Name": [
+        "Modern Spectroscopy"
+    ],
+    "OfferPrice": "$62.40",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWBXICPD6TRS5"
+                },
+                "Date": "on March 11, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Even if beginning with only an introductory understanding of quantum mechanics, this excellent book will allow you to understand most major branches of spectroscopy.  The chapters are organized to include reasonable amounts of both theory and show real spectra to help use the theory in the context of real research.  One of the earlier chapters includes a review/primer on group theory and the remaining chapters can be understood with the group theory presented in that chapter.  This book is therefore suitable as a text and is also very usefull as a reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 23, 1999",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": "I used this book to supplement the ocean of Herzberg referenced in my lab class. It seems pretty complete and is clearly written. The examples are  very helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28FUSNY07OBIE"
+                },
+                "Date": "on February 24, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The books reviews all the fundamental concepts on molecular spectroscopy. The chapter on quantum mechanics is well organized, and introduces the reader into the tools necessary for understanding the logic behind molecular spectroscopy. Simple, clear and easy to follow. The way the book is organized is also very good, from general/simple to specific/complex, so it's suitable for undergraduate students and all type of scientists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIOT86CCRKT4I"
+                },
+                "Date": "on January 23, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3A817MOGFDSQL"
+                },
+                "Date": "on June 15, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was recommended by Amazon for spectroscopy and after looking few pages it was a book what I was looking for, have not gone through the whole book but the initial pages suggests that it will be a useful reference for me working as a metrology engineer in semiconductors"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SDG8V9LYS6QR"
+                },
+                "Date": "on July 31, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21790CQBF43IK"
+                },
+                "Date": "on January 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Modern Spectroscopy is breath of fresh air. It brings new approaches to traditional subjects and, at the same time, presents relevant new topics in a clear, interesting way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10UKWMOLR9SNE"
+                },
+                "Date": "on May 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I think this is a pretty good text for upper-level undergraduates. I recommend it to my incoming research students as a spectroscopy reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AS99ZYJ9G5AWR"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I used this book for a graduate level spectroscopy class.  It is fairly easy to read and contains a good amount of information for those working in spectroscopy research."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Spectroscopy-J-Michael-Hollas/product-reviews/0470844167/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#506,072",
+    "Timestamp": "2015-05-24 15:31:30.727976",
+    "itemurl": "http://www.amazon.com/Modern-Spectroscopy-J-Michael-Hollas/dp/0470844167"
+}

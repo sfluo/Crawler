@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.95",
+    "Name": [
+        "Linear Accelerators for Radiation Therapy, Second Edition (Series in Medical Physics and Biomedical Engineering)"
+    ],
+    "OfferPrice": "$79.17",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZJXQAG3DODC2"
+                },
+                "Date": "on December 13, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RK5FJ7W4W9XW"
+                },
+                "Date": "on November 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I would say it is a good introductory book which covers the basic principles of operation of the linacs. I found interesting some comparison and differences of techniques used by various manufacturers (e.g Varian and Elekta). Text is clear, easy to read. However this book is more than 10 years old thus don't expect to find any of the state-of-the-art technologies here."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26KH6QDWIEXKZ"
+                },
+                "Date": "on March 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It goes through all the fundamentals of the inner working and design of a linac. It may not be the latest designs, but you can get a pretty good idea. And this book is a very good starting point if you want to go in to medical physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OQ97VAERJYRF"
+                },
+                "Date": "on December 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book is a solid introduction to linear accelerators suitable for clinical medical physicists. However, it is a little dated in some of the content, it would be good to see a new edition released soon!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASB3EGJZ4OKLR"
+                },
+                "Date": "on August 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "love this small book. helped me pass the board. easy to use. good shipping. using it now. no problem so far. not bad at all. is it enough words yet. yes. copy to all ratings."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OTJT1FLIJUN2"
+                },
+                "Date": "on August 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "the book is very good, but I received it 1 week late"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Accelerators-Radiation-Therapy-Biomedical-Engineering/product-reviews/0750304766/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#723,428",
+    "Timestamp": "2015-05-24 13:24:01.154752",
+    "itemurl": "http://www.amazon.com/Accelerators-Radiation-Therapy-Biomedical-Engineering/dp/0750304766"
+}

@@ -1,0 +1,639 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "The Edge of Physics: A Journey to Earth's Extremes to Unlock the Secrets of the Universe"
+    ],
+    "OfferPrice": "$18.01",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAY0T5U6OJMKN"
+                },
+                "Date": "on January 25, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D2CZEHI7KO76"
+                },
+                "Date": "on January 18, 2010",
+                "Helpfulness": 0.9,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SI8IHC4QTOE9"
+                },
+                "Date": "on March 16, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BMMUPJUSXLLX"
+                },
+                "Date": "on January 1, 2010",
+                "Helpfulness": 0.775,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31BD4RXCON7QO"
+                },
+                "Date": "on January 8, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOMEH9W6LHC4S"
+                },
+                "Date": "on December 28, 2009",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4JHEO7H330AF"
+                },
+                "Date": "on December 25, 2009",
+                "Helpfulness": 0.7647058823529411,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARNEUO7BF3J55"
+                },
+                "Date": "on January 19, 2010",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QWCRVV9VNLOK"
+                },
+                "Date": "on January 1, 2010",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UWSU5ETQRQKX"
+                },
+                "Date": "on February 23, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJRFZ0VZ0LD26"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CWIYIETNBAK3"
+                },
+                "Date": "on March 16, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26NKJQOE7XIKS"
+                },
+                "Date": "on April 20, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHGGSY182427"
+                },
+                "Date": "on February 21, 2010",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "This is a very cool exploration of the world of experimental physicists. Wide and far, high and low. It's a novel way to examine modern physics, linked not by history or theory but by the extreme places where the experiments are being run. It's very readable, as you'd expect from an editor for New Scientist and National Geographic News, and for the same reasons it is a balanced review of current physics theory including dark matter, string theory, quantum gravity, and cosmology. It's a fun romp like a Nova special, but with the added depth and insight was get from a good read. A few more pictures would be good, but otherwise this book meets and exceeds its mission."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D9Z20TCUH6ZX"
+                },
+                "Date": "on January 24, 2010",
+                "Helpfulness": 0.7333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R4BL5MYUDNDJ"
+                },
+                "Date": "on February 22, 2010",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "I really have to simply reinforce the extremely positive comments that the prior reviewers have made here. The author is astounding in his ability to make the current cutting edge physics projects come to life, and even his historical comments are fascinating to read. This is a book about a subject or subjects that normally might be rather boring, but this is NOT a boring book, and in fact it is remarkably quite the opposite. Wow!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KTYJQ9HCM70E"
+                },
+                "Date": "on June 5, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PD27UKAD3Q00"
+                },
+                "Date": "on January 6, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WFXYRDB5A0N5"
+                },
+                "Date": "on February 2, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "It's truly rare to find a book that satisfies the reader's intellectual curiosity as well as sense of adventure, and this book does just that.  Fabiola Gianotti, an Italian physicist and spokesperson for ATLAS, a particle physics experiment at the European \"Large Hardon Collider\" prefers physics to philosophy because \"experimental physics is based on facts\", and less about contemplating inventive ideas.  Mr. Ananthaswamy touches on the latest astrophysics theories and fascinating experiment results in the harshest conditions from all corners of the world that explore the origins of the universe, the shape of it, along with its past, present and future states, and then some.  There's something for everyone in this book, including those who are knowledgeable about the subject matter.  For as much as physicists do not yet understand the makeup of our universe (\"nearly 90% of the mass of galaxies seems to be made of matter that is unknown and unseen\"), multiple enthralling experiments with revelations are in the making, and Mr. Ananthaswamy does a magnificent job of explaining it all.  It's been a while since I've come across an intriguing piece of work such as this."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOPGDH5M54SWN"
+                },
+                "Date": "on January 10, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "The Edge of Physics: A Journey to Earth's Extremes to Unlock the Secrets of the Universe\" is a great book written like a travel adventure the author takes the reader to extreme locations were physicists experiments to further understand the universe we live in and beyond. Readers get an insider's look at what takes place inside these labs from Hawaii's Mauna Kea observatory to a radio telescope in the Karoo Desert, just to name a few locations they travel. The complex subject matter is broken down in such a way that you will pick up information you thought you understood but now even more so through the author's detail account with each location"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VX6A9UZBLEPI"
+                },
+                "Date": "on June 4, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KVUYPLEW4LXT"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14638TGYH7GD9"
+                },
+                "Date": "on May 18, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AC6HYEG9JT441"
+                },
+                "Date": "on October 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A288IFM1W1ATKV"
+                },
+                "Date": "on December 18, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is the single most interesting modern physics books I have read. I have a degree in physics (and advanced degrees in math and engineering) yet I found this book to be both challenging and fascinating. It literally kept me up until midnight, I couldn't put it down. The mixture of cutting edge physics and descriptions of experimental locations around the globe is well balanced and, unlike many other popular physics books, genuinely interesting and a pleasure to read. It was a privilege (and also a bit of an adventure!) to share the author's journey. If you're interested in understanding cool stuff like quantum gravity, not the math but rather the significance, this is a highly recommended book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1M7Y63Y5GYJI1"
+                },
+                "Date": "on June 15, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FKGKUCI3DG9U"
+                },
+                "Date": "on June 14, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UPYGJKZ0XTU4"
+                },
+                "Date": "on January 3, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWNBZSEZ9P8BE"
+                },
+                "Date": "on February 10, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A174P9KKDTL25G"
+                },
+                "Date": "on January 10, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GNGJVLZ881JE"
+                },
+                "Date": "on March 19, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4Q65S8MUUMY5"
+                },
+                "Date": "on December 30, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OY3IZTJ222OM"
+                },
+                "Date": "on May 17, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "An excellent account of the personalities and problems solved while explaining the science. Entertaining, fascinating and easy to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IT8YUY9VLRC9"
+                },
+                "Date": "on January 28, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K1NKLMVV95VC"
+                },
+                "Date": "on November 29, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QG13XG3EO2CX"
+                },
+                "Date": "on May 4, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "In this book, Anil Ananthaswamy takes trips to a few select places where physics experiments are ongoing. Along the way he details the history of each place, a history of the science that has led to the current experiments, and he tries to explain what the experiments are trying to reveal. He also does talk a lot about the non-science aspects of each place, going into the details of his trip (which, when you're visiting places like the south pole is not so trivial). As a fan of history and science I enjoyed the book, and consider it to be very similar to books like \"the red limit\", just updated by 20 years. The book also has an accompanying website (you can find it with google), which includes lots of photos, videos, and other information from the author. (Unlike most book websites it's actualyl good and has fun information)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KDB0JCJT5BD7"
+                },
+                "Date": "on December 26, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "If you keep up with the developments in physics this book will likely offer you little.  If you are looking to catch up with what is going on in physics today this is a good book with a simple presentation suitable for high school and beyond.  The author is a science writer, not a scientist, and the book reads very much like a series of articles from most science magazines.  The book jumps around constantly, with a discussion from the 1930's, then something from the 1990's, then back to the 1960's etc and from one unrelated topic to another.  However, his writing is usually entertaining and a worthwhile read.  This review was done from a copy of the book in my local library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KILBXH2PJOTH"
+                },
+                "Date": "on September 14, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EUHTAOKT87AM"
+                },
+                "Date": "on October 10, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "One on the best books on the new cosmology I've read.  It covers an amazing range of topics, but does it well.  The approach of using of a travel log to earth's extremes, profiling scientists trying to unravel dark matter, dark energy, and empirically verify or disprove the various theories of everything, was a fantastic premise for a book.  Credit to Ananthaswamy that it turned out so well!  Be sure to visit the author's website to see pictures of the fascinating locations and characters described in the book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GQ0WGM9BYX9O"
+                },
+                "Date": "on June 21, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "That is what I liked best about this book; it is full of answers to the questions that you never thought to ask. And here it is laid out for you in a way that is so enthralling and fun to discover more about the world we live in! The author is extremely intelligent but writes in a way that makes you feel like he is sitting there explaining something to you like a favorite teacher of yours used to. Good for a summer read to keep your mind from turning to mush!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACZ4YI6UWRVOG"
+                },
+                "Date": "on May 11, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "If you enjoy watching those cable TV shows on the Science Channel, NatGeo, etc., that always seem to be on late at night, you will enjoy this book.  The author presents a nice summary of modern day cosmology and theoretical physics.  Kind of dense in spots.  Not a quick or casual read.  If you are interested in cosmology, pick up  used copy or look for it at your local library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EOZQX9LEYGWY"
+                },
+                "Date": "on June 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A different perspective towards physics and the human stories behind experimental science. The reader will appreciate the science and the history alike."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36WRDC97V6EOT"
+                },
+                "Date": "on May 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Some real insights into our quest for knowledge in simple elegant writing.  The human stories keep the topic real.  The machines the scientists use star alongside the people in this wonderful book.  I got a little lost at the end though.  The section on spacecraft left me behind a bit.  Gravity waves, acoustic harmonics in the young universe, open and closed universes became too expansive for me.  It is as if the only location the author cannot visit is a metaphor for subjects too hard for me to grasp."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J427B4E0AAK4"
+                },
+                "Date": "on January 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A962WLCJKA1CI"
+                },
+                "Date": "on January 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Having participated in one of the projects documented makes it even more entertaining to read.  Especially when you can read between the lines of the text and know a bit of the backstory.  Odd though that the paperback version I bought was less expensive than the Kindle version."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CFRBXXBHC2W1"
+                },
+                "Date": "on July 27, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Including the standard model and dark energy and dark matter. I learned a lot and enjoyed the various locations and discussions of people involved."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JAQWF2RDVJFJ"
+                },
+                "Date": "on March 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Well written and insightful, the author has traveled to some of the strangest places on Earth as physicists look for the clues to understanding the Universe.  He explains the science in easy to understand terms and leaves you hoping they find what they are looking for in our life-times."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LR2T3KG1GEH2"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Love, love, love this book.  Still reading it, I admit.  (Reading four books at the same time). Because of this book, I have started to plan a trip to Chile to tour the Paranal VLT Observatory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALPP8SEDLO6HZ"
+                },
+                "Date": "on November 25, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ6YJM2J2LNOP"
+                },
+                "Date": "on May 14, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17FHNIQ738LVI"
+                },
+                "Date": "on January 23, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ABZ63B2OHOOJ"
+                },
+                "Date": "on August 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "If you're looking for a science-related book for \"pleasure reading\", this is a great option. Not only does the author write very clearly about the topics of cosmology and physics, but he is able outline the importance of these topics to the reader. If you know nothing about physics, you will still be able to follow along and gain a basic understanding of the topics. The author explains the physics concepts throughout the book, and consistently reminds you of these lessons. The only slight hesitation that I have is that the author does not provide complete connections and transitions between the described science experiments."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIENS751TNKD6"
+                },
+                "Date": "on June 17, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B3GNO9C8YX0N"
+                },
+                "Date": "on March 27, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A fun, lightweight read of the people, places and things around some of the research on the cutting edge of physics. If you want an easy read that gives you a feel for the non-technical aspects of modern physics this is a good one. If you want to actually understand the physics, even in a pop-science kind of way, this is not the book for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L12L13HKKC91"
+                },
+                "Date": "on January 27, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WBEIH7Z37LN9"
+                },
+                "Date": "on January 15, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DF4LQQI6KSQ2"
+                },
+                "Date": "on November 17, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is one of the most enjoyable books I have read this year.  The author takes us along as he visits a variety of locations all over the world where cutting edge physics is happening.  The journeys and the physics are both fascinating.  A great travel book :)  A great physics book :)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A62R496DI8W34"
+                },
+                "Date": "on January 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Physics can be hard to get excited about for the average layman, yet this book effectively uses case studies from physical places (it could have used photos of them) and situations to help explain new developments and understandings of how physics work in the real world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W08927QZVGF3"
+                },
+                "Date": "on March 18, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19HKRB4LU5YR"
+                },
+                "Date": "on March 15, 2010",
+                "Helpfulness": 0.6,
+                "StarRating": "4",
+                "Text": "I thoroughly enjoyed this book.  I'm not a scientist but an informed layperson.  This book contains just enough science to establish a baseline understanding and just enough travelogue to be entertaining.  The author traveled to some of the most inhospitable places on the planet to get first-hand reports on the status of our search for the answers to questions on dark matter, dark energy, and other questions of physics which will help us understand our universe.  I was surprised in some cases at how far (literally) scientists and researchers will go to set up the conditions which allow them to collect the data necessary to move the marker forward.  I expect the author has notes enough to turn this non-fiction book into an excellent novel.  The trials and triumphs of men trapped on a frozen ice lake in Siberia or in deathly frigid Antarctica unravelling the secrets of the universe would make a great action adventure survival story.  At any rate, I'd recommend this book to anyone at all interested digging a little deeper into all the stuff they keep plastering across the Science and Discovery Channels about the search for dark matter and dark energy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JU2UWORV69T2"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A fascinating journey of the adventure of research in the mysteries of our time"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RNNHT8T1I5ZR"
+                },
+                "Date": "on December 24, 2009",
+                "Helpfulness": 0.6111111111111112,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASGN5WD3DI451"
+                },
+                "Date": "on January 9, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JQ58CZBV3FOZ"
+                },
+                "Date": "on December 25, 2009",
+                "Helpfulness": 0.6170212765957447,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJITP49HCR0VS"
+                },
+                "Date": "on April 18, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I REALLY ENJOYED READING ABOUT THE BEHIND THE SCENES LOOK AT THE VARIOUS OBSERVATORIES AND THEIR HISTORIES(PLUS THE INTERESTING ASTRONOMERS THAT MAN THEM.)I'LL BE LOOKING FOR OTHER BOOKS BY THIS AUTHOR IN THE NEAR FUTURE.T.RUSSELL"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACEXWBDOIIG2H"
+                },
+                "Date": "on March 28, 2010",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on December 23, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BM5NTLX7CES1"
+                },
+                "Date": "on March 15, 2010",
+                "Helpfulness": 0.35294117647058826,
+                "StarRating": "2",
+                "Text": "I expected a book on physics that would provide some interesting insights into the latest developments of physics, and while there was some focus on that, the author's whininess tended to take center stage the majority of the time. While some insight into what he was thinking was okay, the result was a pop science book that mostly focused on the complaints the narrator had about the different climates he was in, and his fear of possible death in those climates. Certainly he took some risks, but I would've enjoyed a book that focused less on melodrama and more on science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOKQZVWCLONRH"
+                },
+                "Date": "on February 10, 2010",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Edge-Physics-Journey-Extremes-Universe/product-reviews/0547394527/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "69"
+    },
+    "Salesrank": "#1,174,699",
+    "Timestamp": "2015-05-24 13:16:28.454202",
+    "itemurl": "http://www.amazon.com/Edge-Physics-Journey-Extremes-Universe/dp/0547394527"
+}

@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$95.00",
+    "Name": [
+        "The Quantum Theory of Light (Oxford Science Publications)"
+    ],
+    "OfferPrice": "$91.20",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YJ1VNKOM3MZF"
+                },
+                "Date": "on June 7, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARUWTTW6SIDQK"
+                },
+                "Date": "on July 21, 2000",
+                "Helpfulness": 0.85,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OAB1FRBOZVWR"
+                },
+                "Date": "on March 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FO11LVT4RQS0"
+                },
+                "Date": "on August 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book is really nice, I highly recommend if you are in looking for fun and training for Olympiads and physics contest"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RGJMT7RNZPSV"
+                },
+                "Date": "on January 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A must have for anyone into quantum optics. It's comprehensive, and covers a wide range of topics in the discipline. We used this in a quantum optics course to great effect."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Oxford-Science-Publications/product-reviews/0198501765/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#255,781",
+    "Timestamp": "2015-05-24 15:39:02.621092",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Oxford-Science-Publications/dp/0198501765"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Exploring Light and Color"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XUX1L8SZ0AEA"
+                },
+                "Date": "on May 31, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dr. Heidi Gold-Dworkin's books are a thrilling addition to children's literature and an important introduction to concepts that most kids usually have to wait to learn until they're in junior and senior high school. With  the world of science exploding around us, these books are the best way for  kids to learn early what makes our universe tick. I have no doubt that  future Nobel Prize winners will cite the influence of Dr.Heidi's books when  they mount the podium in Oslo someday!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AR5IZ1LSHU61L"
+                },
+                "Date": "on May 10, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a remarkable children's science book. I am an elementary school teacher and I am using the book for my K-3rd grade students. My students love the experiments and this book is helping them to enjoy science. The  pictures are great and the questions that Olivia asks about light and color  are just what my students want to know. I can't wait to read the others."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP736QHFBF05D"
+                },
+                "Date": "on May 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "We have all three of Dr. Heidi's book's and can't wait for the next one. My 5 year-old loves doing the simple experiments that Dr. Heidi outlines. Not only do these books truly illustrate in a simple way the way the world  works, but they are a great way to spend time with your children while they  are learning valuable things about the world. Dr. Heidi clearly understands  how to communicate with 4-8 year-old kids. And I learned a lot to. Highly  recommended for learning (by both child and parent) and fun. 5 plus stars!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exploring-Light-Color-Heidi-Gold-Dworkin/product-reviews/0071348212/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#770,284",
+    "Timestamp": "2015-05-24 15:23:17.258303",
+    "itemurl": "http://www.amazon.com/Exploring-Light-Color-Heidi-Gold-Dworkin/dp/0071348212"
+}

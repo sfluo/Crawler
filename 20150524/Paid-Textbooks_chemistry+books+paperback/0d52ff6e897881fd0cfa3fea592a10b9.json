@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Interfaces in Crystalline Materials (Monographs on the Physics and Chemistry of Materials)"
+    ],
+    "OfferPrice": "$110.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on April 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A268LSO9YDVADL"
+                },
+                "Date": "on May 19, 2000",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is a true magnum opus as it tries to cover not only interfaces but also the effects of interfaces on the behavior of materials; for example, creep, deformation, etc."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Interfaces-Crystalline-Materials-Monographs-Chemistry/product-reviews/019921106X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,415,257",
+    "Timestamp": "2015-05-24 15:17:19.729543",
+    "itemurl": "http://www.amazon.com/Interfaces-Crystalline-Materials-Monographs-Chemistry/dp/019921106X"
+}

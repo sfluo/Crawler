@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "States of Matter, States of Mind"
+    ],
+    "OfferPrice": "$76.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 1, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Barton has written a book that should be compulsory reading for all budding university physcists and chemists and their teachers. He deals with models, analogies and other conceptual aids that are used in describing  nature. His non-mathematical text captures very essential ingredients of  science which are usually omitted in textbooks proper. Is it obvious that  students understand the implications of model simplifications and unspoken  ideality assumptions ?. How is reality added and model enhanced ? One of  the nice features is that the book really deals with various sorts of  matter: not only solid, liquid and gas but also surfactants, thin films,  foams, aerogels, adhesives, gels, ceramics, glasses, liquid crystals,  ........"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 20, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "States of Matter is a beautiful critique on the models we use to understand our reality. The text is really humbling stuff -- not because I thought I \"knew\", but rather because it highlights that we can  barely know what we don't know.  This leaves us to publish an understanding  of our reality that may, of course, be rigorous and functional, but  at the  same time must be continually subject to even total collapse as we move  closer to the truth. In whole and in part, I've found compelling analogies  in this book that can be practically applied across disciplines --  business, literature, etc."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ2T4R7ZW7GKF"
+                },
+                "Date": "on August 29, 1998",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/States-Matter-Mind-Allan-Barton/product-reviews/0750304189/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#3,741,797",
+    "Timestamp": "2015-05-24 15:51:10.660011",
+    "itemurl": "http://www.amazon.com/States-Matter-Mind-Allan-Barton/dp/0750304189"
+}

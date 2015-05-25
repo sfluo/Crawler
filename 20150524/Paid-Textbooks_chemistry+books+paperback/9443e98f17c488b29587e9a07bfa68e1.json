@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$85.00",
+    "Name": [
+        "The Electronic Structure and Chemistry of Solids (Oxford Science Publications)"
+    ],
+    "OfferPrice": "$68.45",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASZYO1SAMVVIX"
+                },
+                "Date": "on January 14, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NM507DRQEOVJ"
+                },
+                "Date": "on February 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CHHPICWURCPN"
+                },
+                "Date": "on August 22, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book was in good condition and the explanations provided were explicit and suitable for graduate students. A must read book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electronic-Structure-Chemistry-Science-Publications/product-reviews/0198552041/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#856,671",
+    "Timestamp": "2015-05-24 15:17:27.011003",
+    "itemurl": "http://www.amazon.com/Electronic-Structure-Chemistry-Science-Publications/dp/0198552041"
+}

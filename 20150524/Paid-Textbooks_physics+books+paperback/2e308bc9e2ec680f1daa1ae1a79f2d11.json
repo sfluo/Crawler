@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "A Review of Undergraduate Physics"
+    ],
+    "OfferPrice": "$136.37",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 4, 1999",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 10, 2003",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "3",
+                "Text": "I'm not as wild about this book as some of the other reviewers.  The E&M; section is in CGS, which is a big bummer.  I found the best review for the qualifier was to just do lots of physics problems for 3 months prior to taking it, and look things up as necessary using the physics books that I was already familiar with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 4, 2000",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "I used this book when I prepared for  the qualifying exams.  It is an excellent review to get you back up to speed in an organized way on all of the topics covered... Gets you ready for Cronin's \"University of  Chicago Graduate Problems in Physics, with solutions\"  The two make a  great team.  I am now  buying them for my students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP1Y3ZC4M2LLW"
+                },
+                "Date": "on July 13, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "I used this book to prepare for both my comprehensives and qualifiers.  Partial solutions are offered in most cases--always a plus for those seeking self-study.  I felt that some of the exercises were above the level of an undergraduate's curriculum, but that just makes it a better graduate school reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26SRHYDPG1EQE"
+                },
+                "Date": "on August 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I used this book to studying for my qualifying exams my first year in graduate school and it made my time studying immeasurably easier. Each chapter has numerous example problems and solutions and topics are covered in clear logical ways. As others have mentioned the E&M; section is in CGS units which can be confusing if you're unfamiliar with them. However, if you have a copy of Griffiths Introduction to Electrodynamics this is easily overcome. Of course if you have a copy of Griffiths you really don't need any other sources for reviewing E&M.;"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GWSYP6LRXT2C"
+                },
+                "Date": "on January 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a must have for reviewing for the Physics GRE. The topics are expansive, and it covers a very high level of problems. I highly suggest using this. It was suggested to me by my professor, and it has been priceless!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CTF1ZN8FLXIJ"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I studied with this one to pass my Graduate Written Examination on my first attempt, and sat through a few of Bayman's review sessions.  Comprehensive and well-written."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 16, 1999",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "This book did the rounds when our 'class' was studying for the comprehensives in grad school. It is an excellent review of undergraduate physics in a concise manner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P87VZEGIVATG"
+                },
+                "Date": "on August 8, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This is supposed to be a study aid. To accomplish that the book comes with a large number of problems and the solutions (without the steps). However, a considerable percentage of the solutions are incorrect (problem 4.9 for example). How can one practice with it when the answers cannot be obtained? It becomes frustrating and you loose a lot of time."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Review-Undergraduate-Physics-Benjamin-Bayman/product-reviews/0471816841/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#859,523",
+    "Timestamp": "2015-05-24 13:24:13.626024",
+    "itemurl": "http://www.amazon.com/Review-Undergraduate-Physics-Benjamin-Bayman/dp/0471816841"
+}

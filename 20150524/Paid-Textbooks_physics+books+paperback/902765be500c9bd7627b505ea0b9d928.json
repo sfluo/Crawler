@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics Everywhere"
+    ],
+    "OfferPrice": "$20.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1223BODE5M9O3"
+                },
+                "Date": "on March 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is one of the least publicized Yakov Perelman's books. yet, its content is as interesting as the more famous \"Physics for Entertainment\" and the included stories as as instructive and as witty as the ones in the latter. The only difference is that this one is \"slightly\" more advanced, and addresses different topics. It is a shame is it not as popular as the latter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11INJFPLR8J51"
+                },
+                "Date": "on May 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book has some wrong numbers and a few typos, but the content and the way the author explains things more than makes up for the errors. He makes you think about things in different ways than you normally would on a lot of the subjects. I hope all of his books will be made available for the Kindle. I highly recommend this book for anyone interested in Physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RPBQNWGMMRAD"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent book. The first time I read it was some 50 years ago. It influenced me a lot. I became a physicist. To be s physicist is the best one can do. This time I bought it for my grandchildren."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Everywhere-Yakov-Perelman/product-reviews/2917260343/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#110,096",
+    "Timestamp": "2015-05-24 13:20:09.689077",
+    "itemurl": "http://www.amazon.com/Physics-Everywhere-Yakov-Perelman/dp/2917260343"
+}

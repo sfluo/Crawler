@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.00",
+    "Name": [
+        "Basic Solid State Chemistry"
+    ],
+    "OfferPrice": "$48.10",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3689JQUW6UEB5"
+                },
+                "Date": "on August 8, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This was a good book for the class I took, Solid State Chemistry.  It went well with the lectures and gave pretty good examples.  However, I wouldn't recommend it for someone interested in the subject and not taking a class.  I did need lectures and supplemental notes to help understand a lot of the subject matter.  Also, it doesn't give solutions to the problems in the back of the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DM8A1YSB0J7X"
+                },
+                "Date": "on February 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book arrived in perfect condition however, it was a nail biter with the shipping date.  It was ordered well in advance of my son's return to college.  Delivery date kept getting pushed back.  We ordered a second book from another vendor because we had past experience with no show books under same circumstances.  Ended up with 2 books arriving in time for school.Sold the extra to another student.  I guess 2 books are better than none."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37VS6E16KOQZJ"
+                },
+                "Date": "on October 29, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 30, 1998",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGVX3ZNH5W2XE"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "It was reliable and arrived on time, the book was in good shape, I just thaught that the cover would be hard but was soft, but that is not the fault of these guys."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FX3UB53FDTPT"
+                },
+                "Date": "on October 11, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book is the perfect text for covering the essentials of soldi state chemistry and I highly recommend it to any one looking to go into the field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHF5CV6TUZCSP"
+                },
+                "Date": "on February 8, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-Solid-State-Chemistry-Anthony/product-reviews/0471987565/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#940,976",
+    "Timestamp": "2015-05-24 15:19:15.949374",
+    "itemurl": "http://www.amazon.com/Basic-Solid-State-Chemistry-Anthony/dp/0471987565"
+}

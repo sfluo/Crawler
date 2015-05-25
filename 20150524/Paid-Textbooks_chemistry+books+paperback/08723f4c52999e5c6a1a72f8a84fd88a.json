@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Electrode Dynamics (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$22.79",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O0O6I18O3V8E"
+                },
+                "Date": "on July 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This book has basic topics, it's a short review but if you don't know anything about electrochemistry, you have to purchase it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Electrode-Dynamics-Oxford-Chemistry-Primers/product-reviews/019855690X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,409,401",
+    "Timestamp": "2015-05-24 15:15:40.971236",
+    "itemurl": "http://www.amazon.com/Electrode-Dynamics-Oxford-Chemistry-Primers/dp/019855690X"
+}

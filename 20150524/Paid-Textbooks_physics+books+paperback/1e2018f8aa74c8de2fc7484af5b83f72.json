@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$48.00",
+    "Name": [
+        "Computational Physics"
+    ],
+    "OfferPrice": "$41.38",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKQP3D2KFEH6V"
+                },
+                "Date": "on March 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book teaches Python with examples from physics. I think it is the only python book specifically targeted to physics majors and physicists. The author actually makes available for free a big part the book, but if you need all of it, the best thing is to just purchase it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BV5U7RLNBOI5"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is very well written and helpful.  There are many examples throughout the book, and explanations are complete yet concise.  The progression through topics is intuitive.  It is very helpful that the author has a set of online supplemental materials available (eg sample code).  Concepts are taught so that they can be applied to other programming languages with ease."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWZTQSPJ1ZC16"
+                },
+                "Date": "on December 12, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This reads like a calculus book and is very heavy into mathematical methods of computation. If you're looking for more examples of \"how to\" than you should probably look elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KO6B5ZE22M9H"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "Four Stars for the excellent introduction to Python (+NumPy+MatPlotLib).  It loses the 5th star only because loading a working copy of the full library package took a week of intense digging through obscure (to me) Python community developer websites which were less than friendly to the Python newbie.  I'm on a fairly new 64-bit HP EliteBook 8770w running Windows 7.  Finally found a workable combination of beta-test library modules in one place, and an 8-step loading procedure summary buried deeply in a user forum on another site.  In all it took 14 builds to get one fully-functional Python+NumPy+MatPlotLib package.  Guess I learned something from it but it took a lot of dogged determination.  Now with a working software package I'm halfway through the book and learning a lot much less painfully.  This is a fantastic step forward in programming tools for numerical design & analysis.  And it's all free if you can charge your time off to training.  In my toolbox this will be my preferred environment for going beyond MathCAD and controlling threading in modern 4-Core CPU's for 3-D transient magnetohydrodynamic modeling. - Don Cott, Thermal Systems Engineering, Anchorage, AK"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DFFQ6JEN7KH7"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a novice Python programmer, but yet I find this book very accessible, well-structured, clearly written, and comprehensive. I am only about halfway through this book but feel that it has really helped me learn both Python programming and solid numerical analysis skills. My only warning is that without a strong physics background the examples and problems may be a bit opaque, but with a strong physics background this book does an excellent job of connecting the physics with computational techniques."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JQVB8VYJ6UYD"
+                },
+                "Date": "on April 5, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I absolutely love the physics in this book and it does a great job presenting a lot of the python concepts you will need to do amazing things.  My only gripe is that it completely blows off object oriented principles and their benefits which is a crime.  You will want to learn more about OO for larger scale and maintainable applications as you do more.  Aside from that it is very well written and a pleasure to read and work with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVQGNEY8D3KUL"
+                },
+                "Date": "on December 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Amazing book. I would recommend it to all Physics students, and anyone else who wants to learn more about math, programming and the physical world. This book is written so well that anyone can pick it up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QZR54L7P4UDI"
+                },
+                "Date": "on September 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am finding this book useful, esp. in my physics class. It is a great book for those just starting in programming and also just as great for those who have been programming for a while now."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JGWCXCKY4CHF"
+                },
+                "Date": "on April 29, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This was purchased for one of my professors, was pleased with item."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11L7SIII6H4CI"
+                },
+                "Date": "on October 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Awesome book! Must have!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NA9KKSNKQ6D4"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "very good book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWIN5OWWIQ4CT"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The book is exelent, I'm from latino Am\u00e9rica and i understand it perfectly, the only thing is That is soft and some pages get out easily !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D7IX0A913B9R"
+                },
+                "Date": "on January 26, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "this is a book \"print on demand\", poor quality for the same price or more."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Computational-Physics-Mark-Newman/product-reviews/1480145513/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#180,168",
+    "Timestamp": "2015-05-24 12:53:36.101910",
+    "itemurl": "http://www.amazon.com/Computational-Physics-Mark-Newman/dp/1480145513"
+}

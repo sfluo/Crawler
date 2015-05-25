@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Detonation: Theory and Experiment (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$15.44",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AW8XP45YVIIZ"
+                },
+                "Date": "on March 27, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book presents an introductory overview, both theoretical and observational, of the hydrodynamics of detonation.  A working knowledge of the physics of compressible/supersonic flows is assumed by the authors and is necessary before approaching the material in this book.  As the back cover states, detonation is the form of combustion `in which energy transfer is by mass flow in strong compression waves'.  The authors start by deriving simple equations for shocks and then extending to formalism to include the release of chemical energy and changes in adiabatic index behind the shock (the so-called Zeldovich - von Neumann - Doering model).  Even in simple cases this can become a virtually intractable problem.  The authors make every attempt to compare theory with experiments, and point out when (and sometimes why) they diverge.  More advanced topics discussed at length in the book include non-steady solutions and micro-structure behind the shock.  This is an advanced/specialized book geared toward taking an advanced student (physicist/chemist/engineer) who already has a working knowledge of compressible flows to doing research in detonation.  There is a heavy emphasis on practical interpretation in this book, the authors don't get bogged down with too much analytic analysis that often obsfuscates basic ideas.  There are also lots of good black and white pictures to illustrate important points."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APATN6ECCDUUT"
+                },
+                "Date": "on July 12, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SZKZSNH02I0R"
+                },
+                "Date": "on May 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book if you are interested in this topic. Well-written and covers the topic well, including gas-phase reactions which was my primary interest. AND it was delivered before promised!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29W2U9TWXDKUX"
+                },
+                "Date": "on October 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Happy with purchase"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UBG5I5QCDHXA"
+                },
+                "Date": "on January 26, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "A GOOD REVIEW OF A VERY COMPLICATED SUBJECT THAT STILL REQUIRES MANY GAPS IN THE KNOWLEDGE TO BE FILLED. NOT A READ FOR THE FEINT HEARTED."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Detonation-Theory-Experiment-Dover-Physics/product-reviews/0486414566/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#86,312",
+    "Timestamp": "2015-05-24 13:00:09.567684",
+    "itemurl": "http://www.amazon.com/Detonation-Theory-Experiment-Dover-Physics/dp/0486414566"
+}

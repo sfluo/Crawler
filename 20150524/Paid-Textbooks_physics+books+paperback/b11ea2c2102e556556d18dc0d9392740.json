@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Creative Physics Problems for Physics with Calculus: Mechanics (Volume 1)"
+    ],
+    "OfferPrice": "$9.99",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PYEINRZR1QCI"
+                },
+                "Date": "on July 15, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGKIB6J8PW00F"
+                },
+                "Date": "on May 20, 2010",
+                "Helpfulness": 0.18181818181818182,
+                "StarRating": "1",
+                "Text": "I bought this book with the intention of learning how to solve physics problems using calculus.  This book is filled with physics problems, but not one explanation of how to solve any of the problems.  There are answers to some of the problems listed in the back, but only that - answers.  There are no explanations at all in this book.  I don't know why any author would compile such a work and expect it to be educational.  Fortunately, Amazon is allowing me to return this jumble of numbers for full refund.  Hopefully this review will prevent any more customers from going to the trouble of ordering this non-educational book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Creative-Physics-Problems-Calculus-Mechanics/product-reviews/1442190957/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#754,444",
+    "Timestamp": "2015-05-24 13:50:24.204910",
+    "itemurl": "http://www.amazon.com/Creative-Physics-Problems-Calculus-Mechanics/dp/1442190957"
+}

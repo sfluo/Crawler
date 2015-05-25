@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$70.00",
+    "Name": [
+        "Elementary Climate Physics"
+    ],
+    "OfferPrice": "$56.51",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHL11KWSWPVHJ"
+                },
+                "Date": "on April 27, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A4BWLMHXHK901"
+                },
+                "Date": "on September 24, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "As a physicist with no experience in climatology, I'm finding this book a good source of information to help sort out the many conflicting views on climate change.  Readers will find some background in mathematics helpful, but not essential, in understanding the material."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LI2WLIWBK1V5"
+                },
+                "Date": "on October 3, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This is an excellent overview of the physics of Earth's climate, including solar radiation, astronomical influences, the physics of the atmosphere and ocean, remote sensing of climate variables, and climate modelling. There is also a chapter on climates of other planets. Portions of it are at the advanced undergraduate level, but someone without an extensive background in math or physics could find much of it understandable and rewarding. Those interested in learning more about the science behind global warming and climate change will find the relevant material presented in a very balanced manner with detailed descriptions of the limitations of our current understanding of climate and its prediction."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Climate-Physics-F-Taylor/product-reviews/0198567340/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,126,086",
+    "Timestamp": "2015-05-24 13:39:46.991283",
+    "itemurl": "http://www.amazon.com/Elementary-Climate-Physics-F-Taylor/dp/0198567340"
+}

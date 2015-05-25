@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.95",
+    "Name": [
+        "Cosmic Biology: How Life Could Evolve on Other Worlds (Springer Praxis Books / Popular Astronomy)"
+    ],
+    "OfferPrice": "$28.77",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHASBC31T8E0T"
+                },
+                "Date": "on August 20, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12VPUVBF9CDFF"
+                },
+                "Date": "on August 17, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I knew nothing about cosmic biology when I chose to read this text. I had never been drawn into the black hole of science fiction and only skipped over titles and through articles about our universe. I did know that before reading I should scan the book to determine the format, scope and level of information. The introductory chapters, the technical chapters which were bookended by excellent chapter introductions and conclusions, the footnotes, bibliography, extensive vocabulary appendix and graphs, charts, even a cartoon or two offered me a \"little learning\" if I took the dive as a literary character once did down her rabbit hole. From the rocky planets to the gasseous ones and with a few moons thrown in, my journey with the authors into our universe in search of life became an adventure for this 76 year old woman. Although I know very little about cosmic biology, in paraphrasing an American poet I do know our universe is wide and deep, and I have many books to read before I sleep."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GQUR4C2II7A7"
+                },
+                "Date": "on March 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z6U5EJOK294Y"
+                },
+                "Date": "on February 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Cosmic-Biology-Springer-Popular-Astronomy/product-reviews/1441916466/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,229,778",
+    "Timestamp": "2015-05-24 13:38:22.698874",
+    "itemurl": "http://www.amazon.com/Cosmic-Biology-Springer-Popular-Astronomy/dp/1441916466"
+}

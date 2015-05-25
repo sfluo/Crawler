@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Oilfield Processing, Vol. 2: Crude Oil"
+    ],
+    "OfferPrice": "$103.55",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MIRD8O4UTTVZ"
+                },
+                "Date": "on May 30, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I encourage all process engineers to read this book.  I took many courses with Dr. Manning at The University of Tulsa, he is one of the best professors I have ever met."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SC5A0PZAGVFN"
+                },
+                "Date": "on November 28, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "this book is a definite must for the graduate, practicing engineer,plant operator, manager and consultant. Not only does it cover understandable process descriptions, design methods, operating procedures and troubleshooting in great detail, it reinforces the understanding with review questions, practical numerical problems and worked examples. It provides the engineer with a comprehensive desk manual. This book is the definitive source on oil and gas processing. Topics addressed include: characterization of crude oil, phase behavior of crude oil, water in crude emulsions, 3 phase separation, dehydration of crude, desalting, crude sweeting and stabilisation, measurement of crude, all complimented with case histories. One of the best books on oil & gas processing"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Oilfield-Processing-Vol-Crude-Oil/product-reviews/0878143548/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#881,394",
+    "Timestamp": "2015-05-24 15:34:16.424345",
+    "itemurl": "http://www.amazon.com/Oilfield-Processing-Vol-Crude-Oil/dp/0878143548"
+}

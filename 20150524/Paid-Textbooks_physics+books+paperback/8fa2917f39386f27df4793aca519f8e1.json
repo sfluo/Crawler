@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$54.95",
+    "Name": [
+        "Physics of Sailing"
+    ],
+    "OfferPrice": "$44.03",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E931Q1E8DZDG"
+                },
+                "Date": "on January 22, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Sailing-John-Kimball/product-reviews/1420073761/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,012,946",
+    "Timestamp": "2015-05-24 13:11:21.051500",
+    "itemurl": "http://www.amazon.com/Physics-Sailing-John-Kimball/dp/1420073761"
+}

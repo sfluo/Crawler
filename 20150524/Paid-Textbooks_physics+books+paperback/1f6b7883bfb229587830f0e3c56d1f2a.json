@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$178.95",
+    "Name": [
+        "Physics for Scientists and Engineers, Hybrid (with Enhanced WebAssign Homework and eBook LOE Printed Access Card for Multi Term Math and Science)"
+    ],
+    "OfferPrice": "$139.79",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OF9191UTWQHK"
+                },
+                "Date": "on May 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "good price for college books that i will only use once"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VCKZNNNIARNB"
+                },
+                "Date": "on September 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "This book did not have the problems in it. I had to purchase the online content from the publisher to gain access (wich came with an e-book).  Boo, for not giving enough information. The item show does not match the item received.  The hybrid book has a bright yellow \"notice to user\" across the front."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Scientists-Engineers-Enhanced-WebAssign-Homework/product-reviews/130508036X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#529,288",
+    "Timestamp": "2015-05-24 13:34:25.305905",
+    "itemurl": "http://www.amazon.com/Scientists-Engineers-Enhanced-WebAssign-Homework/dp/130508036X"
+}

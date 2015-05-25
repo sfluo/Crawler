@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$99.00",
+    "Name": [
+        "Crude Oil Waxes, Emulsions, and Asphaltenes"
+    ],
+    "OfferPrice": "$80.77",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q61Z9PF1TO80"
+                },
+                "Date": "on April 4, 2010",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKS9UCYH4SSC"
+                },
+                "Date": "on September 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crude-Oil-Waxes-Emulsions-Asphaltenes/product-reviews/0878147373/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#654,877",
+    "Timestamp": "2015-05-24 15:34:53.072449",
+    "itemurl": "http://www.amazon.com/Crude-Oil-Waxes-Emulsions-Asphaltenes/dp/0878147373"
+}

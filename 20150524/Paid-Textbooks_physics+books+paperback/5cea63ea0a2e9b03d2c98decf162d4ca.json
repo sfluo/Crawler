@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$38.95",
+    "Name": [
+        "The Metaphysics Within Physics"
+    ],
+    "OfferPrice": "$31.42",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FXB8FKJYL9H9"
+                },
+                "Date": "on June 8, 2010",
+                "Helpfulness": 0.9032258064516129,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23Z4CH7R2TORD"
+                },
+                "Date": "on December 18, 2011",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": "Maudlin demonstrates the fallacy of the philosophical position of empiricism (of the Humean kind) by addressing a number of key questions and fundamental issues in both physics and philosophy having to do with the nature of reality and existence (ontology). Time, causality and the properties of objects are among the topics that Maudlin covers in criticizing empiricism. Maudlin has degrees in physics and philosophy and the manner in which he plumbs examples in physics to make his philosophical points is both compelling and stimulating."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PZ3T8RUK7AN1"
+                },
+                "Date": "on August 17, 2011",
+                "Helpfulness": 0.23684210526315788,
+                "StarRating": "1",
+                "Text": "One star for my naivete, thinking I could comprehend this burdensome academic prose. Every paragraph left me scratching my head. I still read the entire book, hoping to glean something worth quoting, but comprehended less than 10% of its content. Never heard of supervenience or counterfactuals before. One star for my intelligence. This review says more about my philosophical naivete than about the depth of Maudlin's argument. I don't think I could ever be an academic in any field, much less philosophy. It was the most boring book I have ever read--even worse than John Bowlby's \"Attachment.\" More up my alley, and perhaps yours if you are not a professional philosopher, was Victor Stenger's \"The Unconsious Quantum: Metaphysics in Modern Physics and Cosmology.\""
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Metaphysics-Within-Physics-Tim-Maudlin/product-reviews/0199575371/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#737,087",
+    "Timestamp": "2015-05-24 12:43:49.137144",
+    "itemurl": "http://www.amazon.com/Metaphysics-Within-Physics-Tim-Maudlin/dp/0199575371"
+}

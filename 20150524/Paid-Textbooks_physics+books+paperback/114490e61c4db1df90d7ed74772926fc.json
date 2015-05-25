@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.80",
+    "Name": [
+        "Essential University Physics: Volume 2 (2nd Edition)"
+    ],
+    "OfferPrice": "$86.68",
+    "Reviews": {
+        "AverageStarRating": "3.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JJ6B8EFMGV55"
+                },
+                "Date": "on December 5, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NAQPT8N30B33"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Great book.It helped a lot while trying to get through the class. Only downfall was that it didn't come with master physics log in."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28Y8UO21EQFM2"
+                },
+                "Date": "on February 15, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "As a college student taking first year physics, I have to say that this book set a high standard of mathematical comprehension. The author offers little examples during his explaintion which leaves the reader lost when trying to apply it on his/her own. The expansion itself can be confusing due to unexplained algebraic manipulations. I found my self avoiding the textbook and found online resources to be much more helpful e.g. Khan Academy. I understand that calculus based physics can be rigorous at times, but even the textbook you learn from, the very tool, shouldn't be confusing. As a computer science college student, this is my point of view."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABTNSJHRT3JZB"
+                },
+                "Date": "on August 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "If you rent it, the description specifically says a rental may not come with an online access number for Mastering Physics, which is why I chose to purchase the book instead of renting it. What they didn't tell you was that if you buy it new IT DOES NOT COME WITH MASTERING PHYSICS. I could have saved myself $65 by just renting it for the semester. The descriptions need to tell you when you're buying a \"brand new book\" that the online access card hasn't been included."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A174WH0M2H3BRD"
+                },
+                "Date": "on July 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM1FQ4U934JYM"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This text is required for the second semester of general physics at the college I'm attending. I was very happy with the first volume, and am looking forward to the second semester with this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35SPRZ6KY5DI2"
+                },
+                "Date": "on June 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I found this text to be a good intro to physics with lots of examples. This text is required reading for introductory physics at the university of colorado boulder."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MXF3HV2QE5PK"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Not the best physics text book, but it was a required text because my professor wrote a review and its published on the back!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FP58J8OORV7S"
+                },
+                "Date": "on October 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "So much cheaper than at my school book store!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BUB9GKOWZLRI"
+                },
+                "Date": "on December 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "10/10. Cried during the final."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Essential-University-Physics-2-2nd/product-reviews/0321701275/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#51,588",
+    "Timestamp": "2015-05-24 13:03:30.516090",
+    "itemurl": "http://www.amazon.com/Essential-University-Physics-2-2nd/dp/0321701275"
+}

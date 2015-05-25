@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.99",
+    "Name": [
+        "Physics by Example: 200 Problems and Solutions"
+    ],
+    "OfferPrice": "$58.81",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 26, 1998",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": "The role of a physicist as a problem-solver is probably among his most  important roles.  In fact, anyone having endured and possibly suffered  through a college level physics curriculum must realize that success as a  physicist depends crucially on the individual's ability to solve  challenging yet practical problems on paper.  It is to this end that I  recommend a truly enlightening book by W.G. Rees titled Physics by Example:  200 Problems and Solutions.  Covering all major areas of an undergraduate  physics curriculum, with clear exposition and creative solutions to  challenging problems, this book is bound to make its reader a  problem-solver of the first rank.  The problems have been selected to  illuminate the most fundamental concepts in physics.  The solutions are  presented in a systematic and rigorous fashion that does not rely on  intuition alone.  The examples presented are typical of problems on final  examinations for undergraduate courses.  For those seriously pursuing the  study of physics, this book serves beautifully to both solidify your  understanding of physics and to test your preparation for exams."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y7EDZE7EU055"
+                },
+                "Date": "on December 31, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Example-200-Problems-Solutions/product-reviews/0521449758/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#756,988",
+    "Timestamp": "2015-05-24 13:36:47.550368",
+    "itemurl": "http://www.amazon.com/Physics-Example-200-Problems-Solutions/dp/0521449758"
+}

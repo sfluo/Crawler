@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$115.95",
+    "Name": [
+        "Study Guide with Student Solutions Manual, Volume 1 for Serway/Jewett's Physics for Scientists and Engineers, 9th"
+    ],
+    "OfferPrice": "$91.54",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HKNJVPPOCHTP"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C6WWC7QP1B1B"
+                },
+                "Date": "on June 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QWH4XZQQ2KUC"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "It's very thorough and informative in its solutions, but it DOES NOT have every odd numbered question from the textbook. They tried to pick out representative problems to solve, but if you're stuck on one there is no guarantee the answer will actually be in here."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34LPUMOTCS06U"
+                },
+                "Date": "on May 3, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solutions-Jewetts-Scientists-Engineers/product-reviews/1285071689/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#214,875",
+    "Timestamp": "2015-05-24 13:25:39.404170",
+    "itemurl": "http://www.amazon.com/Student-Solutions-Jewetts-Scientists-Engineers/dp/1285071689"
+}

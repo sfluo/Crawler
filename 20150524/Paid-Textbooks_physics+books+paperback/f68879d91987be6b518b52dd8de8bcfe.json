@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$49.95",
+    "Name": [
+        "The Oxford Solid State Basics"
+    ],
+    "OfferPrice": "$40.09",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AD8QWRF3L6JH8"
+                },
+                "Date": "on February 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I tried to prepare for my first solid state physics course using Kittel and Ashcroft/Mermin. They are both OK books but their method of teaching the subject is not very intuitive. I found myself lost between the huge gaps in their derivations. Simon talks you through each section; it reads very much like a lecture. After reading this book, the other two books made a lot more sense. I highly suggest reading this book first, though. I had so many misunderstandings from the other two books that I had to unlearn a lot of things. The best part is that Simon actually tells you chapters in the other books to read further if you want more than an introduction to the specific topic at hand. I wanted to give this book 4.5 stars but Amazon has quantized the stars to whole integers. The reason I wanted to take off a half star is because of the jumps in derivations. Unfortunately, in upper division physics, almost all texts do this, some more than others. While I wish he would work out some example problems and not make giant leaps in derivations, it wasn't worth a whole point deduction. Hands down best introductory Solid State Physics textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SKXQE4DGF7B8"
+                },
+                "Date": "on February 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great introductory level solid state book. I really appreciate the humor and the way the content is presented as in a story book. Definitely not your typical boring textbook. I've recommended it to my student and they all appreciated its crystal clear explanations. It is not too heavy in math but the physics is flawless. An amazing resource I will recommend for a Solid State Course."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IZ2GJVBRDL2S"
+                },
+                "Date": "on March 7, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great book. Short, concise, and modern. I know it is the \"Oxford Basics\", one additional chapter on superconductivity would be a nice addition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UAOK288JZ9YI"
+                },
+                "Date": "on March 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Nice book, clear explanations that cover a huge deal of subjects in a different manner than most classic text books in condensed matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2J89W0OH58S3K"
+                },
+                "Date": "on February 6, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I love the sense of humor in this book. It is supplementary, if you are not already taking a class it is difficult to follow, but it summarizes the ideas perfectly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JD0ZBJCEOWF4"
+                },
+                "Date": "on December 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "NICE WORK"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQEKC1JOZ9FCR"
+                },
+                "Date": "on February 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMGBGSC7LZVSL"
+                },
+                "Date": "on September 6, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Well at least I think it is not bad and we can have a try if permitted and necessary. If needed, why not have a try?"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Oxford-Solid-State-Basics/product-reviews/0199680779/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#190,193",
+    "Timestamp": "2015-05-24 13:41:48.135377",
+    "itemurl": "http://www.amazon.com/Oxford-Solid-State-Basics/dp/0199680779"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$59.99",
+    "Name": [
+        "Reasoning about Luck: Probability and its Uses in Physics"
+    ],
+    "OfferPrice": "$47.20",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DCF2VUT8W2HR"
+                },
+                "Date": "on December 17, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38XUO3UW5BRD2"
+                },
+                "Date": "on February 6, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3INELW67LEZOE"
+                },
+                "Date": "on November 9, 2002",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A207OP94ZMGAHO"
+                },
+                "Date": "on December 16, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Reasoning-about-Luck-Probability-Physics/product-reviews/0521447372/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,255,476",
+    "Timestamp": "2015-05-24 13:48:22.255041",
+    "itemurl": "http://www.amazon.com/Reasoning-about-Luck-Probability-Physics/dp/0521447372"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Interactive Lecture Demonstrations, Active Learning in Introductory Physics"
+    ],
+    "OfferPrice": "$44.79",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on February 11, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TSHZ8VJPC4RQ"
+                },
+                "Date": "on July 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T2WYQAEPBEKF"
+                },
+                "Date": "on May 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": "It is not that well written and covers the material in a way that many professors won't be able to adapt to.  It assumes the student will actually care."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Interactive-Lecture-Demonstrations-Learning-Introductory/product-reviews/0471487740/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#271,800",
+    "Timestamp": "2015-05-24 13:50:31.490685",
+    "itemurl": "http://www.amazon.com/Interactive-Lecture-Demonstrations-Learning-Introductory/dp/0471487740"
+}

@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$155.00",
+    "Name": [
+        "Convective Boiling and Condensation (Oxford Engineering Science)"
+    ],
+    "OfferPrice": "$125.16",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIZZIJCBRZ636"
+                },
+                "Date": "on August 8, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Possibly the single problem with the original version of \"Convective  Boiling and Condensation\" by J.G. Collier was that it was getting too  old. After the update made in the last versions with the work by J.R.  Thome, the book has been renewed recovering the role of a fundamental  textbook to be considered for both teaching and research. It is full of the  best explanations you can find about several basic heat transfer mechanisms  and provides precious suggestions for further reading and more in depth  study. A nice book indeed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KFF5KHUBLV8R"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "If you are involved with thermal performance evaluations of boilers or steam generators you will find this book useful.  I have never had a formal class on two-phase flow or boiling, but find this book very useful.  Most recently I was using it to get a better understanding of homogenous flow, separated flow and drift flux models.  Highly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QJP6I7GPLY3B"
+                },
+                "Date": "on August 6, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "It's more like new than I expact. Actually it's just a new one, not like a new. And fast shipping!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YC2ODDSJMO5"
+                },
+                "Date": "on February 18, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The book was received in great condition.  However took about five days to get it through 2-day mail.  Great job though!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Convective-Boiling-Condensation-Engineering-Science/product-reviews/0198562969/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#844,911",
+    "Timestamp": "2015-05-24 15:31:33.080521",
+    "itemurl": "http://www.amazon.com/Convective-Boiling-Condensation-Engineering-Science/dp/0198562969"
+}

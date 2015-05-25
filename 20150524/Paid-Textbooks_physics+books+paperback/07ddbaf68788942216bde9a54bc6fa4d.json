@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$295.95",
+    "Name": [
+        "Inquiry into Physics"
+    ],
+    "OfferPrice": "$247.94",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G3309ZUX8POZ"
+                },
+                "Date": "on October 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "It is a text book.  Not a page turner.  Only got it because of class.  Not interested in keeping it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J289E7JH5JR"
+                },
+                "Date": "on September 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Thank you very much Kelby. The book it's perfect, you saved me lots of money and got it the day you promised. I will definitely  keep ordering from you\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABH1F6YXJ2V0F"
+                },
+                "Date": "on January 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "In wonderful conditions, and such an amazing book with wonderful examples."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A153D8M5FOE48"
+                },
+                "Date": "on October 3, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "although i eventually return the item, but it was because i buy the wrong edition. the book it is a great condition book. great packed and fast shipped. i like it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17TRAOFU3A7DH"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Great service, was perfect!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MZ439JURFY0W"
+                },
+                "Date": "on November 14, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This book was slightly damaged on the corners when I received it. However, this is the risk taken when ordering a paperback book. This book while informative does not do a very good job of providing examples to show how the formulas work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EUFXCQV0633B"
+                },
+                "Date": "on July 13, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Book was as expected.  Condition was good and not marked up."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Inquiry-into-Physics-Vern-Ostdiek/product-reviews/1133104681/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#74,547",
+    "Timestamp": "2015-05-24 12:46:04.228298",
+    "itemurl": "http://www.amazon.com/Inquiry-into-Physics-Vern-Ostdiek/dp/1133104681"
+}

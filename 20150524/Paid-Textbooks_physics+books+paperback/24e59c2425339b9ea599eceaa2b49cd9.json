@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Geometry and Light: The Science of Invisibility (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$18.95",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B6CZBUZ94XC2"
+                },
+                "Date": "on June 14, 2011",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "I enjoy this book. This is the best one on metamaterials and cloaking. Unlike other books focusing on the engineering aspects of meta materials, this book explains the physics behind. Inspiring and elegant."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEIJT6DZL3GQT"
+                },
+                "Date": "on September 1, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "It is a nice book considering the price. As mentioned in other reviews, there is more of a theoretical (physics oriented) approach taken to the idea of cloaking.  It should be noted that any one that has managed to stumble onto this book should also be able to stumble onto IEEE xplore, Nature or Science and read where the work is actually right now.  There are immediate problems that a novice could identify with ground and 3D cloaks, such as the nonexistence of superluminal travel, but if that doesn't bother you and you are more interested in the underlying mathematics of these devices, then this text is adequate.  I say this because it would be a shame for someone to buy this book, work through the exercises (a nice feature of this text) and never figure this out (as rare as that may be).  In short: Good text, one of the first to my knowledge that sets up the field of cloaking in such a way that an instructor could create a course around it, but as I said before: good intro to the theory, but also keep an eye on journal publications if you really want a good idea of where this field is actually going."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A208QAKW8WC5RI"
+                },
+                "Date": "on September 16, 2012",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "100% satisfied with the order. It  was shipped promptly and was nicely packed.  The book was received in very good condition. I put 5 star for the purchase."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometry-Light-Science-Invisibility-Physics/product-reviews/0486476936/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#932,838",
+    "Timestamp": "2015-05-24 12:55:39.650053",
+    "itemurl": "http://www.amazon.com/Geometry-Light-Science-Invisibility-Physics/dp/0486476936"
+}

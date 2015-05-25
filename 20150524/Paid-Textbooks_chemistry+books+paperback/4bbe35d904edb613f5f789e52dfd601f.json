@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$108.00",
+    "Name": [
+        "Theoretical and Numerical Combustion, Second Edition"
+    ],
+    "OfferPrice": "$91.80",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Q2LGYNJTZSUT"
+                },
+                "Date": "on January 13, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Being one of the authors of this book, I wont criticize it... But the version sold by Amazon today is an old one. The third edition being now available, I advise readers to look for this one. It is actually surprising that Amazon is still selling this version, considering that its editor went bankrupt two years ago... I keep wondering where Amazon can buy new copies without the authors knowing about it ?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 5, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 7, 2004",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B8DUG5O2TCEB"
+                },
+                "Date": "on February 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Poor binding, the book falls apart after you open it a few times."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Numerical-Combustion-Thierry-Poinsot/product-reviews/1930217102/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#872,071",
+    "Timestamp": "2015-05-24 15:39:04.965644",
+    "itemurl": "http://www.amazon.com/Theoretical-Numerical-Combustion-Thierry-Poinsot/dp/1930217102"
+}

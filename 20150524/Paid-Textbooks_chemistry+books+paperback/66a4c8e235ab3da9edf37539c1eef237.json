@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Mathematics for Quantum Chemistry (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$13.25",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TU8SKHORDE11"
+                },
+                "Date": "on January 18, 2007",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FUNBX78X5XY9"
+                },
+                "Date": "on August 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RHM8EFSSOBGY"
+                },
+                "Date": "on September 4, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "You should use this book with \"Quantum Chemistry\" by Ira N. Levine. Quite mathematical, but the author tries to be as friendly as possible. Describes both the matrix approach and the differential equation approach to quantum theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJBQYIWC9O6F"
+                },
+                "Date": "on June 14, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Quantim mechanics in general requires high level of methematics such as linear algebra and differential equations.  This book gives only the basics of mathematics, which probably fits high school and not a university level.  If you don't know mathematics at all then you can buy it.  But for those who know little mathematics then It is not recommended."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Quantum-Chemistry-Dover-Books/product-reviews/0486442306/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,033,424",
+    "Timestamp": "2015-05-24 15:13:54.155576",
+    "itemurl": "http://www.amazon.com/Mathematics-Quantum-Chemistry-Dover-Books/dp/0486442306"
+}

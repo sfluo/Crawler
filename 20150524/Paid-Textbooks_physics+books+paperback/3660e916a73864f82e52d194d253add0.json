@@ -1,0 +1,234 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$80.00",
+    "Name": [
+        "The Principles of Quantum Mechanics (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$67.95",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 14, 1998",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": "Dirac's masterpiece surely needs no reviews, but I dare to write one for younger people. This is it! The first chapter alone would be worth of the price. Wonderful insights, not to be found anywhere else, in almost every page. Supremely elegant, yet natural and self-contained. The whole way of writing physics was transformed by this gem of a book. Learn, at Chapter V, what led Feynman to his version of Quantum Mechanics. Schwinger started here too (at fourteen!). Unparalleled."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on February 22, 2003",
+                "Helpfulness": 0.9433962264150944,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZKL00J4CSMLM"
+                },
+                "Date": "on August 11, 2001",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "4",
+                "Text": "My thoughts on this book... I would elaborate upon \"the way Dirac understood QM\", since this is wherein lies the primary value in reading this text.  No, this book should not be read as an introduction to the subject.  Yes, many topics are treated in a manner that would qualify as being terse.  What's more, Dirac's writing style can be fairly dry, portions of the opening chapters are a bit tedious, the notation is frequently less than perspicuous, and roughly the last third of the book is more of historical interest than anything else. With all that said, the first seven or so chapters are rightly considered to be classic, and if you've progressed to the point of being able to tackle Dirac, and you understand WHY it is that you should want to, then none of the above difficulties should PREVENT you from doing so.  Most people are introduced to QM through the Schrodinger picture, which is useful for building an intuitive feel for the subject.  Unfortunately it also lends itself to picturing things in ways that are a little too classical, and at some point one has to make the transition from imagining actual waves evolving in physical space to the idea of state vectors evolving in Hilbert space.  Dirac's transformation theory approach is an ideal tool in this regard, and THAT is why you read Dirac's book.  You can also find out about delta functions and the operator approach to the HO problem from the horse's mouth, the chapter on perturbation theory is quite good, and there is a frequently cited section on the motion of wave packets.  At the right time and given the correct motivation, this is a good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29SAQV356DDQ4"
+                },
+                "Date": "on June 23, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJRM4PCAB509"
+                },
+                "Date": "on March 25, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "First, a disclosure: this was my first QM text.  That's right.  I picked it up as a sophomore in electrical engineering.  This could easily have nipped any hope for a career in research.  Rather, I was immediately taken by the undeniable elegance of the exposition.  (I distinctly recall my first impression of the discussion on page 9 which is exceptionally lucid on the subject of what QM does and does not tell us about quantized fields, because this is something I had already struggled with unsuccessfully.)  Moreover, Dirac reduces QM to what it really is: a few remarkable postulates about how Nature is; and a whole lot of linear algebra.  Dirac was arguably a mathematician first and asserted, elsewhere, that it is more important that out theories have beauty than truth in the physical world.  Anyone who can at least entertain this notion may gain much from this often overlooked classic, largely free of the pedagogically distracting baggage of wavefunctions.  One reviewer has noted that the notation is archaic or cumbersome; I must kindly demur."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SELHGTVV0Y8D"
+                },
+                "Date": "on September 5, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on November 5, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XL7SJFK0O93Q"
+                },
+                "Date": "on October 20, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EC90IH4FMBDK"
+                },
+                "Date": "on January 2, 2003",
+                "Helpfulness": 0.8125,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TQ1YEZA6PFHV"
+                },
+                "Date": "on March 1, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 19, 2001",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 13, 1998",
+                "Helpfulness": 0.76,
+                "StarRating": "5",
+                "Text": "Dirac's book on quantum mechanics is a classic in the field, but one finds that the master cannot stoop low enough for most students. A very difficult but rewarding book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NYMOHIVPLZJ3"
+                },
+                "Date": "on September 26, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U9ZOT757BRVS"
+                },
+                "Date": "on February 22, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "A lot of stuff in the beginning is accessible and some of the later stuff is possibly accessible if you've had a great teacher who followed this book (and they won't because they find it excessively hard themselves) in their course work. Even Feynman said \"They had these great formulations in Dirac's book and in Heidler's. I couldn't quite read the books. They were too hard for me. \". So if you are lulled into complacency that understanding everything that's in the book is something that you'll carefully read page by page, you are kidding yourself. A lot of the stuff is simply ruminations on research that PAMD was doing then and some of it that wasn't. Anyway, its a QM book for the mathematically proficient. A QM book for researchers and mathematicians. For all else, there's Shankar and Griffiths. However, I'd pick up the book for Chapter 1 alone. Its concise and beautifully expressed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19WPS805LXNGC"
+                },
+                "Date": "on October 21, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ETAP7XM2GWI2"
+                },
+                "Date": "on May 3, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "As anothers reviewers state don't expect to learn QM from this book -actually I think Cohen-Tannoudji is one of the best for this purpose-, but if you know already some quantum mechanics you'll find a very clear and elegant introduction of the dirac formalism of QM. I like it very much."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PUE7XFF0MLD4"
+                },
+                "Date": "on May 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is amazing I sort of expected something written by Dirac, one of the father's of quantum mechanics, to be impenetrable but instead it was amazing. His deep understanding really shows and he makes the subject more understandable."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126T33BYOWXJ"
+                },
+                "Date": "on June 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is naturally a reference book but definitely not for starters in the field. Dirac's mathematical brain is not fit for readers who try to feel the physical aspects of quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14YUS9BRI0MMK"
+                },
+                "Date": "on February 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AP0FJNXI3RY3V"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It was very tough getting through this book.  It's very dry and factual and lacks in imagination.  The facts are great, but you have to read this book strictly from an academic mindset.  Not a good book for a beginner to Quantum Mechanics or a casual read, but excellent for research."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK13HQ5TO73VB"
+                },
+                "Date": "on November 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great books, tremendous help"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACE8JFORXQZMM"
+                },
+                "Date": "on October 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15COY7KZH3PLF"
+                },
+                "Date": "on April 12, 2000",
+                "Helpfulness": 0.45,
+                "StarRating": "5",
+                "Text": "Dirac's book is the Bible in QM. He is the inventor of bra and ket notation. This is the most difficult and important idea in QM, I think. Dirac explains the bra and ket in his own way. Although this book cannot be  a textbook in class. Everyone who hopes to be a theoretical physicist have  to read it once in a life."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QS1XAZ4YFR7Q"
+                },
+                "Date": "on May 15, 2002",
+                "Helpfulness": 0.15,
+                "StarRating": "2",
+                "Text": "This is not a review as such, I just want to say I completely agree with the reader from Israel. Although a \"classic\" in the historical sense, I think the legendary status of this book much overdone. Nowadays there are MANY better QM texts out there from any angle and at any level."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Quantum-Mechanics-International-Monographs/product-reviews/0198520115/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "24"
+    },
+    "Salesrank": "#157,699",
+    "Timestamp": "2015-05-24 12:43:55.453736",
+    "itemurl": "http://www.amazon.com/Principles-Quantum-Mechanics-International-Monographs/dp/0198520115"
+}

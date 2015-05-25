@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$178.13",
+    "Name": [
+        "Physics with MasteringPhysics, Volume 2 (4th Edition)"
+    ],
+    "OfferPrice": "$30.41 - $30.42",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A60OZ31YHBYR4"
+                },
+                "Date": "on January 30, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "It was a very good physics book. The only reason why it isn't 5 stars is just based on how old the information is and the cost basis on it. I honestly could have done the entire semester without the book and just looked to the internet for the topics, which they had aplenty, albeit not as ordered. But I can't really take it up with the publisher since I think all college book requirements are a scam. Other than that, I learned everything because of this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-MasteringPhysics-4th-James-Walker/product-reviews/0321597508/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#589,108",
+    "Timestamp": "2015-05-24 13:27:22.714375",
+    "itemurl": "http://www.amazon.com/Physics-MasteringPhysics-4th-James-Walker/dp/0321597508"
+}

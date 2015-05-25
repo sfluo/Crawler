@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "The Theory of the Electromagnetic Field (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$29.10",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6BP47MS5QXXT"
+                },
+                "Date": "on July 6, 2004",
+                "Helpfulness": 0.9047619047619048,
+                "StarRating": "5",
+                "Text": "this book is VERY DIFFERENT from all the others that i have read about Electromagnetism's theory. It treats the Electric and Magnetic field in parallel, and not the one after the other as other books do. So, the reader can compare the fields in all of their details, and gain an insight that is not coming out easily from other books. I  also found a lot of in-depth information and new clear explanations here, so that i would say that this book opened new horizons in my mind.In my opinion, this is A MUST to everyone who wants to UNDERSTAND electromagnetism."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5VCNQVJEY549"
+                },
+                "Date": "on August 30, 2007",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theory-Electromagnetic-Field-Dover-Physics/product-reviews/0486425673/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#998,914",
+    "Timestamp": "2015-05-24 12:42:44.135903",
+    "itemurl": "http://www.amazon.com/Theory-Electromagnetic-Field-Dover-Physics/dp/0486425673"
+}

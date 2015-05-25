@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$46.50",
+    "Name": [
+        "Introduction to Molecular Thermodynamics"
+    ],
+    "OfferPrice": "$39.52",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FUNBX78X5XY9"
+                },
+                "Date": "on June 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14C0D0Y9MLTM1"
+                },
+                "Date": "on August 19, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am in love with this book. It is very easy to read and presents the material clearly. At the end of Chapter 12, Hanson ties everything back to the beginning beautifully. It was a climactic moment that felt like the ending of an epic adventure. This book showed me the astounding beauty of Thermodynamics and the world of Chemistry, and I plan to re-read it many times."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R88N6L3CTLXU"
+                },
+                "Date": "on January 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A64ZQS8903U3Q"
+                },
+                "Date": "on October 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Hanson and Green used their experience, insight, and obvious love of teaching to craft a very engaging and understandable book on a rigorous subject. They explain the foundational ideas beautifully, using simple diagrams and clear, step-by-step calculations. They even take care to explain some tricky mathematical details as they proceed through the many examples, so they don't lose the rusty reader. They don't skip steps! They don't assume you remember or understand everything from previous chapters, and they always seem to anticipate those places where the reader might need a little more help, gradually titrating the level of detail and difficulty. The footnotes are great. The examples are well chosen chemical reactions that have numerous practical applications to understanding everyday phenomena: dew, frost, relative humidity, melting, boiling, evaporation, refrigeration, scuba diving, reef formation, atmospheric changes, etc. The authors have taken their wealth of experience and knowledge, and translated it into a thoughtfully organized, enjoyable, and useful book. As a person who enjoys learning, I am always looking for authors like Hanson and Green, who are willing and able to explain complicated things in a clear and compassionate way, without sacrificing the integrity or accuracy of the material. Well done!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RN5SQCLZ7317"
+                },
+                "Date": "on September 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AE7VNKPHCBCWC"
+                },
+                "Date": "on February 23, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I have to disagree with almost all the comments made in other reviews.  This book has a limited bit of nice features, and clearly has more detail than is needed or necessary.  In the early chapters, the presentation of combinations and distribution calculations is muddled.  In one review, there was a comment that this text is used for first years; what a mistake!  Much too much unnecessary detail for first years; will only muddle the mind instead of making certain take-home lessons are retained.  Clearly a text meant for Chemistry majors, not as a chemistry text for majors in other science disciplines.  If this is being used at St. Olaf as mentioned, the faculty are being self-serving to prepare their majors for undergraduate research or to streamline later courses in the major.  Does a disservice to other students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2DUE2SO6TCKFL"
+                },
+                "Date": "on March 13, 2009",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "5",
+                "Text": "This book is solid.  It is really easy to use and quite educational.  But i personally have S Green as a professor, and I can say she is not the easiest to learn from."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Molecular-Thermodynamics-Robert-Hanson/product-reviews/1891389491/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#763,697",
+    "Timestamp": "2015-05-24 15:20:16.010730",
+    "itemurl": "http://www.amazon.com/Introduction-Molecular-Thermodynamics-Robert-Hanson/dp/1891389491"
+}

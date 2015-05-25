@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Michael Faraday and The Royal Institution: The Genius of Man and Place (PBK)"
+    ],
+    "OfferPrice": "$68.95",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5GT6JVXKP1Y4"
+                },
+                "Date": "on May 23, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GXSMQBMDKI7R"
+                },
+                "Date": "on February 18, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26UPOFZXE9PTN"
+                },
+                "Date": "on January 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The subject matter was intrinsically interesting but Faraday's scientific achievements were understated. Cosidering that the author has access to all Faraday's notebooks very little of the pioneer's thinking was addressed. The illustrations were sparse and of such poor quality that some of the manuscripts reproduced were illegible.."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Michael-Faraday-Royal-Institution-Genius/product-reviews/0750301457/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,898,895",
+    "Timestamp": "2015-05-24 15:41:20.016677",
+    "itemurl": "http://www.amazon.com/Michael-Faraday-Royal-Institution-Genius/dp/0750301457"
+}

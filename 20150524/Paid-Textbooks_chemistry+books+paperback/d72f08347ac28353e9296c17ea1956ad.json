@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Free Energy Transduction and Biochemical Cycle Kinetics (Dover Books on Chemistry)"
+    ],
+    "OfferPrice": "$11.34",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ONAVKDPZQN5W"
+                },
+                "Date": "on August 1, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Catalytic cycles associated with enzymes and transporters transfer free energy between different substances and forms in cells. The mechanisms, efficiencies, and overall operation of catalytic cycles represent the basic concerns of much of the author's important and influential scientific career. This elegant and accessible monograph provides the perfect introduction to the subject in three chapters."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H8I9ZTWRVS9"
+                },
+                "Date": "on May 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a very good book.  It is clearly written and approachable with a background in introductory graduate level biophysical chemistry.  The math required includes calculus and a minimal exposure to differential equations.  If you really want to learn something about biochemical equilibria, steady states and their relationship to kinetics and thermodynamics, this is a good place to start.  Terrell Hill was one of the major contributors to this area of biophysical theory.  Working through this book will give you the necessary background to tackle more detailed and sophisticated approaches, and to start reading the literature or more advanced texts in this area."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Energy-Transduction-Biochemical-Kinetics-Chemistry/product-reviews/0486441946/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#926,362",
+    "Timestamp": "2015-05-24 15:13:44.147787",
+    "itemurl": "http://www.amazon.com/Energy-Transduction-Biochemical-Kinetics-Chemistry/dp/0486441946"
+}

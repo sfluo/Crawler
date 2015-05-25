@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Thermodynamics and the Kinetic Theory of Gases: Volume 3 of Pauli Lectures on Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$8.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on December 20, 2001",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2U9ZOT757BRVS"
+                },
+                "Date": "on September 24, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FTWZRVCBAGBU"
+                },
+                "Date": "on September 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a short and light book that addresses the main subject clearly and concisely and, at various points, brings some different foci than those often dealt with by reference books. It worth have all six books of the serie. In addition, the book arrived within de estimated delivery time and in excellent condition. I recommend!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Thermodynamics-Kinetic-Theory-Gases-Lectures/product-reviews/0486414612/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#980,395",
+    "Timestamp": "2015-05-24 12:28:22.394980",
+    "itemurl": "http://www.amazon.com/Thermodynamics-Kinetic-Theory-Gases-Lectures/dp/0486414612"
+}

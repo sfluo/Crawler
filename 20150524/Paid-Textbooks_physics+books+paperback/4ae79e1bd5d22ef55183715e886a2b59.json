@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Theoretical Kinematics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$24.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SFDUK4DTX6TP"
+                },
+                "Date": "on June 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "If you take the time to master just a porition of this encyclopedic refrence, you'll find a ready transition to the applied field in  in kinematics of vehicle motion, robotics, optical imaging theory, theory of gears and even circuit theory and polarizations.  Much of this material is either generalized in modern geometry to the point where the origins are completely obscured, or specialized to the point where it is impossible to see the \"magic\" behind the underlying theme.  This should be a Theoretical Minimum in applied math. There is a deduction of one star because the wordiness in some sections can be expanded out in pictorial form for easier comprehension without the reader's resorting to pencil and paper at every turn."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 1, 2000",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "2",
+                "Text": "This book is an important reference for any researcher in kinematics, it covers many important results for analysis and design of mechanisms. Unfortunately, this book is not easy to read for screw theory, which is not  very popular outside kinematics, is used extensively. One particular  problem for this book is that sometimes the authors tried to be too general  and worked in n-dimension, this certainly would not help the readers as  most of them only need kinematics in 3D."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Kinematics-Dover-Books-Physics/product-reviews/0486663469/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#650,111",
+    "Timestamp": "2015-05-24 13:40:35.639491",
+    "itemurl": "http://www.amazon.com/Theoretical-Kinematics-Dover-Books-Physics/dp/0486663469"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics - REA's Quick Access Reference Chart (Quick Access Reference Charts)"
+    ],
+    "OfferPrice": "$4.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R08KM6TSH390"
+                },
+                "Date": "on March 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My son loves this reference chart!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RZL73J8LMOBO"
+                },
+                "Date": "on March 29, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "product was exactly as described!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Quick-Access-Reference-Charts/product-reviews/0738607436/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,002,581",
+    "Timestamp": "2015-05-24 12:36:11.155927",
+    "itemurl": "http://www.amazon.com/Physics-Quick-Access-Reference-Charts/dp/0738607436"
+}

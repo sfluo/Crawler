@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$34.95",
+    "Name": [
+        "A Collection of Problems in Mathematical Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$31.46",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30OS3RBR592DE"
+                },
+                "Date": "on May 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Collection-Problems-Mathematical-Physics-Dover/product-reviews/0486658066/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,517,273",
+    "Timestamp": "2015-05-24 13:15:21.542089",
+    "itemurl": "http://www.amazon.com/Collection-Problems-Mathematical-Physics-Dover/dp/0486658066"
+}

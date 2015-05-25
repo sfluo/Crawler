@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Introduction to the Theory of Relativity (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.73",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 5, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A928QZ4KK47AH"
+                },
+                "Date": "on December 7, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book describes the foundations of relativity in a clear and concise way. The development of tensor analysis is especially clear. It is great for anyone who has studied calculus, differential equations, and classical  physics. I highly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 19, 1999",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Hey, it's endorsed by big Al, himself. The math intro pretty much does it all, but it would be good if you have a firm grasp of vector calculus, and linear algebra. And intro undergraduate physics wouldn't hurt, either."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFWTRA9AV1A53"
+                },
+                "Date": "on December 6, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Peter was able to give examples which made the complex easier to understand. The edges of the first sections in a copy in the Caltech library were black from use. I was privileged to be a guinea pig for the first edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QTBRF6PNICD7"
+                },
+                "Date": "on November 27, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "good and comprehensive. could have more expanded attention to writing for less mathematically 'skilled' audience.  ray smith. liked the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H9JICWX3LC7T"
+                },
+                "Date": "on October 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I thought it was ok but by far not as great as I had be led (by a friend) to believe. Of course, it's rather old."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z2JFJJZP3D7M"
+                },
+                "Date": "on December 23, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Theory-Relativity-Dover-Physics/product-reviews/0486632822/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#861,141",
+    "Timestamp": "2015-05-24 12:41:10.287769",
+    "itemurl": "http://www.amazon.com/Introduction-Theory-Relativity-Dover-Physics/dp/0486632822"
+}

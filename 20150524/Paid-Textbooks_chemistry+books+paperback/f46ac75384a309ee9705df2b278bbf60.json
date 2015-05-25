@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "High-Resolution NMR Techniques in Organic Chemistry (Tetrahedron Organic Chemistry Series, Vol. 19)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M4NKXBLEK31V"
+                },
+                "Date": "on November 14, 2000",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWBXICPD6TRS5"
+                },
+                "Date": "on March 16, 2003",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Just a bit of material to supplement the earlier review...  This is a very solid book for advanced users of NMR spectroscopy investigating organic compounds.  However, if you can get your hands on it, Derome's \"Modern NMR Techniques for Chemistry Research\" is better written and clearer to understand.  Unfortunately, that book has been out of print for some time and is now hard to find.  That said, Claridge's book represents and extra decade's worth of material and you really can't go wrong with either book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/High-Resolution-Techniques-Organic-Chemistry-Tetrahedron/product-reviews/0080427987/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,021,741",
+    "Timestamp": "2015-05-24 15:26:31.327205",
+    "itemurl": "http://www.amazon.com/High-Resolution-Techniques-Organic-Chemistry-Tetrahedron/dp/0080427987"
+}

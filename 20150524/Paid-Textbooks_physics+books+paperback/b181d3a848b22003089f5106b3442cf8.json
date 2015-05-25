@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "Strength of Materials (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$12.05",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 25, 2000",
+                "Helpfulness": 0.8823529411764706,
+                "StarRating": "5",
+                "Text": "Both books on mechanics of materials by Den Hartog are remarkable. All the  questions have answers, the writing is clear and to the point. In this  book, he gives the method of Myosotis to calculate the deflections of  beams. Although such material is outdated, it does illustrate an elegant  way of solving beam deflection problems. Today, many problems are being  solved by brute-force computer methods. (Just make an FE mesh!!) Read this  book even though it will not teach you anything new, if only like a novel."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ADF6L8OQA23I"
+                },
+                "Date": "on July 1, 2005",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "This is the best book on mechanics of materials I have come across. Much more mathematical rigor than similar books by Gere and others. I read this book as an undergraduate and it put me at the top of the class. Of particular note is the Myosotis Method in the section on deflection of beams. This extremely useful method is very powerful, and has been abondonded in most new books becuase of computer software now available. Also has the best treatment of Castigliano Theorem. This book is a must have for any engineer concerned with materials. If your looking for a more advanced book, Advanced Strength of Materials, by the same offer is also very good, but outdated. It does have a very good treatment of shell theory. Better than a good amount of the books on theoretical elasticity that I own. Simply; good author; good book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JURXZ6MGEDAM"
+                },
+                "Date": "on February 20, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K1WWN8VC9FIS"
+                },
+                "Date": "on April 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24CCLZKPRPL32"
+                },
+                "Date": "on October 24, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I have been using this book for years doing structural analysis on aircraft. It is one of my favorite references and ideal for teaching the youngsters."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4J1HSCDDW0U"
+                },
+                "Date": "on March 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a classic engineering text. I have found it useful as a reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10FK5BY4E2NSW"
+                },
+                "Date": "on December 14, 2013",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "The most traditional book on strenght of material - it is outstanding. I have used it during my engineering student years (40 years ago!!) and almost 10 years ago I lost it - It is nice the have it again in my bookshelf."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 27, 2000",
+                "Helpfulness": 0.625,
+                "StarRating": "4",
+                "Text": "A well-written and entertaining text.  Not as good as Den Hartog's text on advanced strength of materials, but good anyway."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JBBCSXWQB1WV"
+                },
+                "Date": "on March 31, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Exactly what I was looking for,  worked very well for me"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ET7IOKAFA2WD"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Informative and easy to follow."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16B4Z36Q79J8C"
+                },
+                "Date": "on December 19, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "If you are looking to know more about mechanics of materials, this book is a great place to start. I was introduced to this book by a professor and surprised at how well it was written and how easy it was to understand. Not to mention it was the cheapest textbook I ever bought, ha."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EVH5RE30DXRY"
+                },
+                "Date": "on January 16, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Looks like a great book, with excellent explanations, but look at a sample first.  The display of formulas seems to be handled differently and is extremely small.  Does anybody check at the display on a Kindle paper-white?  It leaves me wanting to give 1 star for a 1 star execution."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGCSHA8LPC5ZR"
+                },
+                "Date": "on November 13, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Good book very happy"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Strength-Materials-Dover-Books-Physics/product-reviews/0486607550/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#42,651",
+    "Timestamp": "2015-05-24 12:25:04.120668",
+    "itemurl": "http://www.amazon.com/Strength-Materials-Dover-Books-Physics/dp/0486607550"
+}

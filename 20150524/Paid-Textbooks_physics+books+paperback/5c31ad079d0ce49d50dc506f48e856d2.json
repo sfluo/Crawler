@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Exploding Superstars: Understanding Supernovae and Gamma-Ray Bursts (Springer Praxis Books)"
+    ],
+    "OfferPrice": "$16.07",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1286CNLNUTNV4"
+                },
+                "Date": "on October 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was extremely well written and covered not only supernova and GRB's but all areas of theoretical astrophysics. It gave a concise coverage for each chapter. It didn't rely on mathematics or equations which makes it good for readers who aren't scientists. The only downside is there are a few unusual words due to the book's translation from French, but this can easily be solved by looking up the words in a dictionary. I would recommend this book to all readers interested in astrophysics and cosmology, only a basic background knowledge is required."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exploding-Superstars-Understanding-Supernovae-Gamma-Ray/product-reviews/0387095470/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,192,625",
+    "Timestamp": "2015-05-24 13:13:55.920038",
+    "itemurl": "http://www.amazon.com/Exploding-Superstars-Understanding-Supernovae-Gamma-Ray/dp/0387095470"
+}

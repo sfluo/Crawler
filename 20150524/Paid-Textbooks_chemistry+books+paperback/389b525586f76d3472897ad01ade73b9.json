@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$130.00",
+    "Name": [
+        "Atoms in Molecules: A Quantum Theory (International Series of Monographs on Chemistry)"
+    ],
+    "OfferPrice": "$107.15",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 16, 1997",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QBJFAUAL174I"
+                },
+                "Date": "on June 23, 2011",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "I must admit that I bought this book several years ago but only now I feel confident writing a review about its content, the Quantum Theory of Atoms in Molecules (QTAIM) developed by Professor Richard Bader and coworkers. An important observation behind QTAIM is that the electronic charge density of any molecule or solid is an experimental observable which can be accurately determined with the aid of X-ray diffraction crystallography (see Prof. Coppens' book \"X-Ray Charge Densities and Chemical Bonding\" and Profs. Tsirelson and Ozerov's book \"Electron Density and Bonding in Crystals: Principles, Theory and X-Ray Diffraction Experiments in Solid State Physics and Chemistry\"). Experiments show that the electronic charge density is highest in regions where atoms (or better, nuclei) are located and lowest in the internuclear regions. It is the latter regions, however, which are important for chemical bonding. In other words, the accumulation of electronic charge density in the internuclear region is responsible for chemical bonding in molecules and solids. By analyzing the topological properties of the electron density, it is possible to quantitatively characterize atom-atom interactions on the basis of (quantum) physics. What turns out from the application of QTAIM to molecules is that the interactions or bonds which chemists have classified since the advent of X-ray crystallography differ only in the depth of their potential energy wells: the depth of a typical homo- or hetero-polar \"covalent bond\" is deeper than that of a Van der Waals interaction. Both, however, are characterized by an accumulation of electron density in the internuclear region which can be computed with modern electronic structure methods. This important feature or property allows one to investigate any type of interatomic or intermolecular interaction while avoiding subjective interpretations based on the analysis of the wavefunction. In my opinion, QTAIM represents the ultimate theory of chemical bonding by employing which any scientist with an open mind can disclose the fascinating properties of atoms and molecules. An interesting book that may serve as an intoduction to QTAIM is Prof. Popelier's book \"Atoms in Molecules: An Introduction\" while the book of Profs. Matta and Boyd \"The Quantum Theory of Atoms in Molecules: From Solid State to DNA and Drug Design\" presents many contributions about the recent developments and applications of QTAIM."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z4YYMGQM2MZY"
+                },
+                "Date": "on November 10, 2011",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "In the opinion of several world-class scientists, the author of this book should have received the nobel Prize in Chemistry for his work, of which this book is arguably his Magnum Opus.  But, like Galileo, he was a bit too vociferous in his critique of the establishment.  He writes lucidly, and has a riveting thesis - if you understand a bit about Physical Chemistry.  Well worth the price.  The book was mailed promptly, and is part of my permanent library."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F7UIRX6ULVKV"
+                },
+                "Date": "on June 21, 2012",
+                "Helpfulness": 0.07692307692307693,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atoms-Molecules-International-Monographs-Chemistry/product-reviews/0198558651/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#2,047,860",
+    "Timestamp": "2015-05-24 15:24:42.955628",
+    "itemurl": "http://www.amazon.com/Atoms-Molecules-International-Monographs-Chemistry/dp/0198558651"
+}

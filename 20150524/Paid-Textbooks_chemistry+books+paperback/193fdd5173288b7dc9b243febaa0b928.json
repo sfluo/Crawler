@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Molecules: A Very Short Introduction"
+    ],
+    "OfferPrice": "$11.95",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A89UHOFDJO69Q"
+                },
+                "Date": "on February 11, 2012",
+                "Helpfulness": 0.875,
+                "StarRating": "3",
+                "Text": "My first complaint of this book is that I think it focused too heavily on biological molecules as opposed to a more general overview. Secondly, the book just goes through and list lots and lots of different types of molecules and gives very brief descriptions of them. It doesn't actually talk about the molecular structures or the energy changes which occur as the result of the bonding or how different environments cause different types of bonds to form. There is also a huge section that basically just lists the steps of cellular respiration. There are no pictures of the structures and how they change in this process...it felt like I was in biology class, trying to memorize a list of steps with no real knowledge of the chemistry that causes them to happen. Basically, this book tells you a little bit of interesting information about some cool types of molecules, but I didn't actually learn anything that I could apply to other situations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BEKX075LTS87"
+                },
+                "Date": "on March 19, 2012",
+                "Helpfulness": 0.75,
+                "StarRating": "2",
+                "Text": "I bought this book with high expectations - I wanted to increase my knowledge about the molecular world that makes up our Universe. Unfortunately, this book was to disorganized to be of any real use to me. The topics seemed scattered all across the book. I had to put the book down after perusing through its chapters because I realized that I was not going to increase my knowledge of chemistry by reading it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on January 9, 2007",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My training is in Physics, and I have not had a chance to read-up on Chemistry in a long while. I decided to read this book in order to get a better bird's eye view of what the modern Chemistry is up to these days. As such, this book was a great introduction, and brought me up to speed with some of the more recent developments. Thanks to this book and some other info I got, I was able to piece things together and figure out what some of the more advanced research in the conventional explosives is all about."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecules-Short-Introduction-Philip-Ball/product-reviews/0192854305/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#985,627",
+    "Timestamp": "2015-05-24 15:18:54.391204",
+    "itemurl": "http://www.amazon.com/Molecules-Short-Introduction-Philip-Ball/dp/0192854305"
+}

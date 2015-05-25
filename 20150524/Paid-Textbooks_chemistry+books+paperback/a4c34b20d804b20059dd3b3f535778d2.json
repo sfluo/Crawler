@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$60.00",
+    "Name": [
+        "Statistical Mechanics: A Survival Guide"
+    ],
+    "OfferPrice": "$48.75",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OT15ROXC6ZC0"
+                },
+                "Date": "on December 2, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31V5E24H5U0IX"
+                },
+                "Date": "on January 26, 2011",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "I'm an Electronic Engineer, but when I took my Physcal Electronics course, my teacher just gave us the formula for the Statistics (Fermi-Dirac & Bose-Einstein), but I was allways wondering where they came from, with this book you will learn how to calculate them (using the Combinatorial Method, yes, there are several methods to calculate them, in Chapter 10 the Gibbs' Method is explained) and other interesting examples where to apply them, specially the Electrons in Metals & Black Body Radiation Problem which its solution started the Quantum Epoch."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38JIMOX8IO5YD"
+                },
+                "Date": "on June 27, 2005",
+                "Helpfulness": 0.5555555555555556,
+                "StarRating": "5",
+                "Text": "This book is 100 pages or so but covers about 80% of my undergraduate statistical mechanics course. The text is very clear and well organized.A must have book for every one who studies SM for the first time."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Survival-M-Glazer/product-reviews/0198508166/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#494,600",
+    "Timestamp": "2015-05-24 15:31:28.707637",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Survival-M-Glazer/dp/0198508166"
+}

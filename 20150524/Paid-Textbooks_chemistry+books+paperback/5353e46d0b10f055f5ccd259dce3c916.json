@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Oilfield Processing of Petroleum, Vol. 1: Natural Gas"
+    ],
+    "OfferPrice": "$76.28",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 15, 1997",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C0MVUUVDYTJL"
+                },
+                "Date": "on December 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I work in the natural gas production and transportation business as a mechanic where I encounter many problems especially with newly installed equipment, this resource provides me with information I need to find solutions to those problems. I just wish it came in hard cover as the book rides in my truck and is quite worn."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23389R6HMZMK2"
+                },
+                "Date": "on December 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a very good summary of tons of books. It has graphics that have to be used almost everyday when you work in the gas industry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1TIX6OKPGKUNZ"
+                },
+                "Date": "on March 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good reference for new engineers, simple enough to understand immediately."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FE7CWU5ASJCT"
+                },
+                "Date": "on November 8, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I did received the book in perfect conditions and extremely timely (just five days from order...WOW!). Can't ask for more, indeed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFC5PRCEZL9WN"
+                },
+                "Date": "on February 23, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Oilfield-Processing-Petroleum-Vol-Natural/product-reviews/0878143432/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#992,963",
+    "Timestamp": "2015-05-24 15:34:28.297512",
+    "itemurl": "http://www.amazon.com/Oilfield-Processing-Petroleum-Vol-Natural/dp/0878143432"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Student Study Guide to accompany Physics"
+    ],
+    "OfferPrice": "$57.89",
+    "Reviews": {
+        "AverageStarRating": "1.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GOMWO1G54IL2"
+                },
+                "Date": "on March 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "I bought this book thinking it will help me because I\u2019m taking physics and I found NO help because it contains no help. The problems and answers in this book do not even go with the text book. Please I write reviews because I found reviews to be helpful when I need to buy merchandise on the internet. DON\u2019T WAST YOUR MONEY ON THIS BOOK."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADJPC2CPBWHAW"
+                },
+                "Date": "on May 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "The solutions guide was helpful in that it demonstrated, step-by-step examples of how to solve problems. I would like to see more problems covered or at least, all the \"starred\" problems covered. The textbook wasn't a great physics book so I expected better examples in the solutions manual. And to the publishers; Please remember that this book is what students use every day as their main teaching source. The 1 hr. a day of in class time does not cut it. Students need to SEE examples clearly before they can become critical thinkers and apply that knowledge."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DF1NK6KQKSO4"
+                },
+                "Date": "on April 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "Please don't waste your money on this one! This is a poorly written textbook and was not helpful at all. The author gave very few examples in each chapter for review. I was very disappointed."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Study-Guide-accompany-Physics/product-reviews/0470879556/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#92,295",
+    "Timestamp": "2015-05-24 13:05:16.689331",
+    "itemurl": "http://www.amazon.com/Student-Study-Guide-accompany-Physics/dp/0470879556"
+}

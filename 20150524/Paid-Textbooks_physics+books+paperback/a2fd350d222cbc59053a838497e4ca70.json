@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics: An Incremental Development - Solutions Manual"
+    ],
+    "OfferPrice": "$42.70",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U1RYEYUDVFJB"
+                },
+                "Date": "on June 1, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26VFBXGUQWCPN"
+                },
+                "Date": "on June 12, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Way better than BJUPress.  It's what I've come to expect from Saxon: a great teaching book.  Heavy on mechanics early, but it branches out and covers oscillations, optics, thermodynamics, electricity, magnetism, and modern ideas."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27A10K2JUS7A8"
+                },
+                "Date": "on April 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This arrived in perfect condition."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Incremental-Development-Solutions-Manual/product-reviews/1565770072/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#583,496",
+    "Timestamp": "2015-05-24 12:57:29.274122",
+    "itemurl": "http://www.amazon.com/Physics-Incremental-Development-Solutions-Manual/dp/1565770072"
+}

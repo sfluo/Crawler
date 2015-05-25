@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.99",
+    "Name": [
+        "Scaling and Renormalization in Statistical Physics (Cambridge Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$60.54",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YNMFQ58QN3QZ"
+                },
+                "Date": "on September 17, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EPA1LDAYJ0FT"
+                },
+                "Date": "on January 19, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Scaling-Renormalization-Statistical-Physics-Cambridge/product-reviews/0521499593/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#425,650",
+    "Timestamp": "2015-05-24 13:29:21.411595",
+    "itemurl": "http://www.amazon.com/Scaling-Renormalization-Statistical-Physics-Cambridge/dp/0521499593"
+}

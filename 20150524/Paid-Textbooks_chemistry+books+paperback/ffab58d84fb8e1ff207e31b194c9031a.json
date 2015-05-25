@@ -1,0 +1,162 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Chemistry (5th Edition)"
+    ],
+    "OfferPrice": "$18.03",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V4VW1HR0KQ2V"
+                },
+                "Date": "on September 26, 2005",
+                "Helpfulness": 0.9696969696969697,
+                "StarRating": "5",
+                "Text": "I'm a grad physics student, rather than a chemist. But I'm using this book in a Physical Chemistry class because my school doesn't have an Atomic & Molecular class. Now, maybe I'm saying this because I already have a background in Quantum Mechanics ... but this book is awesome. My instructor assigns all or nearly all of the end-of-chapter problems each week. And I'm able to flip to the back of the book and check to see if my numbers agree. It may be be Quantum Chemistry, rather than Quantum Mechanics, but aside from the chemical modeling which isn't as applicable for physicists, Levine just does a better job of conveying quantum mechnics than most Q.M. books I've seen. He's able to keep things simple, and not clog up the logic process with mathematical proofs. If you need a math proof, he gives you the reference. But the important stuff is proven, and he gives a lot of examples to help the process. As a bonus to physicists, a lot of the problems require some number crunching. And in this age of physical symbolism, it is easy to get rusty at dealing with real numbers, real units and real dimensions. I'll even go so far as to say that before I read Levine, I never really had a complete grasp of Q.M.. And I've used decent books before this; Merzbacher, Saxon, a little Cohen-Tenoudji, Ter Har, Lim and Griffiths. This one is my favorite, and imagine, it's not even officially a physics book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36A9HWQ9U1IK4"
+                },
+                "Date": "on May 12, 2001",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "5",
+                "Text": "This is the best introductory book for learning Quantum Chemistry.Especially for those who are not particularly mathematically inclined,or even for those who are, this book is simply great.It starts with an introduction to the Schrodinger's equation.The most important fact is that, after this introduction, the author leads us through a range of wide topics in which the mathematical preliminaries are first explained.Whether it is differential equations or power series solutions, the author carefully guides you through everything.That makes the book self contained.Further on, there's a wonderful chapter on Angular Momentum.In later chapters,we get a very good introduction to most of the important approximation methods and other computational methods used in modern Quantum Chemistry.This includes the variational method, perturbation theory, Hartree-Fock methods,and an enlightening chapter on the Feynman-Hellman theorem.The book ends with a look at computational methods like GAUSSIAN programs which are used routinely today in electronic structure calculations. I would very strongly recommend the book to anyone who is interested in learning what molecular structure is about."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y8IBBBK4GBIJ"
+                },
+                "Date": "on September 6, 2003",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 4, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I had written a review of the 4th edition, published in International Journal of Quantum Chemistry,vol. 43, 439-441 (1992). This 5th edition is about 100 pages longer than the 4th one. All the new material it contains  is clearly listed in the preface.I still highly recommend this book.  I  regret however that no paperback edition seems to be available."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MZEFZP3EF601"
+                },
+                "Date": "on November 2, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I read the fourth edition of this book as an undergraduate student in chemistry. Now that I am a grad student involved in research problems in quantum chemistry, I find myself reaching for this book everytime I need to  refresh this concept or that. The best part about this book is the level of  detail at which a lot of basic quantum chemistry topics have been treated.  I highly recommend this book for any serious student of quantum chemistry  and those from other fields who need to learn some quantum chemistry on  their own for their work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 19, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am amazed at the sheer depth of detail that Levine succeeds in conveying while somehow keeping the subject highly organized and extremely readbale. Like a good teacher, he has a knack for anticipating your questions and problems and addresses them. He also seems to know exactly which points deserve attention and emphasis, and which odn't. His constant referencing of previous equations even when not absolutely necessary minimizes the student's chance of getting lost or forgetting previous material and not remember where to find it again. Very mathematical, but all required mathematics are expertly reviewed before being introduced. My only complaints are a few critical typos in the angular momentum section, and the fact that that section and the section on symmetry could have been more clearly presnted (especially the section on symmetry!). But overall, nobody's perfect, and this is as close as you get. Definitely a class about Lowe's textbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 19, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "writen by a teacher, with a great teaching art. As a beginner ( satellite engineer) , it provides me a clear first understanding of how atomic & molecular waves functions are computed. I appreciate the approach, very oriented to understanding the computation aspects. I agree that symmetry introduction should be more developped. References are systematically documented (in the text). Gives me understanding of \"basic\" explanations which are usually only shortly referenced in many other chemistry books I open."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FJBQYIWC9O6F"
+                },
+                "Date": "on July 2, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is very well written until the section on many electron atoms and molecules, starting from the helium atom.  The section on many electrons systems is not well written and is very ambiguous.  It is not possible to follow the math that is written.  The chapters of the book until this are very well written and could be understood easily.  I don't know if the author himself is well familiar with the many electron systems mathematics or not or he intends to make it so unclear.  In general this book is better than other quantum chemistry books that I have and with the only deficiency of the explanation of the many electron systems I think It is a good quantum chemistry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TC55J7TFE8BV"
+                },
+                "Date": "on September 18, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABZMVCTAAIE6K"
+                },
+                "Date": "on May 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28AHZJCBQQD2Y"
+                },
+                "Date": "on May 6, 2000",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OZKI3LI79ZZC"
+                },
+                "Date": "on October 11, 1998",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This book covers all that a chemistry graduation  student should know  about quantum chemistry, and makes a good deal on molecular structure too.  The mathematical basis is never left behind..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RHM8EFSSOBGY"
+                },
+                "Date": "on September 4, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This book is a must read for chemists who want to master in quantum chemistry and at the same time do not have that much of a mathematical background. The condition of the book was as good as new. Although it was stated as \"used\" the only evidence that supported this was the previous user's name at the front. Highly satisfying!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39MONOKFCVGMV"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "pretty good, although there are some highlight, but the quality is still pretty good and the quality is just like what the product description."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JROZY0OR2XKX"
+                },
+                "Date": "on February 7, 2001",
+                "Helpfulness": 0.5454545454545454,
+                "StarRating": "4",
+                "Text": "Want to know more about Quantum Mechanics? Then this is not the book for you. This book is about Quantum Chemistry!!! It's about SCF, MINDO, INDO and other alien-sounding acronyms. Buy this book only if you wish to know what goes on behind these ubiquitous GAUSSIAN and other computational chemistry softwares."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYFQVEJTYWNCH"
+                },
+                "Date": "on February 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Chemistry-5th-Ira-Levine/product-reviews/0136855121/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "16"
+    },
+    "Salesrank": "#1,215,247",
+    "Timestamp": "2015-05-24 15:26:20.886849",
+    "itemurl": "http://www.amazon.com/Quantum-Chemistry-5th-Ira-Levine/dp/0136855121"
+}

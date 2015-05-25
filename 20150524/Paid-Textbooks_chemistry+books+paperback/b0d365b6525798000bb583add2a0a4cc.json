@@ -1,0 +1,126 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Thermodynamics: From Heat Engines to Dissipative Structures"
+    ],
+    "OfferPrice": "$57.96",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A3OE4HFV93VR"
+                },
+                "Date": "on January 18, 2000",
+                "Helpfulness": 0.9696969696969697,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASPI6ZP59RE5B"
+                },
+                "Date": "on July 19, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QFIVYURACQ64"
+                },
+                "Date": "on February 12, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Kondepudi and Prigogine's textbook is distinguishable by a link between the books of equilibrium non-statistical thermodynamics and the monographs in non-equilibrium non-statistical thermodynamics. A minor lack of generality on the development of the whole formal system is apparent, but an advantage in that the text is practical and complete. In my opinion, there is no clear logic connection between subjects in equilibrium and non- equilibrium. For example, the derivation of the Clausius' inequality from the entropic balance equation is lacking. The historic references and the portraits of the pioneers in the field of thermodynamics are remarkable. The chapter dedicated to the dissipative structures is basic, but this is compensated with a very good introduction to the linear and non-linear non-equilibrium regimes. The treatment of affinity is admirable, more so by the way it sticks out with the influence of the Brussels school! A noteworthy criticism is the confusion created by the inter-use of the terms \"current density\" and \"flux\" in the study of non-equilibrium processes. I like the statement of the third law. The footnote discussion of the local character of the balance equations with regards to Einstein's relativistic theory is also very interesting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VPRWEPH6C823"
+                },
+                "Date": "on December 15, 2000",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on August 8, 2009",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2R2ZYFNC19EXK"
+                },
+                "Date": "on April 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UYK3NBI427YG"
+                },
+                "Date": "on December 3, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I guess the title says it all. This book is really good, both for physicists and engineers. People from other sciences might have a little difficult in some parts, but it still has by far the most comprehensive text in thermodynamics I have ever read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on April 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NQ3ZO9YD5E40"
+                },
+                "Date": "on August 8, 2009",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28VOHQSE4ZYHM"
+                },
+                "Date": "on September 15, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "The book was what I expected and in the condition they described so that was excellent.  The only thing I didn't like is they sent it with a carrier I never heard of so I didn't get a tracking number.  Then it was eventually delivered by the postal service which was fine.  I like the security of having a number to track the shipment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A168BBPE0JGDFU"
+                },
+                "Date": "on November 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I need to study it some more before I can rate it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2V7ZYWZJIIU8G"
+                },
+                "Date": "on September 5, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I gave this a five star review because the item was as described, I have not yet read the book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Thermodynamics-Engines-Dissipative-Structures/product-reviews/0471973947/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "12"
+    },
+    "Salesrank": "#976,243",
+    "Timestamp": "2015-05-24 15:30:38.738731",
+    "itemurl": "http://www.amazon.com/Modern-Thermodynamics-Engines-Dissipative-Structures/dp/0471973947"
+}

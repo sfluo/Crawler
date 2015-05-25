@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "College Physics (Volume 1)"
+    ],
+    "OfferPrice": "$129.03",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N4WU2BG274VN"
+                },
+                "Date": "on February 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a remarkably good physics book for medicine and biology students. I was particularly impressed with the \"Watch Out!\" and \"Got the Concept?\" boxes, whose purpose is to address some common physics misconceptions. The examples and problems are well chosen, the text is crisp and the illustrations are great. I recommend it without reservation."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYQBGLIE7SJOU"
+                },
+                "Date": "on February 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Get this book if you love not reading it and watching tons of YouTube tutorials. Book is confusing and the problems are terrible."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APOHFQ4CPU3PG"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "By purchasing the preliminary version instead of the original I saved $60 and practically got the same thing!  The only difference was the end of chapter problem sets were missing.  They weren't used in my class anyway.  If you want to save $60 to $80 this is the route to go.  I'll there's a preliminary edition of a book i'll always buy that one from now own."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7GIL7CEWQ1T2"
+                },
+                "Date": "on June 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Looked nice, but index pages fell out very easily. Poor glue job on the spine."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-1-Roger-Freedman/product-reviews/0716797917/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#433,216",
+    "Timestamp": "2015-05-24 13:36:31.462478",
+    "itemurl": "http://www.amazon.com/College-Physics-1-Roger-Freedman/dp/0716797917"
+}

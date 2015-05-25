@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Problem-Solving Exercises in Physics: The High School Physics Program (Prentice Hall Conceptual Physics Workbook)"
+    ],
+    "OfferPrice": "$16.66",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KOIFIX3EE6ZS"
+                },
+                "Date": "on June 3, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EMY3INXJQPQ1"
+                },
+                "Date": "on February 18, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have used the previous edition of this book for years and loved it.  I actually use it in my Integrated Physics and Chemistry class.  While I don't use every chapter, many of the chapters like motion, force, energy, and electricity are ideal for a lower level physics class. Her questions are cute and funny and the examples prior to the worksheets are IDEAL.  They work problems just like the ones in the workbook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28ZXCDV4CDNVS"
+                },
+                "Date": "on January 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "it's a definite must have for class if recommended by the teacher. every page and exercise is used and done straight out of the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JYGIYL1YHRCL"
+                },
+                "Date": "on April 29, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good book and fast shipping. thanks."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problem-Solving-Exercises-Physics-Prentice-Conceptual/product-reviews/013054275X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#201,144",
+    "Timestamp": "2015-05-24 12:37:06.761836",
+    "itemurl": "http://www.amazon.com/Problem-Solving-Exercises-Physics-Prentice-Conceptual/dp/013054275X"
+}

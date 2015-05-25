@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Recrystallization and Related Annealing Phenomena"
+    ],
+    "OfferPrice": "$50.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26MP0W3D8W64A"
+                },
+                "Date": "on February 26, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GHFP99WEWYO7"
+                },
+                "Date": "on July 18, 2001",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This book provides the reader with a very good, updated and, for most of the topics covered, an in-depth discussion of all subjects associated with work hardening, recovery and recrystallization. Most of the physical metallurgy aspects of metal's deformation and related annealing processes are well presented, including good chapters on textures, hot working and modelling. The authors are well known experts in the field of physical metallurgy and have done a very good job. This is the best book on recrystallization available today, for both undergraduate and graduate levels."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17MUMZMUPLHU5"
+                },
+                "Date": "on October 27, 2000",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Recrystallization is a phenomenon well known for a long time, but it is only know we can visualize and feel the effects of its importance more clearly with different models and latest development in Technology, as the development of new alloys."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Recrystallization-Related-Annealing-Phenomena-Humphreys/product-reviews/0080426859/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,657,688",
+    "Timestamp": "2015-05-24 15:47:34.500044",
+    "itemurl": "http://www.amazon.com/Recrystallization-Related-Annealing-Phenomena-Humphreys/dp/0080426859"
+}

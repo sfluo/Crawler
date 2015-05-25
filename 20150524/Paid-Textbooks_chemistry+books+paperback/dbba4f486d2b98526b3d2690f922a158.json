@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$94.99",
+    "Name": [
+        "Introduction to Surface and Thin Film Processes"
+    ],
+    "OfferPrice": "$73.18",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFR3RO7L24VH"
+                },
+                "Date": "on April 19, 2001",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "3",
+                "Text": "Venables' text fairly thoroughly covers modern surface science techniques.  He summarizes thirty years of fundamental research and hits on modern interest areas.  However, for a text labeled as an introduction, very few introductory ideas are adequately explained.  Where are the energy level diagrams? Energies associated with various processes are arbitrarily assigned to be positive or negative, and reference energies are never mentioned.  Attempts to solve chapter ending problems invariably lead to frustration, as the questions are vague, and the suggested results are impossible to obtain without consulting other, more detailed texts like Dejenqueres and Spanjaard. The sections on crystal growth are impenetrable unless one reads the referenced papers, but this is inexcusable for an introductory text.  A more suitable title for the book would be: \"A Survey of Surface Science,\" or \"Collected Citations of Surface Science Research: 1970-2000\""
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Surface-Thin-Film-Processes/product-reviews/0521785006/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,189,452",
+    "Timestamp": "2015-05-24 15:43:18.189548",
+    "itemurl": "http://www.amazon.com/Introduction-Surface-Thin-Film-Processes/dp/0521785006"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$90.95",
+    "Name": [
+        "Bundle: PHYSICS (with Review Card and CourseMate Printed Access Card) + Enhanced WebAssign Printed Access Card for Calculus, Physics, Chemistry, Single-Term Only"
+    ],
+    "OfferPrice": "$80.47",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UCXGNEA465T0"
+                },
+                "Date": "on May 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Exactly how the item was described:)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Bundle-CourseMate-WebAssign-Chemistry-Single-Term/product-reviews/1305606272/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,946,887",
+    "Timestamp": "2015-05-24 15:30:48.997301",
+    "itemurl": "http://www.amazon.com/Bundle-CourseMate-WebAssign-Chemistry-Single-Term/dp/1305606272"
+}

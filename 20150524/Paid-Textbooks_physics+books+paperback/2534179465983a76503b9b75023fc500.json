@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Theoretical Hydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$23.03",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ZNK5EWWK527Z"
+                },
+                "Date": "on August 18, 2005",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19PGHFSPOMK5F"
+                },
+                "Date": "on October 2, 2002",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "A compilation of classic results in the field. Not the book to read for an introduction to the subject but indispensable as a reference. Better than Lamb in my opinion, but if you're going to buy one you should get the other."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3UBYJP024B10G"
+                },
+                "Date": "on November 20, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I searched a book for students in this field and I find it satisfactory for me. And the shipping was very fast too - there was said that I get the book on 22nd November, but I got it on 7th November."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MF338Q12XI3H"
+                },
+                "Date": "on March 22, 2000",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "As soon as I needed to make use of this book I found how good it was at its explanantions and even for a novice in the area it was well written and clear. Somehwat old now but nonetheless a solid introduction to  hydrodynamics in the tradition of Lamb. It sits well next to that beacon of  fluid mechanics Batchelor."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Theoretical-Hydrodynamics-Dover-Books-Physics/product-reviews/0486689700/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#62,171",
+    "Timestamp": "2015-05-24 13:04:18.190948",
+    "itemurl": "http://www.amazon.com/Theoretical-Hydrodynamics-Dover-Books-Physics/dp/0486689700"
+}

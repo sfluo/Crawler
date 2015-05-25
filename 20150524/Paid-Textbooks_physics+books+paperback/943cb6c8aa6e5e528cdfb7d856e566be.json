@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$35.00",
+    "Name": [
+        "One Hundred Physics Visualizations Using Matlab: (With DVD-ROM)"
+    ],
+    "OfferPrice": "$34.43",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1J1SZQBO3L4BY"
+                },
+                "Date": "on May 7, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "A good book, more detailed algorithm preferred, several examples in the book deserve extensive description, I use it as a MATLAB coding example book for the senior class"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hundred-Physics-Visualizations-Using-Matlab/product-reviews/9814518441/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#504,663",
+    "Timestamp": "2015-05-24 13:46:56.400142",
+    "itemurl": "http://www.amazon.com/Hundred-Physics-Visualizations-Using-Matlab/dp/9814518441"
+}

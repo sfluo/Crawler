@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Partial Differential Equations of Mathematical Physics and Integral Equations (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$13.47",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JKRDJOL0TYIQ"
+                },
+                "Date": "on September 1, 2007",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "5",
+                "Text": "This is one of the finest textbooks on applied mathematics.  It is appropriate for a wide range of levels and disciplines.  A moderately paced graduate class can finish most of the chapters in a full year.  The first two chapters cover material that is difficult to find elsewhere and nowhere is it better handled.  The real boon to this book is the constant integration of physical reasoning with solid mathematical theory.  To be sure, many of the more complicated ideas are only mentioned, but the later chapters pick these up and go much further.  It covers basic heat and wave applications, but also Brownian motion and gas dynamics.  A solid calculus background is needed, which includes vector calculus and convergence issues.  Eigenvalues and some functional analysis are needed.  Many books on elementary partial differential equations spend all their time on the big three: heat, wave and Laplace.  This is too low a level for any graduate class and doesn't create the excitement other applications provide.  On the other hand, this book is accessible to many people.  Often, graduate texts are thoroughly awash with Sobolev spaces and weak convergence and the physical problem, i.e., the actual model, is all but ignored.  This classic text is the bridge between elementary and advanced applied mathematics.  In some respects, it is self-contained.  Guenther and Lee have written an indispensable book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AY9IA68M5D12E"
+                },
+                "Date": "on March 11, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "It is a very good and comprehensive textbook for beginner to intermediate students in colleges and graduate schools of PDE."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F3M365OCZMGH"
+                },
+                "Date": "on May 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I hate this book. There are so many typos and it is difficult to follow. I wish we had a different book for our PDE class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AMR48MQLNQPQ"
+                },
+                "Date": "on March 26, 2003",
+                "Helpfulness": 0.17647058823529413,
+                "StarRating": "2",
+                "Text": "The book skip too many steps and most of the time, the equation is presented without explanation...Don't waste money."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 7, 1999",
+                "Helpfulness": 0.23684210526315788,
+                "StarRating": "1",
+                "Text": "This book is one of the worse I ever see representing the mathematics for physics, the mathematics and the physics both was not explained as it should, the authors are not familiar at all with the concept of physics  make their material in the book related to this subject unclear and vague.  The book has too many gaps as I see it has too many jumps when a physical  phenomena represented using mathematics. Physical concept was most of the  times not even mention, and I believe that the author should stick only  with mathematics since they try to explain physics they don't really  familiar with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHNFKKV5ZAGEH"
+                },
+                "Date": "on January 15, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Book came in excellent condition and was shipped quickly.  Highly recommend this seller."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Differential-Equations-Mathematical-Integral-Mathematics/product-reviews/0486688895/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#618,501",
+    "Timestamp": "2015-05-24 12:40:49.368173",
+    "itemurl": "http://www.amazon.com/Differential-Equations-Mathematical-Integral-Mathematics/dp/0486688895"
+}

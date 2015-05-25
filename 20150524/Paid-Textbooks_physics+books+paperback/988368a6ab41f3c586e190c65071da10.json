@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Physics of Vibrations and Waves, 6th Edition"
+    ],
+    "OfferPrice": "$71.95",
+    "Reviews": {
+        "AverageStarRating": "1.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SCV8Q664UDXY"
+                },
+                "Date": "on April 17, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2F7EGMX7L2CL"
+                },
+                "Date": "on December 20, 2005",
+                "Helpfulness": 0.9,
+                "StarRating": "1",
+                "Text": "In a book wrought with errors, vagueness, tortuous notation, almost no examples, and very little use as a reference book, I can't imagine why any professor or student would want to pick this book up, expensive at it is, let alone assign it for a class. The topics are presented incompletely, jumping around from subtopic to subtopic without ever defining concepts, showing good techniques for applying physical intuition and mathematical reasoning, or fully exploring some of the mathematics involved. Where mathematical rigor would be desirable for pedagogy, none is applied. Where a demonstrative example would be useful, none is given. Where even a small one sentence definition would have been useful, nothing is there. The example questions are simply horrendous; all of them are \"show/prove that ...\" in structure, with half being of the \"plug in numbers\" type that gives no understanding, and the other being of the \"derive this equation\" type in a part of the book where understanding and derivation has been deemphasized in order to introduce new, undefined vocabulary words and constants. Not to mention, the vast number of errors in the problems makes it all the harder to obtain any understanding at all. All in all, a fairly horrendous book; it's hard to understand why it has become so popular or even reached the sixth edition at all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JM6TTGQM9BXP"
+                },
+                "Date": "on June 20, 2008",
+                "Helpfulness": 0.9,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WES36LF4EPO"
+                },
+                "Date": "on June 2, 2006",
+                "Helpfulness": 0.875,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D2XYWV2X9925"
+                },
+                "Date": "on February 28, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWA6MS3S49T3V"
+                },
+                "Date": "on August 6, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OU5PYX5VE3F1"
+                },
+                "Date": "on August 10, 2006",
+                "Helpfulness": 0.75,
+                "StarRating": "1",
+                "Text": "What a useless, unhelpful, jumbled mess.  I spent probably a good couple hundred hours staring in agony at this book for my Waves & Optics course, hoping that it could fill in the gaps where my even less competent professor had said little.  Unlike every textbook that I've used previously in my career as a student since elementary school, you *cannot* learn the concepts from this book if you just bring a certain amount of intelligence and enough time to it.  There's simply not enough explanation in this book to do it.  I spent hours on the problems and yet learned nothing from them, because they were a test of my mathematical derivation skills and not of any concepts explained and taught in the book.  If you already are familiar with the subject matter of this book, it may appear to be adequate, but it's terribly insufficient, making huge leaps and jumps and omissions that leave the reader seeking alternate sources of explanation.  Avoid this book like the plague."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FBT8FMTKB2BN"
+                },
+                "Date": "on December 2, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DKRAEE5WFSY5"
+                },
+                "Date": "on September 4, 2006",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "1",
+                "Text": "Rather than repeating what previous reviewers have said, I'll just note that I would like to strap this book to a block of C-4 and turn it into fine ash."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Vibrations-Waves-6th/product-reviews/047001296X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#1,186,519",
+    "Timestamp": "2015-05-24 13:20:12.113498",
+    "itemurl": "http://www.amazon.com/Physics-Vibrations-Waves-6th/dp/047001296X"
+}

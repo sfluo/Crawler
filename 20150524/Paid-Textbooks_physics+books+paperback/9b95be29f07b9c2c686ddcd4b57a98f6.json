@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$18.99",
+    "Name": [
+        "Science 101: Physics"
+    ],
+    "OfferPrice": "$15.51",
+    "Reviews": {
+        "AverageStarRating": "2.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20EEWWSFMZ1PN"
+                },
+                "Date": "on February 18, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20EEWWSFMZ1PN"
+                },
+                "Date": "on November 20, 2011",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XEF2SP0FATQH"
+                },
+                "Date": "on November 9, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20DTPPKKE65HO"
+                },
+                "Date": "on June 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book certainly doesn't read like a novel, but it's hard to imagine that any book of this type could. Because it relies heavily on pictures and diagrams, and because it surveys a number of distinct topics, it lacks a smooth flow. But no book like this could have a smooth flow, so that's just the price we have to pay. All things considered, it is agreeable and in no way tedious."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Science-101-Physics-Barry-Parker/product-reviews/0060891343/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#962,836",
+    "Timestamp": "2015-05-24 12:57:52.225909",
+    "itemurl": "http://www.amazon.com/Science-101-Physics-Barry-Parker/dp/0060891343"
+}

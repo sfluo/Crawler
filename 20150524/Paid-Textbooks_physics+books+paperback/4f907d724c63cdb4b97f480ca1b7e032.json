@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Variational Principles in Dynamics and Quantum Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A215JRQ8GBNVLE"
+                },
+                "Date": "on April 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very useful book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Variational-Principles-Dynamics-Quantum-Physics/product-reviews/0486637735/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,836,062",
+    "Timestamp": "2015-05-24 13:15:23.363184",
+    "itemurl": "http://www.amazon.com/Variational-Principles-Dynamics-Quantum-Physics/dp/0486637735"
+}

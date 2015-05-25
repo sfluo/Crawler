@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$9.95",
+    "Name": [
+        "Introducing Particle Physics: A Graphic Guide"
+    ],
+    "OfferPrice": "$9.72",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NY3K9H8QYXBQ"
+                },
+                "Date": "on April 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAI0LHA0VVIPC"
+                },
+                "Date": "on September 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "It's a concise, nicely written guide with pictures, but not really a \"Graphic Guide,\" to my mind.  Rather than graphically illustrating the concepts presented, most of the pictures are simply photos of physicists parroting (or summarizing) the text via cartoon-style \"bubbles.\""
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YIETLVY3SSTK"
+                },
+                "Date": "on April 29, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A good introduction to Particle Physics that everyone can understand. I am a physicist  and found the book useful for my students!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QEDF6XZKIIM2"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Thanks great book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BGSUGNHNRJZF"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "Too cute - More of a comic book version of Particle Physics"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BQMV9YN9G6NX"
+                },
+                "Date": "on July 19, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "excellent"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introducing-Particle-Physics-Graphic-Guide/product-reviews/1848315899/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#217,096",
+    "Timestamp": "2015-05-24 13:12:21.452291",
+    "itemurl": "http://www.amazon.com/Introducing-Particle-Physics-Graphic-Guide/dp/1848315899"
+}

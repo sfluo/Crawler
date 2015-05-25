@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$56.00",
+    "Name": [
+        "Statistical Mechanics: A Set Of Lectures (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$51.86",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KT6IOBMD6WLE"
+                },
+                "Date": "on November 22, 2000",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "5",
+                "Text": "This is a wonderful book written by one of the greatest teachers of physics on a subject matter often shrouded in mystery. I found it tremendously helpful in understanding many topics in condensed matter physics on a deeper, more conceptual level. The chapters on second quantization, superconductivity and superfluidity are especially illuminating, and the latter is far surperior in clarity than anything I have come across (which is perhaps not surprising considering Feymnman developed much of the theory himself). I highly recommend this book as a supplimentary text for any graduate-level Statistical Mechanics, Quantum Mechanics or Solid State course you may be taking."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI1U11HEFZQP"
+                },
+                "Date": "on January 23, 2003",
+                "Helpfulness": 0.8235294117647058,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FC46G5WVP3UV"
+                },
+                "Date": "on July 4, 2005",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJSTSHJ79ERPL"
+                },
+                "Date": "on February 1, 2005",
+                "Helpfulness": 0.7,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PMNV35ZVAWEG"
+                },
+                "Date": "on July 3, 2011",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGJJ01HL9XG6O"
+                },
+                "Date": "on December 12, 2011",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "1",
+                "Text": "The equations are incomplete and it becomes very hard to read. Have tried on multiple devices. mathematical formatting is not complete. Very disappointing. Particularly the bras and kets."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3G4XUMNUIEND3"
+                },
+                "Date": "on July 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This not one of Feynman's best, but I will read anything by him."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 30, 2003",
+                "Helpfulness": 0.6486486486486487,
+                "StarRating": "3",
+                "Text": "Feynman was one of the most accomplished physicists in the 2nd half of the 20th century.  His publications speak for themselves.  However, as represented in this set of lecture notes, I do not find him as a pedagogue more enlightening than others.  I bought and read this book in grad school, and found it to be a nice quick intro to several topics (spin waves and such).  I did not, and still don't find the exposition physically exceptionally profound.  One difference though, is the fact that Feynman, with his fame, could afford to be rather informal in his presentation.  Any unsatisfactory aspects would be accepted as the mysterious ways of a 'genius'.  If you are a student and would like to learn to solve problems on your own, forget this one.  What this book gives you is a little 'attitude', aside from a quick intro, which most of us haven't earned the right to put on, of doing physics.  Try it.  Try to be as unorthodox and informal as he was, and you will mostly end up with nonsense."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AC9VYDD0D2CN"
+                },
+                "Date": "on August 15, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28JWIKFEHPDN2"
+                },
+                "Date": "on January 14, 2002",
+                "Helpfulness": 0.06451612903225806,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Mechanics-Lectures-Advanced-Classics/product-reviews/0201360764/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#389,361",
+    "Timestamp": "2015-05-24 13:24:03.595690",
+    "itemurl": "http://www.amazon.com/Statistical-Mechanics-Lectures-Advanced-Classics/dp/0201360764"
+}

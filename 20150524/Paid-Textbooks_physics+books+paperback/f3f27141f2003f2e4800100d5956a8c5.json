@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "The Quantum Theory of Radiation: Third Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.97",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2O4R95DPGCWVQ"
+                },
+                "Date": "on April 26, 2000",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Radiation-Third-Physics/product-reviews/0486645584/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#863,289",
+    "Timestamp": "2015-05-24 12:57:27.091215",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Radiation-Third-Physics/dp/0486645584"
+}

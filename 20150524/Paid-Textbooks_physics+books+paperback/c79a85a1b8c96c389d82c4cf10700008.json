@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$71.00",
+    "Name": [
+        "Elements of Modern X-ray Physics"
+    ],
+    "OfferPrice": "$51.16",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1I4393CZP54AC"
+                },
+                "Date": "on February 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "My research advisor had me purchase this book for an independent study. This book is quite thorough. I would recommend it to anyone that is working with x-rays."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X5RR6416FQ69"
+                },
+                "Date": "on January 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I'm using this book for my course. Very useful but not clear enough for beginner. Bunch of concept were used in contexts without explanation."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elements-Modern-X-ray-Physics-Als-Nielsen/product-reviews/0470973943/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#331,490",
+    "Timestamp": "2015-05-24 13:16:45.074966",
+    "itemurl": "http://www.amazon.com/Elements-Modern-X-ray-Physics-Als-Nielsen/dp/0470973943"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Scattering Theory: The Quantum Theory of Nonrelativistic Collisions (Dover Books on Engineering)"
+    ],
+    "OfferPrice": "$21.52",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5KZURNUX39I4"
+                },
+                "Date": "on August 29, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27X0CMJAFPE0T"
+                },
+                "Date": "on February 11, 2007",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "4",
+                "Text": "Ad the title says, the book covers non-relativistic scattering theory. It covers the expected topics of partial wave expansions, Born approximation, single and multi-channel scattering. I used this book when I was learning scattering theory during graduate school at U. of Colorado. It is a good introduction to scattering theory. My only reservation is that the book is general. People looking for scattering theory book specific to say, nuclear physics, might be better off with McCarthy's book (old one) or Feshbach's."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VS3WGVI9LIBM"
+                },
+                "Date": "on December 7, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3STUU6SA6ECR2"
+                },
+                "Date": "on May 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A391OTBH5UN01E"
+                },
+                "Date": "on December 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've been trying to get my mind around scattering in quantum field theory and came to the realization that I needed a better background in non-relativistic scattering.  Taylor's book had good recommendations and a good price, so I bought it.  Well, this book has been a great experience.  Until now, I've found scattering theory to be a dull subject, but that's changed.  The book is very clearly written, very well organized, and in Taylor's hands the subject has become appealing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DN3E78IGY8H0"
+                },
+                "Date": "on June 5, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This text presents scattering theory concisely but with just enough context and physical explanation that the reader is not too bogged down in trying to connect the mathematics with the physical systems they describe. Anyone with a solid background in graduate level quantum physics (or perhaps advanced undergraduate) should find this book useful."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Scattering-Theory-Nonrelativistic-Collisions-Engineering/product-reviews/0486450139/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#799,103",
+    "Timestamp": "2015-05-24 12:35:51.056908",
+    "itemurl": "http://www.amazon.com/Scattering-Theory-Nonrelativistic-Collisions-Engineering/dp/0486450139"
+}

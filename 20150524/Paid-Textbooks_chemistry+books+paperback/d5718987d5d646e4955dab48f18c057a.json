@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$31.95",
+    "Name": [
+        "Alternative Energy: Sources and Systems (Go Green with Renewable Energy Resources)"
+    ],
+    "OfferPrice": "$21.70",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CUUFDE7MIG3T"
+                },
+                "Date": "on March 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book the best basic intro to Renewable energy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABDVI4ZMLFFRR"
+                },
+                "Date": "on July 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Book is very basic quick read lots of pictures"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XA3XLG6O9KVU"
+                },
+                "Date": "on January 17, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "I live next to a biomass burner. It smokes 24-7 and makes us sick. I would NEVER consider doing something so irresponsible to my neighbors."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Alternative-Energy-Sources-Renewable-Resources/product-reviews/1111037264/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#488,317",
+    "Timestamp": "2015-05-24 15:28:27.613362",
+    "itemurl": "http://www.amazon.com/Alternative-Energy-Sources-Renewable-Resources/dp/1111037264"
+}

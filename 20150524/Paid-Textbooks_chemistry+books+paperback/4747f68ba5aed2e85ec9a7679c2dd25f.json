@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$74.95",
+    "Name": [
+        "The Static and Dynamic Continuum Theory of Liquid Crystals: A Mathematical Introduction (Liquid Crystals Book Series)"
+    ],
+    "OfferPrice": "$73.49",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJUDO2FX5T4IW"
+                },
+                "Date": "on June 10, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Static-Dynamic-Continuum-Theory-Crystals/product-reviews/0748408967/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,046,903",
+    "Timestamp": "2015-05-24 15:25:54.324446",
+    "itemurl": "http://www.amazon.com/Static-Dynamic-Continuum-Theory-Crystals/dp/0748408967"
+}

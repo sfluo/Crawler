@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$125.00",
+    "Name": [
+        "The Mathematics of Diffusion (Oxford Science Publications)"
+    ],
+    "OfferPrice": "$109.50",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CY1A2AY7LP0P"
+                },
+                "Date": "on June 29, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This classic diffusion text continues where many other texts end, and covers a broad variety of problem types.  This is an excellent resource for diffusion solutions for less-common boundary conditions and assumptions, including thorough mathematical developments of the solutions and many references to the original works.  Non-mathematicians will often need to roll up their sleeves to digest portions of the derivations, but the insight into the solution processes is often very revealing.  This makes this book an invaluable reference, although it is probably not well suited as your only book on diffusion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on June 2, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AH1K3RO4BW3WC"
+                },
+                "Date": "on January 23, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T3NA6K9GA8MV"
+                },
+                "Date": "on April 25, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "If you are looking for mathematical solutions to diffusion equation under diffrent boundary conditions this is a good reference to have. For people interestted in numerical solutions and techniques this book may not serve the purpose other than getting analytical or approximate solutions to compare with their numerical implementation. There is a chapter on numerical methods, but the coverage is limited and it is introductory. Also, the book is not really about \"mathematics\" of diffusion - it is about \"solutions to diffusion equation\". To gain insights into solutions this is a very good book to read. In particular, there are discussions in this book on modeling diffusion in polymers that handle relevant aspects of the problem outside of just the math involved."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DLK15PUQ7ZB4"
+                },
+                "Date": "on October 25, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This text is a great resource for understanding diffusion. It is accessible to your average scientist (my background is soil science), but you will have to do some work if your not a mathematician. Don't let that stop you though, this is THE text on diffusion maths. It's an invaluable tool."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 26, 1997",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book is a classic, collecting analytical solutions to common differential equations arising from common problems in mass transport."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19B7QZ0XACOEZ"
+                },
+                "Date": "on April 20, 2006",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book does it all.  Any problems you have Crank has got you.  Don't read it without knowing transport though, he solves mad prolems but that's really it.  No insight or anything like that.  Who cares he does MAD problems"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UJHVUAMM2866"
+                },
+                "Date": "on December 17, 2010",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": "Crank has presented diffusion mathematics almost as well as Carslaw and Jaeger have presented heat conduction, although a bit less well explained."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Diffusion-Oxford-Science-Publications/product-reviews/0198534116/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#284,341",
+    "Timestamp": "2015-05-24 15:37:09.168248",
+    "itemurl": "http://www.amazon.com/Mathematics-Diffusion-Oxford-Science-Publications/dp/0198534116"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Quantum Wells, Wires and Dots: Theoretical and Computational Physics of Semiconductor Nanostructures"
+    ],
+    "OfferPrice": "$55.87",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A349D4KL6U27IQ"
+                },
+                "Date": "on November 23, 2004",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A242DZXR2B562B"
+                },
+                "Date": "on November 29, 2002",
+                "Helpfulness": 0.1111111111111111,
+                "StarRating": "5",
+                "Text": "It is a great work of this book. I think it is very useful to readers with all kinds of levels. But it is a pity I can't buy it in my own country-mainland of China.  Could you give me a chance? Thanks!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Wells-Wires-Dots-Nanostructures/product-reviews/047077097X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,154,362",
+    "Timestamp": "2015-05-24 13:41:29.456365",
+    "itemurl": "http://www.amazon.com/Quantum-Wells-Wires-Dots-Nanostructures/dp/047077097X"
+}

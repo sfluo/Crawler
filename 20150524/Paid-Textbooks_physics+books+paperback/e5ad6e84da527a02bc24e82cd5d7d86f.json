@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$58.00",
+    "Name": [
+        "Handbook of Accelerator Physics and Engineering: 2nd Edition"
+    ],
+    "OfferPrice": "$58.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11BO8XS8WS5Q5"
+                },
+                "Date": "on April 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "as described"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Handbook-Accelerator-Physics-Engineering-2nd/product-reviews/9814417173/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,286,001",
+    "Timestamp": "2015-05-24 13:46:34.488006",
+    "itemurl": "http://www.amazon.com/Handbook-Accelerator-Physics-Engineering-2nd/dp/9814417173"
+}

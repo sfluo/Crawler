@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Exploring Quantum Mechanics: A Collection of 700+ Solved Problems for Students, Lecturers, and Researchers"
+    ],
+    "OfferPrice": "$85.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OY5TUB6O5WXE"
+                },
+                "Date": "on April 11, 2013",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CSNNTLKOP8LN"
+                },
+                "Date": "on April 13, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book will have no competition. It's absolutely unique. It contains by far world's largest collection of insightful and original quantum problems. But it's not just problems,  the book has much more. If you are a researcher or student working on or studying quantum physics, you must have this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exploring-Quantum-Mechanics-Collection-Researchers/product-reviews/0199232725/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#347,341",
+    "Timestamp": "2015-05-24 13:37:40.487335",
+    "itemurl": "http://www.amazon.com/Exploring-Quantum-Mechanics-Collection-Researchers/dp/0199232725"
+}

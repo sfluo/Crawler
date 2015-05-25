@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Six Ideas that Shaped Physics: Unit N - Laws of Physics are Universal"
+    ],
+    "OfferPrice": "$41.31",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27P7DLWJL50BL"
+                },
+                "Date": "on January 4, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A219WFI4NFP6D8"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It was a text book I was required to have, so it did what it needed to do I guess."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NILHXXN5A9EL"
+                },
+                "Date": "on August 10, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TQE5FC0RRZK5"
+                },
+                "Date": "on March 9, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "This book is not easily comprehended to those new to physics.  Generally speaking, the \"Six Ideas\" series is overly verbose and typical of the kinds of textbooks that take pride in making things so complex that it isolates students and simply refuses to describe any of these phenomenons in plain english.  Sadly, Unit N is the best written of the \"Six Ideas\" series.  I would attribute the success in my physics class to my excellent teacher and resources beyond this horrible series of books."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CSKZBIQL8NII"
+                },
+                "Date": "on August 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book was in great condition, used.  It will be perfect for my needs."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN22XM5A4BG2K"
+                },
+                "Date": "on November 21, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I statrted using the C Book in class and bought this N book early cos i thought it wont come on time but it came very quickly."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Six-Ideas-that-Shaped-Physics/product-reviews/0072397128/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#198,958",
+    "Timestamp": "2015-05-24 13:38:47.754310",
+    "itemurl": "http://www.amazon.com/Six-Ideas-that-Shaped-Physics/dp/0072397128"
+}

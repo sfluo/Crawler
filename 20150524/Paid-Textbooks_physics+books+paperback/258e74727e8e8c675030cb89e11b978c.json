@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.99",
+    "Name": [
+        "Student Solution Manual for Mathematical Methods for Physics and Engineering Third Edition"
+    ],
+    "OfferPrice": "$35.59",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28UZZQWUFXMQX"
+                },
+                "Date": "on September 28, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book is excellent not only for giving the solution, but explaining the problem, clarifying what exactly is being asked and giving major guidelines for how to solve the problem. Thank you very much!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K25LIVHNDTMX"
+                },
+                "Date": "on September 6, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BW7LDZ1TMVWR"
+                },
+                "Date": "on December 1, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "It only contains half the solutions, which isn't that helpful if you're self studying like me. In the end I decided to switch to other textbooks that specialize in a certain area (like linear algebra, calculus, etc) rather than work through Riley, which I found to be a rather bad way to learn the topics covered in the book for the first time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RNPMM757WV07"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "The solutions for the odd numbers don't seem to be available online anywhere, and the library didn't have this one either."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38T7T8LRDA2N0"
+                },
+                "Date": "on November 17, 2007",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "The book was in excellent conditions and its content have been very useful. This is a book with a high level but at the same time easier to follow and understand. The examples shown are illustrative enough to consider that the topic was completely covered and understood."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RHGCFWH30XN1"
+                },
+                "Date": "on January 19, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "4",
+                "Text": "The solutions manual of a very good book. Useful for instructors and students as well."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Student-Solution-Mathematical-Methods-Engineering/product-reviews/0521679737/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#852,529",
+    "Timestamp": "2015-05-24 13:41:25.374017",
+    "itemurl": "http://www.amazon.com/Student-Solution-Mathematical-Methods-Engineering/dp/0521679737"
+}

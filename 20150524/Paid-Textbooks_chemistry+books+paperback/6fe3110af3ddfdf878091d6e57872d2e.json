@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.00",
+    "Name": [
+        "Basic One- and Two-Dimensional NMR Spectroscopy"
+    ],
+    "OfferPrice": "$53.67",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 18, 2000",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": "As a student who doesn't always understand what they're talking about,  this book was wonderful.  Very clear, very easy-to-understand language.  Thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35O2NNRNVGCLL"
+                },
+                "Date": "on March 31, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ADA4TND5VOY6"
+                },
+                "Date": "on July 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I don''t have this edition, but like very much an earlier edition.  It would be helpful if Amazon was better at describing book/edition details.  It appears that this is the 5th and most recent (as of July 2014) edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VTL7PJQZL9YI"
+                },
+                "Date": "on September 5, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Really fast shipping for 6.99 dollars. Packed with plastic wrap and it looks wonderful. Textbook for NMR class, and what surprises me is that this new edition is a lot cheaper than previous one."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Basic-One--Two-Dimensional-NMR-Spectroscopy/product-reviews/3527327827/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#375,062",
+    "Timestamp": "2015-05-24 15:23:39.195136",
+    "itemurl": "http://www.amazon.com/Basic-One--Two-Dimensional-NMR-Spectroscopy/dp/3527327827"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Atomic Physics and Human Knowledge (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$7.95",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1O3Z9F1EIBC9S"
+                },
+                "Date": "on November 24, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great as only a genius could write on the subject at that time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29OODWEPQF905"
+                },
+                "Date": "on August 15, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Its interesting to see the earlier development of these topics and described with a philosophical bend, definitely a good read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10IIN4QNNQ2GM"
+                },
+                "Date": "on August 4, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "Great lectures by a great man. It would be interesting for everyone fond of physics and science in general = )"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Atomic-Physics-Human-Knowledge-Dover/product-reviews/0486479285/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#103,494",
+    "Timestamp": "2015-05-24 12:35:46.110575",
+    "itemurl": "http://www.amazon.com/Atomic-Physics-Human-Knowledge-Dover/dp/0486479285"
+}

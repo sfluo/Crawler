@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.99",
+    "Name": [
+        "Residual Stress: Measurement by Diffraction and Interpretation (Materials Research and Engineering)"
+    ],
+    "OfferPrice": "$62.47",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JLVM9GEBMKLG"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book to read and study!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FW6KMDVXX97O"
+                },
+                "Date": "on November 20, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "this book is what I wanted to have and gave me the practical approach of residual stress, so i love it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Residual-Stress-Measurement-Diffraction-Interpretation/product-reviews/1461395712/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#990,474",
+    "Timestamp": "2015-05-24 15:39:43.380767",
+    "itemurl": "http://www.amazon.com/Residual-Stress-Measurement-Diffraction-Interpretation/dp/1461395712"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$10.95",
+    "Name": [
+        "Laser Light Scattering (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$10.92",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on June 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CRPPPA9401OD"
+                },
+                "Date": "on July 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Laser-Light-Scattering-Dover-Physics/product-reviews/0486683281/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,038,463",
+    "Timestamp": "2015-05-24 12:28:20.706593",
+    "itemurl": "http://www.amazon.com/Laser-Light-Scattering-Dover-Physics/dp/0486683281"
+}

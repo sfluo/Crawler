@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$79.95",
+    "Name": [
+        "NMR and Chemistry: An introduction to modern NMR spectroscopy, Fourth Edition"
+    ],
+    "OfferPrice": "$61.86",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CFI007X5N5NU"
+                },
+                "Date": "on March 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "If you regularly do NMR it's a very nice reference.  Also pretty good as a text book.  There are good companion books such as 200 NMR experiments, but that serves a different need."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/NMR-Chemistry-introduction-modern-spectroscopy/product-reviews/0748743448/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,670,735",
+    "Timestamp": "2015-05-24 15:33:20.558698",
+    "itemurl": "http://www.amazon.com/NMR-Chemistry-introduction-modern-spectroscopy/dp/0748743448"
+}

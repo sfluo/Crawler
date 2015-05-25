@@ -1,0 +1,117 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$86.95",
+    "Name": [
+        "Mass Spectrometry for Biotechnology"
+    ],
+    "OfferPrice": "$83.59",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 10, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book is clear and concise, written in a manner that is not too sophisticated for the novice and not too simplistic for the seasoned spectrometrist.  The book eloquently conveys the art of mass spectrometry,  from the fundamentals of instrumentation to the diversity of applications.  It is ideal for teaching situations, whether introductory level  instrumental analysis courses (few textbooks can rival the quality and  quantity of instrumental content) or higher-level mass spectrometry courses  (spectral interpretation and applications galore.) Most certainly, this  should find a home on the bookshelf of every mass spectrometry lab! If you  are wondering whether mass spectrometry would be helpful for your own  research and aren't sure what questions to ask, look no further--a great  comparison of instrumental features and their adaptability to biological  situations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 1, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 3, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a very easy to follow book that introduces and explains how mass spectrometers work.  It also presents recent advnaces of particular interest to scientists of all levels who think of MS only useful with small  molecules. I found it especially usefull in MS analysis of proteins with  MALDI-TOF."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 17, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is easy to read and packed with information. I especially like the table of different kinds of compounds and which ionization technique is the best for each of them. It is obvious that the author has actually run mass spectrometers, and he gives several good tips."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 26, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very good book for the beginner in mass spectrometry.  I've used it in numerous classes and the feedback from the students has been very positive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IU7S4HCK1XK0"
+                },
+                "Date": "on August 28, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I love this book. I spent years selling GC-MS and LC-MS, then worked on software applications. But coming from a biology background, I appreciated the simple yet thorough introduction in Siuzdak's text for the applications commonly used in biotechnology. This is an excellent, well-written introductory text. I recommend it highly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SPPBBNH7R55W"
+                },
+                "Date": "on April 2, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HGDIL4M1KAAD"
+                },
+                "Date": "on March 29, 2001",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an excellent book for the mass spectrometry novice who wants to get a quick understanding of the necessary basics.  As mass spec goes mainstream with the genomics and proteomics world, guidebooks like this will become very useful also for qualifying peoples' expectations of the technology. This is a good book also for teachers and students who may not want to get into the deep details but would like to get a good overview of what the art and science of mass spec is about. The book is well-balanced between the technical instrumentation background and discussion of actual applications and types of experiments. The work is fluently written and easy to digest. I run a small mass spec analytical group and have lent this book to several of my colleagues who just \"wanted to get an idea\" of what I do. They were all very happy with this text. I have used the book as a reference several times in preparation of more general overview talks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 13, 2002",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "A well written book that clearly explains the basics in addition to interesting examples of advanced applications."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DWNVBF86KAZU"
+                },
+                "Date": "on August 25, 2008",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book was in very good shape when it arrived.  Shipping too long.  The seller may want to consider another from of shipping as I have ordered other items through amazon that have obly taken may be 7 days."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 24, 2001",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "2",
+                "Text": "Siuzdak has written a useful book for the novice or a student without a background in biological mass spectrometry.  The book's small size and concise treatise, however, gives rise to many trite and overly simplistic explanations of aspects of the field and some errors.  Consider, for example, page 37 that describes that a limitation of magnetic mass analyzers is their relatively \"low\" resolution.  This is contradicted in Table 2.1 where a correct representation of the resolution is made.  Also on page, Siuzdak describes the \"physics behind\" ion trap and conventional quadrupole analyzers as being \"similar\" when ion motion and dynamics in each analyzer is quite different.  A textbook to be read with caution!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mass-Spectrometry-Biotechnology-Gary-Siuzdak/product-reviews/0126474710/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "11"
+    },
+    "Salesrank": "#1,839,520",
+    "Timestamp": "2015-05-24 15:41:36.596857",
+    "itemurl": "http://www.amazon.com/Mass-Spectrometry-Biotechnology-Gary-Siuzdak/dp/0126474710"
+}

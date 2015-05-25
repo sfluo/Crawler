@@ -1,0 +1,909 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$15.95",
+    "Name": [
+        "The Physics of Wall Street: A Brief History of Predicting the Unpredictable"
+    ],
+    "OfferPrice": "$13.96",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YPOOY9CTUP70"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.9745762711864406,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PEVP36Y5A2EQ"
+                },
+                "Date": "on November 28, 2012",
+                "Helpfulness": 0.8865979381443299,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KFCZF2V2FS62"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.95,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25NH86B6R57KR"
+                },
+                "Date": "on March 21, 2013",
+                "Helpfulness": 0.9,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RPTVW5VEOSI"
+                },
+                "Date": "on December 8, 2012",
+                "Helpfulness": 0.9,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QQEFV51EMD7E"
+                },
+                "Date": "on December 26, 2012",
+                "Helpfulness": 0.7894736842105263,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A354HSMACAC0K"
+                },
+                "Date": "on December 6, 2012",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LLWJ4O4ZFCRM"
+                },
+                "Date": "on June 15, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FDBBQ0NK2SSO"
+                },
+                "Date": "on December 5, 2012",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADKZOXAOV8EXD"
+                },
+                "Date": "on November 30, 2012",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GCA23ZDKMHMC"
+                },
+                "Date": "on June 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N786KHIFCKJ8"
+                },
+                "Date": "on January 1, 2013",
+                "Helpfulness": 0.7083333333333334,
+                "StarRating": "3",
+                "Text": "This was not quite what I expected. The subtitle \"A Brief History of Predicting the Unpredictable\" should have been the primary title. There is no actual physics in this book - so I was disappointed. However the book is a well written rehearsing of the history of physicists on wall street and is a decent read. I wish the author had not listened to the publisher's rule about equations reducing sales and got more into the meat of the work product of physicists. Dropped a couple of stars for the misleading headline title."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXRT2HG3BRCWN"
+                },
+                "Date": "on September 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2D2Y928DNB2L9"
+                },
+                "Date": "on June 7, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKR6UK8O6DM6X"
+                },
+                "Date": "on February 13, 2013",
+                "Helpfulness": 0.7,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AGNLXVJJ8AXSR"
+                },
+                "Date": "on December 9, 2013",
+                "Helpfulness": 0.6875,
+                "StarRating": "1",
+                "Text": "I am a professor of finance, familiar with almost all of the content in the book before I read it.  I found it very superficial.  It said some models in finance are based on models borrowed from physics.  It gave some biographical information on some of the physicists and finance people that could be found in lots of other places.  It explained very little about the models.  I don't think it is a book that would help a novice understand anything nor would it help a knowledgeable person get any more depth."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IRRQUR9P7D1C"
+                },
+                "Date": "on January 16, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "This book starts out interesting, as the author discusses the early history of mathematical finance culminating in the success of early hedge fund pioneers such as Thorp. However, the thread is mostly lost in the 2nd half amidst rambling discussions of two physics \"applications\" (chaos theory to crash prediction, and gauge theory to inflation), which are dubious to say the least. It would have been much more interesting for this reader to learn exactly what it is that most physicists are actually doing on Wall Street now, and how those activities make so darn much money. Why couldn't he track down former employees of Jim Simons, or ultrafast trading algorithm designers, or physicists working as risk modelers at banks, and tell us what they do?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZS3FUDUU71YD"
+                },
+                "Date": "on December 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JZKFVW5WY7N6"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The story of the rise of the quants, unemployed physicists who migrate to Wall Street, is both fascinating and depressing.  The book takes what could be a dry topic and makes it come alive and readable for the non-quant.  The book gives the reader some insights into the complicated nature of investment behavior and the quest to somehow quantify it and makes reasonable predictions of future behavior.  The possibility of this prediction is called into question by the book and the book is a must read for those who read \"Fooled by Randomness\" and \"The Black Swan.\"  Though I've recommended this book I'd further recommend an earlier book dealing with the same issues but in more depth and somewhat better written: \"Fortunes Formula..\""
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A316YZBC8RQE16"
+                },
+                "Date": "on September 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5R8CESI833NL"
+                },
+                "Date": "on May 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XMSR4DWCLOHZ"
+                },
+                "Date": "on February 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6PGY3XAJSYH2"
+                },
+                "Date": "on January 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Weatherall writes a challenging but engaging book for the non-science major who wants to understand the roles of physicists, economists and mathematicians on Wall Street.  He carefully and thoroughly traces the evolution of the scientific approach to stock market analysis from Bachelier to Osborne to Mandelbrot to Black - Scholes to Simons and on. With insight and tact, he describes the interplay between pure science and applied science, and introduces the reader to the thinking behind the random walk concept of stock market forecasting, the chaos theory, the gauge theory; he counters Taleb's \"Black Swan\" thinking, all with perspective, fascinating asides,  all done  with the gentle reason of an intelligent careful scientific mind and pen. Some of the analysis was opaque to the reviewer's non scientific sensibilities but the challenge was worth it as the book was concise, readable and understandable for the most part."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MEJA8FER94HX"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": 0.75,
+                "StarRating": "3",
+                "Text": "Lots of interesting stories about some of the folks who had physics backgrounds who formulated mathematical models of how the market operates.  But very little about what those models were.  I was hoping for something that would improve MY understanding of the market, and I was disappointed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23DFB8IUTIZM0"
+                },
+                "Date": "on December 20, 2012",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6AB7GLZ6U54Q"
+                },
+                "Date": "on February 6, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a great book if you want a layman introduction to quantitative models in finance. However, the weakest point is the almost desperate attempt to link quantitative finance (quant models) to physics. It is true that Wall Street has hired lots of physicists to work on these problems, but the reason is that they are well versed in the differential equations that are used in the main models. Pretty much every model in quantitative finance is the result of applying mathematical ideas such as probability theory to economics arguments, such as market equilibrium and arbitrage. In this sense, it could be described as just another branch of applied math, with little to do with physics in itself. Despite this, the author tries at every step to connect people and ideas to physics, as if physics were the only reason why quantitative finance exists. I think this is incorrect, and it turns out to make the book rather lame, even though the story itself is very interesting. For example, he goes to great pains to say that some people were physicists, or were \"exposed to physics\", even though they probably just took the standard physics courses in college. He treats Dr. Black as a physicist, even though he just selected physics as his major for a semester, and almost flunked a physics course he took - by admission of the author himself. This thing goes on and on and it starts to get rather boring by the middle of the book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T2OVNIRFWS4R"
+                },
+                "Date": "on December 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A541ENUME5TKQ"
+                },
+                "Date": "on July 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZOF3HCW2JHRF"
+                },
+                "Date": "on September 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Weatherall's book is very timely because it covers one of the least understood aspects of the 2007-2010 financial crisis:  the change on Wall Street from hiring well-bred young Ivy Leaguers to hiring mathematicians and physicists.  Weatherall's early chapters on the pioneers of quantitative methods in finance are very well done, and he explains clearly the basic issues in applying such methods to finance.  The second half of the book, however, becomes a polemic and Weatherall doesn't explain what went wrong in the 2000s except to say that he disagrees with Nicholas Taleb's \"Black Swans\".  In particular, I don't understand how he could write a book on this subject and devote only one sentence to James X. Li's application of copula functions, which were the engine underlying CDOs and were a classic case of work imported from academia to Wall Street - and, furthermore, his sentence is wrong."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AN5QH1P3ELNFD"
+                },
+                "Date": "on January 31, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K6RSDC5IVM5G"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The title is a little misleading; the book shows the history of physicists using their theories to explain how the stock market works.  Some of it- especially the early theories- explain how the market works but suggested that prediction was NOT possible.  Black-Scholes is a model for pricing options- but doesn't help when predicting prices (except perhaps time decay).  The same physicists were also interested in other games of chance- so the book covers physicists trying to get the leg up on the types of games you find in Vegas.  So the book isn't always about the physics of the market but does give a great explanation of what physicists have contributed to finance.  I'd give the book a different name but I both learned quite a bit and enjoyed the read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PWRNT7FY1IIO"
+                },
+                "Date": "on October 13, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The Physics of Wall Street is an excellent read! I read this book, expecting to expand my knowledge of the Wall Street crisis. Instead, I learned of several experts and researchers that have contributed significantly to finance and economics.  However these individuals are physicists by education, I am curious to look up these physicists' original research and books to learn more.  Given these contributions, it appears that they have more intellectual capability of understanding financial markets than the so-called financial experts that guide the firms and trades on Wall Street. You will not be disappointed by this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15YDDW4ACFWKV"
+                },
+                "Date": "on January 3, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MLM20GT0JQW"
+                },
+                "Date": "on November 30, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3567IUREWFX5I"
+                },
+                "Date": "on March 26, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": "The author does a good job of explaining concepts including drawing connections between seemingly unrelated historical vignettes. Too often however he strays from his main thesis and goes down a tangential path to make his point. Don't get me wrong, I enjoy learning about the history & context of a concept, but I lose my focus when this author over-indulges himself in this respect."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AON5RAB0QYMA"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I've had a great time reading this book, it was amusing at times to imagine the pillars of finance as real people. The author stikes a good balance between story telling and technical details, though being an engineer I would love to have a more in-depth explanations of some concepts in this book. It journeys through the historical path of quantitative finance, starting from an obscure branch of mathematics, physics and finally as quantitative finance. Though the final chapter seems like a bit of a repeat, I enjoyed it thoroughly. Even the references at the end is helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10LWBOIZCF2QT"
+                },
+                "Date": "on December 14, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "The author does a good job presenting the historical context of quantitative physics as it pertains to the stock market in the last one-hundred years and tackles complex topics in a way that allows the reader to generally grasp the concepts and theories discussed. Of course, as with everything, there are certain levels to understanding any particular subject. Those with more of a quantitative background will comprehend the arguments put forth much more than I probably did, but found Weatherall's overall writing style easy to follow given the topic. The topic is presented through a look at influential physicists and quants over time and how some brilliant minds made their way to Wall Street banks after the Cold War and how their theories were applied, for better or worse. In short, this is an interesting book recommended for someone with a fairly sophisticated understanding of the topic."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASW77A8J0I068"
+                },
+                "Date": "on July 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YRX1SQ44ASZG"
+                },
+                "Date": "on June 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book gives a brief biographical sketch of each of the important figures in physics who crossed over to Wall Street. The author gives a nice overview of statistical distributions, but he stops short of providing more details about the advanced topics mentioned in the book. I could have used a hundred more pages covering the math behind some of the physics techniques applied to the markets."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23W13JR7RTOJY"
+                },
+                "Date": "on June 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33J4UNRFWPSDH"
+                },
+                "Date": "on February 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is written well, and actually discusses the details correctly - but at a pretty high level so you don't need to be mathematically inclined to understand. Not much here going to change your world, but it is interesting to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KTIY5EMBV9H1"
+                },
+                "Date": "on January 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear explanations (without math), skilfully woven into the stories of the people who developed the tools that are now being used by the traders on Wall Street. Fun to read and very instructive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2PXDFJ5G7MQP7"
+                },
+                "Date": "on January 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MGUNKW1ANLT5"
+                },
+                "Date": "on December 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VR74NA6XFUM6"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I enjoyed reading this book and learned a lot about the history of finance and the role may physicists played in it.  I actually know at least one of them---a very bright and amusing guy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3LJFEO7OXLH9F"
+                },
+                "Date": "on October 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Weatherall provides a compelling look at the role of physics models on Wall Street. I found myself greatly enjoying his explanations of the backgrounds of the key players and his excellent descriptions of their contributions.  However, while the details were fascinating, the overall message did not live up to my expectations. The book seemed to be a simple defense of the use of models on Wall Street -- in a nutshell, \"Models must be continually refined. Don't blame them for the crash.\"  While I completely agree, I would have found a more nuanced explanation that included discussions of how to detect model failure and determine if the models had gone bad more interesting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AFTHJAFLJHSGC"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It tells a good story of the development of mathematical finance without going into the abstruse details. It leaves just enough topics for further research into the field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1N31JEOKDWNZB"
+                },
+                "Date": "on September 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The book is great casual reading.  While it does ramble a bit, the stories about the scientist who have dabbled in wall streat are intreaging.  Ideal reading for older scientists in physics and related fields so they can put into perspective the work and motives of scientists they have known.  The title should have been \"The physicists' contribution to Wall Street: ---\" as there is very little actual physics in the text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OSOXJ7VKXEO3"
+                },
+                "Date": "on September 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This detailed book provides amazing historical background of financial analysis techniques, and great insights into how it works today. excellent read!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A72H1W5S6UFMY"
+                },
+                "Date": "on August 22, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have enjoyed reading this book more than just about any other book. I have also enjoyed reading this book on a kindle as it allows me to bookmark segments and then access them in a non-linear way. This book is essential to understand the financial markets and industry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NPFUJNDLPZBL"
+                },
+                "Date": "on July 29, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GNL5MXR8P6TS"
+                },
+                "Date": "on July 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A must for every investor.  I especially liked Dr. Weatherall's view that the best way to make a decent return in the stock markets is by careful hedging of positions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LZO4IEVZA1CQ"
+                },
+                "Date": "on July 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book has given me confidence that an approach to prediction in many fields using underlying physical models - instead of statistical curve fitting - is the way to succeed. The author's style is interesting and illuminating, even if his characterisations are a little exaggerated. Strongly recommended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JIMFWP8WJGRM"
+                },
+                "Date": "on June 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book was excellent in showing examples of how scientists used their discipline to understand economics and finance.  This book is for a non-technical reader."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RDFRJ3NJFALQ"
+                },
+                "Date": "on June 6, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It does a good job of identifying the key contributors to understanding the way markets work. It also honestly examines their shortcomings in a scietpntific way with the understanding that they are models so they will fail in some cases,,the goal is to keep improving the models."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQTR8Y12IVH31"
+                },
+                "Date": "on May 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Ultimately this is a good treatise on how physics is making inroads into the street. However most of these concepts are used at hedge funds or prop shops. Typical money management ie retail products don't use any of these concepts. I would have also liked more examples in each of the concepts and specifically how they are used to derive a trade."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANUTNNNNLBXQ0"
+                },
+                "Date": "on May 20, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Weatherall's tale of characters and concepts involved in creating the quant revolution on Wall Street is engaging and timely.  While he takes as a given that quants had a major impact on finance in the last 20 plus years rather than demonstrating the timing of this development, his tracing of the role of mathematical physicists in the evolution of quant finance is lucid as well as entertaining.  His methods to illustrate the significance of various models are helpful and appealing.  His ending advocacy of a new project to regenerate our understanding of financial models seems somewhat quixotic and possibly mis-conceived but still worth thinking about.  Overall, among the many books inspired by the 2008 financial crisis, this is one of the best."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LJXH5O8S9W32"
+                },
+                "Date": "on May 19, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A65AWQ5U0H98T"
+                },
+                "Date": "on May 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I didn't know what to expect when I started reading this book, but once I started, I couldn't put it down! It is a MUST READ for anyone interested in quantitative trading, its origins, and its current maxims. I don't have much else to add. Read this book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7IWSGRHONYRC"
+                },
+                "Date": "on May 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UQ0ZW2GSC098"
+                },
+                "Date": "on April 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent explanation of how physics mathmatics economics and finance merged to some extent. I found the explanation of the backgrounds of the peopled involved in this fascinating."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A302J6VY3C08TV"
+                },
+                "Date": "on April 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "from the 1600's to present a nice history of  the co-evolution of the sciences of physics and statistics and their practical application in the world of finance.  notes the important people, why their ideas were important and how they built on each other.  interesting digressions about the individuals themselves, their careers and how they ended up paying attention to finance. . . ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7042N2DPV8U7"
+                },
+                "Date": "on April 7, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The author's style and the mixture of the personal stories behind the implementation of physics based financial modeling on Wall street makes this book very captivating.  I realize that as  Ph.D. physicist myself I may not be the typical reader, but the explanations of each of the successive \"advances\" in the modeling of financial systems, along with the significance of each, are presented in a non-technical, and easy to understand fashion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11G6X3I2YWVTU"
+                },
+                "Date": "on February 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A whole new perspective of the inner workings of wall street.  Written in a way that any layman can enjoy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NZRG9DAMEM0C"
+                },
+                "Date": "on January 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DP7SNTG7DQZ7"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting read.  I debated between 4 and 5 stars but decided that I did really get a lot out of the book.  I enjoyed the stories of the specific contributions of various physicists and learned a about physics and economics.  Overall, it was a good read and I am glad that I read it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KR3JB1YZXXSG"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "mostly nonsense that was debunked in detail - see for instance this multi-part rebuttal by a real trader of most of the claims in this book at http://www.minyanville.com/business-news/editors-pick/articles/2527The-Physics-of-Wall-Street2527253A-The/2/4/2013/id/47671?refresh=1"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20HTW9NMU7KUQ"
+                },
+                "Date": "on March 24, 2013",
+                "Helpfulness": 0.625,
+                "StarRating": "2",
+                "Text": "It is a bit annoying that the author is more concentrated in connecting any good result to a physicist than talking about the physics of Wall Street. Very little is discussed about the processes. Too many pages are invested in persuading the reader that a mathematician or an engineer is in fact a physicist... that person studied mathematics but his thesis had something to do with the math of physics!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1P0RECIHXASV0"
+                },
+                "Date": "on October 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I found the book very interesting. I always hope to one idea out of any book I read and I found  several in the first couple of chapters."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27KTPDJQ0U7I6"
+                },
+                "Date": "on December 20, 2012",
+                "Helpfulness": 0.625,
+                "StarRating": "4",
+                "Text": "I have worked in the securities industry for over 20 years and consider myself a pretty well read student of the markets and this book is like no other. I really struggled with the first half of the book and it's stories about claims to \"unlock\" the mysteries of the markets. I think the stories are very entertaining and if true, amazing. I simply have too much faith in greed and fear to believe that physics and natural laws can reliably predict market movements. The book is pretty sophisticated so I would not recommend it to those new to the stock market. Interesting side note, I found his explanation of the markets from 2008+ to be way too simplistic and not well written. I think the author does better telling other people's stories than giving his own opinion about the roots of the more recent stock market history. In summary, a good book worth reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJL1ZGGIOH38C"
+                },
+                "Date": "on July 2, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU875XXJDDCMJ"
+                },
+                "Date": "on May 16, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "Started off on a high, then drifted into a path leading to nowhere.  Lost its momentum.  A good read, but nothing to write home about.  Last third is so dry, I gave up.  Would consider providing more detail, but it's simply not worth it.  Not a hopeless case though - comes across as in need of a review - there's life in there waiting to be polished up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A350EKKR7ZWBFE"
+                },
+                "Date": "on January 8, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CHUSZVMY1KJ2"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "Far too technical for me. Not what I expected."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3THXZG9UZIOUM"
+                },
+                "Date": "on July 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I expected more than a history review"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KGLCRRJY0UDB"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Well written but not much new."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI4PWC8ALKVNQ"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "A lot of background information on the people behind the physics of the markets.  That is actually really boring.  I would have liked a bit more direct discussion about the physics of the markets which is presented in a secondary and very minimal way.  I found this book to be a bit dry, despite a really catchy and interesting first page or so.  I think, if you're really interested in the history of the people behind the mathematical models then you would like this book.  If you really want to get into the \"physics\" or Wall Street - there's not much in this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G3KAMJ5UFE3Q"
+                },
+                "Date": "on December 15, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I think what this book shows is that some facility with statistical models can help some people be more comfortable trading. By and in-of itself statistical modeling does not constitute an 'edge' but can help you recognize one when you come across it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASI2MH8H4C64M"
+                },
+                "Date": "on October 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book has many interesting stories,  Don't think that this book is going to make you understand the details or be able to participate in making predictions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AW1493ZQTQ2ET"
+                },
+                "Date": "on April 21, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NABTT0Y5MVYS"
+                },
+                "Date": "on March 27, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADYGGRSF0S02V"
+                },
+                "Date": "on March 22, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I found this book to tell a very interesting account of how our investing system has evolved into what it is today. While this book does not explain methods exactly, it gives you enough names you can find their work elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VGG8Q4ZHRBGO"
+                },
+                "Date": "on February 17, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BPUN74J4E64T"
+                },
+                "Date": "on February 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I enjoyed this book immensely, and read it quickly. Weatherall is quite credible, and does solid work with tying it all together transparently, in the end. It shows how those who measure, test, and reflect, from any discipline, can figure things out about our world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23SGBS49B5M5G"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great stories of the lives, motivations, and ideas of the physicists and mathematicians whose theories and models led to the quantitative approaches used on Wall Street.  Nice build up and weaving together of ideas throughout the book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8GIUZN2T3W4Z"
+                },
+                "Date": "on December 18, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "The title suggested that the physics of the market would be discussed.  This was more a history review.  There were no equations and only two charts.  Very disappointing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T986X7J269YA"
+                },
+                "Date": "on December 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Okay book. Actually not enough physics or math for those interested, mostly stories about various physicists and mathematicians. Nothing you can't get from Wikipedia..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CC5TCNFRBTEN"
+                },
+                "Date": "on February 3, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I expectd more current ideas and possible advice on the application of the principles described.TOO MUCH PAST AND NOT ENOUGH CURRENT"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HCD6WNT5G5G8"
+                },
+                "Date": "on December 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31MCQ8LO6STQP"
+                },
+                "Date": "on November 17, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I have never read a book so worthless as this. Absolute waste of time.  It's just a bunch of filler."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MSCKQGHYYH4L"
+                },
+                "Date": "on November 7, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "2",
+                "Text": "Weak story teller, and weak story.  Physicists are generally smart people, but what counts in developing computer driven programs to make money in the stock market is more mathematics than physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30EH53Y32NUTT"
+                },
+                "Date": "on April 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18BYX6RT39QCC"
+                },
+                "Date": "on November 15, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "As describe"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HYRKMRHDL9VZ"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.2,
+                "StarRating": "4",
+                "Text": "Doesn't anyone recognize the publisher has styled the hardcover after the three holy red books, the Feynman Lectures on Physics?  A beautiful touch."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on November 28, 2012",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9QY8O9HDF4JY"
+                },
+                "Date": "on April 23, 2013",
+                "Helpfulness": 0.2,
+                "StarRating": "2",
+                "Text": "Doesn't make the case convincingly for the utility of applying maths and physics to financial mark forecasting. blah blah blah"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35VQE1L4XLYQN"
+                },
+                "Date": "on June 11, 2014",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": "This book is utterly dreadful, and no one should waste their time reading it or give any of their money to this crackpot."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19AF8PCU33W08"
+                },
+                "Date": "on July 12, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A175N19FS2B4J"
+                },
+                "Date": "on March 14, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "I have to admit to being a little of a math avoider. However, I'm interested in physics and economics, and this just didn't capture my attention.  The one thing he does get right, is that he does seem to know some of the people in the industry who use math to its best effect.  (Which might mean that you can too, if you read this.)"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Wall-Street-Predicting-Unpredictable/product-reviews/0544112431/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "99"
+    },
+    "Salesrank": "#61,171",
+    "Timestamp": "2015-05-24 12:35:36.645719",
+    "itemurl": "http://www.amazon.com/Physics-Wall-Street-Predicting-Unpredictable/dp/0544112431"
+}

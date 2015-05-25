@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.95",
+    "Name": [
+        "Classical Electromagnetic Radiation, Third Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$20.70",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24VVPS1D44TY7"
+                },
+                "Date": "on March 12, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VDFQUFX1TOSU"
+                },
+                "Date": "on July 21, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "well organized, clearly written. provides detail on certain difficult topics that often are clossed over by other texts. would recommend this book to others"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F3YQNI5FDE54"
+                },
+                "Date": "on May 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "it has quite good quality but i should spent too much time to got it. anyway it's good book for me"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Classical-Electromagnetic-Radiation-Third-Physics/product-reviews/0486490602/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#784,266",
+    "Timestamp": "2015-05-24 13:02:36.533646",
+    "itemurl": "http://www.amazon.com/Classical-Electromagnetic-Radiation-Third-Physics/dp/0486490602"
+}

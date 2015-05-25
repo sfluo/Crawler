@@ -1,0 +1,189 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Mechanics"
+    ],
+    "OfferPrice": "$180.00",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VY9E2A5AQ43J"
+                },
+                "Date": "on October 30, 2000",
+                "Helpfulness": 0.9622641509433962,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHLIDNW4GKLV2"
+                },
+                "Date": "on November 5, 1999",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "I cannot let the posted reviews go unanswered. I have taught from the various editions of Merzbacher for many years (since I was a graduate TA for a QM course) and have always had good results with it. It is not,  however, an undergraduate text at most institutions. And any student  advanced enough to be in a course where Merzbacher is appropriately used  knows that graduate physics textbooks are not intended to be problem  solving manuals. At this stage of one's development, one knows how to  convert the principles learned from lecture and study into appropriate  problem solving strategies. My principal complaint is the price; I cannot  ask my students to pay $100 for a textbook, even in 1999. More's the pity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 1, 2000",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "4",
+                "Text": "Having had this text recommended for my graduate quantum class, but not taught from (instead taught out of the execrable book by J.J. Sakurai), I think that Merzbacher has written a very readable and very thorough book.  Clearly, it is not a book aimed at undergraduates, but it is very elegantly  written and uses the approach mirrored in Gasiorowicz and others, building  the subject up with ordinary calculus and slowly bringing in matrix  algebra.  For a more modern treatment, and one very well written for the  motivated self-studier, try Shankar's \"Principles of Quantum  Mechanics\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 6, 2003",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 1, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I agree with Mr. Jacob; this is a classic for good reasons. A student with an introductory QM course under his/her belt will enjoy the more advanced subjects (2nd quantisation, dirac equation,...). I also agree with Mr.  Jacob about the price: this is much too high for the average student,  presumably the targeted audience; something like 40 dollars would be more  reasonable. Moreover, a book should be judged on its own merits; it is not  Merzbacher's fault that some students want a easier book. Giving a 1 star  comment because a book is too difficult is inappropriate."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UHLT6LZEI2RT"
+                },
+                "Date": "on December 20, 2005",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "2",
+                "Text": "In my opinion the critical problem with this book is that it fails to put quantum mechanics in the context of physical science.  The entire book reads like a mathematical exercise contrived by a person to test/entertain other people, rather than the documentation of refined mathematical statements of empirical observations.  Others have said it is hard to read, this is true.  They have said the organisation is not great, this is also true, but the larger issue, once again in my oppinion, is that the book does not relate the mathematical act of DOING quantum mechanics calculations to the the physical world.  Although this is a common malady amongts physics textbooks, texts on Quantum Mechanics by J.J. Sakurai and D.J. Griffiths, the former an advanced text, the latter introductory, manage to better put the mathematical theory in proper physical context.  Buy it because its required for most graduate level Quantum Mechanics courses, but be prepared to consult other texts in order to develop an understanding of quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AHKWRLT8HJ2HA"
+                },
+                "Date": "on October 10, 2001",
+                "Helpfulness": 0.7857142857142857,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JZUGERNK38IW"
+                },
+                "Date": "on October 4, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18I8EYPJK3XMA"
+                },
+                "Date": "on September 11, 2003",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "2",
+                "Text": "This book was originally written to make Schiffs book on quantum mechanics available to a wider audience.  It was supposed to be simpler and more readable.  Never happened.  It is too wordy by far and many topics are actually covered very superficially with the student then being expected to solve difficult problems as though the treatment had been complete.  Unfortunately, this is a common malady of physics texts.  If you want a wordy, good, reasonably complete, text then Messiah's book is excellent."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on December 12, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 6, 1999",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "3",
+                "Text": "Merzbacher's text is fairly opaque as an undergrad resource.  The problems mirror Griffiths in that some key points are developed in exercises with no explinations, making it a poor choice for independent study.  However,  after covering a section in class and then returning to the book and  working each problem, about 4 times average, you then begin to gain a  fuller understanding of the material.  I have two professors that used the  book for the first two semesters in grad school.  summary: good reference,  bad self-study or undergrad text"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATJM98ABHM35T"
+                },
+                "Date": "on November 23, 2010",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "I have found this book more difficult to read than other quantum mechanics books I have used. I feel as though a different ordering of topics would be beneficial, for example, the first few chapters use concepts like the average value of an operator <A>. However, this concept is defined/derived/explained etc several chapters after the book started using it. Additionally, it would be helpful to have some worked out examples to illustrate concepts, rather than just leaving everything as an exercise."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A50I7EI5PX0GP"
+                },
+                "Date": "on February 9, 2004",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "I took the University of Michigan's Physics 511 course from this book.  At first I found it too wordy and indirect but over the course of the term it really grew on me.  Merzbacher's discussion of 2nd quantization (and the QSHO problem in general) is superb as is his sections on the Feynman path integral representation.  Definitely my first choice amongst similar texts such as Sakurai, Shankar, and Cohen-Tannoudji."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YEATOB4PQFS1"
+                },
+                "Date": "on March 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "It is a very high level book, if you don`t have a background on Q.M. like Griffiths or Shankar this is a waste of money."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVU696JJVR0H7"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "It is completely new, I really got surprised!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13F0U8G01GWQ7"
+                },
+                "Date": "on August 17, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PVEJJQQHR5WM"
+                },
+                "Date": "on September 4, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I would look for another book to understand grad level Quantum."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1DMTHY9IAEYG6"
+                },
+                "Date": "on February 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The book is really what I wanted. And its is very cheap. It costs me only 12 USD. Really good!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX4UKHTY2UIYJ"
+                },
+                "Date": "on October 15, 1999",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "1",
+                "Text": "Hi,  This book is very poor in helping students trying to solve its problems. The problems are such a great extension of what is covered in each chapter, I'm not even sure if most professors could completely solve  its problems. I am looking for a legal solution manual to this book. I will  pay top dollar for it."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-Eugen-Merzbacher/product-reviews/0471887021/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "19"
+    },
+    "Salesrank": "#214,781",
+    "Timestamp": "2015-05-24 13:34:13.269963",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-Eugen-Merzbacher/dp/0471887021"
+}

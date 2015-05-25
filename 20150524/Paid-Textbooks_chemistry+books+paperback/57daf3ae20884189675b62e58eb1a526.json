@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Transport Phenomena Problem Solver (Problem Solvers Solution Guides)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RG3O2CUFKL92"
+                },
+                "Date": "on December 31, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM19PW09H0PKO"
+                },
+                "Date": "on July 20, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "I'm a Ph.D. student in Chemical Engineering. I needed a study guide for my qual. and thought 'how bad could this book be?'... Well... It's BAD~!... Just get yourself a BSL (Bird, Stewart, and Lightfoot) and solve their examples. After all, REA just copied all the examples right out of the BSL."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R0RD7HB7AY35"
+                },
+                "Date": "on November 21, 2006",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is true that this book has many drawbacks compared to a full-fledged textbook and it does not deliver all it promises to in the foreword, but it is cheaper than BSL and may serve as an overview of the field for the curious beginners who do not want to spend a great deal of money on BSL and are reasonably proficient in physics. Furthermore, we do not know who copied the examples from whom: BSL from REA or REA from BSL."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 1, 2002",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This book has zero usability.  It is not an adequate source of reference for any course pertaining to transport phenomena.  You would have better luck using the internet to help you get past advanced problems with which you struggle, as this book is poorly  organized and has little to offer to the student of any course beyond the introductory level."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KR5KV1P5W8OU"
+                },
+                "Date": "on November 9, 2006",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Overall this book appears to be a good reference, however, i did not use it very much while taking the class."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15QNTGGZWSB11"
+                },
+                "Date": "on July 22, 2008",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This item was sent to my old adderss even thogh I had sent you my new adderss."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Transport-Phenomena-Problem-Solvers-Solution/product-reviews/0878915621/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#1,387,560",
+    "Timestamp": "2015-05-24 15:36:47.144779",
+    "itemurl": "http://www.amazon.com/Transport-Phenomena-Problem-Solvers-Solution/dp/0878915621"
+}

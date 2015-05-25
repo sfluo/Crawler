@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$26.95",
+    "Name": [
+        "Non-Equilibrium Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$22.34",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 22, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 10, 1999",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": "Systematic and comprehensive introduction to linear non-equilibrium thermodynamics. After an extensive description of the fundamentals, a variety of examples is given. As the authors indicate in their preface, the  book only deals with linear NET, which means that the more exciting modern  examples of non-linear NET are not covered. This does not mean, however,  that this book would be obsolete; a lot of physics happens to be linear,  and the classics of linear NET (Wiener-Khinchine, Onsager) are certainly  worth studying. I would even say, that linear NET should first be  appreciated before venturing in the more modern aspect of non-linear NET."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2X674TN3P7AVU"
+                },
+                "Date": "on May 29, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": "I Purchased this text to help bridge the gap between Equilibrium Thermodynamics and Applied Kinetics, unfortunately this book is difficult to dive into. The content is excellent, has everything you need to know about irreversible process the problem is just that. I find it hard to just open this text, find a topic, and read about it. The derivations are complete but are lacking steps that a newcomer to the topic might want to see. Format is OK, would have been nice if the publisher updated this edition with less text on each page (i.e. larger font and pages). This is a hit or miss; I think it really depends on your background. If you're coming from a fluid mechanics background this might be well suited for you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31H78SRWVG15V"
+                },
+                "Date": "on October 11, 2007",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": "This book is a classic in the theory of Thermodynamics of Irreversible Processes. It has a terrific historical introduction. But the body of the book looks a bit outdated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H0TXMQR3Q5XK"
+                },
+                "Date": "on March 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have 3 copies!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19X9C9RHNV3EE"
+                },
+                "Date": "on April 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Non-Equilibrium-Thermodynamics-Dover-Books-Physics/product-reviews/0486647412/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#288,954",
+    "Timestamp": "2015-05-24 13:02:32.202803",
+    "itemurl": "http://www.amazon.com/Non-Equilibrium-Thermodynamics-Dover-Books-Physics/dp/0486647412"
+}

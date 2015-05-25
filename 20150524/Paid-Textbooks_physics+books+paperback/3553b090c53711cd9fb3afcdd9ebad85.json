@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "The Lightning Discharge (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.25",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SYVRPOCL0ION"
+                },
+                "Date": "on March 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Having purchased three of Martin Uman's publications I must admit that the knowledge gained for my own research where I live will be extremely helpful.  Not only on the simplest aspects of how lightning starts, but what the actual flash consists of and subsequent return stroke initiation. The how, why and when of lightning and its characteristics will, for myself, be forever changed as to how it all works.  Brilliant book, easy to understand but some knowledge of lightning would be advantages by the reader first up.  Reading the books in sequence as one's educational journey advances is the key.  Fascinating and rewarding...the best book purchases I have made."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALJDIU64VOYDS"
+                },
+                "Date": "on December 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Good, basic information and lots of observations. Illustrations are not very good resolution but passible. Needs updating as the book is dated. No mention of sprites."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lightning-Discharge-Dover-Books-Physics/product-reviews/0486414639/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#610,143",
+    "Timestamp": "2015-05-24 12:47:17.185351",
+    "itemurl": "http://www.amazon.com/Lightning-Discharge-Dover-Books-Physics/dp/0486414639"
+}

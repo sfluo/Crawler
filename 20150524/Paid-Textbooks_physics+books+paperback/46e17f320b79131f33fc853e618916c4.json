@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Lightning (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$13.51",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on November 17, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2H83XJ1VKCXUG"
+                },
+                "Date": "on December 9, 2005",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SYVRPOCL0ION"
+                },
+                "Date": "on March 7, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The second book I ordered in the series from Martin Uman.  Whilst some of the mathematical equations are things I am not educated in, they are without doubt most helpful in the context of the publication and their reasons for inclusion.  I would highly recommend this particular publication to accompany anyone researching or interested in the technical aspects of lightning. 5 stars!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT4I82A37D6AW"
+                },
+                "Date": "on April 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book focused more on the physics of lightning whereas I was trying to find a book on understanding an environment that creates lightning. Still a good book just not quite what I was looking for."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10BBWMQTST78P"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "An old but still good book on lightning."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JF01Q4CGD816"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This had a lot of old info in it even though dated 2011. Was expecting more up-to-date facts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Lightning-Dover-Books-Physics-Martin/product-reviews/0486645754/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#1,210,291",
+    "Timestamp": "2015-05-24 13:26:55.233753",
+    "itemurl": "http://www.amazon.com/Lightning-Dover-Books-Physics-Martin/dp/0486645754"
+}

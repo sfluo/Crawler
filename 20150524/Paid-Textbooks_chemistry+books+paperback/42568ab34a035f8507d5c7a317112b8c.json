@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$157.60",
+    "Name": [
+        "Nuclear Magnetic Resonance Spectroscopy"
+    ],
+    "OfferPrice": "$157.60",
+    "Reviews": {
+        "AverageStarRating": "2.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARZMX2XSG4RIS"
+                },
+                "Date": "on September 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This book is decent if you are new to the field of NMR or need a quick refresher. Though there are better introductory texts on NMR, this book explains the basic concepts of spin, chemical shielding, chemical shifts, etc well enough for an undergrad to be able to follow along. It does cover the basic pulse sequences and experiments you would expect to run in any organic chemistry lab. This book is lacking in two main areas. First, it is a terribly dry book to read as it explanations only scratch the surface of the science. Second, its discussion of multi-dimensional NMR is extraordinarily basic. It does have a few discussions on basic experiments such as HMQC, HETCOR and COSY. If you are above the novice level in NMR I would suggest skipping this book and going with something like Jacobsen, which has a much better overall discussion of the field and covers topics ranging from simple 1D experiments to protein NMR. With all of this being said, it is a fairly cheap book which will allow you to begin to understand the field."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1STTMJFWCR2FJ"
+                },
+                "Date": "on December 20, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Spectroscopy-Nelson/product-reviews/0130334510/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#2,957,872",
+    "Timestamp": "2015-05-24 15:48:39.714743",
+    "itemurl": "http://www.amazon.com/Nuclear-Magnetic-Resonance-Spectroscopy-Nelson/dp/0130334510"
+}

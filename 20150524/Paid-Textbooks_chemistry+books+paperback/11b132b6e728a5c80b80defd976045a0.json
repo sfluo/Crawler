@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$139.00",
+    "Name": [
+        "Molecular Physics and Elements of Quantum Chemistry: Introduction to Experiments and Theory (Advanced Texts in Physics)"
+    ],
+    "OfferPrice": "$111.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IGBMX6UDD4MC"
+                },
+                "Date": "on June 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Molecular-Physics-Elements-Quantum-Chemistry/product-reviews/3642074006/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,551,768",
+    "Timestamp": "2015-05-24 15:22:57.272856",
+    "itemurl": "http://www.amazon.com/Molecular-Physics-Elements-Quantum-Chemistry/dp/3642074006"
+}

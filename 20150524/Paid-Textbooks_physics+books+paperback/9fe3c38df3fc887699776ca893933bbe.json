@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$207.20",
+    "Name": [
+        "University Physics Volume 1 (Chs. 1-20) and MasteringPhysics with Pearson eText Student Access Code Card Package (13th Edition)"
+    ],
+    "OfferPrice": "$161.86",
+    "Reviews": {
+        "AverageStarRating": "2.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CFL2MSD7SM84"
+                },
+                "Date": "on September 5, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Although this book came a day later then it was supposed to, I am very happy with my purchase. The book comes with the masteringphysics package bundled up nice and neat!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AGD8URRJIJ6"
+                },
+                "Date": "on July 19, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HZ16VOKLEFHV"
+                },
+                "Date": "on February 2, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "The text wasn't helpful and my teacher never used it. Big waste of money"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6U876MNBWH8E"
+                },
+                "Date": "on September 29, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Half of the pages were stuck to each other when it arrived"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AID1U1JR2671W"
+                },
+                "Date": "on February 4, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Came right on time, was the right edition, and was able to get a start on learning physics right away- couldn't have asked for more!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/University-Physics-MasteringPhysics-Pearson-Student/product-reviews/0321785916/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#336,362",
+    "Timestamp": "2015-05-24 13:28:56.651420",
+    "itemurl": "http://www.amazon.com/University-Physics-MasteringPhysics-Pearson-Student/dp/0321785916"
+}

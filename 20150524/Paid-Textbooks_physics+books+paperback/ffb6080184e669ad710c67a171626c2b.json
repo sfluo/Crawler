@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$22.00",
+    "Name": [
+        "Advanced Physics Demystified"
+    ],
+    "OfferPrice": "$16.17",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E3F04ZK7FG66"
+                },
+                "Date": "on September 26, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27V11YXV0F2X3"
+                },
+                "Date": "on August 17, 2008",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "4",
+                "Text": "It's a decent book. It's not to basic, but it does skip over anything thta requires advanced calculus. If you do the quizzes and try not to memorize answers, but actually work the problems, you should be able to retain and understand the information."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RAFEWT9NJ4N3"
+                },
+                "Date": "on April 15, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "Stan Gibilisco sort of dropped the ball with this one.  It is an adequate overview of classical physics.  But it tries to cover to much ground and in doing so, doesn't really cover any topic at even a rudimentary level.  About the most a general reader will get out this volume is an idea of \"how\" to look for a book to answer their curiosity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z50VGE50RHRX"
+                },
+                "Date": "on April 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "There were several typos in the text. This is not an advanced physics book. There was nothing either mystifying or demystifying about it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JOOTJWLDC69G"
+                },
+                "Date": "on April 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "The book has a very attractive name but did not go far in demystifying the concepts. Very few concepts are covered. And even these concepts were not demystify according to my expectations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10AT9H6H4KMIN"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Just like Physics DeMystified but with more detail, suitable for an honors high school course."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Advanced-Physics-Demystified-Stan-Gibilisco/product-reviews/0071479449/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#773,219",
+    "Timestamp": "2015-05-24 13:40:58.731037",
+    "itemurl": "http://www.amazon.com/Advanced-Physics-Demystified-Stan-Gibilisco/dp/0071479449"
+}

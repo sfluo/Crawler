@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$56.40",
+    "Name": [
+        "Introduction to Vacuum Technology"
+    ],
+    "OfferPrice": "$45.67",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31OACZ00DH7RI"
+                },
+                "Date": "on October 3, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26MMBGHLEKOKM"
+                },
+                "Date": "on September 26, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have been teaching vacuum technology at the technician level for eight years and this is the only vacuum book I know of which covers the material on that level. An excellent balance between theory and practice."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Vacuum-Technology-David-Hata/product-reviews/0130450189/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,019,085",
+    "Timestamp": "2015-05-24 15:27:05.068710",
+    "itemurl": "http://www.amazon.com/Introduction-Vacuum-Technology-David-Hata/dp/0130450189"
+}

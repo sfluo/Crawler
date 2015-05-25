@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$9.95",
+    "Name": [
+        "Mathematics for Quantum Mechanics: An Introductory Survey of Operators, Eigenvalues, and Linear Vector Spaces (Dover Books on Mathematics)"
+    ],
+    "OfferPrice": "$9.16",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MJMYLRTZ76ZX"
+                },
+                "Date": "on May 2, 2008",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A73XT50G162VT"
+                },
+                "Date": "on July 5, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Great book for obtaining/reviewing the math skills needed for quantum mechanics.  I love the message:  the mathematics needed for quantum mechanics is relevant for many areas of classical physics.  In fact, the math was mostly developed in the context of classical physics, enabling quantum mechanics to develop at a remarkable pace once the concepts were discovered.  For $10, it's a great deal for anyone learning quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14IAVD7ID9KOR"
+                },
+                "Date": "on March 18, 2009",
+                "Helpfulness": 0.43243243243243246,
+                "StarRating": "1",
+                "Text": "Unless you have many, many years of advanced mathematics under your belt don't bother. Also, there are no examples actually pertaining to QM."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematics-Quantum-Mechanics-Introductory-Eigenvalues/product-reviews/0486453081/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#538,665",
+    "Timestamp": "2015-05-24 12:36:50.713493",
+    "itemurl": "http://www.amazon.com/Mathematics-Quantum-Mechanics-Introductory-Eigenvalues/dp/0486453081"
+}

@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Physics by Inquiry: An Introduction to Physics and the Physical Sciences, Vol. 1 (Volume 1)"
+    ],
+    "OfferPrice": "$70.56",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WJFU7BA79BRF"
+                },
+                "Date": "on August 1, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is essential to any future teacher's education. It describes the resources and tools you need to discover science on your own. It does not force definitions and concepts through memorization, rather it allows a person to see the scientific principles for oneself through experimentation and observations. This book could help shape the way future educators approach science in their classrooms, i.e., through the use of inquiry. This method taps into a child's natural curiosity and helps fuel questions to promote more understanding of a topic. As educators, isn't that our ultimate goal? To inspire children to want to know more?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATKWME0PX8MSA"
+                },
+                "Date": "on July 21, 2007",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "This book uses principles developled by the University of Washington Physics Education Group.  The inquiry method frees the instructor from the board, and asks students to learn on their own by facing their own misconceptions."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ORMDUOOFAA76"
+                },
+                "Date": "on October 29, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NPZQXVLK0OT5"
+                },
+                "Date": "on March 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "needed for school."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMQ99QALZ9NON"
+                },
+                "Date": "on January 13, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Received the text just as described in an adequate number of days. Very happy with the fast and efficent service."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EEOH5T6J1OLU"
+                },
+                "Date": "on October 2, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This was not what I expected. It it kind of hard to follow. I would not recommend it for teachers to follow."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Inquiry-Introduction-Physical-Sciences/product-reviews/0471144401/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#104,224",
+    "Timestamp": "2015-05-24 12:32:24.046125",
+    "itemurl": "http://www.amazon.com/Physics-Inquiry-Introduction-Physical-Sciences/dp/0471144401"
+}

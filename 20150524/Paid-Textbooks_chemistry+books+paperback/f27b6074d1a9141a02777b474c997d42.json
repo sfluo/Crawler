@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Ultraviolet and Visible Spectroscopy: Analytical Chemistry by Open Learning"
+    ],
+    "OfferPrice": "$150.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PUOXG9ERD13Y"
+                },
+                "Date": "on December 15, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is concise and explains all you need to know in simple english. The excercises help understand the material and they are easy to do. Highly recommended."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Ultraviolet-Visible-Spectroscopy-Analytical-Chemistry/product-reviews/0471967432/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,663,943",
+    "Timestamp": "2015-05-24 15:29:38.012946",
+    "itemurl": "http://www.amazon.com/Ultraviolet-Visible-Spectroscopy-Analytical-Chemistry/dp/0471967432"
+}

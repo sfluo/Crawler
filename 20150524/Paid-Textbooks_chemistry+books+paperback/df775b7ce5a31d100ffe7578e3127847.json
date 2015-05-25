@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$68.95",
+    "Name": [
+        "Astrochemistry: From Astronomy to Astrobiology"
+    ],
+    "OfferPrice": "$57.01",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q0JVGY4TQ9YY"
+                },
+                "Date": "on November 20, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "2",
+                "Text": "This book makes that ambitious attempt to cover a very large and diverse field.  The author is clearly very enthusiastic and knowledgeable.  There is a great deal of interest in this book, too.  That said, there are numerous typos (e.g., a table showing the composition of the atmospheres of the inner planets has a blank column for oxygen; incorrect table citations in the text;  tables and figures that do not entirely agree with the description of them in the text; errors in the formulas presented, etc).  Further, the author covers some technical topics very briefly, making it hard to follow if you are using this text as your first introduction to the field.  So, if you want to use this book as your introduction to the field, this book will have some interesting information for you, but may not be as helpful as more introductory books."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Astrochemistry-Astronomy-Astrobiology-Andrew-Shaw/product-reviews/0470091371/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#583,442",
+    "Timestamp": "2015-05-24 15:31:59.127947",
+    "itemurl": "http://www.amazon.com/Astrochemistry-Astronomy-Astrobiology-Andrew-Shaw/dp/0470091371"
+}

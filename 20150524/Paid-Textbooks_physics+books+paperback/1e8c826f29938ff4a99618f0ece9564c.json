@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Mathematical Foundations of Quantum Mechanics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$11.46",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y3K0ZKPJ08ZI"
+                },
+                "Date": "on November 12, 2006",
+                "Helpfulness": 0.9473684210526315,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Y4TGWG1A0VS7"
+                },
+                "Date": "on October 8, 2007",
+                "Helpfulness": 0.7,
+                "StarRating": "3",
+                "Text": "This book tries to cover, (but not with success)  the needed mathematics for learning or teaching Quantum Mechanics. The contains of a course in Mathematical Foundations of Quantum Mechanics must include mainly two branches of Mathematics: Group theory and Operator theory.  The corresponded chapters in the book are short. This book, written in a high level, is difficult to be understood by undergraduate students. It is proper for postgraduates"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Z50VGE50RHRX"
+                },
+                "Date": "on August 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "I guess it was my fault. This book is very wordy. Not enough math. I though that mathematical foundations referred to the math but it is more like a lot of history and then a little bit of math. Buy it if you like reading about math."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A76CYW2JD1TT7"
+                },
+                "Date": "on September 16, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "very good and clear book in mathematical foundations of QM, although a little bit dated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UED1902KOQN4"
+                },
+                "Date": "on June 9, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I was very excited to order this book until I perused its pages.  It does not deliver what it promises, in my opinion.  Perhaps, people are impressed because of the word \"Harvard\".  This is NOT a thorough treatment of QM mathematics.  It is at best a thumb nail sketch of the subject.  Schaum's outline of QM is much better and there isn't much difference in the price."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GFOVUOGVQLNK"
+                },
+                "Date": "on February 23, 2003",
+                "Helpfulness": 0.38636363636363635,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Foundations-Quantum-Mechanics-Physics/product-reviews/0486435172/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#1,070,812",
+    "Timestamp": "2015-05-24 12:36:54.965179",
+    "itemurl": "http://www.amazon.com/Mathematical-Foundations-Quantum-Mechanics-Physics/dp/0486435172"
+}

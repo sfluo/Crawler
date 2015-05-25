@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$21.95",
+    "Name": [
+        "Solid State Theory (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$17.10",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22HMM1G4LCOV3"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I do not have much time to write a full review of this book, but I felt the need to write this review to  balance out the rating from the previous reviewer.  I must say that this book is a very good book on solid state physics but I should note that this IS NOT an introductory book.  It is assumed the reader is at the graduate level and has a solid year of quantum mechanics under their belt.  Don't hesitate to buy this book if you are interested in solid state physics and have the necessary background.  Also the book is a bargain at less than 20 dollars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOE7O10VBFTLY"
+                },
+                "Date": "on September 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm a graduate student studying solid state physics and I found this book to be very helpful.  It was strongly recommended to me by my research professor so I picked up a copy for myself.  I consider it as a solid middle ground between an undergraduate text and Ashcroft/Mermin."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1U9DVULH1FCDC"
+                },
+                "Date": "on October 17, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "Missed out on so many basic ideas.  This is not a book for those in an undergrad level.  Kittel has a good program intended to teach basic topics but fails miserably.  Keep looking elsewhere."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Solid-State-Theory-Dover-Physics/product-reviews/0486639487/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#229,941",
+    "Timestamp": "2015-05-24 12:37:04.626803",
+    "itemurl": "http://www.amazon.com/Solid-State-Theory-Dover-Physics/dp/0486639487"
+}

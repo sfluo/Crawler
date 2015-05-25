@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Honors Physics Essentials: An APlusPhysics Guide"
+    ],
+    "OfferPrice": "$16.99",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MLQUBLVS28K1"
+                },
+                "Date": "on February 16, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FZSW7ON0A32E"
+                },
+                "Date": "on July 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a very clearly written and readable book for teachers and students of physics which will take you beyond the basic level.  As a high school physics teacher, I find this book valuable as a resource for teaching my honors or Pre-AP level physics classes, and for challenging bright students who are interested in learning more about physics, such as students who are interested in going into science, medicine, or engineering.  I highly recommend it to anyone interested in learning more about physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3H4VA22WQEOIF"
+                },
+                "Date": "on November 13, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My daughter's  high school physics teacher wrote this so I wanted to support him. But it is filled with useful, easy-to-read and practical tips on all-things physics. Fun to just browse through as a parent!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A159LX9EAA7MQ3"
+                },
+                "Date": "on December 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I have been quite happy with this book that I am using to teach physics to my High School age son.  The descriptions are very clear and the sample problems reinforce the concepts.  The web site used to support the book is also quite good."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMQD2P28WC0AD"
+                },
+                "Date": "on December 30, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I bought this for our physics students and they accompany the text well. Very straight forward approach. I would have given it 5 stars if it had problem bank and separate answers for each unit."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NSAUHSX7LOTE"
+                },
+                "Date": "on November 23, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very nice and concise intro to algebra-based physics appropriate for an accelerated first high school physics course."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ARZGII5VV0KWF"
+                },
+                "Date": "on December 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great product"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Honors-Physics-Essentials-APlusPhysics-Guide/product-reviews/0983563314/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#143,162",
+    "Timestamp": "2015-05-24 12:54:15.340733",
+    "itemurl": "http://www.amazon.com/Honors-Physics-Essentials-APlusPhysics-Guide/dp/0983563314"
+}

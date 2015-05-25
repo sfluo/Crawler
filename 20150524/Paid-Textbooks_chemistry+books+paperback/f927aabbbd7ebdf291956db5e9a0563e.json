@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$70.00",
+    "Name": [
+        "Crystals and Crystal Structures"
+    ],
+    "OfferPrice": "$48.68",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on September 8, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystals-Crystal-Structures-Richard-Tilley/product-reviews/0470018216/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,429,440",
+    "Timestamp": "2015-05-24 15:36:11.827112",
+    "itemurl": "http://www.amazon.com/Crystals-Crystal-Structures-Richard-Tilley/dp/0470018216"
+}

@@ -1,0 +1,162 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$58.00",
+    "Name": [
+        "The Physics of Solar Cells (Properties of Semiconductor Materials)"
+    ],
+    "OfferPrice": "$49.89",
+    "Reviews": {
+        "AverageStarRating": "3.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SKYICF0ZUGOV"
+                },
+                "Date": "on September 13, 2008",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6LC2NJGTZ7KC"
+                },
+                "Date": "on February 1, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is very approachable, reasonably comprehensive, and connected to some of the most recent research topics.  Of the three books I have read on the subject of solar cells, this is my favorite.  The book contains discussions on solar cell behavior from a thermodynamic and electrical engineering perspective, which I liked.  I also found it to discuss the topic from a more fundamental perspective. Rather than just skim the surface of the major results of solar cell theory, it builds up the framework in an manner which is reasonably straightforward."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2B5E0NVG1V6E7"
+                },
+                "Date": "on February 10, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a great book for senior undergrads and graduate students.  It focuses on other solar cell materials besides Silicon.  It was a great reference for teaching material and I referenced it in my PhD thesis.  I recommend this book in addition to Martin Green's Solar Cell book (standard undergrad solar cell reference book.)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A104JVDCY72Q0F"
+                },
+                "Date": "on August 24, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GA84UMI1U38F"
+                },
+                "Date": "on August 13, 2008",
+                "Helpfulness": 0.875,
+                "StarRating": "4",
+                "Text": "This book provides a well thought out introduction to the physics of photovoltaic cells and systems. The treatment provides mathematical details at a level that will be accessible to science and engineering graduates and upper class undergraduates. Some derivations are not as well explained as others. However, the working relationships are worth knowing and can serve as a lead into other references. The book is well worth its relatively modest cost."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AD0ZI0L8NAIR"
+                },
+                "Date": "on May 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am a newcomer to the field of photovoltaics and was looking for a book simple to understand but robust in content that would convey the fundamental concepts effectively. So far I am halfway through the book, reading during my coffee breaks and before bedtime and I am thoroughly enjoying it. I came to choose this book not by anyone's recommendation or referral but by the affordability and judging the table of content and few sample pages. Most of the other books in this area are so expensive, you have to sort of gamble a hefty amount of money to gain a very little perspective on the nature and scope of the field of photovoltaics. This book so far seems to be very good except there are some countable number of typos that sort of distract during the reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LGQRDKM883AA"
+                },
+                "Date": "on March 3, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm a PhD student and I'm working on quantum dot solar cells. However, concepts in this book is very clear, precise and useful in explaining how solar cell works. After reading for a few hours, I already learned a lot which I didn't know before."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22VNF8GION1EB"
+                },
+                "Date": "on January 6, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PLDKTYZEYABS"
+                },
+                "Date": "on December 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a very good text for a course on solar cells; to the point and with many examples written having the student in mind; no fanfare and no fuzzy points in the the chapters; a very useful text for the newcomers in the PV- field, for the instructor and the engineer"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EH95KBQ56B3D"
+                },
+                "Date": "on February 24, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "Can be hard to read and understand in places. Makes some assumptions and leaves work out. Tough book to just learn from."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DJOQ3TVG2HRB"
+                },
+                "Date": "on March 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good book, perfect material for solar cells. I like it very much, and strongly recommend it for new learners."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG5GTJ0NY70EM"
+                },
+                "Date": "on October 20, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is good enough for my reference and giving me a helpful hand for completion of work assign by Professor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RT3HO2KON1CO"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "Equations and figures in the Kindle version look terrible. I'd give the print version 5 stars."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A237TWEH8RBAM3"
+                },
+                "Date": "on October 8, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "The book is great.  But for the electronic version, the equations are hard to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A129Q28SH3D0PH"
+                },
+                "Date": "on February 11, 2009",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22X6O0QXNNIR0"
+                },
+                "Date": "on May 10, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This book goes over all of the important concepts of solar cells including generation, recombination, cell materials, junctions, and more. I would recommend this book if you are interested in learning about how solar cells work, however be warned that it is a pretty 'scientific' text. The language and equations are pretty dense for a beginner in the field, but if you spend some time, it is actually very good at teaching the concepts."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Solar-Properties-Semiconductor-Materials/product-reviews/1860943497/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "16"
+    },
+    "Salesrank": "#161,338",
+    "Timestamp": "2015-05-24 12:58:02.822368",
+    "itemurl": "http://www.amazon.com/Physics-Solar-Properties-Semiconductor-Materials/dp/1860943497"
+}

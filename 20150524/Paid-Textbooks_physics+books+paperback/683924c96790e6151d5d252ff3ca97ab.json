@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Physical Kinetics: Volume 10 (Course of Theoretical Physics S)"
+    ],
+    "OfferPrice": "$65.11",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on October 26, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is probably the best book written on the physical basis of (classical and quantum) kinetic phenomena. That said, the reader should be aware the book is written in the famous Landau style: derivations are carried out based on strong physical intuition and with minimum mathematical detailing and little rigour; much is expected from the reader. The rewards are high for those who (can) pursue the thing: you will be able to muse your collaborators by deriving all those nonlinear PDEs and at the same time to stand for or against recent experimental data by handwaving arguments (that depends a little bit on your brainware, too...). This book together with the Fluid Mechanics and the Electrodynamics of Continuous Media titles of the same series are almost everything you need to get a solid ground in the study of, e.g., plasma physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on April 15, 1999",
+                "Helpfulness": 0.8125,
+                "StarRating": "5",
+                "Text": "This book is the volume 10 and the last volume of the great Course of Theoretical Physics by Landau and Lifshitz. It explains in great detail and rigour the theory of the processes ocurring in several systems not in  statistical equilibrium. The book opens with a complete account of the  transport processes in gases not in equilibrium, certainly the most  representative physical system not in equilibrium. The Boltzmann transport  equation is derived in a general and elegant way in this chapter.  After a  second chapter which developes a mathematical technique called the  diffusion approximation, the book discusses various processes occurring in  several systems not in equilibrium, notably the processes occurring in  plasmas. Other systems, such as insulators, quantum liquids, metals etc are  discussed.  In a final chapter, it developes the kinetics of phase  transitions, in a magnific and concise form. Really this is a superb book,  where the reader will learn with detail all these subjects."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 15, 1999",
+                "Helpfulness": 0.625,
+                "StarRating": "5",
+                "Text": "This book is the volume 10 and the last volume of the great Course of Theoretical Physics by Landau and Lifshitz. It explains in great detail and rigour the theory of the processes ocurring in several systems not in  statistical equilibrium. The book opens with a complete account of the  transport processes in gases not in equilibrium, certainly the most  representative physical system not in equilibrium. The Boltzmann transport  equation is derived in a general and elegant way in this chapter.  After a  second chapter which developes a mathematical technique called the  diffusion approximation, the book discusses various processes occurring in  several systems not in equilibrium, notably the processes occurring in  plasmas. Other systems, such as insulators, quantum liquids, metals etc are  discussed.  In a final chapter, it developes the kinetics of phase  transitions, in a magnific and concise form. Really this is a superb book,  where the reader will learn with detail all these subjects."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physical-Kinetics-Course-Theoretical-Physics/product-reviews/0750626356/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#558,176",
+    "Timestamp": "2015-05-24 13:13:39.243516",
+    "itemurl": "http://www.amazon.com/Physical-Kinetics-Course-Theoretical-Physics/dp/0750626356"
+}

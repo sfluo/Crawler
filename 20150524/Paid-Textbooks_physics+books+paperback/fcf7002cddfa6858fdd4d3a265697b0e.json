@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "The Equations of Radiation Hydrodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$19.95",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36145I1KQVV2I"
+                },
+                "Date": "on June 16, 2000",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I had the fortune of finding this book while I was interested in studying the radiative transfer of polarised radiation. It was really great! I am convinced that this book is a real jewel for anybody interested in  radiative transfer. A rare subject like Stokes polarisation is treated with  simplicity, great detail and deep understanding of the underlying physics  of photon transfer. Some years later I had the privilege of meeting  personally the author during one of his visits to the University of  Bologna. I treasure the remember of this meeting with such a fascinating  mind which had deeply impacted the whole field of radiation diffusion and  my own career."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3S1SZVK8JWJZX"
+                },
+                "Date": "on November 7, 2009",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Equations-Radiation-Hydrodynamics-Dover-Physics/product-reviews/0486445992/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,597,881",
+    "Timestamp": "2015-05-24 13:30:02.248383",
+    "itemurl": "http://www.amazon.com/Equations-Radiation-Hydrodynamics-Dover-Physics/dp/0486445992"
+}

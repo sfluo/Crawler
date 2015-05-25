@@ -1,0 +1,180 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.99",
+    "Name": [
+        "Exercises for the Feynman Lectures on Physics"
+    ],
+    "OfferPrice": "$18.65",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E50HHYCSD1HO"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": 0.8981481481481481,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2120T9KWR8UHC"
+                },
+                "Date": "on November 16, 2014",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "3",
+                "Text": "I purchased this to supplement my reading of the Feynman Lectures. I've never taken physics beyond a high-school level, but was interested in learning. The questions are helpful, but unfortunately a lot of the answer key is missing. So as a self-study student with no other resources, it makes it very difficult to know if you are grasping the material correctly. I would happily pay 5 times the price to have an extensive answer key, with some answers having an in-depth explanation as to how the result was arrived at."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SRYI8JCPS53"
+                },
+                "Date": "on July 29, 2014",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": "Wonderful problems to think about. For example, the first problem in the whole book asks \"If heat is merely molecular motion, what is the difference between a hot, stationary baseball and a cool, rapidly moving one?\" There are plenty of \"compute the force on member D in the diagram above\" type of problems, but also lots of ones to simply get you thinking about how all of this relates to the real world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F0OWR3SXGO79"
+                },
+                "Date": "on December 16, 2014",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "It is a classic book. Must to solve, if you want to learn physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F8S77RGQ0VEB"
+                },
+                "Date": "on December 20, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "I've had the lecture series for years, but now the set is complete with the problem set... I am a complete physics student now..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG136XWDT319N"
+                },
+                "Date": "on December 9, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Excellent source of problems for instructors and students of physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A7TAHMOE4GT2"
+                },
+                "Date": "on January 6, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Very satisfied"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CLELELCCCKEX"
+                },
+                "Date": "on April 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I've been a Feynman fan from the publication of QED. I have read everything from and about him since."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A338LXFI9XQDD7"
+                },
+                "Date": "on March 8, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Excellent"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QD7AR2C1MML5"
+                },
+                "Date": "on January 19, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "a lot of dandy problems"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FZBKUCHLWR11"
+                },
+                "Date": "on January 14, 2015",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Get it"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12JYJ8M8UNRM8"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "It's Feynman. How can you lose?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AK9YRNAI4VYRH"
+                },
+                "Date": "on November 15, 2014",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "Can't complain"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3K6BG8N41V9M4"
+                },
+                "Date": "on August 28, 2014",
+                "Helpfulness": 0.42857142857142855,
+                "StarRating": "3",
+                "Text": "Not what I expected, but the price was right.  It's a great companion to the Lecture series though."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11AP7M1ZGTVMK"
+                },
+                "Date": "on November 1, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Answers fully worked out would be fantastic, perhaps online."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A156N3AXWHLJD2"
+                },
+                "Date": "on September 18, 2014",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "3",
+                "Text": "Collection of problems, also available on the web. Some of the problems are good but the book is too expensive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ0U89818WFYW"
+                },
+                "Date": "on September 6, 2014",
+                "Helpfulness": 0.125,
+                "StarRating": "5",
+                "Text": "great book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16QDN3KSWXU3O"
+                },
+                "Date": "on August 31, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "He is the best."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Exercises-Feynman-Lectures-Physics-Richard/product-reviews/0465060714/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "18"
+    },
+    "Salesrank": "#37,108",
+    "Timestamp": "2015-05-24 12:50:10.560409",
+    "itemurl": "http://www.amazon.com/Exercises-Feynman-Lectures-Physics-Richard/dp/0465060714"
+}

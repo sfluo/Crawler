@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.95",
+    "Name": [
+        "Treatise on Thermodynamics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.24",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.9666666666666667,
+                "StarRating": "5",
+                "Text": "Seeing this book still in print makes me think that not all is lost. For decades everyone looked for Planck's treatise in order to give unity to his or her collection of facts concerning heat, as well as depth to the whole thing. The careful and elegant exposition still satisfies these needs, though the main trends have changed. The purity of the macroscopic approach championed by Planck (in fact a competition against Boltzmann) may seem now an exageration. You will not find interpretations in terms of molecules, for instance. On the other hand, the charm of the purely macroscopic approach is undeniable. After the introductory chapters the reader will notice an emphasis towards chemical equilibrium. This is, in fact, common to almost all thermodynamics texts of that time (Sommerfeld's , for instance) and is due to the fact that one of the main scientific efforts of that time was to try to synthesize ammonia, badly needed for agriculture and explosives (wars were much mo! re frequent then). The problem was eventually solved, for gaseous reagents, by Planck's students Guldberg and Waage and, especially, by Nernst, with the discovery of the third law of thermodynamics. This, by the way, receives a very detailed and interesting treatment  in the last chapter, named The Absolute Value of Entropy. This alone would be worth the reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28K2I1OGK94MU"
+                },
+                "Date": "on November 4, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NAA89OHI79ZN"
+                },
+                "Date": "on May 31, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Max Planck teached Thermodynamics during 32 years and you notice that trough the well edited, clearly written, easy to understand numerical examples, near the expierience of  your own senses... I realized that the examples presented by Einstein in his book: The evolution of Physics edited in 1938 were a copy of the 1897 edition in german of this book. Students of Chemical Engineering should read this book. It is necessary that the reader study Calculus... partial differential equations to better grasp the themes... This book is comparable to The Principia of Isaac Newton... both authors return more value for the dollar you spend... Both are authors that current teachers unjustly do not recommend to their students to read their books or they just mention them superficially... This book presses me to be a more serious and scientific professional... Dover did a great job making 3 editions in English of this book... the mathematical notation is clean and adequate..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OKOPGG6Y14W"
+                },
+                "Date": "on February 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Physical concepts are accurate and clearly expressed. Remarkable is the presentation of energy, physical property that induced much debate among scientists."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV51LU35II2A6"
+                },
+                "Date": "on January 7, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "great"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Treatise-Thermodynamics-Dover-Books-Physics/product-reviews/048666371X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#781,705",
+    "Timestamp": "2015-05-24 12:52:14.058357",
+    "itemurl": "http://www.amazon.com/Treatise-Thermodynamics-Dover-Books-Physics/dp/048666371X"
+}

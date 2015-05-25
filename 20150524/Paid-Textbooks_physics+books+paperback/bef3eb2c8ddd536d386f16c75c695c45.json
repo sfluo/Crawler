@@ -1,0 +1,108 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$170.00",
+    "Name": [
+        "Quantum Mechanics (Volume 2)"
+    ],
+    "OfferPrice": "$120.64",
+    "Reviews": {
+        "AverageStarRating": "4.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TCCOG5KR8I43"
+                },
+                "Date": "on November 27, 1999",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "5",
+                "Text": "After years of searching for a really good book on non-relativistic quantum mechanics, I found it in this book.  The beginning student can easily understand it and it's comprehensiveness will appeal to the more  advanced student.  It's use of the Dirac notation makes for a clean and  concise treatment.  The book is FAR better than most other quantum  mechanics books found in university libraries, in my opinion."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 11, 1997",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UZ3U2WHIW3JS"
+                },
+                "Date": "on January 1, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is by far my favorite quantum mechanics textbook. I would not suggest it as a first exposure to quantum mechanics textbook. For those purposes I would suggest griffiths, he is excellent at progressively lying less to the reader as he/she progresses. This book however, presents that subject material in full form and in great detail. I constantly reference back to this book and the other volume."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 31, 1998",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "If you are fed up with QM books that bury you under tons of formulas from page one to the end, and who are written by authors who seem to hide their own ignorance of QM behind the equations, get this book and its first volume. Without any doubts, one of the best AND clearest books on QM, with mathematics used wisely."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVLTXKQU222Z1"
+                },
+                "Date": "on January 2, 2000",
+                "Helpfulness": 0.6470588235294118,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V781OOF33QRH"
+                },
+                "Date": "on October 14, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I like this book, because it is very large.  You don't want a thin quantum mechanics book, because its thinness means that the authors skipped a ton of details."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P3IZTHLF2QKF"
+                },
+                "Date": "on December 2, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TCCOG5KR8I43"
+                },
+                "Date": "on November 27, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Use of the Dirac notation allows a clean and concise treatment.  The book makes QM easy to understand, and it is comprehensive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3B1V26356QWBR"
+                },
+                "Date": "on May 25, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "This book was given as a gift for my son in graduate school.  He needed the book.  It's just what he needed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TCCOG5KR8I43"
+                },
+                "Date": "on November 27, 1999",
+                "Helpfulness": 0.25,
+                "StarRating": "5",
+                "Text": "Use of the Dirac notation allows a clean and concise treatment.  The book makes QM easy to understand, and it is comprehensive."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Mechanics-2-Claude-Cohen-Tannoudji/product-reviews/0471164356/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "10"
+    },
+    "Salesrank": "#380,759",
+    "Timestamp": "2015-05-24 13:36:50.476628",
+    "itemurl": "http://www.amazon.com/Quantum-Mechanics-2-Claude-Cohen-Tannoudji/dp/0471164356"
+}

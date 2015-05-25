@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.99",
+    "Name": [
+        "Master Math: Essential Physics"
+    ],
+    "OfferPrice": "$15.92",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEWXWE2XF355U"
+                },
+                "Date": "on May 22, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is an outstanding physics book. The discussion is straightforward. The examples are thoroughly explained. The practice problems at the end of each chapter test what has gone before. I especially like the fact that the answers to the problems are fully discussed. The author writes in a simple, uncomplicated manner so that there is no doubt in your mind what she is saying."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OGUY2WUL2PH4"
+                },
+                "Date": "on October 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I agree with the above review. The only thing I can add is that the book is well thought out; Examples and sections build upon one another."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Master-Math-Debra-Ross-Lawrence/product-reviews/1435458885/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#538,989",
+    "Timestamp": "2015-05-24 13:28:22.121999",
+    "itemurl": "http://www.amazon.com/Master-Math-Debra-Ross-Lawrence/dp/1435458885"
+}

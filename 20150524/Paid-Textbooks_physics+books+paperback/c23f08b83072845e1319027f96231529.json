@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$108.36",
+    "Name": [
+        "College Physics Volume 1"
+    ],
+    "OfferPrice": "$151.98",
+    "Reviews": {
+        "AverageStarRating": "1.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX01XRKA10X46"
+                },
+                "Date": "on February 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XW5HV7PSG5NV"
+                },
+                "Date": "on January 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B2DASVWBYXEY"
+                },
+                "Date": "on August 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "difficult to understand"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APBS3HOP3OT0P"
+                },
+                "Date": "on January 26, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I needed the book sooner than later and there was a 2 day option, turns out to have been BS."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/College-Physics-1-Alan-Giambattista/product-reviews/0077437861/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#122,932",
+    "Timestamp": "2015-05-24 13:15:03.150708",
+    "itemurl": "http://www.amazon.com/College-Physics-1-Alan-Giambattista/dp/0077437861"
+}

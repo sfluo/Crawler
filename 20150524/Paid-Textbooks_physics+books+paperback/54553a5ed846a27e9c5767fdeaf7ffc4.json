@@ -1,0 +1,171 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$87.95",
+    "Name": [
+        "Geometry, Topology and Physics, Second Edition (Graduate Student Series in Physics)"
+    ],
+    "OfferPrice": "$78.68",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AM9JZMKHDM42T"
+                },
+                "Date": "on September 17, 2002",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EYYX681G6FKB"
+                },
+                "Date": "on July 22, 2001",
+                "Helpfulness": 0.958904109589041,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SJR9XQHJK8VJ"
+                },
+                "Date": "on March 25, 2005",
+                "Helpfulness": 0.9333333333333333,
+                "StarRating": "5",
+                "Text": "This is a very useful book for understanding modern physics. You absolutely need such a book to really understand general relativity, string theory etc. For instance, Wald's book on general relativity will make much more sense once you go through Nakahara's book. It is very complete, clearly written, comprehensive and easy to read. I would also recommend Morita's \"Geometry of differential forms' and Dubrovin,Novikov and Fomeko's 3 volume monograph, if you can find it. All in all, Nakahara's book is one of the best buys, precious book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 18, 2000",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": "This text acts as a well-rounded introduction and overview of much of the mathematics underlying modern physics.  While far from rigorous, the physics student will come away with a good understanding of how to use a  wide variety of mathematical tools.  This book is a necessity for every  theoretical physicist.  When used in a course (probably advanced undergrad  or beginning grad), it should definitely be supplemented with more thorough  texts, such as Geometry of Physics by Frankel.  After such a course, one  should be fully prepared for texts such as Spin Geometry by Michelson &  Lawson, and String Theory by Polchinski.  As for the mathematics presented  in the book, go to one of the many excellent intro books to algebraic  topology (Fulton, Munkres, Massey, Bott & Tu) and fibre bundles  (Steenrod, Husemoller) for proper treatments of the subjects."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZHULO0JHVT32"
+                },
+                "Date": "on July 24, 2008",
+                "Helpfulness": 0.8421052631578947,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LE1VX2TEMBOL"
+                },
+                "Date": "on December 4, 2012",
+                "Helpfulness": 0.9166666666666666,
+                "StarRating": "1",
+                "Text": "I am surprised that amidst all the glowing reviews, there is only one reviewer who points out the unacceptable number of errata in this book. A couple of misprints here and there throughout the whole book (or even per chapter) would be acceptable, but I agree with the other reviewer that at times, the misprints are as much as one per page. In addition to the error on page 56 (equation 1.241d should have curl B), here are just a few that I found (I'm just going to list the page numbers): 8, 9, 21, 28, 66, 84, 179, 186, 192, 193, 196, 203, 245, 247, 255.... Look, I could go on and on. But this is not my job. I certainly didn't pay 60+ bucks for this. Physicists deserve better than this. What this book really needs (attention: author or publisher) is an online database of errata. That's the least they could do."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3USD3ANXP45UC"
+                },
+                "Date": "on June 19, 2006",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HTQKQ9G73S4Y"
+                },
+                "Date": "on December 2, 2001",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17E7K3MQ5KKR5"
+                },
+                "Date": "on January 21, 2004",
+                "Helpfulness": 0.7692307692307693,
+                "StarRating": "4",
+                "Text": "Highly stimulating and extremely hard to read, written for mathematicians in physics. However, the chapter on Riemannian Geometry can be worked through, up to a point, without any knowledge of exterior differential forms, and is notable if for only one fact alone: a simple calculation is provided that explains explicitly that spheres in four and eight dimensions (3-spheres and 7-spheres) are flat with torsion! I don't know another reference that a physicist without special background in math can consult to understand this highly nonintuitive fact."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39FO603B6EVQT"
+                },
+                "Date": "on September 19, 2006",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "This is the best book of its type, that is, a book that contains almost all if not all the advance mathematics a theoretical physicist should know. I have studied chapters 2-9 and it has the perfect balance between rigorous presentation of topics and practical uses with examples. The level is for advance graduate students. The range of topics covered is wide including Topology topics like Homotopy, Homology, Cohomology theory and others like Manifolds, Riemannian Geometry, Complex Manifolds, Fibre Bundles and Characteristics Classes. I believe this book gives you a solid base in the modern mathematics that are being used among the physicists and mathematicians that you certainly may need to know and from where you will be in a position to further extent (if you wish) into more technical advanced mathematical books on specific topics, also it is self contained but the only shortcoming is that it brings not many exercises but still my advice, get it is a superb book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A122W98TI47I32"
+                },
+                "Date": "on April 7, 2003",
+                "Helpfulness": 0.6964285714285714,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on August 24, 2001",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "5",
+                "Text": "With an excellent balance between mathematical rigor and pedagogical simplicity, Nakahara remarkably captures in a single volume much of the mathematics a physicist will ever need. (If he wrote a few chapters on group theory, 'much' might be replaced with 'all'). Containing as much as it does, it is not something to breeze through. Depending on your mathematical background, you may only want to read a few chapters (and if the Homology chapter is tripping you up, just keep moving). But invest the time with it, and you will be rewarded with a solid grasp of the mathematical pictures underlying most modern physics. And once you read it and see physics from this perspective, you'll be amazed you had ever thought you understood the physics it describes.  It should be said, though, that some of the latter chapters, in particular 12, are horribly sloppy.  There are dozens upon dozens of errors, many at a deep conceptual level.  Nonetheless, it is a monumental text, and I recommend it heartily."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RSLBCZGDTU4B"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "A mandatory book on physics that covers all elemental and advanced topics in geometry and topology. I recomend this volume for ungraduate and graduate students in physics and mathematics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASJCAF3HM3FSB"
+                },
+                "Date": "on October 9, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "I bought this book to supplement my knowledge of mathematics which frequently is involved in understanding Particle physics concepts. The book is terse, but peppered with examples and insights about the definitions, and so far it is really fun to read. Seems like a good investment."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A264IKJC74KMEQ"
+                },
+                "Date": "on August 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A most valuable resource for any theoretical physicist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GCILHHQMLSX1"
+                },
+                "Date": "on February 29, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Seriously, this book has every piece of mathematical knowledge i've ever needed to know to understand my graduate texts on Quantum Field Theory and String Theory.  To top it all off the book has excellent examples and exercises and literally the best notation i've ever seen used to the topics.  I think every theoretical physicist, graduate student, and mathematician interested in physics should probably have a copy.  This book will probably never leave my office."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3A3BOK4UZAKSL"
+                },
+                "Date": "on May 13, 2007",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book provide a complete and useful review of geometrical instuments of mathematical physics from the beginnig to the most advanced topics of interest. It can be used by students at the beginnig of thei studies in this topics, and it's found to be a useful gallery for higher level students (or scholar)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/product-reviews/0750306068/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "17"
+    },
+    "Salesrank": "#712,159",
+    "Timestamp": "2015-05-24 13:15:50.810025",
+    "itemurl": "http://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068"
+}

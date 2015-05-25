@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$110.00",
+    "Name": [
+        "Principles of Dielectrics (Monographs on the Physics & Chemistry of Materials)"
+    ],
+    "OfferPrice": "$104.50",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on April 20, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Dielectrics-Monographs-Chemistry-Materials/product-reviews/0198565577/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#3,559,636",
+    "Timestamp": "2015-05-24 15:26:07.052221",
+    "itemurl": "http://www.amazon.com/Principles-Dielectrics-Monographs-Chemistry-Materials/dp/0198565577"
+}

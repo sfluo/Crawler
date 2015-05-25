@@ -1,0 +1,765 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$14.99",
+    "Name": [
+        "A Most Incomprehensible Thing: Notes Towards a Very Gentle Introduction to the Mathematics of Relativity"
+    ],
+    "OfferPrice": "$13.49",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WOXAAWBGNQ5Y"
+                },
+                "Date": "on February 5, 2013",
+                "Helpfulness": 0.96875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CIDRO6OLH4VU"
+                },
+                "Date": "on October 12, 2012",
+                "Helpfulness": 0.9714285714285714,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20J2SLG97V1ZF"
+                },
+                "Date": "on July 27, 2013",
+                "Helpfulness": 0.9583333333333334,
+                "StarRating": "4",
+                "Text": "This is quite a good book, but it is hard to figure out the intended readership. If you found math incomprehensible at high school, you will not get very far into this book. If you were good at math, but happened to do something else at university, it could be a quick way into the differential geometry which is the mathematical language of General Relativity, and you can skim over the early stuff introducing calculus and functions. If you majored in quantum theory, where the math is mostly second-order differential equations, you may have found papers on GR challenging or downright opaque, in which case this book will give you the language and mathematical tools. For most people interested in GR, I suspect however, this book falls between stools: it is far too difficult for the lay reader and too plodding for the mathematically educated."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZALJPGD4K950"
+                },
+                "Date": "on February 1, 2014",
+                "Helpfulness": 0.9487179487179487,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15EXJ31MQD3IE"
+                },
+                "Date": "on January 24, 2014",
+                "Helpfulness": 0.9444444444444444,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1L8UGG3C2OKDB"
+                },
+                "Date": "on September 11, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Any of us interested in Cosmology, and if you're a self study like me, you've heard all about Relativity.  You've heard about how time and space are distinct, how time slows down relative to acceleration and the bending of space due to gravity.  The most interesting part of the entire theory, in my opinion, is how it was shown to be before it was able to be proven or observed.  It was shown with Mathematics which calculated the space and time phenomenon well before anyone could see it.  However, what is the math behind this, and is it so obscure that most of us will never understand it?  As it turns out the answer is, yes.  The math is complex, and if you don't already have a good understanding of math through Calculus and Differential Equations, you won't grasp much of it.  The book does do a fantastic job of describing what the math is and how it is applied.  This means that even if you can't DO the calculations, you will still understand the concept of what it is and what it does.  I feel that there is no better and more gentle way to ease you through the subject of relativity than this book.  I have a BS in Computer Engineering, which provided me with a great baseline for the math.  If you're a self study like me you'll love this book.  The only problem is that you're wife will eventually be asking you to \"put it down for a few minutes\"!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A397SZL0Z3QU1Q"
+                },
+                "Date": "on March 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35QJ0QHPP7WJJ"
+                },
+                "Date": "on June 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3A1LSYBSNY88G"
+                },
+                "Date": "on July 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I am a physicist by training, who (happily) wandered into oceanography for a career. However, I like to go back and review and update some of my physics background now and then, and relativity and cosmology are certainly great fields to track nowadays. So I picked up this book as a refresher. Long story made short....it is a gem. It works through the essential material and concepts carefully and patiently, and you would have a hard time not tracking the text, it is so clear. I highly recommend this book. If this book has one fault, it is that it starts at too elementary a level in the beginning. If you have to  read the first 50-60 pages, you probably won't be able to follow the rest. The author tries perhaps a bit too hard to make GR and cosmology accessible to a general audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2W8VEF487RENZ"
+                },
+                "Date": "on August 1, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a really good book for someone who wants to understand the theory of general relativity at a more advanced level than most popular books can deliver, but without the complexity of a standard textbook.  He even goes through all the relevant math, at a working level, rather than a theoretical level.  I happened to know a fair bit of this (partial differential calculus and the like), but I got the sense that a dedicated reader who didn't have a strong formal math background could get a lot from this book.  For example, I think he did a good job of explaining tensors, something that I never got around to studying at university,  Plus, he's just a good writer and the illustrations are well chosen as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37N43FERL9T4O"
+                },
+                "Date": "on January 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "For anyone interested in one of the most profound theory's of 20th century physics, this book is a great beginning for a fundamental understanding of the mathematics of Relativity. I have been interested in Einsteins theories since boyhood and have a good understanding of Special Relativity but the complex math of General Relativity has always been a problem even after college courses in Calculus and Differential Equations. This presents a gentle introduction to Tensors which is fundamental to understanding General Relativity. An excellent work for anyone interested in these two theories."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ARF1SLAPUVVW"
+                },
+                "Date": "on April 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23IS3H40C9YFK"
+                },
+                "Date": "on July 9, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CZTBCIF1J4X9"
+                },
+                "Date": "on February 18, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YGFS36G0NNU0"
+                },
+                "Date": "on June 8, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2ED69DH8S1BTT"
+                },
+                "Date": "on May 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very good work. The author explains the mathematical and physical concepts, from the very basic, to very advanced, ones. The explanations are not rigorous but are presented in a way that gives the reader enough information to know what and where to search for more details. The author is clearly not a physicist, nor had the formal training on the subject, but instead of being a weak point, I believe this is the strongest point of this book. He can bring anyone with true interest in Einstein's work from zero to a very advanced knowledge of it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EEB2PAU5F3F8"
+                },
+                "Date": "on July 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "How's your calculus?  If it's even minimally creaking along, this book is a powerful teacher.  In between the math is an amazing clear and intuitively presented look at special and general relativity.  It's a significant step up from the pop treatments (some of them good) that got us \"laymen\" started in serious understanding.  Oh, that's (!) what metric tensors for curved spaces are all about.  That's (!) how to get to them from your understanding of Cartesian spaces and inertial frames.  The guy can teach."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25TGLLV9T4A9O"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26C1I2NKC96YS"
+                },
+                "Date": "on May 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is no book at this level in the market. It gives clear introduction of all core concepts and delves deep into the mechanism of Tensors, etc. Recommend it to people who want to go from layman's intro to relativity to work or understand the mathematics. From there the reader may pick Schultz."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADY7WVROHO9Q2"
+                },
+                "Date": "on June 4, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is not a book for the speed reader.  You will have to concentrate on the author's introduction of mathematics.  It's done in a gentle way; but not so gentle that a lazy reader can breeze through it.  Once you do the work, you will be lead to a reasonable understanding of Relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYLZHJYX8EAG0"
+                },
+                "Date": "on April 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E80XGO7GF8Z2"
+                },
+                "Date": "on June 18, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great and clear introduction to the subject.Tensors and coordinates are very well explained and now I have a much better grasp of the subject."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANR4KUG11UYSK"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent book. Brings you from high school or first year undergrad to a decent understanding of GR. Good opener to a more in-depth study, makes other popular GR books more accessible. I would suggest this -> wheeler \"exploring black holes\" -> A. Zee \"Einstein Gravity in a Nutshell\" -> Whichever graduate text you like, mtw, schultz or what have you. Frankel's book on differential geometry can help with a feel for the curvature. Robert Piccioni has a series on physics with a few volumes on this subject which are also nice, entry level, and deeply informative and insightful. Hard to find for some reason. In any case, this book has been one of the best introductions, so I recommend pairing it with whichever approach you try. Truly wonderful in tone and content."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38AKHUK96FH9F"
+                },
+                "Date": "on July 24, 2014",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "The book is a good overview on relativity and the math required to approach the subject of relativity. If you actually want to learn the basics of vectors and  tensor math this book is problematic. Collier  skips or leaves out too many of the fundamentals that make it possible  for the beginner to learn how to  use and manipulate the tensor math. The author should have markedly expanded his description of contravariant vectors and partial differential equations.  If you are brand new to tensor math, you might want to try Fleisch's Student's Guide to Vectors and Tensors before reading Collier's  book. The beauty of the physics described by Collier and the tensors required will make more sense with a stronger foundation. You need to be able to do the math to learn it. If you just want to see it and learn the history of the physics the book is excelllent. Addendum:I think I was unfair in only giving 3 stars on my initial review. If you do not know partial differential equations and some vector calculus you will need to just enjoy the presentation of the math. The book would be 5 stars. If you are looking at this book as a tool to learn the math, I think it rates a 3. I have averaged the two scores and reassigned a 4."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AREZJIIDCSEJQ"
+                },
+                "Date": "on January 1, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADSZ79QX37PJ2"
+                },
+                "Date": "on October 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The protocol that the author employs in order to communicate the preliminary mathematical theory is accessible to anyone with a genuine interest in relativity, etc.  I collected numerous books on the subject in order to understand the Schwartzschild solution; Relativity Demystified, Quantum Mechanics Demystified, Quantum Physics for Dummies.  A Most Incomprehensible Thing has the most logical development of preliminary mathematical theory in order for any reader to attain a personal frame of reference along with extreme utiliity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3RIXOIEZ2ED6E"
+                },
+                "Date": "on December 25, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The mathematics lead up can be tedious and elementary at first but it does build to a superior completeness in a book about space time. I'm 30 years past college and the organized buildup of the math I don't remember was great. Best book on the subject for the amateur physics curious I have come across. This book will open doors to fantastic deeper thoughts about how the universe works and makes for great conversations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX9TVGBD50DPR"
+                },
+                "Date": "on March 21, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RYUYUYTPERNX"
+                },
+                "Date": "on March 19, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Very satisfying, I plan to read it in small bytes. Very good for those who have discovered a love of mathematics later in life."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JTEOFRAZXSED"
+                },
+                "Date": "on May 30, 2014",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "The only reason I am even rating this right now is because I actually thought I was rating another book and now I can't delete this. With that being said, I am a couple chapters in an so far the book is very readable. My math background is in engineering so I have some linear algebra, multivariable calculus and differential equations under my belt (by no means an expert) and I haven't had a difficult time with the math that I have come across so far. I feel like I am in the target audience for this book, I know some math, I know some physics, and I have an interest in relativity. The author even gives you some practice problems so you can test your understanding. Like I said I haven't finished it yet, I had to put the book down due to more pressing things to do. I do plan on returning to it because I enjoy the book and the author. I'm giving it 5 stars because I trust that the author can deliver and I don't don't think t would be fair to him to give it less when I haven't completed it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2GWYFLE8XHL62"
+                },
+                "Date": "on April 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Clear and step by step from elementary to advanced levels.  You will find it very useful and be a reference."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QQ4Z9ZE8GK6X"
+                },
+                "Date": "on March 14, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Easy to follow, step by step.  Starting from basic, elementary algebra right on up to the Theory of Relativity.  I wish I'd had this book in college.  Naturally it's fast paced, there's a lot of material to cover, but it's all there in clear concise language and mathematics.  I'm waiting for Mr. Collier to write an companion volume on Quantum Mechanics.  This book makes \"A Most Incomprehensible Thing\" very comprehensible, as far as we can comprehend  it.  As far as the mathematics goes, it might require a little \"brush up\" here and there but it's the best study guide ever conceived."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3PF6BTL0CF0W5"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JDG16ENAILKG"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The idea of building a scaffold from basic high school mathematics to an understanding of special and general relativity is ambitious to say the least, but Collier has succeeded admirably!  My own formal math training stopped at linear algebra and univariate calculus, and it has required consulting math texts and several math web sites at times to speed my progress, but the book itself is actually sufficient to get the core concepts.  The learning curve is steep at times, but the book makes the process remarkably engaging for such technical material."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37HUD5KUS6E94"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A delightful primer for folks who've since forgotten more than they once knew and understood about mathematics and the physical universe (as well as a fine introduction to physics -- particularly to special and general relativity -- for the math-savvy or once-upon-a-time math savvy).  This very affordable Kindle book is a handy quick reference as well as a gentle but not at all shallow refresher or primer for front to back reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2C1UG3CE7P592"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you are interested in special and general relativity and know at least elementary calculus,  this is a great book.  The author makes a much appreciated effort to clarify some of the stranger results:  E.g., why can the expansion rate of the universe exceed the velocity of light.  Also, many aspects of black holes are explained, including the unadulterated mathematical framework, which I found very satisfying."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YHNAD2L9QTEV"
+                },
+                "Date": "on December 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "For all of those who do not take at face value what is written on most popular of science publications. General Relativity requires a big mathematical effort to try to grasp the key concepts. Math is not an option is the necessary path to a bit of understanding. If you love real science you will love this book. It is worth every penny."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11R3B7Z78KH7D"
+                },
+                "Date": "on October 22, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was purchased for my husband, who is reading it for the second time (his idea of \"fun\").  He wanted a hard copy, because he wanted to refer back to various sections as he read, in order to absorb the ideas well.  Very interesting ideas"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5HPNHE811YGH"
+                },
+                "Date": "on December 31, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you feel you really want to know the basic math and concepts of relativity, this is a great start.  It's something that you must spend time on however, write down and \"memorize\" key points and the rest (tensors--including upstairs and downstairs indices)will flow smoother. (edited from original review because of redundancy error when pasting review from MS word---Sorry)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14SJ7D5UD25RG"
+                },
+                "Date": "on March 12, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Perfect for someone with a technical background who doesn't remember all the advanced math required to explain relativity.  Excellent review of a wide variety of math topics and carefully thought out detailed explanations and examples."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MBTVHQ82TVC5"
+                },
+                "Date": "on March 18, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book covers the subject from a review of calculus and physical mechanics to general relativity in an ambitious way. However, a reader will develop an understanding of the subjects if he/she is patient and persistent."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TTEJ7RJXNLZZ"
+                },
+                "Date": "on March 4, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Collier's attempt to bring mathematical relativity to the masses is noble and sincere.  I am one of the masses, though I have to admit I did take two years of calculus decades ago.  I never quite understood what I was doing at that time, and decades have erased what little I did learn.  Even with that tiny head start, though, the math in this book is mostly incomprehensible to me.  I may be just lazy, but in fact I secretly believe that anyone who says they now understand it must have learned it before, and believes that this rereading has brought eyesight to the blind, though in fact, they are just remembering.  Any one of these chapters(beyond the first few) would take a semester,  even a year, or more of hard work and practice to understand and manipulate the math.  Yet I read every word of the book and loved it.  I even ran my eyes over all those graceful equations and performed my own algebraic manipulations to warm up.  But when the math got too deep, I bailed out and I relied on his narrative.  Yet I could  see that with his tireless efforts, I was moving very slightly  forward on my  quest to one day lay in a grassy field under a tree, close my eyes, and say, yes, I finally, truly, understand relativity theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N0RA8N4HPE4Q"
+                },
+                "Date": "on February 26, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The wordings great, the comprehension in the maths is explained great, even the occasional story here and there in the book's great. Basically it's a great book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SIJ3836RLD72"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm glad to get this book. It has been years since I have studied physics and this truly helps me re-learn the concepts of relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UZ3VZS16H639"
+                },
+                "Date": "on May 15, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Very exciting book, very important addition to my reference !"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21QGWLUOT4FV7"
+                },
+                "Date": "on February 9, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "This is essentially a math text focused on physics problems. Utilizes a couple of years of college math. Algebra, Calculus, Linear Algebra and Vector Calculus ..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8VUY6UURJNYJ"
+                },
+                "Date": "on October 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "An excellent introduction to General Relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T3MR892ZF23D"
+                },
+                "Date": "on October 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is good book for people with a basic understanding of General Relativity. Do not let the math get you down, most everything has been solved, but it really helps to be able to understand the examples. It does go into some of the recent discoveries and the theories behind them. It is a pretty down to Earth explanation of things."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MXOGH3AX4XFF"
+                },
+                "Date": "on December 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I'm still working my way through the calculus. It's quite clear; I wish for more examples to make sure I understand the concepts. It is fun to revisit the calculus after fifty years away from it. Reading it on my Nook, some notation is very small....  But it's promise is very alluring."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAVJ831DX38QM"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have enjoyed reading this material. Now I must decide whether or not to re-read with a notebook in hand and try to gain increased command of this material or just remain amazed of how much I was able to understand from this excellent presentation ."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A310SKH8L08AQT"
+                },
+                "Date": "on December 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The first chapters of math review are very elementary, probably too much so, but a handy reference. If this gives you problems, then you have probably best skip the rest of the book as some of the derivations are pretty involved."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33Q3CD348P2YB"
+                },
+                "Date": "on January 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Engaging.  You do need advanced calculus and linear algebra.  Collier's valiant attempt to cover the prerequisites fails.  Let's face it.  The more differential geometry you know, the better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CIZIAW971BJ7"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I enjoyed the book immensely and although I couldn't follow all the mathematics, I could follow enough to get the idea that the author was trying to deliver!! Such a mind boggling subject!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMO36SG8NQ7E8"
+                },
+                "Date": "on July 28, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Good book and to understand one of the most difficult thing there is on science. I read it very slowly and many times until understood"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALDNR8DDYE02D"
+                },
+                "Date": "on December 26, 2014",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "3",
+                "Text": "Eventually the math becomes beyond the possible except maybe for very advanced readers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19UKZVYASKRXI"
+                },
+                "Date": "on December 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "well written and understandable providing you have the A level maths background - but i am only quarter of the way through."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NDHCVKH2Y47Z"
+                },
+                "Date": "on September 29, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Well written and detailed, the book is suitable for self-study.  The details set this book apart from the usual popularizations of general relativity.  After reading those books, you will know something about relativity.  After reading this book, you will understand relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IC449TMH5C6C"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "This book went beyond my comprehension rather quickly."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ASPBG5ZH4TLM"
+                },
+                "Date": "on August 17, 2014",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OPABE0BSYHHV"
+                },
+                "Date": "on December 14, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am very happy. All good and in perfect condition"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17HHCCERVXMVW"
+                },
+                "Date": "on December 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good way to get your feet wet with relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RTZ991RX6VGX"
+                },
+                "Date": "on February 1, 2014",
+                "Helpfulness": 0.625,
+                "StarRating": "2",
+                "Text": "Illustrations and equations are too small on the Kindle to see even in large fonts.  Text refers to Illustrations  too far back to see easily."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13L5KL13VWMY6"
+                },
+                "Date": "on April 27, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "The subject matter is organized in an easy to understand order. More logical than other books I have read. He does take quite a few pages in the early chapter reviewing the necessary mathematics which is helpful, but might be a bit boring for those already very familiar with the math. What I like most are the explanations of difficult topics using embedded and easy to understand examples. And many of the graphics help in this regard as well. This book along with a couple of other books at your side make a good team in trying to understand a very difficult subject that is inherently counterintuitive. I would stay away from the Kindle version. The numerous equations are very difficult to see. They are so small a magnifier is needed. This is no surprise as the author himself makes note of this issue in his opening remarks. It is the result of the software he used in writing the book. Get the printed version."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35RX1B303EWQM"
+                },
+                "Date": "on December 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Still in the beginning"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWSLXB2WAZID5"
+                },
+                "Date": "on July 18, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "Keep on learning.  Start with the very basic, and continue building on that knowledge."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32K4BL9TV11BQ"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "This book is a great introduction/review to the math enabling modern physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A8PNP89BQ9Z3J"
+                },
+                "Date": "on February 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VO5RZ4RQWQ3E"
+                },
+                "Date": "on January 7, 2014",
+                "Helpfulness": 0.5925925925925926,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A93BHTH9Z8D98"
+                },
+                "Date": "on January 20, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "A subject not easy to comprehend brought out with clarity.Maths is somewhat tough to understand.But one can skip over to get a good perspective."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A912XQYBPKN4D"
+                },
+                "Date": "on June 12, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "For me it was a very nice read as it explains in a more detailed way what tensors are and how to \"operate\" them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6IFALTLYGNM8"
+                },
+                "Date": "on September 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I beleive this book is very  clear and a must to follow the path in this  warp  world of quantum mathematic and physic"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D7IX0A913B9R"
+                },
+                "Date": "on January 26, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "this is a book \"print on demand\", poor quality for the same price or more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A21KLLEMNGH8WO"
+                },
+                "Date": "on March 23, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "A very interesting book"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P0JOT9GDM408"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QUDS5POFHNTS"
+                },
+                "Date": "on February 15, 2014",
+                "Helpfulness": 0.5333333333333333,
+                "StarRating": "1",
+                "Text": "A book containing the most sophisticated mathematical symbols and functions is visually unreadable on a Kindle. It should not be offered on this platform by Amazon. I hope I can find it in a readable hard copy. This was a complete waste of my time and money. As a very long term, enthusiastic customer of Amazon I expect much better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QVTLU4OHLI4F"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I have understood and enjoyed the book so far but I cannot recommend this book as the equations are too tiny to read on my kindle. A re print is definitely in order."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EQPYNFCDBNED"
+                },
+                "Date": "on January 5, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "this should be required reading.  might help develop a better awareness of important issues.  well stated and fun to read"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABRT4EOHD1REX"
+                },
+                "Date": "on April 19, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Kindle why u make me do dis? More words needed? Derp derp derp derp derp derp derp derp derp derp."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A285KFOJ17HGP0"
+                },
+                "Date": "on August 25, 2012",
+                "Helpfulness": 0.47058823529411764,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXDWNB76Z1VR7"
+                },
+                "Date": "on April 17, 2015",
+                "Helpfulness": 0.125,
+                "StarRating": "1",
+                "Text": "The book I've been waiting for.  A wonderfully clear way into the magic of mathematical reasoning starting from scratch or jump in where it is not too deep for you and work your toward the deep end as your feeling of achievement deepens and your awe of cumulative reasoning leaves you glad a curtain has been drawn aside by YOUR efforts, for there is no easy way. Don't expect to understand space-time even though you can follow the reasoning to get there and see it confirmed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A91TZOP8KOBCW"
+                },
+                "Date": "on July 19, 2014",
+                "Helpfulness": 0.15789473684210525,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZYL0HNUR5XH"
+                },
+                "Date": "on May 18, 2014",
+                "Helpfulness": 0.20454545454545456,
+                "StarRating": "2",
+                "Text": "I am tired of people hawking this theory {pun intended} which is just warmed over \"The Earth isn't flat!\" without evidence or justification (I am a physicist who has published two papers on gravity) and the hiding the contradictions behind mathematics.  I had high expectations this book would break that trend.  But no.  It merely summarizes briefly the content of half a dozen precursor college courses without simplifying anything.  Without the time to digest the material, it won't be absorbable unless you are a math genius.  But if you are a math genius, you can figure it out for yourself."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FZA04N27DQX7"
+                },
+                "Date": "on August 7, 2014",
+                "Helpfulness": 0.08,
+                "StarRating": "1",
+                "Text": "This book is just full of formulas. It is difficult reading. As they told Stephen Hawkings about his book \"every formula will cut the readers in half\". Well this book took it to the limit."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Most-Incomprehensible-Thing-Introduction-Mathematics/product-reviews/0957389450/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "83"
+    },
+    "Salesrank": "#16,212",
+    "Timestamp": "2015-05-24 13:05:47.879566",
+    "itemurl": "http://www.amazon.com/Most-Incomprehensible-Thing-Introduction-Mathematics/dp/0957389450"
+}

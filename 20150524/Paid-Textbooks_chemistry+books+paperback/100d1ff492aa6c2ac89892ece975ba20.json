@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "An Introduction to Fluid Dynamics: Principles of Analysis and Design"
+    ],
+    "OfferPrice": "$175.20",
+    "Reviews": {
+        "AverageStarRating": "2.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CJJHI41T3Y1C"
+                },
+                "Date": "on November 23, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SKEO1VBKIOET"
+                },
+                "Date": "on October 22, 2003",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I read this book first when preparing tutorials in fluid mechanics for 3rd-year chemical engineering students. Maybe there are other textbooks which give more detailed derivations (although I'd like to see them!), but Middleman's text is one of the extremely rare books where mathematical derivations are balanced with detailed accounts of the motivation behind it all. In fluid mechanics, it seems almost unique in this respect, and I found it a pleasure to read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A338RVE1DG1VML"
+                },
+                "Date": "on March 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "This book sucked, and the author expects you to be a master of the topic even though you are a beginner."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NV2B5P1S7D65"
+                },
+                "Date": "on March 20, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "1",
+                "Text": "This book is terrible. I have taken 2 fluids courses before so I am not a beginner, and still this book was very difficult to understand. Very poor examples make it hard to understand the concepts being taught. Focus is more on mathematics than fluids. We all know these equations have to be derived, but let's leave that for the math classes. If your instructor is using this book, drop the course. Better to use the Munson book instead."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 14, 2001",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "2",
+                "Text": "This book is very hard to understand.  The author uses very complex mathematics, that most graduate and professors don't even understand.  When coming up with the formula he skips steps that he assumes everyone knows how to do.  This book would be ok for graduate students, but for an introduction to fluid dynamics it is a very difficult book.  The book does have a lot of examples on different types of systems that will be useful if you ever use that kind of system.  The book does have examples for a wide variety of engineers (ie bioengineers, mechanical, civil...).  But overall this book was very difficult!!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACGHEPSBPBPP6"
+                },
+                "Date": "on October 12, 2003",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": "I am a junior chemical engineer taking a class that is using this book.  This book is awful.  The examples are made to be over complicated, and the problems at the end of each chapter are vague, and full with clarity issues.  I would not suggest this book to anyone, and i pity those who are subject to its fury."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Fluid-Dynamics-Principles-Analysis/product-reviews/0471182095/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#138,100",
+    "Timestamp": "2015-05-24 15:31:45.390841",
+    "itemurl": "http://www.amazon.com/Introduction-Fluid-Dynamics-Principles-Analysis/dp/0471182095"
+}

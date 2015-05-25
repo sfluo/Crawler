@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "The Mathematical Theory of Special and General Relativity"
+    ],
+    "OfferPrice": "$16.67",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A19Q7HH2NMHJXN"
+                },
+                "Date": "on January 10, 2014",
+                "Helpfulness": 0.90625,
+                "StarRating": "5",
+                "Text": "This book by Ashok Katti is a display of his passion for the subject of Relativity.  The book is very well written and brings the reader up to date on the history and theory of this complex subject.  The mathematics involved in the various theories associated with Relativity have been well organized to be easy for the reader to follow.  The end of the book also has a review of the various mathematical proceedures necessary for the serious reader to review in order to study the derivations on most of the equations in the book.  An example is the chapter on Tensor Calculus, which is also a subject which Mr. Katti has studied in great depth.  This book is highly recommened to the serious physics student and college professors to have in their personal libraries.  The book has the potential to be a classic on the subject of Special and General Relativity."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31D1UVKP7QXDP"
+                },
+                "Date": "on April 21, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Great introduction to the mathematics of special relativity -- and some general relativity.  for the person looking for an introductory book this has a good mix of the mathematics required."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RDKDDJXK4E3M"
+                },
+                "Date": "on January 9, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is phenomenal.It is clear and concise"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A7XFZC5QC8OD5"
+                },
+                "Date": "on December 28, 2013",
+                "Helpfulness": 0.4166666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A310SKH8L08AQT"
+                },
+                "Date": "on March 26, 2014",
+                "Helpfulness": 0.28205128205128205,
+                "StarRating": "2",
+                "Text": "I have many books on relativity and of late have bought several on tensors and been studying tensors. Upon examination, I judged this book to be inferior in its presentation to several other books I have purchased and read, so I laid it to one side. Maybe at some future date I will appreciate it more."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Theory-Special-General-Relativity/product-reviews/1482309548/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#195,328",
+    "Timestamp": "2015-05-24 13:43:15.724827",
+    "itemurl": "http://www.amazon.com/Mathematical-Theory-Special-General-Relativity/dp/1482309548"
+}

@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$36.95",
+    "Name": [
+        "Higher Speculations: Grand Theories and Failed Revolutions in Physics and Cosmology"
+    ],
+    "OfferPrice": "$35.10",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AELS725C34F9Q"
+                },
+                "Date": "on September 23, 2011",
+                "Helpfulness": 0.9375,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CI7S045Y92LO"
+                },
+                "Date": "on October 25, 2011",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "4",
+                "Text": "There is a remarkable amount of documentation here. The material is not overly popularized (dumbed-down). We get glimpses of the author's opinion but the tone is quite fair, almost objective. This is a survey which actually teaches and clarifies."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10Z9Q81FK72KB"
+                },
+                "Date": "on February 20, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very good"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Higher-Speculations-Theories-Revolutions-Cosmology/product-reviews/0198726376/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,667,741",
+    "Timestamp": "2015-05-24 13:43:00.861993",
+    "itemurl": "http://www.amazon.com/Higher-Speculations-Theories-Revolutions-Cosmology/dp/0198726376"
+}

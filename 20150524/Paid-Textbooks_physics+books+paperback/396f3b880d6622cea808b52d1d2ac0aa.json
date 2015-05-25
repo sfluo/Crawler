@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$105.00",
+    "Name": [
+        "The Physics of Liquid Crystals (International Series of Monographs on Physics)"
+    ],
+    "OfferPrice": "$85.32",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on March 4, 2004",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QQR7X82IZV0X"
+                },
+                "Date": "on April 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Liquid-Crystals-International-Monographs/product-reviews/0198517858/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,059,930",
+    "Timestamp": "2015-05-24 13:12:56.244358",
+    "itemurl": "http://www.amazon.com/Physics-Liquid-Crystals-International-Monographs/dp/0198517858"
+}

@@ -1,0 +1,720 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.00",
+    "Name": [
+        "How to Teach Quantum Physics to Your Dog"
+    ],
+    "OfferPrice": "$14.40",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22I55P15NSAOX"
+                },
+                "Date": "on December 25, 2009",
+                "Helpfulness": 0.9925925925925926,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34CSXOGVYF94S"
+                },
+                "Date": "on December 27, 2009",
+                "Helpfulness": 0.9743589743589743,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IA0O3OYQO9LV"
+                },
+                "Date": "on January 20, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CWEK9HY2VPDL"
+                },
+                "Date": "on January 19, 2010",
+                "Helpfulness": 0.8695652173913043,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on August 4, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is perhaps no area of Physics that has garnered as much fascination as quantum mechanics, save perhaps the theory of relativity. Yet in a sense the weirdness associated with quantum mechanics is even more profound than that associated with relativity. Relativity deals with physics of very fast objects, and even though it challenges our normal way of thinking, it still preserves some of the basic intuitions of what does it mean to be a physical object, how we measure properties of those objects, and what those objects can and cannot do. Quantum mechanics, on the other hand, puts all those basic notion to a test. We are forced to reconsider even our basic understanding of what reality is. There have been many popular accounts of Quantum Mechanics over the years, and this book is yet another attempt of bringing this arcane field to the general readership. So despite what the title may say, this is not a book about Physics in general, but just about quantum mechanics. The dog from the title is author's German shepherd, and she is used as a stand-in for all the na\u00efve, \"Newtonian\" ways of thinking about the world. Each chapter in the book covers a different aspect of quantum theory, and all the discussions are motivated in a light-hearted way by author's \"dialogues\" with his dog. These \"dialogues\" are meant to provide some comic relief from the otherwise technical subject matter. As such they work fine, although I am not the biggest fan of author's attempts at humor. The explanations provided in the book are actually very good - they are very well written, accessible to the general audience, and absolutely conceptually correct. This last point should not be taken for granted, as I have seen many attempts at making Physics accessible to the general audience that don't actually do justice to the actual Physics. One thing that I in particular like about this book is that it mentions several more recent experiments that have shed important light at the foundational aspects of quantum mechanics. In that respect this popular treatment is as up-to-date as they come. As a college Physics professor myself, I appreciate all the effort that the author has put into making this material accessible. As far as introductory, non-technical books on quantum mechanics go, this one clearly hits its targeted audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ALR7BV0MBGYQ"
+                },
+                "Date": "on January 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AES697PC2IW5"
+                },
+                "Date": "on January 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WBEIH7Z37LN9"
+                },
+                "Date": "on February 13, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AWNBZSEZ9P8BE"
+                },
+                "Date": "on January 5, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13H5US9Z7L9M7"
+                },
+                "Date": "on December 29, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ACGXQN7J6599J"
+                },
+                "Date": "on April 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on March 1, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is perhaps no area of Physics that has garnered as much fascination as quantum mechanics, save perhaps the theory of relativity. Yet in a sense the weirdness associated with quantum mechanics is even more profound than that associated with relativity. Relativity deals with physics of very fast objects, and even though it challenges our normal way of thinking, it still preserves some of the basic intuitions of what does it mean to be a physical object, how we measure properties of those objects, and what those objects can and cannot do. Quantum mechanics, on the other hand, puts all those basic notion to a test. We are forced to reconsider even our basic understanding of what reality is. There have been many popular accounts of Quantum Mechanics over the years, and this book is yet another attempt of bringing this arcane field to the general readership. So despite what the title may say, this is not a book about Physics in general, but just about quantum mechanics. The dog from the title is author's German shepherd, and she is used as a stand-in for all the na\u00efve, \"Newtonian\" ways of thinking about the world. Each chapter in the book covers a different aspect of quantum theory, and all the discussions are motivated in a light-hearted way by author's \"dialogues\" with his dog. These \"dialogues\" are meant to provide some comic relief from the otherwise technical subject matter. As such they work fine, although I am not the biggest fan of author's attempts at humor. The explanations provided in the book are actually very good - they are very well written, accessible to the general audience, and absolutely conceptually correct. This last point should not be taken for granted, as I have seen many attempts at making Physics accessible to the general audience that don't actually do justice to the actual Physics. One thing that I in particular like about this book is that it mentions several more recent experiments that have shed important light at the foundational aspects of quantum mechanics. In that respect this popular treatment is as up-to-date as they come. As a college Physics professor myself, I appreciate all the effort that the author has put into making this material accessible. As far as introductory, non-technical books on quantum mechanics go, this one clearly hits its targeted audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A23US54A0OILE4"
+                },
+                "Date": "on December 29, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WZ1B92F81LJJ"
+                },
+                "Date": "on March 3, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UGMY3PU6LHZP"
+                },
+                "Date": "on November 13, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OZY3K25BOGJS"
+                },
+                "Date": "on June 27, 2011",
+                "Helpfulness": 0.7058823529411765,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VBXQKRM7A4JR"
+                },
+                "Date": "on February 8, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IR18OMDDTF38"
+                },
+                "Date": "on April 8, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A33N3Z9MYSIPRO"
+                },
+                "Date": "on January 11, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GWG5CWLKJ7ET"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I'm in med school right now and one thing I never understood while taking the required scientific classes in high school or undergrad was what the heck physics was about.  Math, biology, chemistry were all comparatively easy, but physics always evaded my understanding.  While this book by no means brought me to a level of knowledge comparable to even a 1st year physics student in undergrad, it at least helped me fill part of the void of the one science that I could never grasp.  This gave me at least some tid-bits to help start or carry on a conversation about the topic, whereas I had nothing to go on before (and I wasn't going to pick up a text-book to fill the void in the first place).  This was a great overview of the subject written in lay-mans terms and explained in \"lay-man language\".  I'm thinking of reading Hawkings' books right now as they seem to have the same fundamentals of explaining really hard to grasp physics to a larger audience as this book has.  I recommend this book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AQ3IN3MRXQ5KH"
+                },
+                "Date": "on August 26, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KGMIH0LZXY91"
+                },
+                "Date": "on December 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I'm a physics nerd wannabe.  I enjoy dogs.  I thought the author did a great job explaining the concepts.  And Emmy was entertaining.  I would give 5 stars but have to critique the Kindle version which contained no table of contents (inexcusable for non-free Kindle product).  And the Kindle version costs more than the hardcover.  I bought it anyway as I found the concept intriguing.  And I was rewarded with a nice read from an effective and funny educator.  But honestly, the publisher really dropped the ball for the e-reader crowd."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3V15SFD7918WZ"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "But it's still a fabulous book, if you're wanting to learn about quantum physics (it doesn't cover \"physics\" in a more general sense very well).  That said, using the \"conversations with dog\" approach to simplify the concepts (while entertaining the reader) works exceptionally well, and the author does a great job at presenting a somewhat complex subject in a way that even a modestly-interested reader would find hard to abandon.  Well-written, informative, and easy to read.  It's a keeper!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AICH0MZ1MW72E"
+                },
+                "Date": "on April 3, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I disagree with the reviewers who say you need to have studied physics to understand this book. I arranged to have the author give a talk to a group of homeschooled teenagers (12 and up) in my area as a way to inspire my kids to read it. Everyone enjoyed the presentation, even without high school physics. I also did the DIY Quantum Eraser experiment mentioned in the book. You can see photos and a description (as well as other modern physics activities for kids) at my blog [...]."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27IFIALEF497Q"
+                },
+                "Date": "on August 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I have read - frustratingly - many books on quantum mechanics. Based on the title of this book, I hoped this might be more appropriated to my level of understanding. It is wonderfully written. The conversations with the dog were both amusing and educational. Nothing was dumbed down. It covers a range of quantum theories. It goes into sufficient detail to satisfy. Very much recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17EBD3ELLT5JR"
+                },
+                "Date": "on April 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I was recommended this book by a friend, and started reading it with my 10-year old daughter who has started to become interested by science. Having a degree in physics, but never having really understood quantum mechanics, I thought this could be an excellent introduction for her, and reeducation for me. It proved to be both, although as the book progressed I abandoned reading it with my daughter as the concepts become increasingly esoteric, and steadily harder to explain... nevertheless, a thorough and engaging book, starting from the basics and working up, and I am looking forward to reading Orzel's book on relativity next... Which is lying beside me as I write."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on September 2, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is perhaps no area of Physics that has garnered as much fascination as quantum mechanics, save perhaps the theory of relativity. Yet in a sense the weirdness associated with quantum mechanics is even more profound than that associated with relativity. Relativity deals with physics of very fast objects, and even though it challenges our normal way of thinking, it still preserves some of the basic intuitions of what does it mean to be a physical object, how we measure properties of those objects, and what those objects can and cannot do. Quantum mechanics, on the other hand, puts all those basic notion to a test. We are forced to reconsider even our basic understanding of what reality is. There have been many popular accounts of Quantum Mechanics over the years, and this book is yet another attempt of bringing this arcane field to the general readership. So despite what the title may say, this is not a book about Physics in general, but just about quantum mechanics. The dog from the title is author's German shepherd, and she is used as a stand-in for all the na\u00efve, \"Newtonian\" ways of thinking about the world. Each chapter in the book covers a different aspect of quantum theory, and all the discussions are motivated in a light-hearted way by author's \"dialogues\" with his dog. These \"dialogues\" are meant to provide some comic relief from the otherwise technical subject matter. As such they work fine, although I am not the biggest fan of author's attempts at humor. The explanations provided in the book are actually very good - they are very well written, accessible to the general audience, and absolutely conceptually correct. This last point should not be taken for granted, as I have seen many attempts at making Physics accessible to the general audience that don't actually do justice to the actual Physics. One thing that I in particular like about this book is that it mentions several more recent experiments that have shed important light at the foundational aspects of quantum mechanics. In that respect this popular treatment is as up-to-date as they come. As a college Physics professor myself, I appreciate all the effort that the author has put into making this material accessible. As far as introductory, non-technical books on quantum mechanics go, this one clearly hits its targeted audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A36K2N527TXXJN"
+                },
+                "Date": "on August 4, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "There is perhaps no area of Physics that has garnered as much fascination as quantum mechanics, save perhaps the theory of relativity. Yet in a sense the weirdness associated with quantum mechanics is even more profound than that associated with relativity. Relativity deals with physics of very fast objects, and even though it challenges our normal way of thinking, it still preserves some of the basic intuitions of what does it mean to be a physical object, how we measure properties of those objects, and what those objects can and cannot do. Quantum mechanics, on the other hand, puts all those basic notion to a test. We are forced to reconsider even our basic understanding of what reality is. There have been many popular accounts of Quantum Mechanics over the years, and this book is yet another attempt of bringing this arcane field to the general readership. So despite what the title may say, this is not a book about Physics in general, but just about quantum mechanics. The dog from the title is author's German shepherd, and she is used as a stand-in for all the na\u00efve, \"Newtonian\" ways of thinking about the world. Each chapter in the book covers a different aspect of quantum theory, and all the discussions are motivated in a light-hearted way by author's \"dialogues\" with his dog. These \"dialogues\" are meant to provide some comic relief from the otherwise technical subject matter. As such they work fine, although I am not the biggest fan of author's attempts at humor. The explanations provided in the book are actually very good - they are very well written, accessible to the general audience, and absolutely conceptually correct. This last point should not be taken for granted, as I have seen many attempts at making Physics accessible to the general audience that don't actually do justice to the actual Physics. One thing that I in particular like about this book is that it mentions several more recent experiments that have shed important light at the foundational aspects of quantum mechanics. In that respect this popular treatment is as up-to-date as they come. As a college Physics professor myself, I appreciate all the effort that the author has put into making this material accessible. As far as introductory, non-technical books on quantum mechanics go, this one clearly hits its targeted audience."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB399AECXCDT8"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "How to Teach Physics to Your Dog presents Quantum Mechanics to the layperson. As Quantum Mechanics is very complex and its results often counter-intuitive, this is no easy task. Having read several introductory books on Quantum Mechanics, I can say that the author did a very good job with this book, especially in regards to portraying the counter-intuitive aspects of Quantum Mechanics. The author presents the material as a dialogue between his \"talking\" pet dog and himself. Basically, at the start of every chapter, the dog comes in with a new question about physics and the author provides an answer. In addition there are comments, many times funny, made by the dog throughout each chapter. I felt this device was useful in two ways, one, the humorous comments make for some light relief amid the difficult subject matter, and, more importantly, the questions put forth by the dog, named Emmy by the way, are sometimes questions that I would have asked had I been there. In each chapter, the author presents one part of Quantum Mechanics, focusing on the conceptual aspects of each sub topic. Mathematical notation and the notation of physics are mostly absent but there are a lot of diagrams including Feynman Diagrams (used to explain aspects of Quantum Electrodynamics and Virtual Particles). Other topics covered are: the particle-wave  duality of light, the Heisenberg Uncertainty Principle, the Copenhagen and Many Worlds Interpretation, The Quantum Zeno Effect, Quantum Tunneling, and Quantum Entanglement. I really liked this book. I found myself reading sections several times over to get the most out of it. I feel that I have really enhanced my understanding of Quantum Mechanics. If you are looking for a conceptual introduction to Quantum Mechanics, I highly recommend this book, it will not swamp you in detail and the explanations are really good. This coupled with the light relief offered by the dog, and occasional allusions to the history of the subject, make for a fun and informative read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NXJDNTQK2YJL"
+                },
+                "Date": "on January 20, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GCZ07XRJX858"
+                },
+                "Date": "on December 31, 2009",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QOIDA6B2NIPO"
+                },
+                "Date": "on January 20, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28UMA3GW9L124"
+                },
+                "Date": "on January 21, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A331B9HITE5R2Z"
+                },
+                "Date": "on June 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14638TGYH7GD9"
+                },
+                "Date": "on February 18, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13T5VGJIAGNA5"
+                },
+                "Date": "on November 26, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I was intrigued by the title How to Teach Physics to Your Dog and checked it out at the library.  I never took physics in college or even high school, but my sister is an engineer, and I thought maybe I could pick up a few key words to drop into a conversation to impress her.  And I love dogs.  I can't say I can even begin to understand quantum physics or quantum mechanics, but I love the dog Emmy, and I might be getting the hang of quantum dog bones.  Obviously you have to have some background knowledge and familiarity with physics to be a fair judge of this book.  However, it does seem that the analogies used with bunnies, squirrels, steak and dog bones to help Emmy understand the concepts must surely also help physics students as well.  I still don't understand physics, but I like the dog and the interaction between her and Orzel so much, that I am already 3/4 of the way through the book.  I am buying 2 copies as presents: one for a friend whose son is a nuclear physicist (so she can also pick up some buzz words) and one for my sister, the engineer, who is also a dog lover.  Perhaps if I had had a teacher like Orzel, physics would have appealed to me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B70ZEWQ6UH1A"
+                },
+                "Date": "on January 27, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book reminds me of Steven Hawking's books.  Physics very well explained, with very few equations.  Does an excellent job of getting complex concepts across.  And this book does it in an amusing way -- a series of tongue-in-cheek conversations in which the author explains quatum physics (quantum mechanics) to his dog.  As the author states, in some ways, dogs are better suited than humans to understand quantum mechanics, because they don't come equipped with certain assumptions which people do.  Assumptions which may be valid on a macroscale, but not valid on the tiny scale of atomic particles.  Highly recommended for anyone with an interest in the topic.  It is suitable for people with a wide range of knowledge about physics.  Different people will get different things out of it, despending on their current level of understanding of quantum physics and physics in general.  Quantum physics is not a simple subject and the book requires thought and attention when read.  It is also an entertaining read.  Highly recommended.  I've already given a copy as a gift and will be giving more."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BT6TL7UCIC5Y"
+                },
+                "Date": "on January 26, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2RQ0AT4XZUIXL"
+                },
+                "Date": "on April 22, 2010",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A189BPUDLRCQEQ"
+                },
+                "Date": "on July 28, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The only reason for 4 instead of 5 stars is that the author's imaginary conversations with his dog do get a little too cute at times. But having said that, this is a really good \"Quantum Physics for Dummies\" type of book. I was hoping for--and got--a decent layman's understanding of the basic concepts of quantum physics from this book (I think having been a dog lover for all of my life and a dog owner for most of it helped me). The concept of explaining physics by using analogies of dogs chasing rabbits may seem too cute by half, and, okay, as I wrote in my opening statement, at times it is. But if you want a physics book that is a). readable without putting you to sleep or making you feel like your brain will explode, and b). actually teaches you something, I recommend this book. If you also read Stephen Hawking's The Grand Design, as I did after reading this, you will know even more (just remember the old saying: if you think you understand quantum theory, you REALLY don't understand quantum theory!)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9ELHLPXF7JKD"
+                },
+                "Date": "on January 25, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26HXJ2HOWNDGE"
+                },
+                "Date": "on January 20, 2011",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "While the title of the book just refers to physics in general, the book actually focuses on quantum physics or the physics of very small things.  The book is directed at the physics novice, and the author does a nice job of describing a very complicated topic by pretending to discuss it with his dog.  I found the discussion with the dog gave the author easy to understand examples that could help to explain the very difficult quantum physics topics.  For example, using a bunny rabbit in a yard as an example of a subatomic particle.  In the book, the author covers the topics of 1) How an item can act as both a particle and a wave. 2) How it is impossible to tell both the position and momentum of a particle. 3)The idea of many worlds. 4)Teleportation. And several other things related to quantum physics.  I came away from the book entertained and with some basic knowledge about a very complicated area of science.  That was just what I wanted."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANS1J3RDEOI60"
+                },
+                "Date": "on February 7, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Excellent book.  I like the approach and it simplifies Physics so that a normal person can understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOXMWBNDZDJ9L"
+                },
+                "Date": "on March 24, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "About a year ago I discovered physics and realized that it is just about the most amazing, mind-blowing subject. I have been devouring physics YouTube videos, physics websites, and books, trying to get a better handle on this elusive science. One day while browsing my local library's puny physics section I found this gem and immediately knew I had to read it. Oh man, from the first page I was hooked. Orzel writes in a easy, flowing style that feels more like you're having a conversation. Probably this book would be a good read for someone like me: someone with a basic foundation and knowledge of elementary physics concepts, but not a complete newcomer or an expert type. I loved this fascinating book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3P4BDLBH7TXX2"
+                },
+                "Date": "on November 1, 2012",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This is a fun read while still providing an educative experience. I believe that quantum physics is becoming an increasingly relevant to the everyday world, especially considering shows like Fringe are touching on the concepts in a general way. HOW TO TEACH PHYSICS TO YOUR DOG is an exceptional way to quickly and easily conceptualize advanced physics concepts. The examples provided make it easy (an enjoyable) to learn about advanced physics. While this book will most certainly not make you a master at the topic it will give you conversational knowledge with experts; but also give you advanced knowledge to the lay person when talking about quantum physics in the pop culture world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L2CIUHVXSTGB"
+                },
+                "Date": "on January 24, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Maybe it is partly because I have special feelings not only for quantum physics but for dogs as well. More seriously, I love the book because it teaches modern perspective on quantum physics and does it on the learners terms. The student in the book has very limited knowledge of formal (classical) physics, but she has a lot of imagination, some experience in practical mechanics (e.g. through chasing bunnies) and, what is important, she does not have many preconceived ideas. This is very much like a typical teenager. For teenagers learning about modern physics and especially for their teachers the book should be compulsory reading."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q8JKUVUH88KX"
+                },
+                "Date": "on April 11, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "After hearing about this book for so long I thought I would buy it to read. And it was worth it. A really fun book from start to finish with a great story. I think the dog is a genius. The description of the physics was really good and Chad Orzel made the task for explaining quantum physics very easy for myself to understand. It was a clever way to teach people about complex matters of physics in a simple and light approach. I learnt a lot from it and take away some good thoughts about science."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASV0QFACWHX62"
+                },
+                "Date": "on May 11, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "The best explanation I've found of quantum physics' basic principles for a lay lay lay person. You can infer from the title that this book does not belong on a doctoral candidate's Works Cited page. If, however, you've found yourself unable to recall the major foundations of quantum physics no matter how many cute animated YouTube videos you've watched, you'll have no trouble after reading this. A humorous midpoint between a tome and a For Dummies, and a quick read."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QPK8CFFY9OA9"
+                },
+                "Date": "on October 26, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I thoroughly enjoyed this book.  The author did a great job of providing the big picture of modern physics without having to resort to very much math.  I'm an engineer and so have taken several high school and university-level physics courses; I believe that I and my fellow students would have benefited from first reading this book, before the big picture was, if not lost, obscured by the oft times difficult math associated with modern physics.  Teaching physics through conversations with Emmy the dog was genius!  I would recommend this book to high school and beginning college students who are about to take physics and anyone who is interested in physics without wanting to wade through the gore math details."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MU6YWLNZU47W"
+                },
+                "Date": "on June 23, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I've recommended this book to lots of folks to help them get acquainted with harder physics concepts without dredging up lots of math, but the real beauty is that the colorful way Orzel describes the concepts have helped me describe these concepts to others. I don't have a physics-heavy background other than general interest & elective reading, but this is easily the most accessible book on a heavy & difficult subject I've come across. This is one of the books I recommend to others most often. Great job, Orzel."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25CDV1A1UTWKQ"
+                },
+                "Date": "on March 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BZWUB7P7TV4R"
+                },
+                "Date": "on February 25, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3E2XCD1HP4LP0"
+                },
+                "Date": "on May 17, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a great book for someone who really enjoys reading about Physics.  It is well-written and quite understandable in the topics that are discussed."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NIYEELNCMU64"
+                },
+                "Date": "on October 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Amusing, interesting author voice, clear exposition from concrete doggy examples to theory, and covering basics thoroughly without unnecessary clutter, this is an excellent choice for the casual reader and student alike.  Good to keep around and reread from time to time, too!  It also sheds light on how some of our modern devices work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADPBHTV2Y26TB"
+                },
+                "Date": "on December 11, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EOQ2WK0XHDFA"
+                },
+                "Date": "on January 10, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Granted, I will admit that there wasn't as many quips as a Dave Barry book, but Chad made quantum physics easier to understand and quite humorous.  This book has helped me understand photography to a much greater level, too.  I would recommend this book to anyone with a desire to learn and photographers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOD9OIEJ7H3QG"
+                },
+                "Date": "on May 28, 2010",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I am still reading this book. It was recommended to me by a Physics teacher. He stated anyone could understand Physics with this book. He also told me it was similar to\"_______ For Dummies\".  I am finding it still a bit challenging. I am hoping my granddaughter will read it before she takes physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1I8Q4L5DDGTOM"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "As a physician with a distant physics background l really wasn't sore how much I could get out of a book like this. concepts are explained clearly, and there is a lot of fun along the way. Makes a difficult topic somewhat understandable, and it doesn't feel like a slog!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9Z48TN0NYBO8"
+                },
+                "Date": "on March 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I'm loving it so far... It has nice little historical detours and very nice humor and some simple math equations... Friends and spouses not interested in physics still can enjoy the charming writing style when I read to them."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1EM42ZLOFNCLH"
+                },
+                "Date": "on March 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1WLXUT74JAAZV"
+                },
+                "Date": "on January 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Bought this on recommendation of a physics major friend. LOVE IT! Conversational, funny, and actually deals with the physics in a sensible way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1415X27K6HEQB"
+                },
+                "Date": "on March 8, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "After working at a dog camp you really get the point of the dog and how to talk to your dog. Puts physics in a very practical way of thinking"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GO09NXSC7I7X"
+                },
+                "Date": "on April 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "A good way to introduce quantum physics to the mathematically challenged.  Clever and well written, this one make you think."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIYOAA0M1VD5J"
+                },
+                "Date": "on November 25, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting book. I think Mr.Orzel has done a comprehensive piece of work and it can be a good choice for beginners."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29XVGZ8NZ1NRO"
+                },
+                "Date": "on July 20, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is a lovely way to brush up on school physics long after they've been forgotten! Clearly written"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10P5LYBOSE58I"
+                },
+                "Date": "on September 4, 2011",
+                "Helpfulness": 0.6,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1D1P9JQKWW8N"
+                },
+                "Date": "on October 31, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent all the way around. I would buy from them again. Very satisfied overall."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AEGLDLAVP721"
+                },
+                "Date": "on January 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Fun treatment of the subject.  Enjoyed discussing the concepts with my kids."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A188WBZZMNHMZ4"
+                },
+                "Date": "on January 30, 2012",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26MVDNF5P6MXB"
+                },
+                "Date": "on November 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Written in an easy to read manner suitable for the layman...."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3MHGA6BJJ7P27"
+                },
+                "Date": "on February 25, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3T0ZD0PQEENCI"
+                },
+                "Date": "on September 20, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3QSM5XHPL1T6Y"
+                },
+                "Date": "on March 29, 2010",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GH7KPDTS8GLO"
+                },
+                "Date": "on May 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "This book was a good concept.  Really, it was.  And the author made a good attempt at making the topic understandable.  But I still could not tell you anything more about Quantum Physics than I could before- it simply slipped into jargon a bit too much.  I think it's concepts are simply too foreign to actually be explained simply."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R1BFJCMWX0Y3"
+                },
+                "Date": "on April 5, 2013",
+                "Helpfulness": 0.16666666666666666,
+                "StarRating": "2",
+                "Text": "I didn't get this book at all. This book was not my kind of reading at all ad I will confess that I didn't read the entire book. I was rereading things to try & make sense of it & gave up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANMB89ON8576X"
+                },
+                "Date": "on January 28, 2010",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A124WA07XRTP7"
+                },
+                "Date": "on December 22, 2011",
+                "Helpfulness": 0.1875,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2K3D4H7FEM2GG"
+                },
+                "Date": "on December 23, 2009",
+                "Helpfulness": 0.2222222222222222,
+                "StarRating": "4",
+                "Text": "I cant believe how crazy this book was! I got it at noon and read the entire book in one sitting. i cant describe much except to tell you if you're a fan of this genre (or anything with a touch of Seinfeld... sorry if I'm insulting the author...hard to describe) you will LOVE this book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/How-Teach-Quantum-Physics-Your/product-reviews/1416572295/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "78"
+    },
+    "Salesrank": "#149,785",
+    "Timestamp": "2015-05-24 12:49:26.011519",
+    "itemurl": "http://www.amazon.com/How-Teach-Quantum-Physics-Your/dp/1416572295"
+}

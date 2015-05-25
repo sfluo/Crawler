@@ -1,0 +1,135 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.95",
+    "Name": [
+        "Fluid Mechanics, Second Edition: Volume 6 (Course of Theoretical Physics S)"
+    ],
+    "OfferPrice": "$52.77",
+    "Reviews": {
+        "AverageStarRating": "4.9 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AW8XP45YVIIZ"
+                },
+                "Date": "on March 12, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a classic text on fluid mechanics, and an essential for any serious researcher in the field.  This book starts by deriving the basic equations of fluid dynamics (a few simple equations - easy, huh?), then each subsequent chapter discusses narrower topics such as viscosity, turbulence, supersonic flow, etc.  As a text for a student, this book has some serious limitations in my view.  I would not recommend this book to someone approaching the material for the first time, or to teach oneself, it is really best as a research resource for a professional or graduate student.  One thing that I didn't like about this book (and this is a complaint about the LL series in general) is that it is very difficult to separate which topics are general and which are very specific.  The reader needs to know a bit about hydrodynamics before approaching this book in my opinion.  For example, LL discuss the Rankine-Hugoniot equations for flow across a shock (a general result fundamental to hydrodynamics), then in the next section they discuss the supersonic corrugation instability, a subject that is really of interest to a small number of researchers and advanced graduate student in specific fields.  Overall, not a great learning text, but an irreplacable reference on hydrodynamics.  If you are looking for an introductory text, start with Batchelor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AULJWM8TQO0T0"
+                },
+                "Date": "on October 26, 1999",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": "Landau & Lifshz \"Course of Theoretical Physics\" is a famous and respected set of books in Physics. Unfortunately,  Butterworth-Heinemann, who currently prints those books in English, prints  them with very poor quality. The books seem to be \"printed\" in  old copy machines and the paper used is also a cheap one.  In many pages,  it is really hard to read the text, due to such poor printing."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AU7ND6NOCX9IA"
+                },
+                "Date": "on November 11, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "This is the Volume 6 of the famous Course of Theoretical Physics by L. D. Landau and E. M. Lifshitz. All serious students of theoretical physics must possess the ten volumes of this excellent Course, which cover in detail and rigour practically all the branches of theoretical physics. The Volume 6 treats the theory of the motion of liquids and gases. The book opens with the theory of ideal fluids and drives the attention of the reader to a large amount of topics, which are discussed in greater detail and, moreover, discussing with details topics not usually found in other similar books, such as turbulence, sound, fluid dynamics of combustion, relativistic fluid dynamics and the dynamics of superfluids. The book is written in a language proper of a theoretical physicist, but owing to its clarity, it can be read without problems for other scientists. A superb book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/APATN6ECCDUUT"
+                },
+                "Date": "on November 15, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "The book is often cited by other authors of fluid mechanics and explosion/shock wave work which is why I bought it.  It makes a great reference book, yet is probably not the best choice for an introductory course.  It is very complete in its development of topics and the problems/examples are all solved in straight forward approaches."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 20, 1998",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "5",
+                "Text": "This is another fantastic book from the Landau-Lifshitz series. I studied it in depth and then taught from it. I don't think there is any book of PHYSICAL quantum mechanics comparable to it, not even the classical Sommerfeld's \"Mechanics of Defromable Bodies\". What I like most in this book is the constant use of thermodynamics, allowing the treatment of much more real (and interesting) systems. For instance, it derives quite early conditions for the establishment of atmospheric thermal inversion, a problem of great practical importance in our days. The introduction of the Reynold's number is also superior to any other I've met. Relativistic fluid mechanics receives also a very good treatment, being an excellent preparation for relativistic cosmology. In this book Landau presents his ideas on turbulence, what is called now the Landau-Kolmogoroff turbulence theory. This is being challenged, after recent progresses on deterministic chaos, by different theories, l! ike that of Ruelle-Takens. Still, in order to really enjoy the progresses in this field, you should know both, and the perfect source of information for Landau-Kolmogoroff theory is Landau's book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YYWM6I50PASO"
+                },
+                "Date": "on April 17, 1998",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "like the other books of this series a great book full of facinating thoughts and calculations. though it is very dense and the nomencature is different from the usual.  one of the big values of the book lies in the fact that it gives a physics point of view on a typically more engineering type field"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N7YTUVWZKBRC"
+                },
+                "Date": "on April 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A107YJBBVQ6WSM"
+                },
+                "Date": "on February 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A359CR0EEUTPT5"
+                },
+                "Date": "on April 8, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q3O5W6TJELG8"
+                },
+                "Date": "on October 13, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I ordered this as a supplemental text for a class I'm taking and I was wary about the fact its paperback. But it arrived quickly and wrapped in plastic with the other textbook I purchased. It was packaged in plastic and wasn't bent or folded."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H2KI6XWWOHWF"
+                },
+                "Date": "on October 11, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IN3GS64R1S00"
+                },
+                "Date": "on July 25, 2008",
+                "Helpfulness": 0.14285714285714285,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fluid-Mechanics-Second-Theoretical-Physics/product-reviews/0750627670/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "13"
+    },
+    "Salesrank": "#396,848",
+    "Timestamp": "2015-05-24 12:48:46.557080",
+    "itemurl": "http://www.amazon.com/Fluid-Mechanics-Second-Theoretical-Physics/dp/0750627670"
+}

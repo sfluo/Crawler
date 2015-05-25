@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "An Advanced Introduction to Calculus-Based Physics (Mechanics)"
+    ],
+    "OfferPrice": "$20.62",
+    "Reviews": {
+        "AverageStarRating": "4.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DN7J42IYGNIR"
+                },
+                "Date": "on August 13, 2013",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "I learned much from this book. I'd recommended it to a student of calculus based physics. It describes every minute detail that many students may overlook."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IJI1PEZS1DTZ"
+                },
+                "Date": "on August 13, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Nice book. Illustrative. concepts are explained very well. Very useful for students taking honors credit in calculus based mechanics course.  The equations are easy to follow with the right amount of calculus. I have been TA for few years in introductory physics courses and I would totally recommend to my students."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1JLNSX3O2NZJ5"
+                },
+                "Date": "on March 22, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book has excellent practice problems, which make you think, but are also very fun and wacky. They are much more interesting than the standard dry physics problems you find in most physics textbooks. They are not only entertaining, but answers and detailed hints are provided for many of the problems."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3COJDLU8EYPB2"
+                },
+                "Date": "on December 2, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Advanced-Introduction-Calculus-Based-Physics-Mechanics/product-reviews/1463644086/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#668,125",
+    "Timestamp": "2015-05-24 13:36:37.124651",
+    "itemurl": "http://www.amazon.com/Advanced-Introduction-Calculus-Based-Physics-Mechanics/dp/1463644086"
+}

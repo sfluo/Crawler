@@ -1,0 +1,396 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Berkeley Physics Course: Electricity and Magnetism v. 2"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 3, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Having used this book in college 24 years ago, I believe it remains the best overall introductory text book.  It is written to truly give you understanding of the subject.  In comparison, Halliday and Resnick, Feynman's notes, Jackson's (three of my favorite books) are respectively trying to teach engineering, provide insight, or impart mathematical rigor.  Overall Purcell is not as original as Feynman but is a more complete and integrated coverage suitable for someone who wants to understand physics.  It is not an engineering book so the problems are for thinking--really makes you think deeply about how the world is constructed.  To solve lots of practical problems use H & R.  Jackson is mainly useful to rounds out a few corners once you know the subject.  I personally think it is the best intro book although the usual 10-12 weeks quarter or semester devoted to the teaching of this material is insufficient to really allow the subject to sink in--I'd take 3-4 weeks out over the summer and study this one subject alone before going to college.  This will be extremely rewarding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 19, 1998",
+                "Helpfulness": 0.9545454545454546,
+                "StarRating": "5",
+                "Text": "This book must have been a work of love. The reader of it who fails to fall in love with electromagnetism would better change his direction of study, as he will not find anything better, including the marvellous Feynman's \"Lectures on Physics\". Following a more-or-less historical approach, except for the early use of relativity, the author strives to get the results from a full understanding of the physical situation. This is obtained by the use of very clever intuitive models. After that comes the mathematics, rendered natural and welcome. An outstanding example is the treatment of polarization of a dielectric sphere, where most of the physics is derived from a drawing! Another feature, to be found only in books written by great physicists, is the ability of stretching the argument up to its limit, getting results we wouldn't think possible with so little formalism. Problems are extremely good and real. The drawings, done by the author himself (so I read some! where) are very beautiful and helpful. Some of the exercises are of numerical character, motivating the use of computers. After meeting this book I could never teach introductory electromagnetism from another text. The author, Edward Purcell, is a Nobel prize winner who discovered, among many other things, nuclear magnetic resonance."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2AKPYBSQA0VYV"
+                },
+                "Date": "on June 13, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1E2WQFVYF4E71"
+                },
+                "Date": "on December 10, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3USD3ANXP45UC"
+                },
+                "Date": "on July 6, 2005",
+                "Helpfulness": 0.9047619047619048,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX2A8MCGW562W"
+                },
+                "Date": "on May 17, 2000",
+                "Helpfulness": 0.8020833333333334,
+                "StarRating": "3",
+                "Text": "This is a (very heavily mathematical) introduction to the physics of Electricity and Magnetism.  Although it has some strong points (It takes the time to explain the math behind div, curl, etc. and some of the  problems are rather neat), it also has its weaknesses.  First and foremost,  the problems are almost universally without solution, except for a select  few whose numerical answer are written below the problem.  Combine this  with the almost total dearth of examples, and you have a pretty serious  problem for anyone trying to learn the material on their own.  The sections  themselves are also sometimes rather poorly explained.  Chapters  5(explaining magnetism as the relativistic effect of moving charge) and 10  (dielectrics) are both fairly confusing and hard to understand.  At times I  found myself begging Purcell to include one, just one little measly example  that could possibly make more sense than his pages and pages of writing.  Once or twice I found myself not noticing that I had a fundamental  misunderstanding of a facet of the material, just because no example or  solution in the book provided a counterexample to my way of thinking."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26L37R0Z47QIX"
+                },
+                "Date": "on February 7, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 9, 1999",
+                "Helpfulness": 0.9285714285714286,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DA3SA7GMZARY"
+                },
+                "Date": "on April 28, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1B3EJLLGS0GY9"
+                },
+                "Date": "on June 20, 2002",
+                "Helpfulness": 0.9090909090909091,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EQQP0LD4Z375"
+                },
+                "Date": "on April 28, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1G4HM2ZYGFHRA"
+                },
+                "Date": "on May 21, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HHMPWS6O6S1D"
+                },
+                "Date": "on January 30, 2003",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "5",
+                "Text": "If I were teaching undergrad E&M, I'd assign Purcell for moving charges, and Griffiths for everything else. That one chapter is worth the price of many books (or at least a trip to the library)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2UYK05NB5PLTR"
+                },
+                "Date": "on June 25, 2004",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "I used this text in an 'advanced' introductory physics course and loved it.  Explanations are clear and concise, examples and homework problems are of sufficient sophistication to prepare one for challanging exams, and the text limits itself to a thorough study of the more basic concepts of electricity and magnetism.  The text is excellent preparation for more advanced study, and probably a good reference for students who need help while pursuing more advanced study."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A5SXYI9NOIRW"
+                },
+                "Date": "on January 4, 2005",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "A true classic among the textbooks for introductory electricity and magnetism. Yes. This book is highly mathematical. The author takes great effort to present both concepts and mathematical formulations clearly and rigorously. This is a great book for any physics class that emphasizes theory. Many exercise problems are inspiring and practical. The book uses the CGS unit system which is a little odd but it takes little time to get use to."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 20, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book was and is still the best text in it's field.  I had the great pleasure of hearing Purcell's live mesmerizing lectures in person more than 30 years back, and no one who ever heard the man demonstrating in class  will ever forget it.  His book has the same elegance, unity, and internal  coherence as the subject itself. Reviewers who 'pooh-pooh' the text would  be well advised to reread the text and reconsider. Science texts don't get  much better."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A16GAIJJE39T1S"
+                },
+                "Date": "on September 10, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S2O9THMPCPGO"
+                },
+                "Date": "on December 8, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IGH0L5EVM64T"
+                },
+                "Date": "on September 4, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 18, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Purcell's book is one of the most beautiful physics books I have read. I know many people (myself included, of course) who turn to it even after graduate studies to find profound and refreshing treatments of almost any  aspect of electromagnetism without the nasty mathematics that accompanies  more \"advanced\" texts. I admit I struggled quite a bit with it as  a freshman studying the subject for the first time, but the complete,  unified and advanced understanding of electromagnetism which Purcell  presents certainly doesn't come easily to most people. With patience, and  hopefully a good teacher to help you, the best guide along this rewarding  path is Purcell's book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HGYNS55NQ8VV"
+                },
+                "Date": "on November 3, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "When we used this text for an electromagnetism course, the instructor mostly amplified the book, knowing how well it explained the subject. Derives Maxwell's equations from  'first principles' (observations, mechanics and special relativity), along  the way clarifying and even making intuitive the calculus I'd studied but  never really understood. It's not for the casual or non-mathematical  reader, obviously, but if you're interested in the topic--or compelled to  study it--and have a year or two of calculus and mechanics, I doubt you  could do better.  It's the textbook by which I judge all others, and few  measure up."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 30, 2000",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It is rare that you find a physics text that does such a wonderful job of dicussing physics.  Purcell does a great job of giving insightful, physical arguments rather than boring the reader with mathematics as one finds in more advanced texts.  The text is written with CGS units which should be appreciated by every physics student, as the math is not maimed by constants.  With the use of CGS units, the physics oozes out of the equations, and Purcell continuously exploits this!  This text is a wonderful read and I highly recommend it to any physicist wishing an insightful review of classical electrodynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AMFUPHOWZ4QKC"
+                },
+                "Date": "on June 6, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 29, 1999",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This superb introduction to Electricity and Magnetism was written by a man who actually discovered many important physical phenomena (including the 21-centimeter wavelength of hydrogen, for which he won the Nobel Prize).  He was one of the finest physics lecturers and writers to grace a lecture  hall or printed book.  Kudoes for this splendid work."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QSMYI0G98COH"
+                },
+                "Date": "on January 23, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ON8Z2KCVPDNA"
+                },
+                "Date": "on December 17, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This is a great book. It deals with the fundamentals of electromagnetics. I would recommend this book any time. In particular, there is a new edition coming out that will be in SI units. Do not pay these ridiculous asking prices for the 2nd edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ASNY6JCEJQSFE"
+                },
+                "Date": "on December 6, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "If you have a good prof this book will prove a great tool! Very detailed desciptions... nothing glossed over"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A24H767UE6DJPG"
+                },
+                "Date": "on January 8, 2001",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "I only gave this book three stars a year ago, but now, after having taken another semester of E&M using Marion and Heald, I've reconsidered.  Purcell's book, in retrospect, is clear, lucid, and, above all, physical.  Sure, there's a lot of math, but it's there to enhance a physical understanding of E&M.  To me, the ability to qualitatively explain what's going on in the physical world is paramount; Purcell had that ability.  A pleasure, in short."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JSCO4WEEBVYZ"
+                },
+                "Date": "on April 11, 2001",
+                "Helpfulness": 0.6363636363636364,
+                "StarRating": "3",
+                "Text": "I nominally used this book for a freshman intro E&M class, but after the second week read Halliday/Resnick's Physics (Vol II) instead.  Some of my problems with this book were probably the result of the class, not the book (one example- the class, the quizzes, and the homework were in MKS, but the book is in CGS), but overall I did not think Purcell was the best book for me to learn E&M from.  The lack of examples was particularly bad- I'm not a physics major partially because I struggle to conceptualize the math and see how it applies to the real world.  So when  Purcell just works the math of the problem out with no real physical example, I found myself just memorizing how the proof worked rather than understanding it.  This meant that any problem with slightly different parameters confused me.  With Halliday, the examples helped me really see what was going on and I came through the course with a good understanding of E&M.  I can see the brilliance of some of the math in Purcell, but I don't think it's the best book for an intro E&M course.  It makes a lot more sense to me now with a class under my belt than it did then."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 15, 1999",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am currently an undergraduate at the Case Institute of Technology, and for the last 20 years, our department has used Purcell's book for its Physics Honours II class and it is one of the BEST books available IF AND  ONLY IF you have a good teacher who can derive some of the basics for you  and aid you understanding some of the concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AXKF6277JX7W"
+                },
+                "Date": "on July 18, 2009",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "I used this textbook for my E&M; class.  For the most part, this book is very clear.  The only drawback is that the last couple of chapters do not present E&M; in materials very well.  Also, make sure you are familiar with multivariable calculus (i.e. partial derivatives, gradients, multiple integrals, Stoke's theorem, etc.)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 13, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "4",
+                "Text": "Not a bad book for a freshman level text.  Clear and easy to understand.  The use of CGS units in somewhat annoying.  This book will make a transition to a more advanced text like Jackson's \"Classical  Electrodynamics\" more gentle."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on May 3, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This is a good book although it is hard to read and required effort to read through the book and understand the concepts.  All in all, you get out of the book what you put into it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAOBFMWEOL1DM"
+                },
+                "Date": "on December 11, 2001",
+                "Helpfulness": 0.4,
+                "StarRating": "5",
+                "Text": "This is THE best electromagnetism book around. Great for introductory E&M; and as a resource. He teaches you all the multivariable you need for it, so you don't need to know it beforehand. And it uses CGS, unlike some [people] like Jackson. In short, Purcell drops a big ol' E&M; bomb on you."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 17, 2000",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25EAT0GCN8K4X"
+                },
+                "Date": "on November 27, 1999",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "I love this book.  It is clear and explains everything in an intuitive, visual manner.  Which is very important when trying to understand fields.  I gave the book four stars because I don't like the fact that it uses cgs  instead of S.I. which is really annoying because some formulas are altered."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOFPMH570OTED"
+                },
+                "Date": "on November 10, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "The description said the book was good, but the back page was totally off when I received it. It was frustrating."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on March 25, 1999",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "\"All opinions are equal, but some opinions are more equal than others.\"  Phil Tillman below lambasts the book unjustly.  Perhaps he should report here in his review what his grade in physics was that  semester...Sounds like sour grapes."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 13, 2001",
+                "Helpfulness": 0.47058823529411764,
+                "StarRating": "2",
+                "Text": "This is the Textbook used in Electricity and Magnetism at Hunter College of CUNY (at least for this semester) The book is a favorite with Physics instructors everywhere. As a Physics fanatic I can't help but reconigze the brilliant mind behind it. However, as many students that used this book, in my opinion it is better oriented for a professor than for a student. IT LACKS ANY SORT OF WORKED PROBLEMS. IT DOES NOT HAVE ANY ANSWERS TO PROBLEMS EITHER, AND IN MY OPINION, THIS IS A VERY BIG PROBLEM. THERE IS NO STUDENT SOLUTIONS MANUAL AVAILABLE (AT LEAST I DO NOT KNOW OF ANY) Or, perhaps the Physics Majors at Berkeley are so bright that they don't really need to check any of it. Well, I am just a mortal who loves Physics, and like to learn it the right way (or at least what I think is the right way), by working hard and checking my results against those of the professionals."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on December 4, 1998",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": "I have to use this book for my honors introductory Physics class, and about everyone in the class agrees with me on how bad this book is, understanding it is a waste of time unless you already know e&m.  To  the undergrad who wants an introduction to the material, I would go with  Moore's book from his series the Six Ideas That Shaped Physics, he has an  amazing ability to explain difficult concepts with ease."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on November 23, 1998",
+                "Helpfulness": 0.25,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 12, 1999",
+                "Helpfulness": 0.08333333333333333,
+                "StarRating": "1",
+                "Text": "Difficult to understand.  Not well organized. Hard to apply contents of chapter to problems in the book (esp. CGS units vs. SI units).  Bland writing and few illustrations.  Also,very much a dated book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Berkeley-Physics-Course-Electricity-Magnetism/product-reviews/0070664951/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "42"
+    },
+    "Salesrank": "#754,982",
+    "Timestamp": "2015-05-24 13:26:59.178824",
+    "itemurl": "http://www.amazon.com/Berkeley-Physics-Course-Electricity-Magnetism/dp/0070664951"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Crystallography in Modern Chemistry: A Resource Book of Crystal Structures (Wiley Professional)"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3Q9ZMDEI5MCQ1"
+                },
+                "Date": "on September 7, 2000",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Crystallography-Modern-Chemistry-Structures-Professional/product-reviews/0471184381/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#12,055,592",
+    "Timestamp": "2015-05-24 15:29:36.186500",
+    "itemurl": "http://www.amazon.com/Crystallography-Modern-Chemistry-Structures-Professional/dp/0471184381"
+}

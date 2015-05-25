@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$39.99",
+    "Name": [
+        "SpaceX: Making Commercial Spaceflight a Reality (Springer Praxis Books)"
+    ],
+    "OfferPrice": "$34.99",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QLVS3N8ZMINL"
+                },
+                "Date": "on July 25, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOE0XMITAJWDT"
+                },
+                "Date": "on August 7, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A208HG3EFS6CL8"
+                },
+                "Date": "on July 10, 2013",
+                "Helpfulness": 0.625,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUIA9QZSL4Q39"
+                },
+                "Date": "on January 12, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "good overview of SpaceX and the vision of Elon Musk. Would have been nice to see some interviews with SpaceX employees... But nonetheless it was a very comprehensive overview on the history of SpaceX."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A10NBG52E6DPFK"
+                },
+                "Date": "on February 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "What a story, Elon. I'm a fan of SpaceX having retired from TRW, Northrop/Grumman."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ2GHX5C0FF2"
+                },
+                "Date": "on September 30, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "An in depth history of Space X.  Packed with lots of details, pictures and illustrations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AAW32XIIBR8P5"
+                },
+                "Date": "on October 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Great shipper...Delivered as anticipated."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/SpaceX-Commercial-Spaceflight-Reality-Springer/product-reviews/1461455138/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#680,714",
+    "Timestamp": "2015-05-24 13:23:02.901399",
+    "itemurl": "http://www.amazon.com/SpaceX-Commercial-Spaceflight-Reality-Springer/dp/1461455138"
+}

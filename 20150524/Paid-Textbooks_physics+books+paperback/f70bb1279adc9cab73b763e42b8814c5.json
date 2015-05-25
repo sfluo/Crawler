@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Understanding Physics: Volume 1: Motion, Sound and Heat"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "4.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1S3C5OFU508P3"
+                },
+                "Date": "on July 17, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1MQ3IO2HJP10E"
+                },
+                "Date": "on July 6, 2001",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Asimov has used his writing skills to write a book that I can call a scientific masterpiece.  This book not only explains basic and advanced physics but it also challenges the logic of scientists from earlier civilizations and shows their falacies.  It is a diamond to any book collection."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A20SB82PMLFPA2"
+                },
+                "Date": "on April 2, 2004",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Asimov actually explains and makes sense out of physics.  I am Physics major, and Asimov explains about as well as anyone.  This is way better and more accessible than that dumb Feinman lectures series. Asimov is a very gifted writer and thinker.  Although I differ with him on alot of his conclusions about life and existence,  pretty much anything he writes is good.  A another Good Physics book is Einstein's \"Evolution of Physics\"."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Understanding-Physics-Motion-Sound-Heat/product-reviews/0451626621/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#458,522",
+    "Timestamp": "2015-05-24 13:04:51.052731",
+    "itemurl": "http://www.amazon.com/Understanding-Physics-Motion-Sound-Heat/dp/0451626621"
+}

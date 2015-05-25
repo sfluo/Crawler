@@ -1,0 +1,783 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Fields of Color: The theory that escaped Einstein"
+    ],
+    "OfferPrice": "$16.65",
+    "Reviews": {
+        "AverageStarRating": "4.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A1IQIGYSGMMX"
+                },
+                "Date": "on October 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15E5IWLHB0U8W"
+                },
+                "Date": "on April 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is a fantastic compilation of modern scientific history. I enjoyed the stories and the quotes from the scientists and the laymen (such as myself) trying to understand their work and theories. I love all science, especially the chemistry, geology and physics of the universe, but I must admit I was never big on relativity, QM or QFT. I just couldn't understand all the abstracts as I viewed them. I had to read this book in bits and pieces to grasp what Dr. Brooks was trying to convey. His writing style, the many enjoyable comparisons and the humor, mixed with the stories about the scientists kept me coming back. I now am ready to read this book again in a more constant manor. I never re-read a book, but I'm looking forward to this one. Thank you Mr. Brooks for writing this new understandable text on field theory physics for dummies like me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATYNZV56I9LBO"
+                },
+                "Date": "on May 5, 2013",
+                "Helpfulness": 0.9230769230769231,
+                "StarRating": "5",
+                "Text": "As an early reader and admirer of this book, I was glad to see that the Kindle problems mentioned by John Meyer have been repaired.  I continue to recommend this book to anyone who wants to understand modern physics.  I know of no other book that presents the basics of physics, with numerous historical asides, as well as the concepts of quantum field theory (QFT) for a lay audience.  Also, the text shows how QFT resolves the paradoxes and difficulties the usual approaches are forced into because of their initial conditions. As co-author of a physics textbook myself, I also urge physics students to read this book.  They will be surprised and delighted at some of the revelations, such as the simple derivation and explanation of E = mc2."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2WOXAAWBGNQ5Y"
+                },
+                "Date": "on January 24, 2013",
+                "Helpfulness": 0.7804878048780488,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2VX02C1MSYMN2"
+                },
+                "Date": "on September 8, 2011",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OVQDQMS8DIJC"
+                },
+                "Date": "on December 27, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A93H0L0NW8BG2"
+                },
+                "Date": "on October 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2508T5ZXT3P8D"
+                },
+                "Date": "on August 4, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A38KT9PWOM7NW0"
+                },
+                "Date": "on November 8, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D31CUJTP51AM"
+                },
+                "Date": "on December 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RX9GTWNNCJV8"
+                },
+                "Date": "on May 26, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YQLOMSIGMOZB"
+                },
+                "Date": "on May 28, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3U3MBSHCKMVAH"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": 0.8,
+                "StarRating": "4",
+                "Text": "The author of Fields has an exciting theory to work with.  Quantum Field Theory, the theory that all particles and forces are part of a larger, spread-out entity called a Quantum field network, each particle and force with its own separate (but connected) field.  This theory actually enfolds the standard model of quantum mechanics plus Einstein's theory of gravity into one unified theory.  The author identifies six fields which are the substance and fiber of space, thus there is no such thing as empty space.  Gravity itself is a field.  This makes tremendous sense when one considers that we know with total assuredness that all electromagnetic phenomena are in fact aspects of an electromagnetic field, and have been identified as such for many years. In order to make his thesis of space encompassing fields the author uses various colors to help the reader stick with the notion of the various fields. The colors are symbolic.  Thankfully, for those of us not math whizzes the author stays away from math and complex quantum/relativistic jargon language to flesh out his narrative.  Superb concept, well done.  Alan Dietz, Miami"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SU5JRJZ610NH"
+                },
+                "Date": "on October 9, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "This book is an excellent one for those who want to get an insight into what quantum physics is all about - the author uses understandable metaphors without using any of the blinding descriptions that most current textbooks have. As a Biologist and University Professor I have always struggled with physics - \"A necessary evil\" - but reading this was just very pleasurable. I even kept it at my nightstand before falling asleep! Highly recommended, esp. for those interested in science but without a physics background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DP97NSKCTG0L"
+                },
+                "Date": "on June 27, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Took QM in grad school and was taught how to do calculations but there always remained the paradoxes of wave particle duality etc which this book clears up.  Introductory texts on QFT are almost impenetrable even knowing the math required for a grad level QM class.  This book allows one to get the main ideas in QFT before taking the plunge into the harder math.  For the layperson this book is a great way to appreciate how the universe works that makes good sense."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CB276Z8F6MRO"
+                },
+                "Date": "on March 23, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1OMUWSW2KW9TK"
+                },
+                "Date": "on January 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I first picked up this book in the MS Volendam library and couldn't put it down.  It is well crafted book on quantum field theory that manages a wonderful job without equations.  It really adds to my understanding of the history and current state of QFT. The bibliography pointed me toward many other interesting books/authors on the subject.  This book is a must read for engineers interested in physics.  My thanks to the author!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1594C65K82GQN"
+                },
+                "Date": "on January 7, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14HZ8KE6XPSH7"
+                },
+                "Date": "on January 3, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very enlightening and clear read. I came away with a clearer if not complete understanding of Quantum Field Theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A269VKYE3V2ZI6"
+                },
+                "Date": "on October 1, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A fascinating view of the personality of a true seeker and inspiring update on the (physical) state of our universe. A real satisfaction to hear from a person who is satisfied not to know it all."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVMK9HY18WHYF"
+                },
+                "Date": "on July 15, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKBEQ1KFFD5T4"
+                },
+                "Date": "on December 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Most books of this type go over the same worn material. While this one does that as necessary, it contains different, significant material and debunks some of the oft repeated concepts. It is very refreshing and brings to light a very important, if overlooked, side of quantum physics. Brooks's sometimes humorous style is delightful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A345MPBRN731V4"
+                },
+                "Date": "on January 13, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Dr. Rodney A. Brooks explains Quantum Field Theory in a truly delightful way... for both the layman and the scientist. If you have been curious about Physics, but overwhelmed by the Math and theory behind it, this incredible book is for you. The use of colors to represent \"fields\" is an innovative approach."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AMK5Q8MLD64N"
+                },
+                "Date": "on December 31, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A very promising theory.  Clear and concise, it met all my expectations.  Whether or not it is the final theory, it is definitely a step in the right direction.  It is unfortunate that Einstein was not younger at the time the theory was presented.  With more time to consider it, he might have endorsed it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XABF7I9GN5DL"
+                },
+                "Date": "on October 5, 2011",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "With a wonderful sense of humor and  plain talk, Dr. Brooks made me think about the world we live in and how uninformed the media and current televised science is.  I rally against all the superficiality and ingnorance displayed in the current media.  Hey there Science Channel READ THIS BOOK!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A232E2AKTKJIED"
+                },
+                "Date": "on March 28, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Enjoyed reading this book, explained much better than the other books I've read. I am not convinced this theory is the only one that makes sense, but now I understand it much better. Mr Brooks did a good job with his explanation of a complicated subject and is worthwhile buying."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AKY9RPPIHNQGC"
+                },
+                "Date": "on September 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A18RPA5YDHJN22"
+                },
+                "Date": "on December 6, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "My husband and I both read this book and he is a retired scientist and says this guy is right on. I would recommend this book to anyone who is interested in quantum mechanics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BRYWO3FNUOVK"
+                },
+                "Date": "on May 19, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ANX61RUZC7IKM"
+                },
+                "Date": "on April 3, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2NAXACW2TKLBP"
+                },
+                "Date": "on July 18, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This wonderful book opened my eyes to an entirely new theory. The book introduced me to Quantum Field Theory. The name itself is intimidating, but the way the author explained the theory was very clear. The theory is that the universe is made of fields. To make things clearer, the author assigned a color to each field. Thus the title. There are six different fields: gravity, electromagnetic forces, the strong force, the weak force, matter (matter is composed of two fields). The book also shows how the strong and baryon fields are made of more basic fields called quarks and gluons, and how this theory led to \"one of the greatest scientific achievements of all time. This theory is different from Quantum Mechanics in many ways. For starters, this theory is elegant and straightforward. It puts Quantum Mechanics to shame in terms of simplicity. I definitely recommend it to anybody who is interested in reading about physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12CWQK040OWRY"
+                },
+                "Date": "on April 13, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "You will learn from this book that elementary particles like electrons and quarks can be regarded as locally induced vibrations of of fields.  A field is some sort of object that exists throughout space.  From that point of view, many the paradoxes that you read about that permeate quantum mechanics, like double slit experiments, can be explained.  That is, the answer to the perennial question \"Is it a particle or wave?\" is wave!  Because of the absence of the underlying mathematics you won't learn to much more than that from reading the book.  However once you have that under your belt you might have the courage to dip into books with \"Quantum Field Theory\" in the title and thus get really educated.,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3GK6ADT70NLHB"
+                },
+                "Date": "on March 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I carefully read my $5 kindle version and on the whole decided this was a pretty decent book that I can recommend. One problem is that, like many other popular books, this one starts out too simply before substance appears. In this case, the first 40% of the book may be overly simple, but then some decent meat is found.  I took 3.5 pages of notes (which is my measure of a good book).  Because it is a little lightweight, I believe it should be supplemented with or followed by a separate but related article that isn\u2019t quite as easy like: ``There are no particles, there are only Fields,\u2019\u2019 Art Hobson, free at: http://arxiv.org/pdf/1204.4616v2.pdf,  [or Am. J. Phys. 81(3), 211\u2013223 (2013)]."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEP3OD136724K"
+                },
+                "Date": "on March 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "QFT and matter waves were unknown to me before reading this book, and I found the concepts fascinating.  In the distant past (the 60's) I received a degree in physics, but my mathematical skills have mostly evaporated.  The small residue that remains allowed me to follow the author's descriptions and arguments, in a more or less superficial way, but enough so that my interest was maintained. I enjoyed the book and was glad to have found and read it; however, I believe that someone with no, or a very limited, science background would have some difficulty working through it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CRO7M7075YEM"
+                },
+                "Date": "on March 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "I don't get why the use of the colors at all, really. It seems to me the book should have skipped that visual bit and just concentrated on the use of fields (rather than particles or waves, or even strings) as the underlying concept to explore. Plus, there just wasn't enough information for me, coming from a non-physics background, to really get a grasp of the concepts. I like that it avoided all the math that's REALLY involved in the physics, but I still felt a longing for something more. I don't know exactly what, but something."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALA63G7K7VA5J"
+                },
+                "Date": "on March 15, 2015",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "Written so I can understand it, but still tough concepts to absorb."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3AZW0E5TBNQFD"
+                },
+                "Date": "on April 2, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This book was amazing!  I learned so much about the history of physics and the physicists who shaped our understanding of the world.  It is was written with a clarity and intelligence that speak to both the scientist and the lay person. Dr. Brooks paints a picture of our universe that is satisfying to the novice while being backed by the theory of a Nobel laureate.  This book should be read by everyone."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1LRB0FDA2AWJK"
+                },
+                "Date": "on March 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Dr. Brooks has done an outstanding job of taking the mystery out of quantum field theory in this book written predominantly for the lay reader. (Professionals can benefit, too.) It is wonderfully well written and in the course of explaining the theory, it provides an outstanding review of the principal developments of twentieth-century physics. It's a fun read and I can unreservedly recommend it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3KN3M35OAC9J4"
+                },
+                "Date": "on June 17, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28GY1K4W5V04A"
+                },
+                "Date": "on April 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Worth reading more than once for it will force you to think outside the box. We'll written, in an easy to understand way."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2I5MRFS819IGO"
+                },
+                "Date": "on April 9, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I'm not a physicist, but I do spend a lot of time reading scientific journals.  This book has simplified quantum mechanics better than any I have read, so far.  Coloring the fields might be okay for classroom, but not for Kindle.  This author, in suggesting that particles are, in fact, fields, goes a long way in helping to understand the quandary of quantum."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A90FZ5OZFUBN3"
+                },
+                "Date": "on March 27, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book gives an extremely clear explanation of quantum fields as the foundation of reality.  The only mistake is believing in the collapse of the wave function."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SNU2B46YCASG"
+                },
+                "Date": "on March 23, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Finally and totally understandable though Quantum Field Theorem.  No particles no point, duality not an issue, observed or not doesn't matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RKEC1NX11TEP"
+                },
+                "Date": "on March 3, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "this author touts the virture of having no equations; in general I agree often the physics gets lost in a detailed mathematics text. I have enjoyed this authors commentary but I think a few simple equations would have been instructive."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2OJ8TZW29WS4D"
+                },
+                "Date": "on February 16, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I read a lot of scientific literature and this book fit right into my curiosities.  I'll probably read it again at some point in the future."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2P5NNXTJRKJXP"
+                },
+                "Date": "on December 13, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIIDPZJSTZC5Z"
+                },
+                "Date": "on November 3, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I believe there is more than a particle of truth in Quantum Field Theory. Thank you very much Mr. Brooks."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VKKTLDPSE7IW"
+                },
+                "Date": "on November 2, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "for those who, like myself, have no formal science education but are drawn to these complex ideas, this is an important book. it allows you a peek in the door of a theoretical model of the universe that changes the way you see things. i have a few books that changed my way of thinking; Crowds and Power by Elias Canetti and Darwin's Dangerous Idea by Daniel Dennett (notwithstanding some 'errors' contained therein) are two of them. I would add this to my list."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VAO7ZZNW8UAN"
+                },
+                "Date": "on October 15, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Covered a lot of physics discovered from the last 120 years.  Very qualitative which was the intent,  I would have liked a good bit more detail in the appendices.  Some description of the field equations would have helped me get a better understanding.  He didn't need to include a course in partial differential equations, but some more quantitative material wouldn't chase away readers."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A26FYJWPKTHQRN"
+                },
+                "Date": "on October 12, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The obvious reason. It gives the layman a great grasp of modern physics. That is quite a feat. It is hard to clarify with words ideas that are best expressed in mathematical language."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3R2YQYX7CVS92"
+                },
+                "Date": "on June 8, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Loved the book! The writing is excellent and humorous.  I never would have thought I would call a book on Quantum Field Theory an \"easy read\", but this one is.  Not only that, but at the same time I am seeing for the first time that physics does make sense.  It is amazing how QFT resolves all the paradoxes I had heard of. I lent the book to my girlfriend and she refuses to return it - that says something!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJ0SJFL7F9O9"
+                },
+                "Date": "on April 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1IRIKUU2M41CD"
+                },
+                "Date": "on May 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I am really enjoying this book. Quantum Physics and attendant theories are finally becoming clear for me. The humor not only entertains but helps me to grasp the wider context within which these theories arose. \"Fields of Color\" allows me to listen in on this conversation about physics, a conversation that has always eluded me before now."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVTVK58GNP09O"
+                },
+                "Date": "on September 1, 2011",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22YDM4CKAS13B"
+                },
+                "Date": "on April 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "This book purports to show how QFT is easy to understand and solves or avoids the counterintuitive problems of Quantum Mechanics. However the author seems to assume that we all know the physics of fields. it seems to me that over and over again, he presents a QM problem and then just asserts that QFT solves the problem."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2YIETLVY3SSTK"
+                },
+                "Date": "on March 22, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "An excellent presentation for anyone interested in understanding Quantum Theory- lets put the word \" field \" in there- Quantum Field Theory! The color scheme is outstanding as a way of explanation. Everyone interested in Quantum Field Theory should read this book! Thank you for suggesting it to me!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3DAJQ9MA5MITT"
+                },
+                "Date": "on February 21, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Gives a good concise history of major discoveries in physics, and takes an interesting approach to explain the forces of nature using a color code, and Quantum Field Theory. Opens up opportunities for innovation in the application of physics principles."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A5D0X7SYFMX6Q"
+                },
+                "Date": "on November 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "The color analogy is quite weak. The explanation (simplified) of why field theory escapes many of the traditional paradoxes is satisfying, although a lot has to be taken on faith if you are not a scientist/physicist."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32LC5GRJGOYKU"
+                },
+                "Date": "on December 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "good attempt to convey a complicated subject to laymen without the use of difficult equations, would like to have had a more detailed explanation of spin but overall very worthwhile reading"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1BEW7HW1L2HDW"
+                },
+                "Date": "on February 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Well describing basics of Quantum Field Theory for anyone, therefore book should always be updated to most recent discoveries. There is a gap of current definitions of space-time model."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A31VWZUH21ILM2"
+                },
+                "Date": "on November 18, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Delivered quickly.  The book is very interesting and comes from a somewhat different perspective, that is all forces and energy are properties of fields inherent to space.."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1QGO0675HS6YW"
+                },
+                "Date": "on August 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Clear comprehensive explanation of field theory as an alternate to particle theory."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29ZR4F8WM3A0P"
+                },
+                "Date": "on November 19, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This has kept my husband occupied for days.  So, I like it....he seems to as well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ1PF68AEL7IV"
+                },
+                "Date": "on February 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "He explains physics in an easy to understand format,"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OXZEXNAM7B3C"
+                },
+                "Date": "on April 22, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting book.  Hoping to finish soon."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3FSJJK3TD4TT1"
+                },
+                "Date": "on February 7, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NSJQWLSKCTAU"
+                },
+                "Date": "on March 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Incredible, best ever book on subject"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1X2NBACATDYK5"
+                },
+                "Date": "on May 18, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Very interesting, understandable"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1VYE85ORPGHVO"
+                },
+                "Date": "on March 17, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I enjoyed the book very much."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34ZSCJNVUSJT1"
+                },
+                "Date": "on March 5, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Working my way through it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6GZ1RJW1L8E6"
+                },
+                "Date": "on March 15, 2014",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D5QDNPWJH3WN"
+                },
+                "Date": "on May 10, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Super read on QFT."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3IJXBI8SK8OKE"
+                },
+                "Date": "on September 22, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Summary by Allen Magruder: This book argues that known phenomena can be described with Field (wave) theory, as opposed to Corpuscular (particle) theory, including Einstein's General Relativity  (Gravity), Maxwell's Equations (Electricity & Magnetism), the theories regarding the Strong & Weak Nuclear Forces and Quantum Field Theory.  Einstein searched in his remaining years for a single equation to do this hat trick without success.  This general solution involves, as I read it, a separate and distinct field or wave equation for each of the forces."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CYJPHOO208LJ"
+                },
+                "Date": "on March 16, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great!!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BW4FUNOZIF7I"
+                },
+                "Date": "on December 21, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good, convincing and clear explanations ....A must read if you like to  know more about the reality of the universe."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AVOGR9QIEMPEM"
+                },
+                "Date": "on January 5, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Good review (and historical) of all of the fundamental physics theories, and an interesting perspective on QFT"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TQCCCOBRKUBU"
+                },
+                "Date": "on January 11, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I find the book easy to understand & complete..."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25NH7HZ7INJ01"
+                },
+                "Date": "on April 19, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "No particles.  Only fields."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AUHU1REBTZ4DK"
+                },
+                "Date": "on May 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1V7NQB3U7KYGV"
+                },
+                "Date": "on July 26, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "Satisfactiry"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3OKKL2H7T04L0"
+                },
+                "Date": "on January 27, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "3",
+                "Text": "Field theory to some extent has taken a back seat in the study of \"EVERYTHING\" to the study of particles. We have learned to control particles and through the interaction with fields we learned to use fields."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1YSNXZNVPKASL"
+                },
+                "Date": "on November 14, 2013",
+                "Helpfulness": 0.25,
+                "StarRating": "3",
+                "Text": "The book got a little more technical than what I was prepared for. I enjoyed reading the biographical data. Too many equations."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NVWB6JT4TCMS"
+                },
+                "Date": "on January 14, 2015",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Excellent Item and Fast Shipping! Thanks!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ENFXT1Y4K3RN"
+                },
+                "Date": "on December 9, 2012",
+                "Helpfulness": 0.2,
+                "StarRating": "3",
+                "Text": "The author has a specific  preference with regard to subatomic theory ( quantum field theory) and does not present an even handed account of the accepted theories ( quantum mechanics)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CWDGEJZR7M8L"
+                },
+                "Date": "on October 28, 2013",
+                "Helpfulness": 0.1,
+                "StarRating": "1",
+                "Text": "the book fell apart with the first few pages read. i had about 80 pages in my hand like a deck of cards. the information in the pages was pretty informational but I think it was too general."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Fields-Color-theory-escaped-Einstein/product-reviews/0473179768/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "85"
+    },
+    "Salesrank": "#41,450",
+    "Timestamp": "2015-05-24 13:12:02.405676",
+    "itemurl": "http://www.amazon.com/Fields-Color-theory-escaped-Einstein/dp/0473179768"
+}

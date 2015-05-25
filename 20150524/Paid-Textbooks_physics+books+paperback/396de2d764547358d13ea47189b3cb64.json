@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Modern Physics: An Introductory Text"
+    ],
+    "OfferPrice": "$49.00",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O6YNCQS0YMYZ"
+                },
+                "Date": "on April 9, 2008",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2FE414FV8HHQL"
+                },
+                "Date": "on September 1, 2007",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "This book is not that available everywhere, may be for marketing reason. But this book is one of the best physics books I have read for an overview on the modern physics. It is so wonderfully arranged and compact that to find one thing you will not have to go through 5 chapters. Very coherent."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Modern-Physics-Introductory-Jeremy-Pfeffer/product-reviews/1860942504/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,117,666",
+    "Timestamp": "2015-05-24 13:49:28.919656",
+    "itemurl": "http://www.amazon.com/Modern-Physics-Introductory-Jeremy-Pfeffer/dp/1860942504"
+}

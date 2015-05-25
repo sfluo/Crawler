@@ -1,0 +1,81 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$24.50",
+    "Name": [
+        "Hydrogen: The Essential Element"
+    ],
+    "OfferPrice": "$22.24",
+    "Reviews": {
+        "AverageStarRating": "4.1 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1XXJ6I7K2I7SI"
+                },
+                "Date": "on September 8, 2002",
+                "Helpfulness": 0.8666666666666667,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2L1KC5CTPF9UD"
+                },
+                "Date": "on May 31, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TA3KV7T89V1N"
+                },
+                "Date": "on September 23, 2009",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AB10W5FUXWAJ"
+                },
+                "Date": "on October 18, 2002",
+                "Helpfulness": 0.631578947368421,
+                "StarRating": "3",
+                "Text": "The author takes us on a history of 20th century physics by focusing on the signal element of Hydrogen. He does a good job of providing enough technical detail to make it clear why certain discoveries are important without overwhelming you. His choice of focusing on Hydrogen does limit him a little as to what he looks at though. A fairly short book so worth the investment in time for me."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1AK1BNYAFXI6O"
+                },
+                "Date": "on April 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "still reading"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADGNUANFXB13Z"
+                },
+                "Date": "on August 27, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "An excellent description, not only of the Hydrogen atom, but the way that very simple structure informed scientists about more complex structures in the universe.  Very well written and not mathematically intense."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A44MMWG18H8QI"
+                },
+                "Date": "on December 2, 2012",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Hydrogen-Essential-John-S-Rigden/product-reviews/0674012526/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "7"
+    },
+    "Salesrank": "#751,117",
+    "Timestamp": "2015-05-24 15:31:48.163622",
+    "itemurl": "http://www.amazon.com/Hydrogen-Essential-John-S-Rigden/dp/0674012526"
+}

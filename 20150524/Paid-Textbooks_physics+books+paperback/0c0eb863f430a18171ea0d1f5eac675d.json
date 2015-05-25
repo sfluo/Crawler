@@ -1,0 +1,99 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$93.95",
+    "Name": [
+        "Statistical Physics, Third Edition, Part 1: Volume 5 (Course of Theoretical Physics, Volume 5)"
+    ],
+    "OfferPrice": "$65.44",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AI836NUC76O40"
+                },
+                "Date": "on May 5, 2001",
+                "Helpfulness": 0.9148936170212766,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.8064516129032258,
+                "StarRating": "5",
+                "Text": "This is the first volume of the Statistical Physics of Landau, Lifshitz. It's, of course, an extraordinary book, coming from these authors. The book starts with a chapter which defines entropy and derives its main properties. Then comes a masterly chapter on Thermodynamics where the criterion for equillibrium is that the entropy be maximum. The things they derive from that! Now and then I like to reread this chapter just for fun! After that statistical mechanics of equillibrium is constructed along the lines of Gibbs, starting from the microcanonical distribution, wherefrom the others are derived. Applications then start. Thermodynamical equillibrium in General Relativity is treated, as is gravitational collapse of stars. Chemical equillibrium is wonderfully done, being applied also for relativistic reactions among elementary particles, as neutrinos. There is no other book even close to this, as physics is concerned."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A282R7YSEKBKJ3"
+                },
+                "Date": "on July 25, 2010",
+                "Helpfulness": 0.875,
+                "StarRating": "2",
+                "Text": "This book covers a lot of material in a fairly straightforward order - but it's very dense and not a lot of helpful examples. Good for reference, but Pathria is probably better if you're going through grad level stat mech for the first time."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ABABZIT5EAW7"
+                },
+                "Date": "on July 23, 1998",
+                "Helpfulness": 0.72,
+                "StarRating": "5",
+                "Text": "This is the Volume 5 of the famous Course of Theoretical Physics by L. D. Landau and E. M. Lifshitz. All serious students of theoretical physics must possess the ten volumes of this excellent Course, which cover in detail and rigour practically all the branches of theoretical physics. The Volume 5 treats the subject of classical and quantum statistics. It contains an unusual approach of these subjects, based on the general Gibbs method, avoiding the introduction of ergodic hypotheses and, in the case of the ideal gas, of \"a priori\" probabilities, which are difficult to justify and serves only to obscure the exposition. The book is complete and contains chapters not usually found in other similar books, such as the chapter on second-order phase transitions. The clarity of exposition and rigour is notorious in this book. A magnific book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30LIGVRXCGKZK"
+                },
+                "Date": "on January 27, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1C1W0UW09UZKT"
+                },
+                "Date": "on November 30, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "thank you"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15XIDM79TOE5O"
+                },
+                "Date": "on August 24, 2001",
+                "Helpfulness": 0.5714285714285714,
+                "StarRating": "5",
+                "Text": "no words can describe the richness and clarity of this book.the description of Maxwell's distribution, Gibbs formalism,etc...all with marvelous clarity and rigour. Everyone who wants to learn statistical Mechanics (under and graduates) MUST  read this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2MPE0SB3BOVLI"
+                },
+                "Date": "on June 29, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Okay, it is really my son who wanted and loves this book. He absolutely swears by the Landau and Lifshitz (sp?) series."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYUCQT3DD9A9P"
+                },
+                "Date": "on December 22, 2009",
+                "Helpfulness": 0.2857142857142857,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Physics-Third-Part-Theoretical/product-reviews/0750633727/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "9"
+    },
+    "Salesrank": "#184,196",
+    "Timestamp": "2015-05-24 13:18:10.907745",
+    "itemurl": "http://www.amazon.com/Statistical-Physics-Third-Part-Theoretical/dp/0750633727"
+}

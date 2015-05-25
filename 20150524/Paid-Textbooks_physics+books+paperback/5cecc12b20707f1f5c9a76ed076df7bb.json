@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Elementary Theory of Angular Momentum (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.86",
+    "Reviews": {
+        "AverageStarRating": "3.7 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1F9O2Y7UNQW9W"
+                },
+                "Date": "on January 13, 2000",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": "This book is a good self-contained exposition of the theory of angular momentum for students at advanced undergraduate or early graduate level.  Covers many of the same areas as Brink and Satchler, but the explanations  and approach are different (less formal).  The two books complement each  other very well."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A336ZN1QAI86ER"
+                },
+                "Date": "on January 22, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": "This is not the book published by Wiley which I bought in the 1960's.  I have looked only at the section on the relativistic electron, which is peppered with errors, just as if Dover had somehow published the uncorrected proofs of Rose's manuscript and not the corrected proofs which appeared in the Wiley addition.  Printer errors are the curse of mathematical and scientific publishing and bring much grief to students and others who can't make the corrections.  This is likely to increase since some publishers, against their commercial interests, are reluctant to supply authors with a second proof after authors have corrected a butchered first proof."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOPYYX7ASQHB"
+                },
+                "Date": "on December 25, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Although this book is not a new edition, if you're a concerned researcher or a graduate student major in theoretical chemistry as well as in physics, this book deserves to be read. Concise but succinct approaches get you interested in quantum phenomina."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Theory-Angular-Momentum-Physics/product-reviews/0486684806/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#724,772",
+    "Timestamp": "2015-05-24 12:44:45.195923",
+    "itemurl": "http://www.amazon.com/Elementary-Theory-Angular-Momentum-Physics/dp/0486684806"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$89.99",
+    "Name": [
+        "Principles of Astrophysics: Using Gravity and Stellar Physics to Explore the Cosmos (Undergraduate Lecture Notes in Physics)"
+    ],
+    "OfferPrice": "$67.49",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3TSDBLH2RPSYM"
+                },
+                "Date": "on July 5, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Principles-Astrophysics-Gravity-Stellar-Undergraduate/product-reviews/1461492351/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#576,576",
+    "Timestamp": "2015-05-24 13:24:06.807943",
+    "itemurl": "http://www.amazon.com/Principles-Astrophysics-Gravity-Stellar-Undergraduate/dp/1461492351"
+}

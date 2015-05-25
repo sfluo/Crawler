@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Radiation and Health"
+    ],
+    "OfferPrice": "$83.95",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A276DV5X4ZKDDM"
+                },
+                "Date": "on February 11, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "A great read if one is looking to learn the basics on radiation.  It is simple to read and easy to follow.  We are using it for a textbook, which I would not recommend."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2N2I0WK4DWZ8E"
+                },
+                "Date": "on January 1, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This is an excellent book for someone with a science or engineering background who wants to see how basic principles apply to radiation and how the numbers can be crunched."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3ICHOXDCG9ACY"
+                },
+                "Date": "on December 18, 2010",
+                "Helpfulness": 0.0,
+                "StarRating": "1",
+                "Text": "I had high hopes for this book, expecting it to be a neutral textbook, but sadly the authors views shined through like a nuclear bomb. After just a few pages, all the talk of positive effects of nuclear energy and radiation made me ill... This book has nothing to do with medicine or health. This is, in my opinion, a highly political book. Pro-nuclear energy all the way. As a medical student hoping for a career in radiology as well as a Medical Peace Work student, I say stay away. I will be deleting this Kindle eBook in protest."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Radiation-Health-Thormod-Henriksen/product-reviews/0415271622/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#2,004,591",
+    "Timestamp": "2015-05-24 15:41:40.254027",
+    "itemurl": "http://www.amazon.com/Radiation-Health-Thormod-Henriksen/dp/0415271622"
+}

@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$81.95",
+    "Name": [
+        "Introduction to Dislocations, Fourth Edition"
+    ],
+    "OfferPrice": "$29.61",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34Y5JARAI7DNQ"
+                },
+                "Date": "on June 5, 2008",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "This is an excellent introductory text on dislocation theory. The author does a good job of outlining fundamental materials principles before jumping into defects. The diagrams and images used are top-notch -- if only one could capture such good examples in practice! The latter half of the text covers some information on other types of defects (tilt boundaries, stacking faults) as well as numerous characterization techniques. Recommended!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Dislocations-Goldsmiths-Professor-University/product-reviews/0750646810/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,570,572",
+    "Timestamp": "2015-05-24 15:29:22.395423",
+    "itemurl": "http://www.amazon.com/Introduction-Dislocations-Goldsmiths-Professor-University/dp/0750646810"
+}

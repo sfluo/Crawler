@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$30.00",
+    "Name": [
+        "Energy Levels in Atoms and Molecules (Oxford Chemistry Primers)"
+    ],
+    "OfferPrice": "$27.60",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A32UHX0YY53NP2"
+                },
+                "Date": "on December 26, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Energy-Levels-Molecules-Chemistry-Primers/product-reviews/019855804X/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,128,934",
+    "Timestamp": "2015-05-24 15:14:25.281918",
+    "itemurl": "http://www.amazon.com/Energy-Levels-Molecules-Chemistry-Primers/dp/019855804X"
+}

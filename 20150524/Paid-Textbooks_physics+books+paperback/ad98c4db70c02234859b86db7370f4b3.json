@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$11.95",
+    "Name": [
+        "Concepts of Mass in Classical and Modern Physics"
+    ],
+    "OfferPrice": "$11.81",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2EC1IG3LOB0NF"
+                },
+                "Date": "on January 6, 2001",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "very well written book on the concept of mass, which is one of the \"concept of\" series out of many. In one book the entire development of the mass concept is descibed in a narrative form except towards the end when the relativistic mass concept is explained. It starts with ancient thouts and end with Quantum Mechanical concept of the mass, relating each new concept with the previous as it isa developed. Although it is mostly narrative, in order to understand and enjoy the book and history of \"Mass\" some physics/mathematics background is necessary. I really enjoy this series."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZ7QLYE822F33"
+                },
+                "Date": "on September 15, 2005",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Concepts-Mass-Classical-Modern-Physics/product-reviews/0486299988/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#938,508",
+    "Timestamp": "2015-05-24 13:34:23.659990",
+    "itemurl": "http://www.amazon.com/Concepts-Mass-Classical-Modern-Physics/dp/0486299988"
+}

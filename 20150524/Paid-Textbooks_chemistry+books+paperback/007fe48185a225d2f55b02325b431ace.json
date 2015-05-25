@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$160.00",
+    "Name": [
+        "Density-Functional Theory of Atoms and Molecules (International Series of Monographs on Chemistry)"
+    ],
+    "OfferPrice": "$136.00",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on October 12, 1998",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Density functional theory has been used in solid state physics for many  decades. It has recently become popular in quantum chemistry. The authors  have made seminal contributions to the field and their insight is distilled  into this book. The focus of this book is on understanding the physics and  chemistry underlying density functional theory - it does not concern itself  with computatioonal details of the methodology or specific applications to  different systems. Parr and Yang's book has now become a classic in the  field, a must-buy for any student or researcher of density functional  theory in chemistry."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3VH3HUOSBQBNW"
+                },
+                "Date": "on January 27, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3CS99URK3MMLR"
+                },
+                "Date": "on July 1, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "2",
+                "Text": "I've never met anyone who was \"into\" DFT and did not like this book... except me.  I think it is the most over-rated book on ab initio theory out there.  I liked Szabo and Ostlund and Helgaker et al's books because they were detailed enough that you could not know Hartree-Fock or MP2, but after reading them, you could write a HF or MP2 program.  I didn't know DFT before I read this book and I still couldn't write a DFT program after reading it.  To me, the text seemed more philisophical than applicable, but considering the limited scope of this book, you would expect it to be more detailed than what it really is."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/product-reviews/0195092767/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,378,830",
+    "Timestamp": "2015-05-24 15:16:57.695690",
+    "itemurl": "http://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/dp/0195092767"
+}

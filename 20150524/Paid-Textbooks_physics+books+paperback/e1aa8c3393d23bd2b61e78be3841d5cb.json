@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Mathematical Physics: Applied Mathematics for Scientists and Engineers"
+    ],
+    "OfferPrice": "",
+    "Reviews": {
+        "AverageStarRating": "3.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1P8VRGS78R9SK"
+                },
+                "Date": "on September 11, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ABKBX08QBY9RH"
+                },
+                "Date": "on September 30, 2007",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This book is fantastic. It is a good introduction to many fundamental mathematical techniques used in physical sciences and engineering. The material is a must-know for all undergraduates in physical sciences and engineering. It's clear diagrams, step-by-step proofs, coupled with lecture-style explanations, make it easy for independent reading and understanding."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A27UE3G21RO9FW"
+                },
+                "Date": "on March 6, 2008",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "3",
+                "Text": "A fine book in terms of coverage but a few words of caution. If you are a person who might get confused by strange notation, then this book is definitely not for you. However, the book covers a wide variety of topics at a superficial level which is suitable for students learning mathematical physics for the first time. The discussion on the Green functions is very illuminating and the authors also spend a lot of time in Fourier/Laplace transforms. The exercises at the end of each chapter are also good for practice (another heads-up here, there are some places where the questions are either vague or do not make sense but the authors compensate with the errata list. Hope the book is updated by the next edition)"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2XD8PLP5I6J0D"
+                },
+                "Date": "on May 3, 2013",
+                "Helpfulness": 0.375,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Mathematical-Physics-Mathematics-Scientists-Engineers/product-reviews/3527406727/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#849,120",
+    "Timestamp": "2015-05-24 13:50:33.324191",
+    "itemurl": "http://www.amazon.com/Mathematical-Physics-Mathematics-Scientists-Engineers/dp/3527406727"
+}

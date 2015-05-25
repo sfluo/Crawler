@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$87.00",
+    "Name": [
+        "Laser Physics (Oxford Master Series in Atomic, Optical, and Laser Physics)"
+    ],
+    "OfferPrice": "$65.48",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ADB2FI0YGSEQT"
+                },
+                "Date": "on November 24, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "A good introduction to lasers physics. The reader should have a good familiarity with college level physics (including quantum mechanics) and math (calculus and differential equations). The book has a paltry coverage of laser cavities and the reader should consult a supplementary text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LZKWW6BNEIYK"
+                },
+                "Date": "on May 19, 2015",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "There were problem sets at the end of each chapter, but there were no solutions to the problems at the end of the book. Furthermore, almost all the problems they gave were abstract, nothing I could actually work through with a calculator. Not only did this level of abstraction made it hard to learn for me, I also gained no familiarity with what the actual values of the symbols were or should be. For a novice like myself, I would recommend Principles of Lasers By Orazio. It is much better if you are just starting out."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2T1B5RDGM1HN"
+                },
+                "Date": "on December 3, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "Overall, the text is clear, but surprisingly riddled with typos. There are certain instances where the notation could be more clearly described."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Oxford-Master-Atomic-Optical/product-reviews/0198506929/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#390,075",
+    "Timestamp": "2015-05-24 13:13:53.739704",
+    "itemurl": "http://www.amazon.com/Physics-Oxford-Master-Atomic-Optical/dp/0198506929"
+}

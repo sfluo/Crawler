@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$109.00",
+    "Name": [
+        "Chemistry from First Principles"
+    ],
+    "OfferPrice": "$90.89",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H789PMM0QL3J"
+                },
+                "Date": "on December 28, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Chemistry-First-Principles-Jan-Boeyens/product-reviews/9048179076/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#4,915,640",
+    "Timestamp": "2015-05-24 15:17:34.705098",
+    "itemurl": "http://www.amazon.com/Chemistry-First-Principles-Jan-Boeyens/dp/9048179076"
+}

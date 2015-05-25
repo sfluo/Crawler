@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$19.95",
+    "Name": [
+        "Dynamic Light Scattering: With Applications to Chemistry, Biology, and Physics (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$16.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7L0R1281COX"
+                },
+                "Date": "on May 7, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A35R69R69FC3Y6"
+                },
+                "Date": "on December 22, 2007",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "I find that Dover's books are simply excellent and this text is no exception.  The order of the material in the book is logical: starting with the basics of autocorrelation to how Maxwell's equations lead to intensity of scattered radiation.  Then, that crucial leap from the theory of scattering to how radiation is measured by different detectors is made and what they lead to in terms of correlation functions.  The book expands on the basics of ideal, non-interacting isotropic scatters to more complex situations.  Many references are provided.  Since DLS has applications in protein dynamics, I used this text as background."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1CRPPPA9401OD"
+                },
+                "Date": "on July 16, 2012",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "lots of theory, a few practical applications, and fewer instrumental details. this is a dover book, but apparently has had some corrections applied by the authors. this book arrived in the condition described."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Dynamic-Light-Scattering-Applications-Chemistry/product-reviews/0486411559/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#846,727",
+    "Timestamp": "2015-05-24 15:13:18.797151",
+    "itemurl": "http://www.amazon.com/Dynamic-Light-Scattering-Applications-Chemistry/dp/0486411559"
+}

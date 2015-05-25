@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Quantum Theory of the Solid State: An Introduction (Fundamental Theories of Physics)"
+    ],
+    "OfferPrice": "$179.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A293RN59L07EU1"
+                },
+                "Date": "on July 6, 2005",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Theory-Solid-State-Introduction/product-reviews/1402021534/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,180,561",
+    "Timestamp": "2015-05-24 15:35:11.046604",
+    "itemurl": "http://www.amazon.com/Quantum-Theory-Solid-State-Introduction/dp/1402021534"
+}

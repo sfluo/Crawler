@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "An Introduction to the Physics of Sports"
+    ],
+    "OfferPrice": "$11.80",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1A975KKRCK19G"
+                },
+                "Date": "on July 31, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Puts physics topics into perspective by relating to real life.  Normally, physics is a difficult subject but An Introduction to the Physics of Sports does a fine job for the non-science in all of us."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2E8E6QXCX5GCG"
+                },
+                "Date": "on March 17, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I find this book a great addition to the educational materials of a physics teacher. I will definitely be using it to teach my classes!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Physics-Vassilios-McInnes-Spathopoulos/product-reviews/1483930076/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#724,523",
+    "Timestamp": "2015-05-24 13:36:41.568582",
+    "itemurl": "http://www.amazon.com/Introduction-Physics-Vassilios-McInnes-Spathopoulos/dp/1483930076"
+}

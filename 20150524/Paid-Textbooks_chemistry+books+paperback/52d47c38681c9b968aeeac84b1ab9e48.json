@@ -1,0 +1,90 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$25.00",
+    "Name": [
+        "Schaum's Outline of Thermodynamics With Chemical Applications (Schaum's Outline Series)"
+    ],
+    "OfferPrice": "$18.49",
+    "Reviews": {
+        "AverageStarRating": "3.8 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AA6W1571ZZFKE"
+                },
+                "Date": "on September 16, 2006",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1NLI91FA9A3CG"
+                },
+                "Date": "on September 8, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37U5TRGO2F3LX"
+                },
+                "Date": "on October 2, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is great for supplemental problems. We use the Smith, Van Ness, Abbott for our course and, since this is by Van Ness and Abbott, it follows along well giving additional problems with solutions. Highly recommend all the Schaums Series for anyone needing quick reference guides."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29C34DR5SML0L"
+                },
+                "Date": "on November 1, 2014",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Outline exactly what I was expecting."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15RWAOCESNEQZ"
+                },
+                "Date": "on March 26, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Good seller!! Recomended."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1UMO57A3IQGT7"
+                },
+                "Date": "on May 14, 2015",
+                "Helpfulness": "",
+                "StarRating": "3",
+                "Text": "What I expected"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A28K2I1OGK94MU"
+                },
+                "Date": "on April 27, 2013",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "1",
+                "Text": "Frankly, I cannot understand what the purpose of this book really is. It's certainly not a book on general or theoretical thermodynamics. If it is a textbook designed to guide the undergraduate student to understand thermodynamics, it fails. It is just not detailed enough to make the subject clear to a student. The short discussion of the theory is just that: short. Do not be mislead that you will read a few pages and understand a subject which needed centuries to be developed and still is confusing to many scientists. The problems are just not enough for an undergraduate student who wants to be good in solving problems. I had bought this book when I was a student and openned it only a few times to study. The experience was frustrating. I haven't reffered to it for years and never again will. A far better book for the undergraduate is Cengel and Boles thermodynamics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on February 25, 2003",
+                "Helpfulness": 0.391304347826087,
+                "StarRating": "3",
+                "Text": "Unfortunately the authors are still using a sign convention for work which has been outdated for years. This can only confuse students."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Schaums-Outline-Thermodynamics-Chemical-Applications/product-reviews/0070000425/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "8"
+    },
+    "Salesrank": "#434,428",
+    "Timestamp": "2015-05-24 15:29:27.059833",
+    "itemurl": "http://www.amazon.com/Schaums-Outline-Thermodynamics-Chemical-Applications/dp/0070000425"
+}

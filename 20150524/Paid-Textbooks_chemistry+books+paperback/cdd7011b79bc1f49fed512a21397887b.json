@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$65.00",
+    "Name": [
+        "Quantum Many-particle Systems (Advanced Books Classics)"
+    ],
+    "OfferPrice": "$58.50",
+    "Reviews": {
+        "AverageStarRating": "4.5 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F7YCJCABSE"
+                },
+                "Date": "on September 11, 2002",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2IU6ICINYBZZP"
+                },
+                "Date": "on May 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "Good book. The only drawback is the bad printing quality, which is not as good as expected. Maybe due to old edition?"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A372GLOWAIKNUP"
+                },
+                "Date": "on June 7, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book is actually very good, however the printing is quite poor. Not sure if it is copyright or not."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on April 9, 2000",
+                "Helpfulness": 0.10526315789473684,
+                "StarRating": "4",
+                "Text": "A very good introduction to the many particle systems, includes all from the basics of coherent states to very complex parts of theory."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Quantum-Many-particle-Systems-Advanced-Classics/product-reviews/0738200522/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,282,068",
+    "Timestamp": "2015-05-24 15:31:12.783695",
+    "itemurl": "http://www.amazon.com/Quantum-Many-particle-Systems-Advanced-Classics/dp/0738200522"
+}

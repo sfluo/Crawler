@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$16.95",
+    "Name": [
+        "Elementary Nuclear Theory: Second Edition (Dover Books on Physics)"
+    ],
+    "OfferPrice": "$14.79",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AG35NEEFCMQVR"
+                },
+                "Date": "on July 4, 2006",
+                "Helpfulness": 0.8181818181818182,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12FKXJPT9S17X"
+                },
+                "Date": "on January 27, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "professor bethe was an extremely capable nuclear  scientist and the way he has explained the elementary theory is a subject of great interest as reall the book stands up for its name and all the required explanations are simple and lucid a must read for those in the subject"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A126KX6FVI4T66"
+                },
+                "Date": "on April 19, 2008",
+                "Helpfulness": 0.18181818181818182,
+                "StarRating": "3",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Elementary-Nuclear-Theory-Second-Physics/product-reviews/0486450481/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#676,388",
+    "Timestamp": "2015-05-24 12:27:12.598152",
+    "itemurl": "http://www.amazon.com/Elementary-Nuclear-Theory-Second-Physics/dp/0486450481"
+}

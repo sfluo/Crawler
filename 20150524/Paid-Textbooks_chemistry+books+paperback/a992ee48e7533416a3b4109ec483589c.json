@@ -1,0 +1,45 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$69.00",
+    "Name": [
+        "Introduction to Soft Matter: Synthetic and Biological Self-Assembling Materials"
+    ],
+    "OfferPrice": "$50.45",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A140LXTU2NYTWF"
+                },
+                "Date": "on May 21, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The book by Ian Hamley presents an excellent introduction to the physical chemistry of soft matter. A wide range of examples are given. It can be read by a complete novice in the area, to provide a bridge to more advanced research literature. It is much simpler than the book by Richard Jones, which could be read once the contents of Hamley's text have been properly digested (followed by the books of Lubensky or Kleman if the reader wants a strong background in theoretical soft matter physics)."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2SM259L1P1465"
+                },
+                "Date": "on December 28, 2013",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "I'm not exactly sure what to say, other than I was really disappointed by the overall presentation of material in this book. It wasn't absolutely terrible, but I am of the firm belief that someone could do a much better job presenting the material here. I bought the Kindle version and didn't like the way the text and figures were formatted together. I looked at a hard copy of the text and thought it was easier to go through than the kindle edition."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZFM8KOCUUZU"
+                },
+                "Date": "on November 17, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Introduction-Soft-Matter-Biological-Self-Assembling/product-reviews/0470516100/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "3"
+    },
+    "Salesrank": "#1,688,313",
+    "Timestamp": "2015-05-24 15:43:28.613518",
+    "itemurl": "http://www.amazon.com/Introduction-Soft-Matter-Biological-Self-Assembling/dp/0470516100"
+}

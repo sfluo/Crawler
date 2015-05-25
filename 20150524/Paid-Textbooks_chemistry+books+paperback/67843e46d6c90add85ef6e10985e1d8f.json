@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$58.00",
+    "Name": [
+        "Problems and Solutions to Accompany Molecular Thermodynamics"
+    ],
+    "OfferPrice": "$49.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1Y19UBVJ7AZS3"
+                },
+                "Date": "on October 4, 2012",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "Pchem solutions manual's nice for figuring out how to work those problems you get stuck on. If your at the point of using this book you probably don't care what I have to say about it. There's a few errors in the book but that has nothing to do with the seller. Have a fun semester or two for that matter."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AV5YYUM30GAIC"
+                },
+                "Date": "on March 26, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": "This solutions manual is excellent for showing and explaining examples.  It was worth every penny. I would recommend this book even for those in thermo using a different lecture book."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Problems-Solutions-Accompany-Molecular-Thermodynamics/product-reviews/1891389076/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#673,637",
+    "Timestamp": "2015-05-24 15:19:18.497618",
+    "itemurl": "http://www.amazon.com/Problems-Solutions-Accompany-Molecular-Thermodynamics/dp/1891389076"
+}

@@ -1,0 +1,36 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$51.95",
+    "Name": [
+        "Physics in Biology and Medicine, Third Edition (Complementary Science)"
+    ],
+    "OfferPrice": "$39.82",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6DRU9IDB43Q3"
+                },
+                "Date": "on February 20, 2011",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "The book cover a wide variety of useful topics of physics that are of interest to students of biology and, probably, medicine. The topics are well selected, and has enought deep as to explain to the student several phenomena found in the living matter. The lack of deepness and math allow an average biology student to work with him. If your are looking for a deep coverage, this is not your book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1SDBYDC510DWG"
+                },
+                "Date": "on December 24, 2013",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "I needed this book for an open-note, open-book course. The sections were clearly defined, and it was easy to read unlike most textbooks. If it's required for a course, this is one of those books that you might actually get something from reading because it is not super technical."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Biology-Medicine-Complementary-Science/product-reviews/0123694116/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "2"
+    },
+    "Salesrank": "#1,118,004",
+    "Timestamp": "2015-05-24 13:50:08.650644",
+    "itemurl": "http://www.amazon.com/Physics-Biology-Medicine-Complementary-Science/dp/0123694116"
+}

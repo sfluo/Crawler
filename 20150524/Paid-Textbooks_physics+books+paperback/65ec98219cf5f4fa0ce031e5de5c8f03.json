@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$29.95",
+    "Name": [
+        "Sundials: Design, Construction, and Use (Springer Praxis Books)"
+    ],
+    "OfferPrice": "$22.46",
+    "Reviews": {
+        "AverageStarRating": "4.6 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KC9BVVSS65PV"
+                },
+                "Date": "on April 1, 2009",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1PHQ4BRRNPTCU"
+                },
+                "Date": "on October 19, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3JOFRB5EZKHNI"
+                },
+                "Date": "on February 1, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A30WH4FEHI7F2I"
+                },
+                "Date": "on January 7, 2010",
+                "Helpfulness": 0.75,
+                "StarRating": "5",
+                "Text": "I found the complete information to make a sundial, easy language, drawings and explanation, excelent book for begginers and internediates on sundials. A basic book to have it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BMSLF6UPAQOE"
+                },
+                "Date": "on November 18, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "Very satisfied"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Sundials-Design-Construction-Springer-Praxis/product-reviews/0387098011/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#480,976",
+    "Timestamp": "2015-05-24 13:38:11.497737",
+    "itemurl": "http://www.amazon.com/Sundials-Design-Construction-Springer-Praxis/dp/0387098011"
+}

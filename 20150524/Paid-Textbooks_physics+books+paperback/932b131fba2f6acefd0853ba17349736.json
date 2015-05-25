@@ -1,0 +1,468 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Spacetime Physics"
+    ],
+    "OfferPrice": "$69.01",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A12UDTK3RE0O6L"
+                },
+                "Date": "on February 5, 2002",
+                "Helpfulness": 0.9696969696969697,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A896OA4Z9C95W"
+                },
+                "Date": "on April 2, 2000",
+                "Helpfulness": 0.925,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A17HMB0L2CFJDH"
+                },
+                "Date": "on February 1, 2001",
+                "Helpfulness": 0.918918918918919,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2LGDGOXJ0HS4H"
+                },
+                "Date": "on January 20, 2002",
+                "Helpfulness": 0.8979591836734694,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3D7XC7USJ9X7J"
+                },
+                "Date": "on July 19, 1998",
+                "Helpfulness": 0.9354838709677419,
+                "StarRating": "5",
+                "Text": "This is, by far, the best book on special relativity. I've lectured from its first edition, and will continue with the second. It is the only book I know which gives you a global picture of special relativity, both theory and methods for solving problems. What I liked most of it is the intense use of the very powerful graphical methods it develops right at the beginning. In this way you solve with two strokes of chalk a problem which would involve lots of algebra, and get a much better understanding of the whole thing. The concepts are introduced in a very careful, if elementary, way, through a deep analysis of simple experiments. The discovery of the correct relativistic form of the momentum, for instance, is particularly enlightening. It is a joy to see how much and how good physics can be done with almost no mathematics. The exercises are also splendid."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2A5SXYI9NOIRW"
+                },
+                "Date": "on June 16, 2006",
+                "Helpfulness": 0.9523809523809523,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AX2A8MCGW562W"
+                },
+                "Date": "on February 15, 2000",
+                "Helpfulness": 0.8809523809523809,
+                "StarRating": "4",
+                "Text": "As a student in the same physics class of those people who placed 1-star reviews, I feel obliged to defend this book a little bit.  Yes, it is sometimes not the most rigorous book on this planet.  Yes, it does  sometimes get a bit wordy.  For all these weaknesses however, I still found  it to be a very good introduction to relativity.  Unlike many books which  go the other way around, this book begins with the idea of an invariant  spacetime interval and goes from there into deriving the Lorentz equations.  It also does an excellent job of explaining many of the paradoxes which  seem to undermine relativity and how these problems have been handled.  These paradoxes formed the basis for many homework questions, some of which  I found to be as helpful for learning relativity as the chapters  themselves.  If you are looking for a strong thoretical introduction to  special relativity, this may not be the book for you.  If you're a  non-major who is just interested in the subject, I would recommend it, just  with the reservations I mentioned above on the rigor."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11R1Q4HOEK3DM"
+                },
+                "Date": "on December 9, 1999",
+                "Helpfulness": 0.8928571428571429,
+                "StarRating": "5",
+                "Text": "I have only the first edition, however, the fundamental concepts of invariance of the (space-time) interval and the curvature of spacetime defining gravitation are presented in an intuitive way (other comments  notwithstanding). This book, followed by Gravitation and Gravitation and  Inertia all co-authored by John Archibald Wheeler (Princeton Univ),  constitute a classic trilogy in gravitation, relativity, physics, and  methods of thinking. If you think this book is a baby book, pick up one of  the other two. If you think it's too hard you need to do some elemental  studying. If you think this book fails to make these concepts intuitive,  you haven't understood it. It is not intended for those who don't like to  reason nor for those who dislike math. Between this book and the other two  should lie several courses in calculus, ordinary and partial differential  equations, differential forms, and possibly a lower level differential  geometry course. As Feynman would say, \"this is how the world  works\"."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on September 20, 1996",
+                "Helpfulness": 0.9411764705882353,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZNOPLHUW9WT0"
+                },
+                "Date": "on June 9, 2001",
+                "Helpfulness": 0.875,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A29KOUMEOY9CBT"
+                },
+                "Date": "on July 17, 2005",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1KJO5VP4K3CHU"
+                },
+                "Date": "on July 6, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2JJF6OB4T1QBN"
+                },
+                "Date": "on February 27, 2001",
+                "Helpfulness": 0.8333333333333334,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A15EY2SZYADESX"
+                },
+                "Date": "on June 30, 2012",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "The author here does a fantastic job of helping the reader grasp the concept of relativity.  It is presented very clearly, and logically, in a way that any reader with a high-school-level knowledge of mathematics (a little geometry, and some pretty basic algebra) can fully appreciate.  In addition, it includes many problems, with answers worked out to the odd-numbered ones.  The problems themselves range from being somewhat trivial, but still interesting, to rather difficult at times.  Many examples of real-world experiments and applications are also dealt with."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AEWR12HGJP0Y2"
+                },
+                "Date": "on April 10, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2Z2JFJJZP3D7M"
+                },
+                "Date": "on December 23, 2010",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AJUGZQLYDQXAH"
+                },
+                "Date": "on March 3, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "Special Relativity (SR) is one of those subjects that require much thinking for maturating of ideas. I doubt even if many physicists really understand it. Of the many books written on this subject, Taylor and Wheeler's blink as a jewel. I believe it has many advantages over most of other books. It is extremely slow paced, but not to the point of being tiresome (the reason for this will be explained below). Most texts of SR start with a lenghty \"philosophical\" or historical discussion, then get to the maths of it, but in such a way that one has the impression that something is not fitting into the whole structure. The reason for this is, I believe, that SR is much needed in modern theoretical and experimental physics, but most of its intricate details can be left over. In other words, physicists need SR as a tool, but do not, as a general rule, need to think over it. Taylor and Wheeler's book is different. They know what is important, get directly to it (and this explains why, although being slow paced, is not tiresome), and fight the nuts and bolts of explaining in the most clear way up to date. You finish with the impression that you understood it. Good pedagogic machinery include questions and answers all over the book (some questions even somewhat silly, but who never thought about any of them before?), so you really feel that the writers are helping you and, most important, that they cared to write an understandable text. The book itself is appealing, appealing as most physics books are not, with a lot of pictures, boxes and quotes interspeded along the text. It is very pleasant reading, has every important information you need for SR as a working physicist (except the covariant formulation of electrodynamics, but this is not important as most of electrodynamical books treat this topic with all needed details, and the presentation of such a topic would find terrible difficulties for the organization of the text) and, most important, you will enjoy it and be able to read every page. One last note on the exercises. I thing nothing can be more educative for understanding SR than exercises like the ones you find there. They are not mathematically difficult, but as a general rule oblige you to think \"four-dimensionally\". They are the greatest fun of the book, and will make you really understand the meaning of SR. At this point, I must quote \"Wheeler's first moral principle\": \"Do not make a calculation until you know the answer\". This is the theme for all those exercises and, indeed, a moral principle that most physicists should follow - think about Feynman!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3SLLML7XWCLDN"
+                },
+                "Date": "on May 28, 2006",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ME8YPWLJ5WUJ"
+                },
+                "Date": "on October 29, 2004",
+                "Helpfulness": 0.7777777777777778,
+                "StarRating": "5",
+                "Text": "Students who wish to understand underlying CONCEPTS of relativity couldn't find a friendlier or more modern geometrical introduction than this book. It doesn't overwhelm and obscure the subject with too much mathematical abstraction. I very much enjoyed using this book in a class at MIT, taught by one of the authors (Taylor). Another good beginner's book is by Anthony French, although it is not in the \"geometric\" style. A totally non-mathematical, yet deeply enlightening book is \"Relativity Visualized\" bt Lewis Carrol Epstein... very highly recommended.  If one doesn't love physics, then none of these books will be enjoyed.  A higher level of mathematical exposition can be found in Schutz's book on General Relativity. Also, Schwarz & Schwarz's \"Special Relativity\" is a wonderful book which speeds fairly quickly into more advanced aspects of special relativity (and its mathematics), but this would not be a good book for first introduction for the typical student.  There are many others, but these are my favorites!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A6F7UR2G47I91"
+                },
+                "Date": "on March 8, 2004",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 7, 1998",
+                "Helpfulness": 0.8,
+                "StarRating": "5",
+                "Text": "This is a college text to teach special relativity at an introductory level.  It has been worked and reworked.  The topic is drilled and redrilled in an accessible and complete manner.  If you're frustrated by the flip summaries, and really want to understand topics like the twin paradox, this is the book!  The math is presented but is not the language of the book. The coverage includes ALL of the areas where special relativity applies, many in exercises and special \"boxes\".  You can go as far as you like.  You will never again wonder what special relativity means, or doubt the consequences of the theory!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on June 6, 1999",
+                "Helpfulness": 0.7272727272727273,
+                "StarRating": "5",
+                "Text": "This is a great book. Each page is filled with insight, even though this is an elementary book on the subject. It's the only elementary book in SR that I know of that makes the connection between special and general  relativity painless and easy to understand. It motivates perfectly when  general relativity comes into play, then steps back and covers the special  theory. If you have an interest in relativity, have a high school diploma  (say, before 1980, since it doesn't seem to mean as much now), can think  for yourself, this is the book to get."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZJJVLDZ16APP"
+                },
+                "Date": "on April 11, 2013",
+                "Helpfulness": 0.7,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A22Z70UZP7JBOQ"
+                },
+                "Date": "on October 23, 2012",
+                "Helpfulness": 0.75,
+                "StarRating": "4",
+                "Text": "This book was required for a 0.5 credit Special Relativity class. It's not your average take on Spec. Rel... It tries (and mostly succeeds) to give the reader a more intuitive feel for the nature of things and does so in a surprisingly entertaining fashion. If you're looking for a rigorous text with lots of equations, look elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2HTAZ98A4SITD"
+                },
+                "Date": "on March 20, 2008",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2KJT9E5YYQO4G"
+                },
+                "Date": "on November 10, 2010",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3F7X4D7D80MEK"
+                },
+                "Date": "on March 22, 1999",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "5",
+                "Text": "This is the book I always recommend to my undergraduate students as the best written as well as best based introduction to relativity. It is written with such a touch of simplicity and at the same time profound  professionalism that reader is subconsciously engrossed in the subject and  becomes an active participant of his/her, probably, first scientific quest.  I know this book from its first two editions, in fact, I have made its  Russian translations (its corresponding two editions in Russian many years  ago), and with each new original appearance its was substantially revised  and updated. It is a must to have this book for every beginner in (at  least) exact sciences."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AIL2WOS0J61K3"
+                },
+                "Date": "on November 18, 2005",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3M540P7JLPQ54"
+                },
+                "Date": "on December 26, 2004",
+                "Helpfulness": 0.625,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A39FOQ5M818TV5"
+                },
+                "Date": "on January 7, 2005",
+                "Helpfulness": 0.6,
+                "StarRating": "5",
+                "Text": "If you want easy to grasp concepts and math for Special Theory of Relativity this is the only book.  I have been out of college for 20 years (now a surgeon) and for some odd reason wanted to learn relativity again.  This is a great book...wish I had it in college. Spacetime Physics simplifies and elucidates concepts I never really grasped in college.  Just wish someone would write a book on General Theory in a simuliar vein."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A70FOX0NBI4UA"
+                },
+                "Date": "on October 1, 2004",
+                "Helpfulness": 0.6206896551724138,
+                "StarRating": "2",
+                "Text": "I don't understand why anyone would want to use this book to study SR. It is ridiculously long winded -wasting pages to describe a paradox in elaborate detail. You're probably thinking \"oh good, a physics book that's not dry\"... before you take the advice of a positive reviewer, check it out from the library and see what I mean. It is so convoluted with silly detail that it's almost unreadable. If you're a high school student interested in grasping a piece of SR then MAYBE this could be of use. If you're a physics student who wants to learn something at a reasonable pace, look elsewhere."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A25MO88VL6PHUV"
+                },
+                "Date": "on May 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Excellent basic review of modern physics."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A13KBHE7QJI9TD"
+                },
+                "Date": "on December 12, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Just as described, quick ship!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3WPSK2F76UO3"
+                },
+                "Date": "on April 24, 2005",
+                "Helpfulness": 0.5,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1RR40UH6RG1ZY"
+                },
+                "Date": "on June 27, 2007",
+                "Helpfulness": 0.3333333333333333,
+                "StarRating": "5",
+                "Text": "A must for everyone who really wants to penetrate the mysteries of Einstein's special relativity. In my opinion the principal merit of the  book is an special emphasis on the intuitive space-time concept with a very simplified mathematical presentation, all without lessening the subject. Few maths needed. Generously illustrated ! Many conceptual questions make one think hard. Also many problems with solutions( Odd numbers only ). One ends with a firm grasp on special relativity.  A very amazing book !!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3NCUQ24LF045N"
+                },
+                "Date": "on October 3, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "4",
+                "Text": "This book is very thought provoking, and also somewhat difficult. It requires a great deal of time to digest the contents, but worth it to help one understand the world."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GHOTOP683IDF"
+                },
+                "Date": "on April 25, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "My professor recommended this book for my modern physics course and it was quite helpful.  Great explanation of special relativity and easy to understand."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AYURKBEQ1EETG"
+                },
+                "Date": "on May 26, 1999",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "3",
+                "Text": "This book was required for my first-year physics course. I got the same information from two fifteen page packets handed out in the beginning of the course.  This text is good for a general audience, but the more serious readers should just head to Wald's text."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AZJ8E5TG8ZIRX"
+                },
+                "Date": "on July 8, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "If you want to know about special relativity, this is a good start. Thanks to Dr. Lagerstrom at Stanford for recommending it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2BDIGR5Q80XHG"
+                },
+                "Date": "on June 2, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I was looking for an introductory Special Relativity text as a precursor to further study.  The authors make up their own vocabulary, such as \"momenergy\", instead of introducing the student to the vocabulary actually used in the field.  I trust the work is theoretically sound, and it may even make the theory more accessible, but the presentation is a dead end."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3BKTXBVWN201L"
+                },
+                "Date": "on June 29, 2014",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "good"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1R2MG3V4FG131"
+                },
+                "Date": "on April 28, 2002",
+                "Helpfulness": 0.4117647058823529,
+                "StarRating": "3",
+                "Text": "I purchased this book in order to get a good introduction into relativity.I found it a bit dissaponting though as in my opinion the style and contents of the book do not match the intellectual abilities and achievements of its authors.I recommend borrowing the book first from a library before buying it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1HS7ND3QS9OEH"
+                },
+                "Date": "on February 2, 2000",
+                "Helpfulness": 0.4444444444444444,
+                "StarRating": "2",
+                "Text": "I had to read this book for the first part of Phys 1b, as did the other reader below.  It goes into more depth about the paradoxes, etc., than most books for the general audience, but the book is also dumbed down, includes  strange and confusing metaphors, and says in 10 or 20 pages what could have  been said in a paragraph. I have less Physics background than most other  people in my class, so some of the material was new and interesting, but  even so, the book was poorly written and rather condescending.  That damn,  smug b---d of a talking bird!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1ZKOPASQJ33GG"
+                },
+                "Date": "on June 29, 2013",
+                "Helpfulness": 0.0,
+                "StarRating": "2",
+                "Text": "I found the explanations a bit dry and really didn't discuss the things I expected it to discuss.  I'm pretty good with math and maybe I should have had a better physics background, but I expected it to read similar to a textbook but I think it assumed a higher physics background than I had."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1GC15PH0ZVNLJ"
+                },
+                "Date": "on January 20, 2014",
+                "Helpfulness": 0.2727272727272727,
+                "StarRating": "1",
+                "Text": "I rarely write any review for a book I read but this time I have to disagree on the good reviews I saw on this book. In spite of the nice cover page that looks promising on the content of the book, I would say that this is one of the relativity book where I am not able to understand if it is too basic level or if is too confusing even on the basic concepts."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A11O6XGV7G5PEU"
+                },
+                "Date": "on October 5, 2011",
+                "Helpfulness": 0.0,
+                "StarRating": "5",
+                "Text": "I received the text book in a timely manner. The book was in perfect condition in plastic shrink wrap. What more could I ask for, really. The book was cheaper for new on-line then it was at the bookstore."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2CBKLKDXPFI89"
+                },
+                "Date": "on November 17, 2004",
+                "Helpfulness": 0.3191489361702128,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AOL1B84RU8Z1F"
+                },
+                "Date": "on November 15, 1999",
+                "Helpfulness": 0.21052631578947367,
+                "StarRating": "2",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HDU6MCFKEATE"
+                },
+                "Date": "on January 18, 2001",
+                "Helpfulness": 0.06666666666666667,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HDU6MCFKEATE"
+                },
+                "Date": "on January 18, 2001",
+                "Helpfulness": 0.08888888888888889,
+                "StarRating": "1",
+                "Text": null
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Spacetime-Physics-Edwin-F-Taylor/product-reviews/0716723271/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "50"
+    },
+    "Salesrank": "#373,301",
+    "Timestamp": "2015-05-24 13:05:18.853492",
+    "itemurl": "http://www.amazon.com/Spacetime-Physics-Edwin-F-Taylor/dp/0716723271"
+}

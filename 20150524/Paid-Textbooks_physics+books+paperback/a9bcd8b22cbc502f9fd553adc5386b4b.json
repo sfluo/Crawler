@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "Our Living Multiverse: A Book of Genesis in 0+7 Chapters"
+    ],
+    "OfferPrice": "$3.99",
+    "Reviews": {
+        "AverageStarRating": "4.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3O1YQ965LHUC2"
+                },
+                "Date": "on January 1, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "It appears \"Our Living Multiverse\" is a reissue of \"Origins of Existence\". So far, I've been unable to locate where this is mentioned by the publisher. It's a shame such a great book was reissued under a new name without clearly so stating in its description."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2QEG0U6RK3FC2"
+                },
+                "Date": "on June 16, 2004",
+                "Helpfulness": 0.8888888888888888,
+                "StarRating": "3",
+                "Text": "While this is a good book, it is little more than a re-issue of the author's previous book \"The Origins of Existence\" (which I enjoyed). I find it disturbing and frankly insulting that the author and publisher do not make this fact more transparent to consumers. Why should readers have to pay twice for the same material? Also, I get a bit turned off by science books that attempt to make parallels (even superficially) with religious scripture, as they (sometimes unintentionally) perpetuate the false notion that science and religion are compatible. At any rate, I would recommend this book or the author's previous book for up-to-date views of contemporary cosmology and \"the big picture\". But readers beware: they are one and the same!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on January 23, 2004",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A34B8WKDR2O38T"
+                },
+                "Date": "on January 9, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "The book is a great summary of cosmology.  A math background is not required. I really enjoyed reading it. I recommend it for the general reader."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Our-Living-Multiverse-Genesis-Chapters/product-reviews/0131451332/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#1,678,514",
+    "Timestamp": "2015-05-24 13:42:08.130170",
+    "itemurl": "http://www.amazon.com/Our-Living-Multiverse-Genesis-Chapters/dp/0131451332"
+}

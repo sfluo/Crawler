@@ -1,0 +1,63 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$12.95",
+    "Name": [
+        "Doodle Yourself Smart...Physics (Doodle Books)"
+    ],
+    "OfferPrice": "$11.53",
+    "Reviews": {
+        "AverageStarRating": "3.4 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALXHP6M6CR07G"
+                },
+                "Date": "on June 20, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "1",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AF496XM8KO2YP"
+                },
+                "Date": "on August 29, 2014",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "You must have a working understanding of physics to do many of these problems.  I guess that is the idea.  I suppose I expected it to teach as it went but it does not.  If you know physics already you might enjoy this.  If not, you will need a physics reference book to complete these problems.  I really wanted to like this but ended up returning it.  I don't think it will be \"relaxing,\" for the high school student for whom I had intended it."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1FDM6QD3QR13Q"
+                },
+                "Date": "on January 21, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "4",
+                "Text": "I thought that this book would be good for an adult with knowledge of physics. It is best for someone in high school who is just learning physics. It is interesting and beats just doing random doodles."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ATAS3Z5CUXX5L"
+                },
+                "Date": "on January 16, 2013",
+                "Helpfulness": 0.6666666666666666,
+                "StarRating": "4",
+                "Text": "Having never taken a physics class, I was hoping to get started with this book. However, it is much more advanced than I thought it would be, so I'm having to watch YouTube videos to even get started. That's ok - I like a challenge."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A9FQCKLXUY1AN"
+                },
+                "Date": "on February 6, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "I have been pleasantly surprised to see the kids figuring out the puzzles and having so much fun doing it to."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Doodle-Yourself-Smart-Physics-Books/product-reviews/1607104393/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "5"
+    },
+    "Salesrank": "#747,327",
+    "Timestamp": "2015-05-24 12:43:06.416409",
+    "itemurl": "http://www.amazon.com/Doodle-Yourself-Smart-Physics-Books/dp/1607104393"
+}

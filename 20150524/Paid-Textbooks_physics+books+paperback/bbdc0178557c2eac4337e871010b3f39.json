@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$72.80",
+    "Name": [
+        "Practice Book for Conceptual Physical Science"
+    ],
+    "OfferPrice": "$62.00",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3EA189HID0VNF"
+                },
+                "Date": "on October 29, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "5",
+                "Text": "Book arrived in good condition and it was much cheaper than expected.  I needed this for my college class so had to buy."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/ALRHIF9M3Q1HX"
+                },
+                "Date": "on March 4, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Met my expectations and comes in very handy for me.  Hope it can be helpful to others as well too!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1H703SRHWU0AL"
+                },
+                "Date": "on September 26, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great book and very helpful."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AT74UYXQNSMSD"
+                },
+                "Date": "on September 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "Great!"
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Practice-Book-Conceptual-Physical-Science/product-reviews/0321776569/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#314,190",
+    "Timestamp": "2015-05-24 13:26:35.338308",
+    "itemurl": "http://www.amazon.com/Practice-Book-Conceptual-Physical-Science/dp/0321776569"
+}

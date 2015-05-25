@@ -1,0 +1,72 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$67.00",
+    "Name": [
+        "Statistical Physics, 2nd Edition"
+    ],
+    "OfferPrice": "$57.52",
+    "Reviews": {
+        "AverageStarRating": "4.2 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": ""
+                },
+                "Date": "on July 30, 1998",
+                "Helpfulness": 0.8947368421052632,
+                "StarRating": "5",
+                "Text": "Thermodynamics gives a phenomenological description of properties of matter that are dependent on temperature. Whereas Statistical Physics attempts to give a microscopic view point of properties of matterThere is no concept  of heat as such in the statistical approach . The two subjects though different in their approach complement each other. The crux of the difficulty is a begginner must try not imagine very much in a microscopic level when he learns thermodynamics. But when a student learns Statistical Physics he has to imagine in microscopic terms. There are usually two broad varieties of text books, Those which emphasize thermodynamics and leave statistical physics. But the worst case is books which start with a microscopic view.(e.g books by Pippard , Zemansky & Dittmanetc) These books fail to make a student appreciate the beauty and  mathematical completeness of classical thermodynamics.(e.g popular books by Rief  Kittel & Kromer,Baierlin). I have seen a ! few friends of mine who could manipulate details from partitiomn functions , but they don't understand even the first twolaws of thermodynamics. Here is where Mandl's book succeeds.It introduces both the subjects in such a meticulous way that you don't feel pertuturbed by the different views. The book is short and yet comprehensive.It covers few well known examples like paramagnetism , blackbody radiation in detail. The advanced portions are maked with asterisks or gray tint(this is typical of all books in the series. I would recommend this book instead of two sepeate courses on thermodynamics and Statistical Physics. Though the approach is not in chronological order it avoids much tautology of learning and unlearnig between the macroscpic and microscopic view.Yet another noteworthy aspect is a good treatment of open systems via the grand canonical ensemble in the last chapter.  The problems in this book are superb. There are a few confidence building problems and there are hi! nts , answers and even complete solutions for tougher probl! emsThis book is ideally suited for both class room and self study.."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3N3U9ZEPO0EIO"
+                },
+                "Date": "on March 13, 2002",
+                "Helpfulness": 0.85,
+                "StarRating": "5",
+                "Text": "This book is really one of the most interesting books I've ever read, and is my favorite book in physics. The writing style is clear, the figures and graphs well-done, and the book contains valuable exercises and partial solutions. As an undergraduate text it requires a basic background in diff. eq., classical mechanics, e&m; etc, but never gets too intimidating. In a graduate statmech class I found the background I received from Mandl carried me almost all the way through. What a great book!"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3L0SMNSANZA9A"
+                },
+                "Date": "on November 14, 2004",
+                "Helpfulness": 0.8461538461538461,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3A5G15FQO0F8H"
+                },
+                "Date": "on April 11, 2006",
+                "Helpfulness": 0.8571428571428571,
+                "StarRating": "5",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2M4LGYDUUQDHX"
+                },
+                "Date": "on January 16, 2007",
+                "Helpfulness": 0.7142857142857143,
+                "StarRating": "4",
+                "Text": null
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3J803EE67JVS2"
+                },
+                "Date": "on February 21, 2014",
+                "Helpfulness": "",
+                "StarRating": "2",
+                "Text": "I bought this over the winter break hoping to get a leap ahead for my stat mech class.  This book is almost worthless, it glazes over things in a 10,000 foot view that would bore anyone who wants to know more about stat mech and is without any meat for those looking to get a handle on the subject.  I found another book (thanks to Amazon reviewers) and I highly recommend both \"A Survival Guide to Statistical Mechanics\" by Glazer and Wark (get your thermo under control) followed by \"Statistical Physics and Particles\" (Kardar) coupled with Feynman's lectures on Stat Mech.  The solutions for Kardar are on the net which will aid a person's understanding greatly (the problems are almost impossible without it)."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Statistical-Physics-2nd-Franz-Mandl/product-reviews/0471915335/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "6"
+    },
+    "Salesrank": "#849,965",
+    "Timestamp": "2015-05-24 12:44:21.327595",
+    "itemurl": "http://www.amazon.com/Statistical-Physics-2nd-Franz-Mandl/dp/0471915335"
+}

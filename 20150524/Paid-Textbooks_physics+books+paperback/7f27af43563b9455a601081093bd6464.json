@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$90.95",
+    "Name": [
+        "The Physics of Solids"
+    ],
+    "OfferPrice": "$82.56",
+    "Reviews": {
+        "AverageStarRating": "3.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A2TNRTW79DMT68"
+                },
+                "Date": "on November 18, 2013",
+                "Helpfulness": 1.0,
+                "StarRating": "3",
+                "Text": "I assigned this book for my Materials Physics and Engineering class once, 2 1/2 years ago (basically solid state physics) and I found it wanting. There are numerous errors in the equations in the chapters on semiconductors and dielectrics and the level of discussion was too low for my class of mostly senior physics and materials science majors. I was told however by a junior physics major that she found it a good book from which to learn the concepts of materials before delving into the more rigorous text I had used last year. I have taught solid state physics using the books by Kittel, Hook and Hall, and Hofmann. The Kittel is too expensive for what you get but is the standard by which many others are judged. The book by Hook and Hall I think is more thorough and discusses many topics better than Kittel. Finally the book by Hofmann I would considered a steam-lined, yet still rigorous version of either the Kittel or Hook and Hall books. For my next class, I'll be recommending for those students who might need help with the concepts of solid state physics that they try to find an inexpensive used copy of the book by Turton as a supplement to my main text."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Physics-Solids-Richard-John-Turton/product-reviews/0198503520/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#1,695,015",
+    "Timestamp": "2015-05-24 13:49:53.055385",
+    "itemurl": "http://www.amazon.com/Physics-Solids-Richard-John-Turton/dp/0198503520"
+}

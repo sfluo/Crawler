@@ -1,0 +1,54 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "",
+    "Name": [
+        "ASE Transit Bus Technician Certification H4: Brake Systems"
+    ],
+    "OfferPrice": "$25.95",
+    "Reviews": {
+        "AverageStarRating": "3.3 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A3HZN9IOLKLNOC"
+                },
+                "Date": "on March 10, 2014",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is full of knowledge that gets straight to the point without all the unnecessary information. You can tell that the author is just trying to fill the pages so you won't question why your paying all that money for their books"
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A37V9O9A16G0HA"
+                },
+                "Date": "on March 9, 2015",
+                "Helpfulness": "",
+                "StarRating": "1",
+                "Text": "NOTHING in this book is relevant to the test. Waste of money. This book needs to be updated. Save your time and money. You stand a better chance if you just guess on the test, rather then study this book."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A1T89FJKLH12S7"
+                },
+                "Date": "on March 28, 2015",
+                "Helpfulness": "",
+                "StarRating": "4",
+                "Text": "It is every thing I expected."
+            },
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/AL7FI1K0TJFKC"
+                },
+                "Date": "on April 29, 2013",
+                "Helpfulness": 0.5,
+                "StarRating": "3",
+                "Text": "works ok, some information is incorrect. statements on practice tests do not apply to real life application and should be corrected."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/ASE-Transit-Bus-Technician-Certification/product-reviews/1418049980/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "4"
+    },
+    "Salesrank": "#495,947",
+    "Timestamp": "2015-05-24 15:17:21.634915",
+    "itemurl": "http://www.amazon.com/ASE-Transit-Bus-Technician-Certification/dp/1418049980"
+}

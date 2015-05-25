@@ -1,0 +1,27 @@
+{
+    "Category": "in Books (",
+    "ListPrice": "$113.95",
+    "Name": [
+        "Steam and Hot Water Primer"
+    ],
+    "OfferPrice": "$79.90",
+    "Reviews": {
+        "AverageStarRating": "5.0 out of 5 stars",
+        "ReviewList": [
+            {
+                "Author": {
+                    "ProfileUrl": "http://www.amazon.com/gp/pdp/profile/A14GHR8Q9I2F8U"
+                },
+                "Date": "on September 30, 2013",
+                "Helpfulness": "",
+                "StarRating": "5",
+                "Text": "This book is a great resource for engineers.  It serves as a good refresher for experienced engineers to fill in the gaps, and an approachable introduction for beginners."
+            }
+        ],
+        "ReviewUrl": "http://www.amazon.com/Steam-Water-Primer-Chris-Langley/product-reviews/1428360727/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=helpful",
+        "TotalReviewCount": "1"
+    },
+    "Salesrank": "#2,154,159",
+    "Timestamp": "2015-05-24 15:44:12.061209",
+    "itemurl": "http://www.amazon.com/Steam-Water-Primer-Chris-Langley/dp/1428360727"
+}
