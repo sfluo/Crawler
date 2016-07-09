@@ -9,11 +9,11 @@ import xml.etree.ElementTree as ET
 import re, os, sys
 import json
 
-AWSSecretKey="jD0xWPZjM3Osk8hKR+s8VqM+AZcTv1Ks5Xa/7lb1"
-AWSAccessKeyId="AKIAJPEO5ZOU336KUTLA"
+AWSSecretKey=""
+AWSAccessKeyId=""
 AWSMarketplaceId='ATVPDKIKX0DER'
 MWSAuthToken='amzn.mws.88aae548-3bb8-abe2-0da0-18cf099bca9c'
-AWSSellerId='AKMMW71WY8BJO'
+AWSSellerId=''
 AWSHost='mws.amazonservices.com'
 UserAgent='Guess-1.0/Research'
 AWSMaxProductPerRequest=5
